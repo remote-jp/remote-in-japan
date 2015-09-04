@@ -7,5 +7,6 @@ Work in Progress
 * [Sonic Garden](http://www.sonicgarden.jp/)
 * [Nota Inc](http://www.notainc.com/)
 * [MMM](http://mmmcorp.co.jp/)
+* [Increments](http://increments.co.jp/)
 
 Pull Request大歓迎です
