@@ -5,7 +5,7 @@ Work in Progress
 
 | 会社名  | 説明 |
 | ------------- | ------------- |
-| [Kaizen Platform](https://kaizenplatform.com/ja/aboutus.html)  |   |
+| [Kaizen Platform](https://kaizenplatform.com/ja/aboutus.html)  | ウェブサイト改善SaaS [Kaizen Platform](https://kaizenplatform.com) の開発運営。 |
 | [Sonic Garden](http://www.sonicgarden.jp/)  |  |
 | [Nota Inc.](http://www.notainc.com/) | スクリーンショット共有ツール [Gyazo](https://gyazo.com/) の開発。開発拠点は京都。完全リモート勤務可能。 |
 | [MMM](http://mmmcorp.co.jp/) | |
