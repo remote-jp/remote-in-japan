@@ -12,7 +12,7 @@ Work in Progress
 | [Increments](http://increments.co.jp/) | プログラマ向けWebサービス「[Qiita](http://qiita.com)」等の企画・開発・運営 |
 | [パシフィックポーター株式会社](http://pacificporter.jp/) | 美容室予約サイトの一元管理システム「[かんざし](https://kanzashi.com/)」の開発運営 |
 | [YassLab](http://yasslab.jp/) | [Railsチュートリアル](http://railstutorial.jp)/[Railsガイド](http://railsguides.jp)の運営、[継続的翻訳システム](https://speakerdeck.com/yasulab/railsgaidowozhi-eruji-shu-30fen-ban)の開発 |
-
+|[HeartRails Inc.](http://www.heartrails.com/)|新規事業に伴うウェブサービス・スマホアプリ専門の企画開発会社。社員全員がリモートワーク。|
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
