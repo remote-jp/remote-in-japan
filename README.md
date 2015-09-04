@@ -1,7 +1,7 @@
 # remote-in-japan
 Work in Progress
 
-リモートワークを採用している日本のテクノロジー企業
+リモートワークを採用している日本のテクノロジー企業のリスト
 
 * [Kaizen Platform](https://kaizenplatform.com/ja/aboutus.html)
 * [Sonic Garden](http://www.sonicgarden.jp/)
