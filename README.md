@@ -14,6 +14,7 @@ Work in Progress
 | [YassLab](http://yasslab.jp/) | [Railsチュートリアル](http://railstutorial.jp)/[Railsガイド](http://railsguides.jp)の運営、[継続的翻訳システム](https://speakerdeck.com/yasulab/railsgaidowozhi-eruji-shu-30fen-ban)の開発 |
 |[HeartRails Inc.](http://www.heartrails.com/)|新規事業に伴うウェブサービス・スマホアプリ専門の企画開発会社。社員全員がリモートワーク。|
 | [spice life](http://spicelife.jp/) | |
+| [co-meeting](http://www.co-meeting.co.jp/) |Crowy・掲示板サイトco-meeting・Salesforceのアプリ開発会社。リモート勤務・時間・曜日選択可能。|
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
