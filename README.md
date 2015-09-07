@@ -20,6 +20,7 @@
 | [Degica](https://www.degica.com/) | Ruby/Railsで決済・ECシステム開発。|
 | [PixelGrid Inc.](http://www.pxgrid.com) | JavaScriptを利用したWebサイト、Webアプリの制作事業と、フロントエンド情報配信サービス[CodeGrid](http://www.codegrid.net/)の開発・運営。 |
 |[Ubiregi Inc.](https://ubiregi.com/)|iPadを使ったPOSレジシステムの開発・運用。|
+|[ChatWork](http://www.chatwork.com/)|クラウド型ビジネスチャットツール「チャットワーク」の開発、運用|
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
