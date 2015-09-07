@@ -17,6 +17,7 @@
 | [永和システムマネジメント](http://www.esm.co.jp/) |Rubyを使ったアジャイルな受託開発。チャットサービス[idobata](https://idobata.io/ja/home)の開発・運営。|
 | [サイボウズ](http://cybozu.co.jp/) | チームワークを支援するグループウェアの開発・運営。選択型人事制度、ウルトラワークなど[多様なワークスタイル](http://cybozu.co.jp/company/workstyle/)を実現。 |
 | [Degica](https://www.degica.com/) | Ruby/Railsで決済・ECシステム開発。|
+| [PixelGrid Inc.](http://www.pxgrid.com) | JavaScriptを利用したWebサイト、Webアプリの制作事業と、フロントエンド情報配信サービス[CodeGrid](http://www.codegrid.net/)の開発・運営。 |
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
