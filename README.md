@@ -14,6 +14,7 @@
 | [spice life](http://spicelife.jp/) | |
 | [かなめい株式会社](http://kanamei.co.jp/) |ウェブアプリケーション企画・制作・運営、モバイル向けコンテンツ制作 |
 | [co-meeting](http://www.co-meeting.co.jp/) |Crowy・掲示板サイトco-meeting・Salesforceのアプリ開発会社。リモート勤務・時間・曜日選択可能。|
+| [永和システムマネジメント](http://www.esm.co.jp/) |Rubyを使ったアジャイルな受託開発。チャットサービス[idobata](https://idobata.io/ja/home)の開発・運営。|
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
