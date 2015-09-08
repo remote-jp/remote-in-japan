@@ -22,6 +22,7 @@
 | [Ubiregi Inc.](https://ubiregi.com/) | iPadを使ったPOSレジシステムの開発・運用。 | |
 | [ChatWork](http://www.chatwork.com/) | クラウド型ビジネスチャットツール「チャットワーク」の開発、運用 | |
 | [Somewrite](http://somewrite.com/) | オウンドメディア総合支援サービス＋ネイティブ広告ネットワークの開発・運営 | |
+| [BePROUD](http://www.beproud.jp/) | [connpass](http://connpass.com) の運営。Web受託開発。技術研修・コンサルティング | :ok_hand: |
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
