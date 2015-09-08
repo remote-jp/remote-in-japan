@@ -1,8 +1,9 @@
 # remote-in-japan
-
 リモートワークを採用している日本のテクノロジー企業のまとめ。
 
-See [here](README.en.md) for English.
+Technology companies that allow remote work in Japan.
+
+[See here for English.](README.en.md)
 
 | 会社名 | 説明 | フルリモート |
 | ------------- | ------------- | ------------- |
