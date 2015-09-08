@@ -5,12 +5,12 @@
 | ------------- | ------------- | ------------- |
 | [Kaizen Platform](https://kaizenplatform.com/ja/aboutus.html) | ウェブサイト改善SaaS [Kaizen Platform](https://kaizenplatform.com) の開発運営 | :ok_hand: |
 | [Sonic Garden](http://www.sonicgarden.jp/) | | |
-| [Nota Inc.](http://www.notainc.com/) | スクリーンショット共有ツール [Gyazo](https://gyazo.com/) の開発。開発拠点は京都。完全リモート勤務可能 | :ok_hand: |
-| [MMM](http://mmmcorp.co.jp/) | AWS設計・導入支援や、Webサービスの設計・開発などを行う開発会社。社員全員がリモートワーク。 | |
+| [Nota Inc.](http://www.notainc.com/) | スクリーンショット共有ツール [Gyazo](https://gyazo.com/) の開発。開発拠点は京都。 | :ok_hand: |
+| [MMM](http://mmmcorp.co.jp/) | AWS設計・導入支援や、Webサービスの設計・開発などを行う開発会社。社員全員がリモートワーク。 | :ok_hand: |
 | [Increments](http://increments.co.jp/) | プログラマ向けWebサービス「[Qiita](http://qiita.com)」等の企画・開発・運営 | |
 | [パシフィックポーター株式会社](http://pacificporter.jp/) | 美容室予約サイトの一元管理システム「[かんざし](https://kanzashi.com/)」の開発運営 | |
 | [YassLab](http://yasslab.jp/) | [Railsチュートリアル](http://railstutorial.jp)/[Railsガイド](http://railsguides.jp)の運営、[継続的翻訳システム](https://speakerdeck.com/yasulab/railsgaidowozhi-eruji-shu-30fen-ban)の開発 | |
-| [HeartRails Inc.](http://www.heartrails.com/) | 新規事業に伴うウェブサービス・スマホアプリ専門の企画開発会社。社員全員がリモートワーク。 | |
+| [HeartRails Inc.](http://www.heartrails.com/) | 新規事業に伴うウェブサービス・スマホアプリ専門の企画開発会社。社員全員がリモートワーク。 | :ok_hand: |
 | [spice life](http://spicelife.jp/) | ECを中心に事業を手がけるWebの会社。会社からの支援のもとで海外や地方で仕事ができる[リモートライフ制度](http://blog.spicelife.jp/entry/2015/03/16/190613)がある。 | |
 | [かなめい株式会社](http://kanamei.co.jp/) | ウェブアプリケーション企画・制作・運営、モバイル向けコンテンツ制作 | |
 | [co-meeting](http://www.co-meeting.co.jp/) | Crowy・掲示板サイトco-meeting・Salesforceのアプリ開発会社。リモート勤務・時間・曜日選択可能。 | |
