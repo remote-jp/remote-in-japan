@@ -28,6 +28,7 @@ Technology companies that allow remote work in Japan.
 | [Unicon](http://www.unicon-ltd.com/) | Developing [RockU Talk](https://play.google.com/store/apps/details?id=com.unicon_ltd.rockuapps.community&hl=ja) |  |
 | [アクトインディ株式会社](http://www.actindi.com/) | Developing [子どもとお出かけ情報サイト「いこーよ」](http://iko-yo.net/) | |
 | [Ahunrupar](http://www.ahunrupar.co/) | developing Web・iOS. Based in Hokkaido,Tokyo,Kanagawa,kagawa. we are trying Agriculture, Food and drink shop, and more. | :ok_hand: |
+| [Recruit Marketing Partners](http://www.recruit-mp.co.jp/) | Developing [Sapuri collection](http://www.recruit-mp.co.jp/service/sapuri.html) which are online learning services. | |
 
 ## Contributing
 Pull requests are absolutely welcome.

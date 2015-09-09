@@ -31,6 +31,7 @@ Technology companies that allow remote work in Japan.
 | [ietty](http://ietty.co.jp/) | 不動産サイト[ietty](https://ietty.me/)の開発・運営 | |
 | [アクトインディ株式会社](http://www.actindi.com/) | [子どもとお出かけ情報サイト「いこーよ」](http://iko-yo.net/) の開発・運営。 | |
 | [Ahunrupar](http://www.ahunrupar.co/) | Webアプリ・iOSアプリ開発。開発拠点は北海道、東京、神奈川、香川。農業や飲食など色々挑戦中。 | :ok_hand: |
+| [リクルートマーケティングパートナーズ](http://www.recruit-mp.co.jp/) | オンライン学習ブランド『[サプリコレクション](http://www.recruit-mp.co.jp/service/sapuri.html)』の各種サービス・アプリの開発・運営。 | |
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
