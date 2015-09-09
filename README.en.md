@@ -26,6 +26,7 @@ Technology companies that allow remote work in Japan.
 | [Somewrite](http://somewrite.com/) | Total support services and owned media and native commercial network development and administration. | |
 | [BePROUD](http://www.beproud.jp/) | Developing [connpass](http://connpass.com). Web Development and technical consulting. | :ok_hand: |
 | [Unicon](http://www.unicon-ltd.com/) | Developing [RockU Talk](https://play.google.com/store/apps/details?id=com.unicon_ltd.rockuapps.community&hl=ja) |  |
+| [アクトインディ株式会社](http://www.actindi.com/) | Developing [子どもとお出かけ情報サイト「いこーよ」](http://iko-yo.net/) | |
 
 ## Contributing
 Pull requests are absolutely welcome.
@@ -46,5 +47,3 @@ We took the liberty to define full remote as follows:
 
 * Workplace is flexible by definition.
   * Must allow remote work up to 2 days a week.
-
-  
