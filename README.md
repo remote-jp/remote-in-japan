@@ -29,6 +29,7 @@ Technology companies that allow remote work in Japan.
 | [BePROUD](http://www.beproud.jp/) | [connpass](http://connpass.com) の運営。Web受託開発。技術研修・コンサルティング | :ok_hand: |
 | [Unicon](http://www.unicon-ltd.com/) | [RockU Talk](https://play.google.com/store/apps/details?id=com.unicon_ltd.rockuapps.community&hl=ja)開発・運営 | |
 | [ietty](http://ietty.co.jp/) | 不動産サイト[ietty](https://ietty.me/)の開発・運営 | |
+| [アクトインディ株式会社](http://www.actindi.com/) | [子どもとお出かけ情報サイト「いこーよ」](http://iko-yo.net/) の開発・運営。 | |
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
