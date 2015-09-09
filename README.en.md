@@ -11,12 +11,12 @@ Technology companies that allow remote work in Japan.
 | [MMM](http://mmmcorp.co.jp/) | Design and Implementation support of AWS services, website design and development. | :ok_hand: |
 | [Increments](http://increments.co.jp/) | Website planning, development and management. For example, [Qiita](http://qiita.com) The website for programmers. | |
 | [パシフィックポーター株式会社](http://pacificporter.jp/) | Developing「[かんざし](https://kanzashi.com/)」, Reservation and Customer Manager System for Beauty Salon. | |
-| [YassLab](http://yasslab.jp/) | Management and development of [Railsチュートリアル](http://railstutorial.jp)/[Railsガイド](http://railsguides.jp), [継続的翻訳システム](https://speakerdeck.com/yasulab/railsgaidowozhi-eruji-shu-30fen-ban) | :ok_hand: |
+| [YassLab](http://yasslab.jp/) | Management and development of Japanese [Rails Tutorial](http://railstutorial.jp), [Rails Guides](http://railsguides.jp), and [Continuous Translation System](https://speakerdeck.com/yasulab/railsgaidowozhi-eruji-shu-30fen-ban) | :ok_hand: |
 | [HeartRails Inc.](http://www.heartrails.com/) | Planning and development of web services and smartphone apps for new business. | :ok_hand: |
 | [spice life](http://spicelife.jp/) | Web company with a focus on [EC](https://en.wikipedia.org/wiki/E-commerce). [Remote Life System](http://blog.spicelife.jp/entry/2015/03/16/190613) to support staff who work abroad or in the countryside. | |
 | [かなめい株式会社](http://kanamei.co.jp/) | Website planning, development and management. Mobile content focus. | |
 | [co-meeting](http://www.co-meeting.co.jp/) | Developing Crowy, BBS site co-meeting and Salesforse apps. Staff can choose how they work, timezone and day of the week. | |
-| [永和システムマネジメント](http://www.esm.co.jp/) | Agile entrusted development using Ruby. Development and management for chat service [idobata](https://idobata.io/ja/home).| |
+| [Eiwa System Management, Inc.](http://www.esm.co.jp/) | Agile entrusted development using Ruby. Development and management for chat service [idobata](https://idobata.io/ja/home).| |
 | [cybozu](http://cybozu.co.jp/) | Groupware and team support development and management. Variety of work styles, human resource selection, ultrawork, etc. | |
 | [Sansan](http://jp.corp-sansan.com/) | Developing「Sansan」「Eight」for business card management. Providing a satellite office「Sansan神山ラボ」 to support remote staff.| |
 | [Degica](https://www.degica.com/) | Ruby/Rails based account settlement and EC system development. | |
