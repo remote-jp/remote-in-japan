@@ -30,6 +30,7 @@ Technology companies that allow remote work in Japan.
 | [Ahunrupar](http://www.ahunrupar.co/) | developing Web・iOS. Based in Hokkaido,Tokyo,Kanagawa,kagawa. we are trying Agriculture, Food and drink shop, and more. | :ok_hand: |
 | [Recruit Marketing Partners](http://www.recruit-mp.co.jp/) | Developing [Sapuri collection](http://www.recruit-mp.co.jp/service/sapuri.html) which are online learning services. | |
 | [IMPATH Inc.](http://impath.co.jp/) |Designing/Improving UI, Developing Mobile/Web Apps and introducing UX design into companies| |
+| [WM & Creators, Inc.](https://wm-creators.com/) |Full-service web design/development, graphic design, and branding agency. Managing web media "[anywher](http://anywher.net)" for remote workers.|:ok_hand:|
 
 ## Contributing
 Pull requests are absolutely welcome.
