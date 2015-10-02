@@ -33,6 +33,7 @@ Technology companies that allow remote work in Japan.
 | [Ahunrupar](http://www.ahunrupar.co/) | Webアプリ・iOSアプリ開発。開発拠点は北海道、東京、神奈川、香川。農業や飲食など色々挑戦中。 | :ok_hand: |
 | [リクルートマーケティングパートナーズ](http://www.recruit-mp.co.jp/) | オンライン学習ブランド『[サプリコレクション](http://www.recruit-mp.co.jp/service/sapuri.html)』の各種サービス・アプリの開発・運営。 | |
 | [IMPATH Inc.](http://impath.co.jp/) |UXデザインを専門に、アプリの情報設計からUIデザイン、開発までを行う会社。 | |
+| [WM & Creators, Inc.](https://wm-creators.com/) |Web開発、DTPデザイン、ブランディングを行うベンチャー。フルリモートを実践しており、「リモートワーカーを応援するメディア[anywher](http://anywher.net)」を運営中。|:ok_hand: |
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
