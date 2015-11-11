@@ -6,7 +6,7 @@ Technology companies that allow remote work in Japan.
 | Company | Description | Full Remote? |
 | ------------- | ------------- | ------------- |
 | [Kaizen Platform](https://kaizenplatform.com/) | SaaS [Kaizen Platform](https://kaizenplatform.com) Development | :ok_hand: |
-| [Sonic Garden](http://www.sonicgarden.jp/) | | |
+| [Sonic Garden](http://www.sonicgarden.jp/) | Web Development and technical consulting. Developing「[SKIP](http://www.skip-sns.jp/)」|  :ok_hand: |
 | [Nota Inc.](http://www.notainc.com/) | Developing [Gyazo](https://gyazo.com/), screenshot sharing tool. Based in Kyoto. | :ok_hand: |
 | [MMM](http://mmmcorp.co.jp/) | Design and Implementation support of AWS services, website design and development. | :ok_hand: |
 | [Increments](http://increments.co.jp/) | Website planning, development and management. For example, [Qiita](http://qiita.com) The website for programmers. | |
