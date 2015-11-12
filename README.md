@@ -8,7 +8,7 @@ Technology companies that allow remote work in Japan.
 | 会社名 | 説明 | フルリモート |
 | ------------- | ------------- | ------------- |
 | [Kaizen Platform](https://kaizenplatform.com/ja/aboutus.html) | ウェブサイト改善SaaS [Kaizen Platform](https://kaizenplatform.com) の開発運営 | :ok_hand: |
-| [Sonic Garden](http://www.sonicgarden.jp/) | | |
+| [Sonic Garden](http://www.sonicgarden.jp/) | 「納品のない受託開発」を提供。社内SNS「[SKIP](http://www.skip-sns.jp/)」等自社サービスの開発・運用。| :ok_hand: |
 | [Nota Inc.](http://www.notainc.com/) | スクリーンショット共有ツール [Gyazo](https://gyazo.com/) の開発。開発拠点は京都。 | :ok_hand: |
 | [MMM](http://mmmcorp.co.jp/) | AWS設計・導入支援や、Webサービスの設計・開発などを行う開発会社。社員全員がリモートワーク。 | :ok_hand: |
 | [Increments](http://increments.co.jp/) | プログラマ向けWebサービス「[Qiita](http://qiita.com)」等の企画・開発・運営 | |
