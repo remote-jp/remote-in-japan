@@ -32,6 +32,7 @@ Technology companies that allow remote work in Japan.
 | [IMPATH Inc.](http://impath.co.jp/) |Designing/Improving UI, Developing Mobile/Web Apps and introducing UX design into companies| |
 | [WM & Creators, Inc.](https://wm-creators.com/) |Full-service web design/development, graphic design, and branding agency. Managing web media "[anywher](http://anywher.net)" for remote workers.|:ok_hand:|
 | [Actcat inc.](http://www.actcat.co.jp/) | Developing a Dedicated Code Review CI Platform [SideCI](https://www.sideci.com/) | |
+| [Ruffnote inc.](http://co.ruffnote.com/) | Developing a time Sharing Service for Remote workers [TimeCrowd](https://timecrowd.net/) |:ok_hand:|
 
 ## Contributing
 Pull requests are absolutely welcome.
