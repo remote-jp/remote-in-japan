@@ -34,6 +34,7 @@ Technology companies that allow remote work in Japan.
 | [Actcat inc.](http://www.actcat.co.jp/) | Developing a Dedicated Code Review CI Platform [SideCI](https://www.sideci.com/) | |
 | [Ruffnote inc.](http://co.ruffnote.com/) | Developing a time Sharing Service for Remote workers [TimeCrowd](https://timecrowd.net/) |:ok_hand:|
 | [Classmethod Inc.](http://classmethod.jp/) | Classmethod Inc.is an AWS cloud integrator. We focus on AWS-related consulting/development/operation/monitoring, big data, mobile applications and IoT solutions. We share our AWS and mobile knowledge & experience on our site [Developers.io](http://dev.classmethod.jp/) |:ok_hand:|
+| [SIKUMI Inc.](http://sikmi.com/) | Developing Mobile / Web Apps. |:ok_hand:|
 
 ## Contributing
 Pull requests are absolutely welcome.

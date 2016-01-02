@@ -37,6 +37,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社アクトキャット](http://www.actcat.co.jp/) | コードレビュー専用CIプラットフォーム [SideCI](https://www.sideci.com/ja) の開発運営 | |
 | [ラフノート株式会社](http://co.ruffnote.com/) | リモートワークで使える時間共有ツール [TimeCrowd](https://timecrowd.net/) の開発運営 |:ok_hand:|
 | [クラスメソッド株式会社](http://classmethod.jp/) | AWSに関するコンサルティング・設計・導入支援・運用監視から、AWSを使ったビッグデータ基盤構築・モバイルアプリ開発・IoTソリューション提供を展開する会社。[Developers.io](http://dev.classmethod.jp/) の運営 |:ok_hand:|
+| [しくみ製作所株式会社](http://sikmi.com/) | Web アプリ、iOS / Android アプリの受託開発が中心。社員全員がフルリモートワーク。 |:ok_hand:|
 
 
 ## Contributing
