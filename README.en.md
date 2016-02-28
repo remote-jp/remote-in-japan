@@ -9,7 +9,7 @@ Technology companies that allow remote work in Japan.
 | [Sonic Garden](http://www.sonicgarden.jp/) | Web Development and technical consulting. Developing「[SKIP](http://www.skip-sns.jp/)」|  :ok_hand: |
 | [Nota Inc.](http://www.notainc.com/) | Developing [Gyazo](https://gyazo.com/), screenshot sharing tool. Based in Kyoto. | :ok_hand: |
 | [MMM](http://mmmcorp.co.jp/) | Design and Implementation support of AWS services, website design and development. | :ok_hand: |
-| [Increments](http://increments.co.jp/) | Website planning, development and management. For example, [Qiita](http://qiita.com) The website for programmers. | |
+| [Increments](http://increments.co.jp/) | Website planning, development and management. For example, [Qiita](http://qiita.com) The website for programmers. | :ok_hand: |
 | [パシフィックポーター株式会社](http://pacificporter.jp/) | Developing「[かんざし](https://kanzashi.com/)」, Reservation and Customer Manager System for Beauty Salon. | |
 | [YassLab](http://yasslab.jp/en/) | Management and development of Japanese [Rails Tutorial](http://railstutorial.jp), [Rails Guides](http://railsguides.jp), and [Continuous Translation System](https://speakerdeck.com/yasulab/how-we-continuously-translate-railsguides) | :ok_hand: |
 | [HeartRails Inc.](http://www.heartrails.com/) | Planning and development of web services and smartphone apps for new business. | :ok_hand: |
