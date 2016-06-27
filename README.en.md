@@ -37,6 +37,7 @@ Technology companies that allow remote work in Japan.
 | [SIKUMI Inc.](http://sikmi.com/) | Developing Mobile / Web Apps. |:ok_hand:|
 | [Cosmoroot, Inc.](http://www.cosmoroot.co.jp/) | Developing "[LogiNebula](https://loginebula.com)" the Warehouse Management as a Service. We have over 100 customers in worldwide. ||
 | [KK Mobalab](http://www.mobalab.net/) | Website development for small businesses. Full-remote. |:ok_hand:|
+| [IzumoBASE, Inc.](https://www.izumobase.com/) | Developing Software-Defined Storage(SDS). Possible partial remote working. | |
 
 ## Contributing
 Pull requests are absolutely welcome.
