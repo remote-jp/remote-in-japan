@@ -39,6 +39,8 @@ Technology companies that allow remote work in Japan.
 | [クラスメソッド株式会社](http://classmethod.jp/) | AWSに関するコンサルティング・設計・導入支援・運用監視から、AWSを使ったビッグデータ基盤構築・モバイルアプリ開発・IoTソリューション提供を展開する会社。[Developers.io](http://dev.classmethod.jp/) の運営 |:ok_hand:|
 | [しくみ製作所株式会社](http://sikmi.com/) | Web アプリ、iOS / Android アプリの受託開発が中心。社員全員がフルリモートワーク。 |:ok_hand:|
 | [株式会社コスモルート](http://www.cosmoroot.co.jp/) | クラウド型倉庫管理システム「[LogiNebula](https://loginebula.com/) 」、業務アプリ向けPaaS「Nepula」の開発・運営。基幹/Web/組み込み/モバイルアプリの受託開発。||
+| [株式会社もばらぶ](http://www.mobalab.net/) | 小-中規模Web系システム・サービスの受託開発。社員全員がフルリモートワーク。 |:ok_hand:|
+| [IzumoBASE株式会社](https://www.izumobase.com/ja) | ストレージソフトウェア製品の開発・販売。一部在宅勤務も可能。 | |
 
 
 ## Contributing
