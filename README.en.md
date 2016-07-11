@@ -38,6 +38,7 @@ Technology companies that allow remote work in Japan.
 | [Cosmoroot, Inc.](http://www.cosmoroot.co.jp/) | Developing "[LogiNebula](https://loginebula.com)" the Warehouse Management as a Service. We have over 100 customers in worldwide. ||
 | [KK Mobalab](http://www.mobalab.net/) | Website development for small businesses. Full-remote. |:ok_hand:|
 | [IzumoBASE, Inc.](https://www.izumobase.com/) | Developing Software-Defined Storage(SDS). Possible partial remote working. | |
+| [Repro](https://repro.io) | Developing a marketing automation tool for mobile app | |
 
 ## Contributing
 Pull requests are absolutely welcome.
