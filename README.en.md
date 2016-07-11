@@ -35,7 +35,7 @@ Technology companies that allow remote work in Japan.
 | [Ruffnote inc.](http://co.ruffnote.com/) | Developing a time Sharing Service for Remote workers [TimeCrowd](https://timecrowd.net/) |:ok_hand:|
 | [Classmethod Inc.](http://classmethod.jp/) | Classmethod Inc.is an AWS cloud integrator. We focus on AWS-related consulting/development/operation/monitoring, big data, mobile applications and IoT solutions. We share our AWS and mobile knowledge & experience on our site [Developers.io](http://dev.classmethod.jp/) |:ok_hand:|
 | [SIKUMI Inc.](http://sikmi.com/) | Developing Mobile / Web Apps. |:ok_hand:|
-| [Cosmoroot, Inc.](http://www.cosmoroot.co.jp/) | Developing "[LogiNebula](https://loginebula.com)" the Warehouse Management as a Service. We have over 100 customers in worldwide. ||
+| [Nepula, Inc.](http://www.nepula.net/) | Developing "[LogiNebula](https://loginebula.com)" the Warehouse Management as a Service. We have over 100 customers in worldwide. |:ok_hand:|
 | [KK Mobalab](http://www.mobalab.net/) | Website development for small businesses. Full-remote. |:ok_hand:|
 | [IzumoBASE, Inc.](https://www.izumobase.com/) | Developing Software-Defined Storage(SDS). Possible partial remote working. | |
 | [Repro](https://repro.io) | Developing a marketing automation tool for mobile app | |
