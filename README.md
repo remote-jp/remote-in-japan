@@ -42,6 +42,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社もばらぶ](http://www.mobalab.net/) | 小-中規模Web系システム・サービスの受託開発。社員全員がフルリモートワーク。 |:ok_hand:|
 | [IzumoBASE株式会社](https://www.izumobase.com/ja) | ストレージソフトウェア製品の開発・販売。一部在宅勤務も可能。 | |
 | [Repro](https://repro.io) | アプリ向けマーケティング・オートメーションツール Repro を開発 | |
+| [Players1st](https://players1.st/) | 「スポーツの力で世の中をより良くする。」スポーツ選手のための課金可能なPR・活動報告サイトの開発運営。 |:ok_hand:|
 
 
 ## Contributing
