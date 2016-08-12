@@ -39,6 +39,7 @@ Technology companies that allow remote work in Japan.
 | [KK Mobalab](http://www.mobalab.net/) | Website development for small businesses. Full-remote. |:ok_hand:|
 | [IzumoBASE, Inc.](https://www.izumobase.com/) | Developing Software-Defined Storage(SDS). Possible partial remote working. | |
 | [Repro](https://repro.io) | Developing a marketing automation tool for mobile app | |
+| [Players1st](https://players1.st/e) | 「By power of sports, making the world a better place」Developing a sports web service, chargeable PR and reporting their activities. |:ok_hand:|
 
 ## Contributing
 Pull requests are absolutely welcome.
