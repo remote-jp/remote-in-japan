@@ -20,7 +20,7 @@ Technology companies that allow remote work in Japan.
 | [cybozu](http://cybozu.co.jp/) | Groupware and team support development and management. Variety of work styles, human resource selection, ultrawork, etc. | |
 | [Sansan](http://jp.corp-sansan.com/) | Developing「Sansan」「Eight」for business card management. Providing a satellite office「Sansan神山ラボ」 to support remote staff.| |
 | [Degica](https://www.degica.com/) | Ruby/Rails based account settlement and EC system development. | |
-| [PixelGrid Inc.](http://www.pxgrid.com) | Producing website and apps with JavaScript. Development and management of frontend infomation delivery service [CodeGrid](http://www.codegrid.net/) . | |
+| [PixelGrid Inc.](https://www.pxgrid.com) | Producing website and apps with JavaScript. Development and management of front-end information delivery service [CodeGrid](http://www.codegrid.net/) . | :ok_hand: |
 | [Ubiregi Inc.](https://ubiregi.com/) | Developing an iPad-based [POS](https://en.wikipedia.org/wiki/Point_of_sale) registration system. | |
 | [ChatWork](http://www.chatwork.com/) | Developing『チャットワーク』, a cloud tool for business chat. | |
 | [Somewrite](http://somewrite.com/) | Total support services and owned media and native commercial network development and administration. | |
