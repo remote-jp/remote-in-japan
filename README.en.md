@@ -40,6 +40,7 @@ Technology companies that allow remote work in Japan.
 | [IzumoBASE, Inc.](https://www.izumobase.com/) | Developing Software-Defined Storage(SDS). Possible partial remote working. | |
 | [Repro](https://repro.io) | Developing a marketing automation tool for mobile app | |
 | [Players1st](https://players1.st/) | 「By power of sports, making the world a better place」Developing a sports web service, chargeable PR and reporting their activities. |:ok_hand:|
+| [codeTakt](http://codetakt.com/en/) | Developing and providing a learning management system "[schoolTakt](http://schooltakt.com/en/)". Members from Tokyo area, Osaka, Okinawa, Berlin and etc. work remotely. |:ok_hand:|
 
 ## Contributing
 Pull requests are absolutely welcome.
