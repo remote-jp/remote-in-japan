@@ -44,6 +44,7 @@ Technology companies that allow remote work in Japan.
 | [Repro](https://repro.io) | アプリ向けマーケティング・オートメーションツール Repro を開発 | |
 | [Players1st](https://players1.st/) | 「スポーツの力で世の中をより良くする。」スポーツ選手のための課金可能なPR・活動報告サイトの開発運営。 |:ok_hand:|
 | [codeTakt](http://codetakt.com/) | 学習管理システム「[schoolTakt](http://schooltakt.com/)」を運営する EdTech  スタートアップ。東京近郊・大阪・沖縄・ベルリン等各地のメンバーがフルリモートで参加。 |:ok_hand:|
+| [株式会社ポップインサイト](https://popinsight.jp/) | 1分で始められるリモートユーザテスト「[Usertest Express](https://usertesting.jp/express)」等各種ユーザリサーチツールの開発・運営。正社員の居住地は北海道・広島・栃木や海外（中国）など多様。 |:ok_hand:|
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
