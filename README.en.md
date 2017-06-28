@@ -42,6 +42,7 @@ Technology companies that allow remote work in Japan.
 | [Players1st](https://players1.st/) | 「By power of sports, making the world a better place」Developing a sports web service, chargeable PR and reporting their activities. |:ok_hand:|
 | [codeTakt](http://codetakt.com/en/) | Developing and providing a learning management system "[schoolTakt](http://schooltakt.com/en/)". Members from Tokyo area, Osaka, Okinawa, Berlin and etc. work remotely. |:ok_hand:|
 | [Popinsight, Inc.](https://popinsight.jp/) | Developing [Usertest Express](https://usertesting.jp/express) and other remote UI/UX testing solutions. Members work remotely from Tokyo, Sapporo, Hiroshima, Shanghai, and more! |:ok_hand:|
+| [Aqutras.inc](http://www.aqutras.com/) | Our company mainly engaged in entrusted development of web systems and games. BeeCon is one of our product for security learning. It's not only remote working but also work hours or holidays are almost free. A small group of elite. | :ok_hand: |
 
 ## Contributing
 Pull requests are absolutely welcome.
