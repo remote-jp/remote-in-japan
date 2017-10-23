@@ -24,7 +24,7 @@ Technology companies that allow remote work in Japan.
 | [Ubiregi Inc.](https://ubiregi.com/) | Developing an iPad-based [POS](https://en.wikipedia.org/wiki/Point_of_sale) registration system. | |
 | [ChatWork](http://www.chatwork.com/) | Developing『チャットワーク』, a cloud tool for business chat. | |
 | [Somewrite](http://somewrite.com/) | Total support services and owned media and native commercial network development and administration. | |
-| [BePROUD](http://www.beproud.jp/) | Developing [connpass](http://connpass.com). Web Development and technical consulting. | :ok_hand: |
+| [BePROUD](http://www.beproud.jp/) | Develops [connpass](http://connpass.com) & [PyQ](http://pyq.jp). Web Development and technical consulting. [English Careers Page](http://www.beproud.jp/careers/en/) | :ok_hand: |
 | [Unicon](http://www.unicon-ltd.com/) | Developing [RockU Talk](https://play.google.com/store/apps/details?id=com.unicon_ltd.rockuapps.community&hl=ja) |  |
 | [アクトインディ株式会社](http://www.actindi.com/) | Developing [子どもとお出かけ情報サイト「いこーよ」](http://iko-yo.net/) | |
 | [Ahunrupar](http://www.ahunrupar.co/) | developing Web・iOS. Based in Hokkaido,Tokyo,Kanagawa,kagawa. we are trying Agriculture, Food and drink shop, and more. | :ok_hand: |
