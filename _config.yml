@@ -17,3 +17,9 @@ github_username:  gustavoquinalha
 # Build settings
 markdown: kramdown
 permalink: /:title/
+gems: [jekyll-paginate]
+paginate: 5
+
+# Plugins
+plugins_dir:
+  - jekyll-admin

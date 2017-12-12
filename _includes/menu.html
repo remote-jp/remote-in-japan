@@ -1,0 +1,19 @@
+<div class="menu">
+  <div class="size margin menu--content container align-items-center justify-content-between">
+<div class="">
+  <a href="{{ site.baseurl }}/"><span>Jekyll |</span> {{ site.title }}</a>
+
+</div>
+    <nav class="masthead-nav">
+      {% for page in site.pages %}
+
+      {% if page.title %}
+      <a href="{{ page.url | prepend: site.baseurl }}">
+        {{ page.title }}
+      </a>
+      {% endif %}
+
+      {% endfor %}
+    </nav>
+  </div>
+</div>

@@ -1,0 +1,20 @@
+.footer {
+  min-height: 200px;
+  background: #1a191b;
+
+  .footer--block {
+    a {
+      color: #fff;
+
+      span {
+        font-weight: bold;
+      }
+    }
+
+    .by {
+      a {
+        color: #515151;
+      }
+    }
+  }
+}

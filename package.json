@@ -1,0 +1,20 @@
+{
+  "name": "jekyll-help-center-theme",
+  "version": "1.0.0",
+  "description": "- https://help.market.envato.com/hc/en-us - https://www.intercom.com/ - https://help.wedeploy.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bundle exec jekyll serve --livereload --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoquinalha/jekyll-help-center-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavoquinalha/jekyll-help-center-theme/issues"
+  },
+  "homepage": "https://github.com/gustavoquinalha/jekyll-help-center-theme#readme"
+}

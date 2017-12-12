@@ -1,12 +1,20 @@
-<header class="masthead">
-  <h1 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.title }}<span>&#39;s blog</span></a>
-  </h1>
-  <nav class="masthead-nav">
-    {% for page in site.pages %}
-      {% if  page.title %}
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      {% endif %}
-    {% endfor %}
-  </nav>
+<header>
+
+<div class="header container align-items-center justify-content-center">
+  <div class="header--block size margin container column">
+    <div class="header--block--text">
+      Advice and answers from the WeDeploy Team
+    </div>
+
+    <div class="header--block--input">
+      <div class="header--block--input--icon">
+        <img src="{{ site.baseurl }}/assets/img/icons/search-input.svg" width="30" alt="">
+      </div>
+      <input class="input-search" type="text" name="" value="" placeholder="Search for answers...">
+    </div>
+
+  </div>
+</div>
+
+
 </header>

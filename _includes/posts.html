@@ -1,0 +1,43 @@
+<div class="">
+  {% if site.posts.size == 0 %}
+    <h2>No post found</h2>
+  {% else %}
+
+    {% for post in site.posts %}
+
+      <div class="list-item container ">
+
+        <div class="list-item-img container align-items-center justify-content-center">
+          <img src="{{ site.baseurl }}/assets/img/icons/{{post.icon}}.svg" width="40" alt="">
+        </div>
+
+      <div class="flex-grow-1">
+        <div class="">
+          <h2 class="list-post-title">
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          </h2>
+        </div>
+
+        <div class="">
+          <span class="list-post-description">
+          {{ post.description }}
+          </span>
+        </div>
+
+        <div class="list-post-written">
+          <small>
+            Written by <span>{{ post.by }}</span>
+             -
+          </small>
+
+          <small>
+            <time>{{ post.date | date_to_string }}</time>
+          </small>
+        </div>
+      </div>
+
+      </div>
+
+    {% endfor %}
+  {% endif %}
+</div>
