@@ -32,11 +32,6 @@ a {
   color: #1a191b;
   text-decoration: none;
   transition: .3s;
-
-  &:focus,
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
 h1,
@@ -158,5 +153,5 @@ img {
 
 .min-height {
   min-height: calc(100vh - 80px - 200px);
-  padding-top: 50px;
+  padding-top: 20px;
 }

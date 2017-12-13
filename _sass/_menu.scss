@@ -1,0 +1,36 @@
+
+.menu {
+  background: $colortheme;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  overflow: hidden;
+}
+
+.menu--content {
+  height: 80px;
+}
+
+.menu a {
+  color: #fff;
+}
+
+.menu a span {
+  font-weight: bold;
+}
+.back-to-site {
+  font-size: 14px;
+    @media screen and (max-width: 480px) {
+      img {
+        width: 22px
+      }
+    }
+    .back-to-site-text {
+      margin-left: 5px;
+      transition: .3s;
+      @media screen and (max-width: 480px) {
+        display: none
+      }
+    }
+}

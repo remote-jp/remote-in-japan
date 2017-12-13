@@ -6,13 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Help Center
+title: "Help Center"
 email: gusquinalha@gmail.com
 description: "Jekyll Help Center theme."
 baseurl: "/jekyll-help-center-theme"
-url: "http://quinalham.me/jekyll-help-center-theme"
-twitter_username: gustavoquinalha
-github_username:  gustavoquinalha
+url: "http://quinalha.me/jekyll-help-center-theme"
+twitter_username: "gustavoquinalha"
+github_username:  "gustavoquinalha"
+color_theme:  "#00d46a"
+color_text:  "#fff"
 
 # Build settings
 markdown: kramdown

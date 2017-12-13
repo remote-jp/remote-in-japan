@@ -1,19 +1,29 @@
 <div class="menu">
   <div class="size margin menu--content container align-items-center justify-content-between">
-<div class="">
-  <a href="{{ site.baseurl }}/"><span>Jekyll |</span> {{ site.title }}</a>
 
-</div>
-    <nav class="masthead-nav">
+    <div class="" data-aos="fade-right" data-aos-delay="" data-aos-offset="0">
+      <a href="{{ site.baseurl }}/"><span>Jekyll |</span> {{ site.title }}</a>
+    </div>
+
+    <a href="https://github.com/gustavoquinalha/jekyll-help-center-theme"  data-aos="fade-left" data-aos-delay="" data-aos-offset="0">
+      <div class="container align-items-baseline back-to-site">
+        <div class="">
+          <span class="feather-icon icon-external-link"></span>
+        </div>
+        <div class="back-to-site-text">
+          Back to website
+        </div>
+      </div>
+    </a>
+
+    <!-- <nav class="masthead-nav">
       {% for page in site.pages %}
-
       {% if page.title %}
       <a href="{{ page.url | prepend: site.baseurl }}">
         {{ page.title }}
       </a>
       {% endif %}
-
       {% endfor %}
-    </nav>
+    </nav> -->
   </div>
 </div>

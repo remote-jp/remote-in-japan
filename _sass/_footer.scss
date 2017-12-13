@@ -1,0 +1,21 @@
+.footer {
+  min-height: 200px;
+  background: #ECECEC;
+  overflow: hidden;
+
+  .footer--block {
+    a {
+      color: $colortheme;
+
+      span {
+        font-weight: bold;
+      }
+    }
+
+    .by {
+      a {
+        color: #515151;
+      }
+    }
+  }
+}
