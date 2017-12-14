@@ -4,6 +4,13 @@ Simple and flexible Jekyll theme for help center.
 # Demo
 [Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
 
+# Color theme
+edit in _config.yml
+```json
+color_theme:  "#0081ff"
+color_text:  "#fff"
+```
+
 # How to use
 ```
 npm run dev
