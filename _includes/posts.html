@@ -1,10 +1,12 @@
 <div class="">
   {% if site.posts.size == 0 %}
-  <h2>No post found</h2> {% else %} {% for post in site.posts %}
+  <h2>No post found</h2>
+  {% else %}
 
+  {% for post in site.posts %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="list-item container" data-aos="fade-up" data-aos-offset="0" data-aos-delay="100">
 
-    <div class="list-item-icon container align-items-center justify-content-center" >
+    <div class="list-item-icon container align-items-center justify-content-center">
       <span class="feather-icon icon-{{post.icon}}" data-aos="fade-right" data-aos-offset="0" data-aos-delay="500"></span>
     </div>
 

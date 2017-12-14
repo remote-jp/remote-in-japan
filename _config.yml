@@ -8,7 +8,7 @@
 # Site settings
 title: "Help Center"
 email: gusquinalha@gmail.com
-description: "Jekyll Help Center theme."
+description: "Simple and flexible Jekyll theme for help center."
 baseurl: "/jekyll-help-center-theme"
 url: "http://quinalha.me"
 twitter_username: "gustavoquinalha"
