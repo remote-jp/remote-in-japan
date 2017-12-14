@@ -55,14 +55,23 @@
 .list-item-2 {
   box-shadow: 0 3px 8px 0 rgba(0,0,0,0.03);
   border: 1px solid #C1C1C1;
-  padding: 20px;
+  padding: 40px;
   box-sizing: border-box;
   transition: .3s;
   margin-bottom: 10px;
+  overflow: hidden;
   &:hover {
     border-color: $colortheme;
     .list-post-title {
       color: $colortheme;
     }
   }
+
+  .list-item-2-img {
+    margin-right: 20px;
+      @media screen and (max-width: 839px) {
+        margin-right: 0;
+        margin-top: 20px;
+      }
+   }
 }

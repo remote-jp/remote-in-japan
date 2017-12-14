@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gustavoquinalha/jekyll-help-center-theme/issues"
   },
-  "homepage": "https://github.com/gustavoquinalha/jekyll-help-center-theme#readme"
+  "homepage": "https://github.com/gustavoquinalha/jekyll-help-center-theme#readme",
+  "dependencies": {
+    "simple-jekyll-search": "^1.5.0"
+  }
 }

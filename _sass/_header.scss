@@ -4,10 +4,9 @@
 
 .header {
   min-height: 200px;
-  background: url('../assets/img/pattern.svg'), rgba($colortheme, .9);
-  background-size: 210px;
+  background: url('../assets/img/pattern2.svg'), rgba($colortheme, .9);
+  background-size: 310px;
   width: 100%;
-  overflow: hidden;
 
   .header--block {
     color: $colortext;
@@ -58,4 +57,36 @@
       }
     }
   }
+}
+
+.position-search {
+  position: relative;
+}
+
+.header--block--result {
+  width: 100%;
+  background: #fff;
+  z-index: 9;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  border-radius: 4px;
+    ul {
+      list-style: none;
+      li {
+        border-bottom: 1px solid #ddd;
+        border-left: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        padding: 10px;
+        box-sizing: border-box;
+        &:first-child {
+          border-top: 1px solid #ddd;
+        }
+          a {
+            &:hover {
+              color: $colortheme;
+            }
+          }
+      }
+    }
 }

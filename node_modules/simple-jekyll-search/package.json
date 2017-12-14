@@ -1,0 +1,74 @@
+{
+  "name": "simple-jekyll-search",
+  "version": "1.5.0",
+  "description": "Simple Jekyll site search using javascript and json",
+  "main": "dest/simple-jekyll-search.js",
+  "scripts": {
+    "browserify": "browserify -p browserify-header -o dest/simple-jekyll-search.js src/index.js",
+    "build": "npm run browserify && npm run uglify",
+    "lint": "standard",
+    "prebuild": "npm run lint",
+    "pretest": "npm run lint",
+    "test": "m.test tests/**",
+    "testling": "testling",
+    "copy-example-code": "cp dest/* example/js/",
+    "uglify": "uglifyjs --compress --mangle --ie8 --comments \"/^/*!/\" --output dest/simple-jekyll-search.min.js dest/simple-jekyll-search.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-fei/Simple-Jekyll-Search.git"
+  },
+  "author": "Christian Fei",
+  "license": "MIT",
+  "files": [
+    "dest",
+    "src"
+  ],
+  "bugs": {
+    "url": "https://github.com/christian-fei/Simple-Jekyll-Search/issues"
+  },
+  "homepage": "https://github.com/christian-fei/Simple-Jekyll-Search",
+  "dependencies": {
+    "fuzzysearch": "^1.0.3"
+  },
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "browserify-header": "^0.9.2",
+    "m.test": "^0.0.57",
+    "standard": "^10.0.3",
+    "testling": "^1.7.1",
+    "uglify-js": "^3.0.28"
+  },
+  "standard": {
+    "globals": [
+      "test",
+      "beforeEach",
+      "afterEach",
+      "XMLHttpRequest",
+      "ActiveXObject"
+    ],
+    "ignore": [
+      "example",
+      "dest"
+    ]
+  },
+  "testling": {
+    "files": "src/*.test.js",
+    "browsers": [
+      "ie/6..latest",
+      "chrome/22..latest",
+      "firefox/16..latest",
+      "safari/latest",
+      "opera/11.0..latest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/latest"
+    ]
+  },
+  "engines": {
+    "node": ">=6.0"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
