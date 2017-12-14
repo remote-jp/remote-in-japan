@@ -4,10 +4,10 @@ Simple and flexible Jekyll theme for help center.
 # Demo
 [Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
 
-![Red Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/red.png =300x)
-![Blue Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/blue.png =300x)
-![Purple Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/purple.png =300x)
-![Black Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/black.png =300x)
+![Red Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/red.png)
+![Blue Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/blue.png)
+![Purple Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/purple.png)
+![Black Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/black.png)
 
 # Color theme
 edit in _config.yml
