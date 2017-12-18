@@ -5,7 +5,6 @@ Simple and responsive Jekyll theme for help center.
 [Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
 
 ![Color Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/responsive.png)
-https://rubygems.org/gems/jekyll-help-center-theme
 
 # Color theme
 edit in _config.yml
@@ -22,6 +21,7 @@ or
 ```
 gem install jekyll-help-center-theme
 ```
+https://rubygems.org/gems/jekyll-help-center-theme
 
 # How to use
 ```
