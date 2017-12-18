@@ -9,9 +9,9 @@ layout: null
       "date"        : "{{ post.date }}",
       "categories"  : "{{ post.categories | array_to_sentence_string }}",
       "by"          : "{{ post.by }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "url"         : "{{ site.baseurl }}{{ post.url }}",
       "icon"        : "{{ post.icon }}",
-      "questions"        : "{{ post.questions }}"
+      "questions"   : "{{ post.questions | jsonify}}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
