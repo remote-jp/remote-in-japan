@@ -60,6 +60,8 @@ questions:
     image: "4.gif"
 ---
 ```
+## License
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 # Inspired by
 - https://help.market.envato.com/hc/en-us
