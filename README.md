@@ -34,6 +34,6 @@ or
 npm install jekyll-help-center-theme
 ```
 
-# Inpire by
+# Inspired by
 - https://help.market.envato.com/hc/en-us
 - https://www.intercom.com/
