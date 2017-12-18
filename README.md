@@ -1,5 +1,5 @@
 # Jekyll | Help Center
-Simple and flexible Jekyll theme for help center.
+Simple and responsive Jekyll theme for help center.
 
 # Demo
 [Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
