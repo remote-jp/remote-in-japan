@@ -10,7 +10,8 @@ layout: null
       "categories"  : "{{ post.categories | array_to_sentence_string }}",
       "by"          : "{{ post.by }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "icon"        : "{{ post.icon }}"
+      "icon"        : "{{ post.icon }}",
+      "questions"        : "{{ post.questions }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
