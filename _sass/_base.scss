@@ -15,10 +15,9 @@ html {
   font-size: 18px;
   font-weight: 300;
   line-height: 1.6;
-
   @media (min-width: 38em) {
     font-size: 20px;
-  }
+}
 }
 
 body {
@@ -68,74 +67,6 @@ h6 {
 
 p {
   margin: 0 0 1rem;
-}
-
-code,
-pre {
-  font-family: Menlo, Monaco, 'Courier New', monospace;
-}
-
-code {
-  padding: 0.25em 0.5em;
-  font-size: 85%;
-  color: #bf616a;
-  background-color: #f9f9f9;
-  border-radius: 3px;
-}
-
-pre {
-  display: block;
-  margin-top: 0;
-  margin-bottom: 1rem;
-  padding: 1rem;
-  font-size: 0.8rem;
-  line-height: 1.4;
-  white-space: pre;
-  white-space: pre-wrap;
-  word-break: break-all;
-  // word-wrap: break-word;
-  background-color: #f9f9f9;
-}
-
-pre code {
-  padding: 0;
-  font-size: 100%;
-  color: inherit;
-  background-color: transparent;
-}
-
-.highlight {
-  margin-bottom: 1rem;
-  border-radius: 4px;
-}
-
-.highlight pre {
-  margin-bottom: 0;
-}
-
-.gist .gist-file {
-  font-family: Menlo, Monaco, 'Courier New', monospace !important;
-}
-
-.gist .markdown-body {
-  padding: 15px;
-}
-
-.gist pre {
-  padding: 0;
-  background-color: transparent;
-}
-
-.gist .gist-file .gist-data {
-  font-size: 0.8rem !important;
-  line-height: 1.4;
-}
-
-.gist code {
-  padding: 0;
-  color: inherit;
-  background-color: transparent;
-  border-radius: 0;
 }
 
 img {

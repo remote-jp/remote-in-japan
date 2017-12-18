@@ -3,17 +3,51 @@ layout: default
 ---
 {% include minutes-to-read.html %}
 
+<!-- breadcrumbs -->
 <div class="size margin" data-aos="fade-right" data-aos-delay="100" data-aos-offset="0">
   {% include breadcrumbs.html path=page.path title=page.title %}
 </div>
+<!-- breadcrumbs -->
 
 <div class="size margin min-height">
   <article>
+    <!-- titles -->
     <h1 class="post-title" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">{{ page.title }}</h1>
     <div class="post-date" data-aos="fade-left" data-aos-delay="300" data-aos-offset="0">
       <time>{{ page.date | date_to_string }}</time>
       <span class="reading-time" title="Estimated read time"> - {{ minutesText }}</span>
     </div>
+    <!-- titles -->
+
+    <!-- posts -->
+    <div class="margin-top-20 margin-bottom-50">
+      {% for x in page.questions %}
+      <div class="list-item-2 container wrap-reverse align-items-end justify-content-center" data-aos="fade-up" data-aos-delay="0" data-aos-offset="0">
+        {% if x.image %}
+        <div class="list-item-2-img flex-basis-300 flex-grow-1" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
+          <img src="{{ site.baseurl }}/assets/img/{{ x.image }}" width="100%" alt="">
+        </div>
+        {% endif %}
+        <div class="flex-basis-400 flex-grow-5">
+          <div class="" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
+            <h2 class="list-post-title">
+            {{x.question}}
+            </h2>
+          </div>
+          <div class="" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
+            <span class="list-post-description">
+              {{x.answer}}
+            </span>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <!-- posts -->
+
+    <!-- content -->
     {{ content }}
+
+    <!-- content -->
   </article>
 </div>
