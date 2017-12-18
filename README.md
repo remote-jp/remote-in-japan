@@ -5,10 +5,7 @@ Simple and responsive Jekyll theme for help center.
 [Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
 
 ![Color Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/responsive.png)
-<!-- ![Red Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/red.png)
-![Blue Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/blue.png)
-![Purple Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/purple.png)
-![Black Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/black.png) -->
+https://rubygems.org/gems/jekyll-help-center-theme
 
 # Color theme
 edit in _config.yml
@@ -23,7 +20,7 @@ git clone https://github.com/gustavoquinalha/jekyll-help-center-theme
 ```
 or
 ```
-npm install jekyll-help-center-theme
+gem install jekyll-help-center-theme
 ```
 
 # How to use
