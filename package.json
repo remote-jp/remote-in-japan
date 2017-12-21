@@ -11,7 +11,7 @@
     "url": "git+https://github.com/gustavoquinalha/jekyll-help-center-theme.git"
   },
   "author": "gustavoquinalha<gustavo_quinalha@hotmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gustavoquinalha/jekyll-help-center-theme/issues"
   },
@@ -22,7 +22,7 @@
     "Jekyll",
     "Theme",
     "Help center",
-    "help",
+    "Help",
     "Intercom"
   ]
 }
