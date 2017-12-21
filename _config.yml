@@ -15,6 +15,7 @@ twitter_username: "gustavoquinalha"
 github_username:  "gustavoquinalha"
 color_theme:  "#0081ff"
 color_text:  "#fff"
+language:  "en"
 
 # Build settings
 markdown: kramdown
