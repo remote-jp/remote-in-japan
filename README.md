@@ -25,7 +25,7 @@ https://rubygems.org/gems/jekyll-help-center-theme
 
 # How to use
 ```
-npm run dev
+bundle exec jekyll serve --livereload --watch
 ```
 Server address
 ```
