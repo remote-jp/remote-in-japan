@@ -44,6 +44,7 @@ Technology companies that allow remote work in Japan.
 | [Popinsight, Inc.](https://popinsight.jp/) | Developing [Usertest Express](https://usertesting.jp/express) and other remote UI/UX testing solutions. Members work remotely from Tokyo, Sapporo, Hiroshima, Shanghai, and more! |:ok_hand:|
 | [Aqutras Inc.](http://www.aqutras.com/) | Our company mainly engaged in entrusted development of web systems and games. BeeCon is one of our product for security learning. It's not only remote working but also work hours or holidays are almost free. A small group of elite. | :ok_hand: |
 | [Buffer](https://buffer.com/) | We make people's lives easier on social media. You will work in the place that makes you happy, that inspires you daily, and helps you to become the person that you wish to be. We're spreaded in 15 countries, 11 timezones and 42 cities. | :ok_hand: |
+| [Misoca Inc.](https://www.misoca.jp/) | Developing [Misoca](https://www.misoca.jp/), a cloud invoicing service. |:ok_hand:|
 
 ## Contributing
 Pull requests are absolutely welcome.
