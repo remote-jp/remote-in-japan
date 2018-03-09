@@ -15,7 +15,6 @@ Technology companies that allow remote work in Japan.
 | [パシフィックポーター株式会社](http://pacificporter.jp/) | 美容室予約サイトの一元管理システム「[かんざし](https://kanzashi.com/)」の開発運営 | |
 | [YassLab](http://yasslab.jp/) | Rubyを使ったアジャイル開発の支援、[Railsチュートリアル](http://railstutorial.jp)/[Railsガイド](http://railsguides.jp)の運営、[継続的翻訳システム](https://speakerdeck.com/yasulab/how-we-continuously-translate-tech-docs)の開発 | :ok_hand: |
 | [HeartRails Inc.](http://www.heartrails.com/) | 新規事業に伴うウェブサービス・スマホアプリ専門の企画開発会社。社員全員がリモートワーク。 | :ok_hand: |
-| [spice life](http://spicelife.jp/) | ECを中心に事業を手がけるWebの会社。会社からの支援のもとで海外や地方で仕事ができる[リモートライフ制度](http://blog.spicelife.jp/entry/2015/03/16/190613)がある。 | |
 | [かなめい株式会社](http://kanamei.co.jp/) | ウェブアプリケーション企画・制作・運営、モバイル向けコンテンツ制作 | |
 | [co-meeting](http://www.co-meeting.co.jp/) | Crowy・掲示板サイトco-meeting・Salesforceのアプリ開発会社。リモート勤務・時間・曜日選択可能。 | |
 | [永和システムマネジメント](http://www.esm.co.jp/) | Rubyを使ったアジャイルな受託開発。チャットサービス[idobata](https://idobata.io/ja/home)の開発・運営。 | |
