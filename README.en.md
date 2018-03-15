@@ -13,7 +13,6 @@ Technology companies that allow remote work in Japan.
 | [パシフィックポーター株式会社](http://pacificporter.jp/) | Developing「[かんざし](https://kanzashi.com/)」, Reservation and Customer Manager System for Beauty Salon. | |
 | [YassLab](http://yasslab.jp/en/) | Agile web development support with Ruby/Rails, management of Japanese [Rails Tutorial](http://railstutorial.jp)/[Rails Guides](http://railsguides.jp), and development of [Continuous Translation System](https://speakerdeck.com/yasulab/how-we-continuously-translate-tech-docs) | :ok_hand: |
 | [HeartRails Inc.](http://www.heartrails.com/) | Planning and development of web services and smartphone apps for new business. | :ok_hand: |
-| [spice life](http://spicelife.jp/) | Web company with a focus on [EC](https://en.wikipedia.org/wiki/E-commerce). [Remote Life System](http://blog.spicelife.jp/entry/2015/03/16/190613) to support staff who work abroad or in the countryside. | |
 | [かなめい株式会社](http://kanamei.co.jp/) | Website planning, development and management. Mobile content focus. | |
 | [co-meeting](http://www.co-meeting.co.jp/) | Developing Crowy, BBS site co-meeting and Salesforse apps. Staff can choose how they work, timezone and day of the week. | |
 | [Eiwa System Management, Inc.](http://www.esm.co.jp/) | Agile entrusted development using Ruby. Development and management for chat service [idobata](https://idobata.io/ja/home).| |
