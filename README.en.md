@@ -11,7 +11,7 @@ Technology companies that allow remote work in Japan.
 | [MMM](http://mmmcorp.co.jp/) | Design and Implementation support of AWS services, website design and development. | :ok_hand: |
 | [Increments](http://increments.co.jp/) | Website planning, development and management. For example, [Qiita](http://qiita.com) The website for programmers. | :ok_hand: |
 | [パシフィックポーター株式会社](http://pacificporter.jp/) | Developing「[かんざし](https://kanzashi.com/)」, Reservation and Customer Manager System for Beauty Salon. | |
-| [YassLab](http://yasslab.jp/en/) | Agile web development support with Ruby/Rails, management of Japanese [Rails Tutorial](http://railstutorial.jp)/[Rails Guides](http://railsguides.jp), and development of [Continuous Translation System](https://speakerdeck.com/yasulab/how-we-continuously-translate-tech-docs) | :ok_hand: |
+| [YassLab Inc.](https://yasslab.jp/en/) | Agile web development support with Ruby/Rails, management of Japanese [Rails Tutorial](https://railstutorial.jp)/[Rails Guides](https://railsguides.jp), and development of [Continuous Translation System](https://speakerdeck.com/yasulab/how-we-continuously-translate-tech-docs) | :ok_hand: |
 | [HeartRails Inc.](http://www.heartrails.com/) | Planning and development of web services and smartphone apps for new business. | :ok_hand: |
 | [かなめい株式会社](http://kanamei.co.jp/) | Website planning, development and management. Mobile content focus. | |
 | [co-meeting](http://www.co-meeting.co.jp/) | Developing Crowy, BBS site co-meeting and Salesforse apps. Staff can choose how they work, timezone and day of the week. | |

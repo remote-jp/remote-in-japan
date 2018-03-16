@@ -13,7 +13,7 @@ Technology companies that allow remote work in Japan.
 | [MMM](http://mmmcorp.co.jp/) | AWS設計・導入支援や、Webサービスの設計・開発などを行う開発会社。社員全員がリモートワーク。 | :ok_hand: |
 | [Increments](http://increments.co.jp/) | プログラマ向けWebサービス「[Qiita](http://qiita.com)」等の企画・開発・運営 | :ok_hand: |
 | [パシフィックポーター株式会社](http://pacificporter.jp/) | 美容室予約サイトの一元管理システム「[かんざし](https://kanzashi.com/)」の開発運営 | |
-| [YassLab](http://yasslab.jp/) | Rubyを使ったアジャイル開発の支援、[Railsチュートリアル](http://railstutorial.jp)/[Railsガイド](http://railsguides.jp)の運営、[継続的翻訳システム](https://speakerdeck.com/yasulab/how-we-continuously-translate-tech-docs)の開発 | :ok_hand: |
+| [YassLab 株式会社](https://yasslab.jp/ja/) | Rubyを使ったアジャイル開発の支援、[Railsチュートリアル](https://railstutorial.jp)/[Railsガイド](https://railsguides.jp)の運営、[継続的翻訳システム](https://speakerdeck.com/yasulab/how-we-continuously-translate-tech-docs)の開発 | :ok_hand: |
 | [HeartRails Inc.](http://www.heartrails.com/) | 新規事業に伴うウェブサービス・スマホアプリ専門の企画開発会社。社員全員がリモートワーク。 | :ok_hand: |
 | [かなめい株式会社](http://kanamei.co.jp/) | ウェブアプリケーション企画・制作・運営、モバイル向けコンテンツ制作 | |
 | [co-meeting](http://www.co-meeting.co.jp/) | Crowy・掲示板サイトco-meeting・Salesforceのアプリ開発会社。リモート勤務・時間・曜日選択可能。 | |
