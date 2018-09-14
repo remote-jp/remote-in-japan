@@ -45,6 +45,8 @@ Technology companies that allow remote work in Japan.
 | [Buffer](https://buffer.com/) | We make people's lives easier on social media. You will work in the place that makes you happy, that inspires you daily, and helps you to become the person that you wish to be. We're spreaded in 15 countries, 11 timezones and 42 cities. | :ok_hand: |
 | [Misoca Inc.](https://www.misoca.jp/) | Developing [Misoca](https://www.misoca.jp/), a cloud invoicing service. |:ok_hand:|
 | [SpringBoard Inc.](http://www.springboard.co.jp/en/app.html) | iPhone / Android smart phone · tablet application development, social application development, web service development etc. Also deployment of smartphone applications and Web services under their own brands. |:ok_hand:|
+| [Syoya, Inc.](https://syoya.com/about) | Developing 「[Wakka](https://wakka.io)」, a social networking service. |:ok_hand:|
+
 
 ## Contributing
 Pull requests are absolutely welcome.
