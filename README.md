@@ -47,6 +47,8 @@ Technology companies that allow remote work in Japan.
 | [株式会社アキュトラス](http://www.aqutras.com/) | 主に、Webシステムやゲームなどの受託開発を行っている会社。セキュリティ教育支援システムBeeConも展開中。フルリモートなのに、勤務時間や休暇もほぼ自由な、少数精鋭集団。 |:ok_hand:|
 | [株式会社Misoca](https://www.misoca.jp/) | クラウド請求書作成サービス「[Misoca](https://www.misoca.jp/)」の開発・運営。 |:ok_hand:|
 | [株式会社スプリングボード](http://www.springboard.co.jp/index.html) | iPhone/Androidなどのスマートフォン・タブレットアプリケーション開発、ソーシャルアプリケーション開発、WEBサービス開発など。自社ブランドでのスマートフォンアプリケーション、WEBサービスの展開も。 |:ok_hand:|
+| [笑屋株式会社](https://syoya.com/about) | コミュニティで繋がるSNS「[Wakka](https://wakka.io)」の開発・運営。 |:ok_hand:|
+
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
