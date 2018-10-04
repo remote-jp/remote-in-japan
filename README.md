@@ -48,6 +48,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社Misoca](https://www.misoca.jp/) | クラウド請求書作成サービス「[Misoca](https://www.misoca.jp/)」の開発・運営。 |:ok_hand:|
 | [株式会社スプリングボード](http://www.springboard.co.jp/index.html) | iPhone/Androidなどのスマートフォン・タブレットアプリケーション開発、ソーシャルアプリケーション開発、WEBサービス開発など。自社ブランドでのスマートフォンアプリケーション、WEBサービスの展開も。 |:ok_hand:|
 | [笑屋株式会社](https://syoya.com/about) | コミュニティで繋がるSNS「[Wakka](https://wakka.io)」の開発・運営。 |:ok_hand:|
+| [CircleCI](https://circleci.jp/) | CircleCI は、プロジェクトの規模にかかわらず、迅速かつ質の高いチーム開発を容易にします。誰もが頭の中で想像した通りに開発を進められるようにする、それが私たちのミッションです。[(募集中)](https://circleci.com/jobs/) | |
 
 
 ## Contributing
