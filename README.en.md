@@ -48,7 +48,7 @@ Technology companies that allow remote work in Japan.
 | [Syoya, Inc.](https://syoya.com/about) | Developing 「[Wakka](https://wakka.io)」, a social networking service. |:ok_hand:|
 | [CircleCI](https://circleci.com/) | CircleCI provides CI/CD service for developers, allowing teams to rapidly build quality projects, at scale. Our mission is to give people everywhere the power to build and deliver software at the speed of imagination. [We're hiring!](https://circleci.com/jobs/) | |
 | [SAKURA Internet Inc.](https://www.sakura.ad.jp/en/corporate/) | Offering high quality internet services based on our data centers like housing, hosting, IoT platform. | |
-
+| [beBit, Inc.](https://www.bebit.co.jp/english/) | beBit provides moment-analytics tool "[Usergram](https://www.bebit.co.jp/usergram/english/)", which helps digital marketing based on detailed understanding of customer behaviors. [Hiring now](https://www.bebit.co.jp/english/career/)| |
 
 ## Contributing
 Pull requests are absolutely welcome.
