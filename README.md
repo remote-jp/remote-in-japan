@@ -51,6 +51,7 @@ Technology companies that allow remote work in Japan.
 | [CircleCI](https://circleci.jp/) | CircleCI は、プロジェクトの規模にかかわらず、迅速かつ質の高いチーム開発を容易にします。誰もが頭の中で想像した通りに開発を進められるようにする、それが私たちのミッションです。[(募集中)](https://circleci.com/jobs/) | |
 | [さくらインターネット株式会社](https://www.sakura.ad.jp/) | 自社運営のデータセンターを基盤としたハウジング、ホスティング、IoTプラットフォームなどのサービスを提供。 | |
 | [株式会社ビービット](https://www.bebit.co.jp/) | モーメント分析クラウド「[Usergram](https://www.bebit.co.jp/usergram/)」の開発・運用を通じて、UX（顧客体験）を起点とした、成果につながるデータドリブンマーケティングを支援しています。[(募集中)](https://crew.bebit.co.jp/careers/) | |
+| [株式会社ブレインパッド](https://www.brainpad.co.jp/) | データから革新を。ブレインパッドは、2004年の創業以来、データによるビジネス創造と経営改善に向き合ってきたデータ活用のリーディングカンパニーです [(募集中)](https://www.brainpad.co.jp/recruit/) | |
 
 
 ## Contributing
