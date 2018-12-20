@@ -52,7 +52,7 @@ Technology companies that allow remote work in Japan.
 | [さくらインターネット株式会社](https://www.sakura.ad.jp/)            | 自社運営のデータセンターを基盤としたハウジング、ホスティング、IoTプラットフォームなどのサービスを提供。                                                                                                                            |               |
 | [株式会社ビービット](https://www.bebit.co.jp/)                       | モーメント分析クラウド「[Usergram](https://www.bebit.co.jp/usergram/)」の開発・運用を通じて、UX（顧客体験）を起点とした、成果につながるデータドリブンマーケティングを支援しています。[(募集中)](https://crew.bebit.co.jp/careers/) |               |
 | [株式会社ブレインパッド](https://www.brainpad.co.jp/)                | データから革新を。ブレインパッドは、2004年の創業以来、データによるビジネス創造と経営改善に向き合ってきたデータ活用のリーディングカンパニーです [(募集中)](https://www.brainpad.co.jp/recruit/)                                     |               |
-| [LINE株式会社](https://linecorp.com/ja/)                             | コミュニケーションツール [LINE](https://line.me）をはじめとしたアプリケーションの開発。一部開発センターで月に一回リモートワーク可能。 [(募集中)](https://linecorp.com/ja/career/)                                                  |               |
+| [LINE株式会社](https://linecorp.com/ja/)                             | コミュニケーションツール [LINE](https://line.me)をはじめとしたアプリケーションの開発。一部開発センターで月に一回リモートワーク可能。 [(募集中)](https://linecorp.com/ja/career/)                                                  |               |
 
 
 ## Contributing
