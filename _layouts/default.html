@@ -12,7 +12,9 @@
   <script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.min.js"></script>
   
   <script>
-    AOS.init();
+    AOS.init({
+      once: true
+    });
 
     SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
