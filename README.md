@@ -54,6 +54,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社ブレインパッド](https://www.brainpad.co.jp/)                | データから革新を。ブレインパッドは、2004年の創業以来、データによるビジネス創造と経営改善に向き合ってきたデータ活用のリーディングカンパニーです [(募集中)](https://www.brainpad.co.jp/recruit/)                                     |               |
 | [LINE株式会社](https://linecorp.com/ja/)                             | コミュニケーションツール [LINE](https://line.me)をはじめとしたアプリケーションの開発。一部開発センターで月に一回リモートワーク可能。 [(募集中)](https://linecorp.com/ja/career/)                                                  |               |
 | [株式会社カルテットコミュニケーションズ](https://quartetcom.co.jp/)                             | リスティング広告をはじめとした運用型広告に特化した広告代理店であり、広告運用者向けのWebサービス「[Lisket（リスケット）](https://lisket.jp/)」を開発運営しています。開発部のみリモートワークを導入しています。 [(募集中)](https://quartetcom.co.jp/recruit/engineer/)                                                  |               |
+| [株式会社UNCOVER TRUTH](https://www.uncovertruth.co.jp/)                             | ヒートマップツール「USERDIVE」の開発運営、自社ツール「USERDIVE」を使ったWebサイト改善「改善PDCAアウトソーシング」をしています。開発チームには遠隔地のメンバーもいるため、居住地にかかわらずリモートワーク前提の体制を構築しています。 [(募集中)](https://www.wantedly.com/companies/uncovertruth/projects)                                                  |               |
 
 
 ## Contributing
