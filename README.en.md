@@ -56,6 +56,7 @@ Technology companies that allow remote work in Japan.
 | [UNCOVER TRUTH Inc.](https://www.uncovertruth.co.jp/)                         | We are developing and servicing heat map tool "USERDIVE". In addition, we are also consulting Web site improvement using our own tool "USERDIVE". Development team has remote members, we work in a way that you can work remotely no matter where you live. [(Hiring now)](https://www.wantedly.com/companies/uncovertruth/projects)                                                                                                                                                                                                                                                                                     |               |
 | [Takeyu Web Inc.](https://takeyuweb.co.jp)                     | You can not only work fully remote with full flextime, but have free choice of days off, and short work hours. A web consulting company that strives to create environments where you have freedom.                                                                                  | :ok_hand:     |
 | [Tokyo Otaku Mode Inc.](https://corporate.otakumode.com/) | Developing [Tokyo Otaku Mode](https://otakumode.com/) to share Japanese otaku culture with the rest of the world. All teams are allowed the option of working fully remote. | :ok_hand: |
+| [Source Tokyo](https://source.paris/en/) | Product design studio, UI & UX design and web development. |  |
 
 
 ## Contributing
