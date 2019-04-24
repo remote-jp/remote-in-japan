@@ -57,6 +57,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社UNCOVER TRUTH](https://www.uncovertruth.co.jp/)                             | ヒートマップツール「USERDIVE」の開発運営、自社ツール「USERDIVE」を使ったWebサイト改善「改善PDCAアウトソーシング」をしています。開発チームには遠隔地のメンバーもいるため、居住地にかかわらずリモートワーク前提の体制を構築しています。 [(募集中)](https://www.wantedly.com/companies/uncovertruth/projects)                                                  |               |
 | [タケユー・ウェブ株式会社](https://takeyuweb.co.jp)                  | フルリモート＆フルフレックスに飽き足らず休日自由、時短勤務、深夜勤務だってOK。自由に働く環境づくりに全力のWebサービス受託会社。                                                                                                    | :ok_hand:     |
 | [Tokyo Otaku Mode Inc.](https://corporate.otakumode.com/) | 世界中にアニメ・ゲーム・マンガを始めとした「オタクカルチャー」を届けるサービス [Tokyo Otaku Mode](https://otakumode.com/) の開発・運営をしています。エンジニアだけにかかわらず、全社的にフルリモートワーク制度を導入しています。 | :ok_hand: |
+| [Source東京株式会社](https://source.paris/ja/) | プロダクトデザインスタジオ、UIとUXデザイン、開発 |  |
 
 
 ## Contributing
