@@ -57,6 +57,7 @@ Technology companies that allow remote work in Japan.
 | [Takeyu Web Inc.](https://takeyuweb.co.jp)                     | You can not only work fully remote with full flextime, but have free choice of days off, and short work hours. A web consulting company that strives to create environments where you have freedom.                                                                                  | :ok_hand:     |
 | [Tokyo Otaku Mode Inc.](https://corporate.otakumode.com/) | Developing [Tokyo Otaku Mode](https://otakumode.com/) to share Japanese otaku culture with the rest of the world. All teams are allowed the option of working fully remote. | :ok_hand: |
 | [Source Tokyo](https://source.paris/en/) | Product design studio, UI & UX design and web development. |  |
+| [Grooves Inc.](https://grooves.com.my/) | We develop numerous Ruby on Rails applications to make the world easy to connect job seekers and employer. | :ok_hand: |
 
 
 ## Contributing
