@@ -59,7 +59,7 @@ Technology companies that allow remote work in Japan.
 | [Tokyo Otaku Mode Inc.](https://corporate.otakumode.com/) | 世界中にアニメ・ゲーム・マンガを始めとした「オタクカルチャー」を届けるサービス [Tokyo Otaku Mode](https://otakumode.com/) の開発・運営をしています。エンジニアだけにかかわらず、全社的にフルリモートワーク制度を導入しています。 | :ok_hand: |
 | [Source東京株式会社](https://source.paris/ja/) | プロダクトデザインスタジオ、UIとUXデザイン、開発 |  |
 | [株式会社grooves](https://www.grooves.com/) | HR×テクノロジーをテーマに、様々なアプリケーションを開発しています。既に多くのフルリモートのメンバーが活躍しています。 | :ok_hand: |
-| [株式会社ストライプデパートメント](https://corp.stripe-department.com)|子育てママ向けECサイト「[smarby](https://smarby.jp/)」等の開発・運営。開発部のみ完全リモートワークで全国各地で在宅勤務。| 　 |
+| [株式会社ストライプデパートメント](https://corp.stripe-department.com)|子育てママ向けECサイト「[smarby](https://smarby.jp/)」等の開発・運営。開発部のみ完全リモートワークで全国各地で在宅勤務。|  |
 
 
 ## Contributing
