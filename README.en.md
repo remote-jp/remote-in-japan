@@ -58,7 +58,7 @@ Technology companies that allow remote work in Japan.
 | [Tokyo Otaku Mode Inc.](https://corporate.otakumode.com/) | Developing [Tokyo Otaku Mode](https://otakumode.com/) to share Japanese otaku culture with the rest of the world. All teams are allowed the option of working fully remote. | :ok_hand: |
 | [Source Tokyo](https://source.paris/en/) | Product design studio, UI & UX design and web development. |  |
 | [Grooves Inc.](https://grooves.com.my/) | We develop numerous Ruby on Rails applications to make the world easy to connect job seekers and employer. | :ok_hand: |
-
+| [STRIPE DEPARTMENT CO.,LTD.](https://corp.stripe-department.com) |  Website planning, development and management. For example, [smarby](https://smarby.jp/) The website for mom. |  |
 
 ## Contributing
 Pull requests are absolutely welcome.
