@@ -1,0 +1,22 @@
+{
+  "name": "@gustavoquinalha/jekyll-help-center-theme",
+  "version": "1.0.0",
+  "description": "Simple and responsive Jekyll theme for help center.",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoquinalha/jekyll-help-center-theme.git"
+  },
+  "author": "gustavoquinalha <gusquinalha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavoquinalha/jekyll-help-center-theme/issues"
+  },
+  "homepage": "https://github.com/gustavoquinalha/jekyll-help-center-theme#readme"
+}
