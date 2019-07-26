@@ -59,6 +59,7 @@ Technology companies that allow remote work in Japan.
 | [Source Tokyo](https://source.paris/en/) | Product design studio, UI & UX design and web development. |  |
 | [Grooves Inc.](https://grooves.com.my/) | We develop numerous Ruby on Rails applications to make the world easy to connect job seekers and employer. | :ok_hand: |
 | [STRIPE DEPARTMENT CO.,LTD.](https://corp.stripe-department.com) |  Website planning, development and management. For example, [smarby](https://smarby.jp/) The website for mom. |  |
+| [Spinetta Inc.](http://spinetta.tech) | We provide Software Development and Digital Marketing Services in Fukuoka. | :ok_hand: |
 
 ## Contributing
 Pull requests are absolutely welcome.
