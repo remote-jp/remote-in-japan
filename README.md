@@ -60,6 +60,7 @@ Technology companies that allow remote work in Japan.
 | [Source東京株式会社](https://source.paris/ja/) | プロダクトデザインスタジオ、UIとUXデザイン、開発 |  |
 | [株式会社grooves](https://www.grooves.com/) | HR×テクノロジーをテーマに、様々なアプリケーションを開発しています。既に多くのフルリモートのメンバーが活躍しています。 | :ok_hand: |
 | [株式会社ストライプデパートメント](https://corp.stripe-department.com)|子育てママ向けECサイト「[smarby](https://smarby.jp/)」等の開発・運営。開発部のみ完全リモートワークで全国各地で在宅勤務。|  |
+| [株式会社Xoxzo](https://info.xoxzo.com/ja/) | ウェブデベロッパーと電話回線を繋ぐHTTP APIベースの [Xoxzo クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/) の開発と運営。１００％リモートワーク。ロシアのウファから東京まで居住地の違う１０都市に住む７国籍から構成するメンバーが活躍しています。 | :ok_hand: |
 
 
 ## Contributing

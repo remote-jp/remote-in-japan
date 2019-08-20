@@ -60,6 +60,7 @@ Technology companies that allow remote work in Japan.
 | [Grooves Inc.](https://grooves.com.my/) | We develop numerous Ruby on Rails applications to make the world easy to connect job seekers and employer. | :ok_hand: |
 | [STRIPE DEPARTMENT CO.,LTD.](https://corp.stripe-department.com) |  Website planning, development and management. For example, [smarby](https://smarby.jp/) The website for mom. |  |
 | [Spinetta Inc.](http://spinetta.tech) | We provide Software Development and Digital Marketing Services in Fukuoka. | :ok_hand: |
+| [Xoxzo Inc.](https://info.xoxzo.com/en/) | Develops and runs [Xoxzo Cloud Telephony Platform](https://www.xoxzo.com/en/), a HTTP API only telephony platform connecting the telephone with web developers. Fully remote, with team members from Ufa in Russia to Tokyo working from 10 different cities and 7 different nationalities. | :ok_hand: |
 
 ## Contributing
 Pull requests are absolutely welcome.
