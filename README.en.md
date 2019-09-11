@@ -60,6 +60,7 @@ Technology companies that allow remote work in Japan.
 | [Grooves Inc.](https://grooves.com.my/) | We develop numerous Ruby on Rails applications to make the world easy to connect job seekers and employer. | :ok_hand: |
 | [STRIPE DEPARTMENT CO.,LTD.](https://corp.stripe-department.com) |  Website planning, development and management. For example, [smarby](https://smarby.jp/) The website for mom. |  |
 | [Spinetta Inc.](http://spinetta.tech) | We provide Software Development and Digital Marketing Services in Fukuoka. | :ok_hand: |
+| [hey, Inc.](https://hey.jp/)| We develop and operate "[Coiney](https://coiney.com/)", an easy-to-use payment service, and "[STORES.jp](https://stores.jp/)", a tool that enables effortless setup of a full-featured e-commerce site.[(Hiring now)](https://hey.jp/jobs/)|  |
 
 ## Contributing
 Pull requests are absolutely welcome.
