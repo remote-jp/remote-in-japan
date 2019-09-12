@@ -61,6 +61,7 @@ Technology companies that allow remote work in Japan.
 | [STRIPE DEPARTMENT CO.,LTD.](https://corp.stripe-department.com) |  Website planning, development and management. For example, [smarby](https://smarby.jp/) The website for mom. |  |
 | [Spinetta Inc.](http://spinetta.tech) | We provide Software Development and Digital Marketing Services in Fukuoka. | :ok_hand: |
 | [hey, Inc.](https://hey.jp/)| We develop and operate "[Coiney](https://coiney.com/)", an easy-to-use payment service, and "[STORES.jp](https://stores.jp/)", a tool that enables effortless setup of a full-featured e-commerce site.[(Hiring now)](https://hey.jp/jobs/)|  |
+| [Quipper Limited](https://www.quipper.com) | Development and management of learning platform for elementary, junior high, and high school students and adults. Providing online homework/assignment management service for teachers, and learning contents and tests for students all over the world. Development and operation of online learning service. |  |
 
 ## Contributing
 Pull requests are absolutely welcome.
