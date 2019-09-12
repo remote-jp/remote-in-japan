@@ -61,7 +61,8 @@ Technology companies that allow remote work in Japan.
 | [株式会社grooves](https://www.grooves.com/) | HR×テクノロジーをテーマに、様々なアプリケーションを開発しています。既に多くのフルリモートのメンバーが活躍しています。 | :ok_hand: |
 | [株式会社ストライプデパートメント](https://corp.stripe-department.com)|子育てママ向けECサイト「[smarby](https://smarby.jp/)」等の開発・運営。開発部のみ完全リモートワークで全国各地で在宅勤務。|  |
 | [株式会社Xoxzo](https://info.xoxzo.com/ja/) | ウェブデベロッパーと電話回線を繋ぐHTTP APIベースの [Xoxzo クラウド・テレフォニー・プラットフォーム](https://www.xoxzo.com/ja/) の開発と運営。１００％リモートワーク。ロシアのウファから東京まで居住地の違う１０都市に住む７国籍から構成するメンバーが活躍しています。 | :ok_hand: |
-
+| [hey, Inc.(ヘイ株式会社)](https://hey.jp/)| 簡単に使えるキャッシュレス決済サービス『[Coiney(コイニー)](https://coiney.com/)』と簡単に本格的なネットショップが作成できるサービス『[STORES.jp(ストアーズ・ドット・ジェーピー)](https://stores.jp/)』を開発、提供しています。[(募集中)](https://hey.jp/jobs/)|  |
+| [Quipper Limited](https://www.quipper.com/jp/) | 小中高校生～社会人を対象とした学習プラットフォーム開発・運営。世界各国で先生に対するオンライン宿題・課題管理サービスや、生徒に対しての学習コンテンツやテストの提供。オンライン学習サービスの開発・運営。 |  |
 
 ## Contributing
 Pull request歓迎です。以下の条件を満たしていれば、積極的にマージします。
