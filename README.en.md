@@ -60,6 +60,7 @@ Technology companies that allow remote work in Japan.
 | [Grooves Inc.](https://grooves.com.my/) | We develop numerous Ruby on Rails applications to make the world easy to connect job seekers and employer. | :ok_hand: |
 | [STRIPE DEPARTMENT CO.,LTD.](https://corp.stripe-department.com) |  Website planning, development and management. For example, [smarby](https://smarby.jp/) The website for mom. |  |
 | [Spinetta Inc.](http://spinetta.tech) | We provide Software Development and Digital Marketing Services in Fukuoka. | :ok_hand: |
+| [Quipper Limited](https://www.quipper.com) | Development and management of learning platform for elementary, junior high, and high school students and adults. Providing online homework/assignment management service for teachers, and learning contents and tests for students all over the world. Development and operation of online learning service. |  |
 
 ## Contributing
 Pull requests are absolutely welcome.

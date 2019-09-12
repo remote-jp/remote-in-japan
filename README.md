@@ -60,6 +60,7 @@ Technology companies that allow remote work in Japan.
 | [Source東京株式会社](https://source.paris/ja/) | プロダクトデザインスタジオ、UIとUXデザイン、開発 |  |
 | [株式会社grooves](https://www.grooves.com/) | HR×テクノロジーをテーマに、様々なアプリケーションを開発しています。既に多くのフルリモートのメンバーが活躍しています。 | :ok_hand: |
 | [株式会社ストライプデパートメント](https://corp.stripe-department.com)|子育てママ向けECサイト「[smarby](https://smarby.jp/)」等の開発・運営。開発部のみ完全リモートワークで全国各地で在宅勤務。|  |
+| [Quipper Limited](https://www.quipper.com/jp/) | 小中高校生～社会人を対象とした学習プラットフォーム開発・運営。世界各国で先生に対するオンライン宿題・課題管理サービスや、生徒に対しての学習コンテンツやテストの提供。オンライン学習サービスの開発・運営。 |  |
 
 
 ## Contributing
