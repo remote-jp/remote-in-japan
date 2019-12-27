@@ -2,6 +2,8 @@
 
 Technology companies that allow remote work in Japan.
 
+[\[日本語はこちら\]](README.md)
+
 
 | Company                                                        | Description                                                                                                                                                                                                                                                                          | Full Remote?  |
 | -------------                                                  | -------------                                                                                                                                                                                                                                                                        | ------------- |
