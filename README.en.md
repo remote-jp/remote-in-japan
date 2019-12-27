@@ -2,7 +2,7 @@
 
 Technology companies that allow remote work in Japan.
 
-[\[日本語はこちら\]](https://github.com/uiur/remote-in-japan/blob/master/README.md)
+[\[日本語はこちら\]](README.md)
 
 
 | Company                                                        | Description                                                                                                                                                                                                                                                                          | Full Remote?  |
