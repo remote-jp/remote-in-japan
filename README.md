@@ -7,6 +7,7 @@ Technology companies that allow remote work in Japan.
 
 | 会社名                                                               | 説明                                                                                                                                                                                                                               | フルリモート  |
 | -------------                                                        | -------------                                                                                                                                                                                                                      | ------------- |
+| [株式会社クラウドワークス](https://crowdworks.co.jp/) | 日本最大級のクラウドソーシングサービス「[クラウドワークス](https://crowdworks.jp/)」の運営開発。 [(募集中)](https://www.wantedly.com/projects/55681) |  |
 | [チケットジャム株式会社](https://ticketjam.jp/) | Rubyのコミッターが代表を務めるチケットのCtoCサービス [チケジャム](https://ticketjam.jp/)を運営している会社です。 [(募集中)](https://twitter.com/gogo_tanaka/) | :ok_hand:     |
 | [株式会社データビークル](https://www.dtvcl.com/) |「データサイエンスを全ての人に」をミッションとして SaaS 型データ分析サービスを開発、提供しています。開発エンジニアの方はフルリモート可能。副業、パートタイムも大丈夫です。応募の際は remote-in-japan を見たと一言添えて下さい。[(募集中)](https://www.dtvcl.com/recruitment/) |  |
 | [ファインディ株式会社](https://findy.co.jp/)                           | ハイスキルなエンジニアのための転職サービス「[Findy](https://findy-code.io/)」の開発運営。[(募集ポジション)](https://hrmos.co/pages/findy/jobs) |                                                                                                                                                 |               |
