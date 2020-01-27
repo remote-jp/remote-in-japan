@@ -71,7 +71,7 @@ Technology companies that allow remote work in Japan.
 | [Nota Inc.](http://www.notainc.com/)                           | Developing [Gyazo](https://gyazo.com/), screenshot sharing tool. Based in Kyoto.                                                                                                                                                                                                     | :ok_hand:     |
 | [Sonic Garden](http://www.sonicgarden.jp/)                     | Web Development and technical consulting. Developing「[SKIP](http://www.skip-sns.jp/)」                                                                                                                                                                                              | :ok_hand:     |
 | [Kaizen Platform](https://kaizenplatform.com/)                 | SaaS [Kaizen Platform](https://kaizenplatform.com) Development                                                                                                                                                                                                                       | :ok_hand:     |
-
+| [Lanchester](https://www.lanches.co.jp) | Development and introduction of [EAP](https://e-ap.jp) that supports the relationship between brands and fans |  |
 
 
 ## Contributing
