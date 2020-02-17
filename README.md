@@ -7,6 +7,7 @@ Technology companies that allow remote work in Japan.
 
 | 会社名                                                               | 説明                                                                                                                                                                                                                               | フルリモート  |
 | -------------                                                        | -------------                                                                                                                                                                                                                      | ------------- |
+| [株式会社ノハナ](https://nohana.co.jp) |【1組でも多くの家族に笑顔を届ける】フォトブックアプリサービス[ノハナ](https://nohana.jp/)の開発を行っています。週一リモート制度実施中|  |
 | [株式会社マツリカ](https://mazrica.com) | AI搭載のクラウド営業支援ツール[Senses](https://product-senses.mazrica.com/)を開発・提供しています。『最も生産性の高い場所・時間で成果を出してほしい』という意図で、創業時から職種・雇用形態に関係なくフルリモート・フルフレックス制度が適用されます。社員の[自由な働き体験を有志で本](https://techbookfest.org/event/tbf08/circle/5105597800251392)にしました。 | :ok_hand: |
 | [株式会社ZOZOテクノロジーズ](https://tech.zozo.com/) | 日本最大級のファッションECサイト「[ZOZOTOWN](https://zozo.jp/)」やファッションSNS「[WEAR](https://wear.jp/)」の開発を行っています。フルリモート、フルフレックス制度のほか、病気休暇などもあります！ [(募集中)](https://tech.zozo.com/recruit/) | :ok_hand: |
 | [株式会社クラウドワークス](https://crowdworks.co.jp/) | 日本最大級のクラウドソーシングサービス「[クラウドワークス](https://crowdworks.jp/)」の運営開発。 [(募集中)](https://www.wantedly.com/projects/55681) |  |
