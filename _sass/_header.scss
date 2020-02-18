@@ -1,17 +1,15 @@
 .bg-header {
-  background: #000
+  background: #000;
 }
 
 .header {
   min-height: 200px;
-  background: url('../assets/img/pattern2.svg'), rgba($colortheme, .9);
+  background: url('../assets/img/pattern.svg'), rgba($colortheme, 0.9);
   background-size: 310px;
   width: 100%;
 
   .header--block {
     color: $colortext;
-
-    .header--block--text {}
 
     .header--block--input {
       display: flex;
@@ -26,11 +24,10 @@
 
       &:focus-within {
         opacity: 1;
-        box-shadow: 0 0 20px 1px rgba(0,0,0,.1);
+        box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
 
         .header--block--input--icon {
           opacity: 1;
-
         }
       }
 
@@ -42,7 +39,7 @@
         box-sizing: border-box;
         opacity: 0.5;
         span {
-          color: rgba(0,0,0,1);
+          color: rgba(0, 0, 0, 1);
         }
       }
 
@@ -71,22 +68,22 @@
   top: 80px;
   left: 0;
   border-radius: 4px;
-    ul {
-      list-style: none;
-      li {
-        border-bottom: 1px solid #ddd;
-        border-left: 1px solid #ddd;
-        border-right: 1px solid #ddd;
-        padding: 10px;
-        box-sizing: border-box;
-        &:first-child {
-          border-top: 1px solid #ddd;
+  ul {
+    list-style: none;
+    li {
+      border-bottom: 1px solid #ddd;
+      border-left: 1px solid #ddd;
+      border-right: 1px solid #ddd;
+      padding: 10px;
+      box-sizing: border-box;
+      &:first-child {
+        border-top: 1px solid #ddd;
+      }
+      a {
+        &:hover {
+          color: $colortheme;
         }
-          a {
-            &:hover {
-              color: $colortheme;
-            }
-          }
       }
     }
+  }
 }
