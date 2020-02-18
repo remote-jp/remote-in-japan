@@ -1,6 +1,6 @@
 .footer {
   min-height: 200px;
-  background: #ECECEC;
+  background: #ececec;
   overflow: hidden;
 
   .footer--block {
@@ -17,5 +17,9 @@
         color: #515151;
       }
     }
+  }
+
+  ul {
+    list-style-type: none;
   }
 }

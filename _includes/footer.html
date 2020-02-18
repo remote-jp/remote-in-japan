@@ -1,12 +1,12 @@
 <footer>
   <div class="footer container column align-items-center justify-content-center">
-    <div class="footer--block text-align-center">
-      <div class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0">
-        <a href="{{ site.baseurl }}/"><span>Jekyll |</span> {{ site.title }}</a>
-      </div>
-      <div class="by" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">
-        <a href="https://github.com/gustavoquinalha/jekyll-help-center-theme" target="_blank">Created with jekyll</a>
-      </div>
-    </div>
-  </div>
+    <ul class="languages footer--block text-align-center">
+      <!-- TODO: remove fake next line -->
+      <li class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0"><a href="/{{lang[0]}}">hello this english</a></li>
+      {% for lang in site.data.languages %}
+        {% assign language = lang[1] %}
+        <li class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0"><a href="/{{lang[0]}}">{{language.icon}} {{ language.label }} ({{ lang[0] }})</a></li>
+      {% endfor %}
+    </ul>
+  </div> 
 </footer>
