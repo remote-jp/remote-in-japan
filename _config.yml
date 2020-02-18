@@ -11,11 +11,10 @@ email: gusquinalha@gmail.com
 description: 'Simple and flexible Jekyll theme for help center.'
 baseurl: ''
 url: 'http://quinalha.me'
-twitter_username: 'gustavoquinalha'
-github_username: 'gustavoquinalha'
+twitter_username: 'hatem_hou'
+github_username: 'SaulSilver'
 color_theme: '#0081ff'
 color_text: '#fff'
-language: 'en'
 
 # Build settings
 markdown: kramdown

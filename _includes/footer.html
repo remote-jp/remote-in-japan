@@ -5,7 +5,7 @@
       <li class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0"><a href="/{{lang[0]}}">hello this english</a></li>
       {% for lang in site.data.languages %}
         {% assign language = lang[1] %}
-        <li class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0"><a href="/{{lang[0]}}">{{language.icon}} {{ language.label }} ({{ lang[0] }})</a></li>
+        <li class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0"><a href="/{{lang[0]}}">{{ site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}</a></li>
       {% endfor %}
     </ul>
   </div> 

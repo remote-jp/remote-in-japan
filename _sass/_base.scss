@@ -17,7 +17,7 @@ html {
   line-height: 1.6;
   @media (min-width: 38em) {
     font-size: 20px;
-}
+  }
 }
 
 body {
@@ -30,7 +30,7 @@ body {
 a {
   color: #1a191b;
   text-decoration: none;
-  transition: .3s;
+  transition: 0.3s;
 }
 
 h1,
@@ -44,7 +44,7 @@ h6 {
   font-weight: 600;
   line-height: 1.1;
   color: #1a191b;
-  letter-spacing: -.025rem;
+  letter-spacing: -0.025rem;
 }
 
 h1 {
@@ -71,6 +71,13 @@ p {
 
 img {
   max-width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  li {
+    margin-left: 3px;
+  }
 }
 
 .size {

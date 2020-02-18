@@ -1,4 +1,3 @@
-
 .menu {
   background: $colortheme;
   position: sticky;
@@ -21,16 +20,21 @@
 }
 .back-to-site {
   font-size: 14px;
+  @media screen and (max-width: 480px) {
+    img {
+      width: 22px;
+    }
+  }
+  .back-to-site-text {
+    margin-left: 5px;
+    transition: 0.3s;
     @media screen and (max-width: 480px) {
-      img {
-        width: 22px
-      }
+      display: none;
     }
-    .back-to-site-text {
-      margin-left: 5px;
-      transition: .3s;
-      @media screen and (max-width: 480px) {
-        display: none
-      }
-    }
+  }
+}
+
+small {
+  margin-right: 3px;
+  color: white;
 }
