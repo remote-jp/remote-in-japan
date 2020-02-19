@@ -6,58 +6,60 @@
 }
 
 .list-item {
-  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.03);
-  border: 1px solid #C1C1C1;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.03);
+  border: 1px solid #c1c1c1;
   margin-bottom: 20px;
   padding: 20px;
   box-sizing: border-box;
   border-radius: 4px;
-  transition: .3s;
+  transition: 0.3s;
   overflow: hidden;
   cursor: pointer;
-    &:last-child {
-      margin-bottom: 0px;
-    }
+  &:last-child {
+    margin-bottom: 0px;
+  }
 
-    &:hover {
-      border-color: $colortheme;
-    }
+  &:hover {
+    transition: 0.3s;
+    border-color: $colortheme;
+  }
 
-    .list-item-icon {
-      flex-basis: 100px;
-      padding-right: 20px;
-      font-size: 2rem;
-      color: $colortheme;
-    }
+  .list-item-icon {
+    flex-basis: 100px;
+    padding-right: 20px;
+    font-size: 2rem;
+    color: $colortheme;
+  }
 
-    .list-post-title {
-      font-size: 22px;
-      transition: .3s;
-      color: $colortheme;
-    }
-    .list-post-description {
-      font-size: 16px
-    }
+  .list-post-title {
+    font-size: 22px;
+    transition: 0.3s;
+    color: $colortheme;
+  }
+  .list-post-description {
+    font-size: 16px;
+  }
 
-    .list-post-written {
-      span {
-        font-weight: bold
-
-      }
+  .list-post-written {
+    span {
+      font-weight: bold;
     }
+  }
 
-    small {
-      font-size: 12px;
-      opacity: .7
-    }
+  small {
+    font-size: 12px;
+    opacity: 0.7;
+  }
 }
 
 .list-item-2 {
-  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.03);
-  border: 1px solid #C1C1C1;
+  box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.03);
+  border: 1px solid #c1c1c1;
   padding: 40px;
   box-sizing: border-box;
-  transition: .3s;
+  transition: 0.3s;
   margin-bottom: 10px;
   overflow: hidden;
   &:hover {
@@ -69,9 +71,19 @@
 
   .list-item-2-img {
     margin-right: 20px;
-      @media screen and (max-width: 839px) {
-        margin-right: 0;
-        margin-top: 20px;
-      }
-   }
+    @media screen and (max-width: 839px) {
+      margin-right: 0;
+      margin-top: 20px;
+    }
+  }
+}
+
+.post-list-tags {
+  margin: 10px;
+  .post-tag {
+    padding: 5px 10px;
+    color: white;
+    background-color: rgba($colortheme, 0.7);
+    border-radius: 50px;
+  }
 }

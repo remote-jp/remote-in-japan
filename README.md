@@ -18,9 +18,7 @@ npm start
 ## Categories
 
 - Fully remote jobs: `full_remote`
-- Partially remote jobs: `partial_remote`
 - Japanese required remote jobs: `ja_required`
-- No Japanese required remote jobs: `no_ja_required`
 
 ## License
 

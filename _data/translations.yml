@@ -13,3 +13,11 @@ searchPlaceholder:
 seeOnGithub:
   en: 'Contribute on <a href="https://github.com/uiur/remote-in-japan" class="underline">Github</a>'
   ja: 'Add missing translation <a href="https://github.com/uiur/remote-in-japan"> <span>here</span> </a>'
+
+postTagFullRemote:
+  en: 'Fully remote 👌'
+  ja: 'フルリモート 👌'
+
+postTagJaRequired:
+  en: 'Japanese required 🇯🇵'
+  ja: '日本語が必要 🇯🇵'

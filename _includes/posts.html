@@ -20,10 +20,15 @@
               <small><time>{{ post.date | date_to_string }}</time></small>
             </div>
           </div>
-          <div class="list-item-icon container align-items-center justify-content-center">
-            {% if post.categories contains 'full_remote' %} 
-              <small>Full remote 👌</small> 
-            {% endif %} 
+          <div class="post-list-tags" data-aos="fade-left" data-aos-delay="800" data-aos-offset="0">
+            {% for category in post.categories%}
+              {% if category == 'full_remote' %} 
+                <small class="post-tag">{{ site.data.translations.postTagFullRemote[post.lang]}}</small> 
+              {% endif %} 
+              {% if category == 'ja_required' %} 
+                <small class="post-tag">{{ site.data.translations.postTagJaRequired[post.lang]}}</small> 
+              {% endif %} 
+            {% endfor %}
           </div>
         </a>
       {% endfor %} 
