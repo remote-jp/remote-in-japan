@@ -4,3 +4,4 @@ _site
 jekyll-help-center-theme-0.1.0.gem
 jekyll-help-center-theme.gemspec
 node_modules
+.DS_Store

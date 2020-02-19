@@ -4,11 +4,11 @@ Simple and responsive website for remote work in Japan in Japanese and English.
 
 # Install & Run
 
-```
-git clone https://github.com/gustavoquinalha/jekyll-help-center-theme
-bundle install
-npm start
-```
+1. Git clone repo
+2. ```
+   bundle install
+   npm start
+   ```
 
 ## Languages
 
