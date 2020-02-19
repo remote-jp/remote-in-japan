@@ -6,11 +6,6 @@
     {% if related.size > 0 %}
       {% for post in related limit: 50 %}
         <a href="{{ site.baseurl }}{{ post.url }}" class="list-item container" data-aos="fade-up" data-aos-offset="0" data-aos-delay="100">
-
-          <div class="list-item-icon container align-items-center justify-content-center">
-            <span class="feather-icon icon-{{post.icon}}" data-aos="fade-right" data-aos-offset="0" data-aos-delay="500"></span>
-          </div>
-
           <div class="flex-grow-1">
             <div class="" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0">
               <h2 class="list-post-title"> {{ post.title }} </h2>
@@ -21,11 +16,16 @@
             </div>
 
             <div class="list-post-written" data-aos="fade-up" data-aos-delay="700" data-aos-offset="0">
-              <small>Written by <span>{{ post.by }}</span>-</small>
+              <small>Created by <span>{{ post.by }}</span>-</small>
               <small><time>{{ post.date | date_to_string }}</time></small>
             </div>
           </div>
-
+          <div class="list-item-icon container align-items-center justify-content-center">
+            {% if post.categories contains 'full_remote' %} 
+            <small>Full remote</small>
+              👌 
+            {% endif %} 
+          </div>
         </a>
       {% endfor %} 
     {% endif %}
