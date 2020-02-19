@@ -1,6 +1,6 @@
 # remoteworks.jp
 
-Simple and responsive website in Japanese and English.
+Simple and responsive website for remote work in Japan in Japanese and English.
 
 # Install & Run
 
