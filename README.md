@@ -2,6 +2,8 @@
 
 Simple and responsive website for remote work in Japan in Japanese and English.
 
+live demo: https://remoteworks.netlify.com/
+
 # Install & Run
 
 1. Git clone repo
