@@ -4,18 +4,8 @@
   overflow: hidden;
 
   .footer--block {
-    a {
-      color: $colortheme;
-
-      span {
-        font-weight: bold;
-      }
-    }
-
-    .by {
-      a {
-        color: #515151;
-      }
+    .underline {
+      text-decoration: underline;
     }
   }
 }

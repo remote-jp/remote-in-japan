@@ -5,6 +5,10 @@
   left: 0;
   z-index: 10;
   overflow: hidden;
+  small {
+    margin-right: 3px;
+    color: white;
+  }
 }
 
 .menu--content {
@@ -32,9 +36,4 @@
       display: none;
     }
   }
-}
-
-small {
-  margin-right: 3px;
-  color: white;
 }

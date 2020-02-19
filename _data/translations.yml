@@ -1,11 +1,15 @@
 titleDescription:
   en: 'Remote jobs in Japan'
-  ja: "Add missing translation <a href='https://github.com/uiur/remote-in-japan'> <span>here</span> </a>"
+  ja: 'Add missing translation <a href="https://github.com/uiur/remote-in-japan"> <span>here</span> </a>'
 
 viewLanguage:
   en: 'view in'
-  ja: "Add missing translation <a href='https://github.com/uiur/remote-in-japan'> <span>here</span> </a>"
+  ja: 'Add missing translation <a href="https://github.com/uiur/remote-in-japan"> <span>here</span> </a>'
 
 searchPlaceholder:
   en: 'Search for job posts...'
   ja: '求人を検索...'
+
+seeOnGithub:
+  en: 'See it on <a href="https://github.com/uiur/remote-in-japan" class="underline">Github</a>'
+  ja: 'Add missing translation <a href="https://github.com/uiur/remote-in-japan"> <span>here</span> </a>'

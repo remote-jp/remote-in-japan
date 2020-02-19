@@ -1,12 +1,11 @@
 <footer>
   <div class="footer container column align-items-center justify-content-center">
-    <ul class="languages footer--block text-align-center">
-      <!-- TODO: remove fake next line -->
-      <li class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0"><a href="/{{lang[0]}}">hello this english</a></li>
-      {% for lang in site.data.languages %}
-        {% assign language = lang[1] %}
-        <li class="" data-aos="fade-up" data-aos-delay="" data-aos-offset="0"><a href="/{{lang[0]}}">{{ site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}</a></li>
-      {% endfor %}
-    </ul>
-  </div> 
+    <div class="footer--block text-align-center">
+      <div class="by" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">
+        <a href="{{ site.baseurl }}/{{page.lang}}" target="_blank"><span>{{ site.title }}</span> <small>is made with ❤️ using Jekyll</small></a>
+        <br>
+        <small>{{ site.data.translations['seeOnGithub'][page.lang] }} - {{ 'now' | date: "%Y" }}</small>
+      </div>
+    </div>
+  </div>
 </footer>
