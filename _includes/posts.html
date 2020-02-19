@@ -16,7 +16,7 @@
             </div>
 
             <div class="list-post-written" data-aos="fade-up" data-aos-delay="700" data-aos-offset="0">
-              <small>Created by <span>{{ post.by }}</span>-</small>
+              <small> {{ site.data.translations.postCreatedBy[post.lang] }} <span>{{ post.by }}</span>-</small>
               <small><time>{{ post.date | date_to_string }}</time></small>
             </div>
           </div>
