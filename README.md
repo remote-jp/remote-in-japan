@@ -1,31 +1,3 @@
-# remoteworks.jp
-
-Simple and responsive website for remote work in Japan in Japanese and English.
-
-live demo: https://remoteworks.netlify.com/
-
-# Install & Run
-
-1. Git clone repo
-2. ```
-   bundle install
-   npm start
-   ```
-
-## Languages
-
-- Japanese 🇯🇵
-- English 🇺🇸
-
-## Categories
-
-- Fully remote jobs: `full_remote`
-- Japanese required remote jobs: `ja_required`
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
 # remote-in-japan
 
 リモートワークを採用している日本のテクノロジー企業のまとめ。
