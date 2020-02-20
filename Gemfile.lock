@@ -52,7 +52,7 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
-    rack (1.6.8)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     rack-test (0.8.2)
