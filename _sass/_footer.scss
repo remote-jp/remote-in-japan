@@ -1,0 +1,11 @@
+.footer {
+  min-height: 200px;
+  background: #ececec;
+  overflow: hidden;
+
+  .footer--block {
+    .underline {
+      text-decoration: underline;
+    }
+  }
+}

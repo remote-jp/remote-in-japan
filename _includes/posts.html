@@ -1,0 +1,37 @@
+<div class="">
+  {% if site.posts.size == 0 %}
+    <h2>No job post found</h2>
+  {% else %}
+    {% assign related = site.posts | where:"lang", page.lang %}
+    {% if related.size > 0 %}
+      {% for post in related limit: 50 %}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="list-item container" data-aos="fade-up" data-aos-offset="0" data-aos-delay="100">
+          <div class="flex-grow-1">
+            <div class="" data-aos="fade-up" data-aos-delay="600" data-aos-offset="0">
+              <h2 class="list-post-title"> {{ post.title }} </h2>
+            </div>
+
+            <div class="" data-aos="fade-up" data-aos-delay="700" data-aos-offset="0">
+              <span class="list-post-description">{{ post.description }}</span>
+            </div>
+
+            <div class="list-post-written" data-aos="fade-up" data-aos-delay="700" data-aos-offset="0">
+              <small> {{ site.data.translations.postCreatedBy[post.lang] }} <span>{{ post.by }}</span>-</small>
+              <small><time>{{ post.date | date_to_string }}</time></small>
+            </div>
+          </div>
+          <div class="post-list-tags" data-aos="fade-left" data-aos-delay="800" data-aos-offset="0">
+            {% for category in post.categories%}
+              {% if category == 'full_remote' %} 
+                <small class="post-tag">{{ site.data.translations.postTagFullRemote[post.lang]}}</small> 
+              {% endif %} 
+              {% if category == 'ja_required' %} 
+                <small class="post-tag">{{ site.data.translations.postTagJaRequired[post.lang]}}</small> 
+              {% endif %} 
+            {% endfor %}
+          </div>
+        </a>
+      {% endfor %} 
+    {% endif %}
+  {% endif %}
+</div>

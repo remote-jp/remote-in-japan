@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="size margin min-height">
+  <article>
+    <h1 class="post-title" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">{{ page.title }}</h1>
+    <div class="post-date" data-aos="fade-left" data-aos-delay="300" data-aos-offset="0">
+      <time>{{ page.date | date_to_string }}</time>
+    </div>
+
+    <div class="margin-top-20 margin-bottom-50">
+     {{ page.job_description }}
+    </div>
+
+    {{ content }}
+
+  </article>
+  <small>{{ site.data.translations.postCreatedBy[page.lang] }} <b>{{ page.by }}</b></small>
+</div>

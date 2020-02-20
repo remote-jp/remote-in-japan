@@ -1,0 +1,89 @@
+.bg-header {
+  background: #000;
+}
+
+.header {
+  min-height: 200px;
+  background: url('../assets/img/pattern.svg'), rgba($colortheme, 0.9);
+  background-size: 310px;
+  width: 100%;
+
+  .header--block {
+    color: $colortext;
+
+    .header--block--input {
+      display: flex;
+      align-items: center;
+      background: #fff;
+      margin-top: 20px;
+      border-radius: 4px;
+      overflow: hidden;
+      width: 100%;
+      opacity: 0.5;
+      transition: 0.3s;
+
+      &:focus-within {
+        opacity: 1;
+        box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+
+        .header--block--input--icon {
+          opacity: 1;
+        }
+      }
+
+      .header--block--input--icon {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        margin: 10px;
+        box-sizing: border-box;
+        opacity: 0.5;
+        span {
+          color: rgba(0, 0, 0, 1);
+        }
+      }
+
+      .input-search {
+        width: 100%;
+        height: 60px;
+        border: none;
+        box-sizing: border-box;
+        outline: none;
+        font-size: 16px;
+        background: transparent;
+      }
+    }
+  }
+}
+
+.position-search {
+  position: relative;
+}
+
+.header--block--result {
+  width: 100%;
+  background: #fff;
+  z-index: 9;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  border-radius: 4px;
+  ul {
+    list-style: none;
+    li {
+      border-bottom: 1px solid #ddd;
+      border-left: 1px solid #ddd;
+      border-right: 1px solid #ddd;
+      padding: 10px;
+      box-sizing: border-box;
+      &:first-child {
+        border-top: 1px solid #ddd;
+      }
+      a {
+        &:hover {
+          color: $colortheme;
+        }
+      }
+    }
+  }
+}

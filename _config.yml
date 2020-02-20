@@ -1,0 +1,20 @@
+# Site settings
+title: 'Remotework.jp'
+email: hatem.houssein@gmail.com
+description: 'Simple and responsive website for remote work in Japan in Japanese and English.'
+baseurl: ''
+url: 'https://remoteworks.netlify.com/' # change to the production link url
+twitter_username: 'hatem_hou'
+github_username: 'SaulSilver'
+color_theme: '#3c0909'
+color_text: '#fff'
+
+# Build settings
+markdown: kramdown
+# permalink: /:title/     #permalinks are set per file to handlem multilanguages
+gems: [jekyll-paginate]
+paginate: 10
+
+# Plugins
+plugins_dir:
+  - jekyll-admin

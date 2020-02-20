@@ -1,0 +1,27 @@
+{% include head.html %}
+
+<body>
+  <div class="">
+    {% include menu.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+  </div>
+  <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.min.js"></script>
+  
+  <script>
+    AOS.init({
+      once: true
+    });
+
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{ site.baseurl }}/search.json'
+    })
+  </script>
+</body>
+
+</html>

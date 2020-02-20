@@ -1,0 +1,23 @@
+titleDescription:
+  en: 'Tech remote jobs in Japan'
+  ja: 'Add missing translation <a href="https://github.com/uiur/remote-in-japan"> <span>here</span> </a>'
+
+searchPlaceholder:
+  en: 'Search for job posts...'
+  ja: '求人を検索...'
+
+seeOnGithub:
+  en: 'Contribute on <a href="https://github.com/uiur/remote-in-japan" class="underline">GitHub</a>'
+  ja: 'Add missing translation <a href="https://github.com/uiur/remote-in-japan"> <span>here</span> </a>'
+
+postTagFullRemote:
+  en: 'Fully remote 👌'
+  ja: 'フルリモート 👌'
+
+postTagJaRequired:
+  en: 'Japanese required 🇯🇵'
+  ja: '日本語が必要 🇯🇵'
+
+postCreatedBy:
+  en: 'Created by'
+  ja: 'によって'
