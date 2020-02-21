@@ -2,6 +2,7 @@
 
 require 'kramdown'
 require 'pry'
+require 'sanitize'
 
 readme_en = IO.readlines('../README.en.md')[8..-20]
 readme_ja = IO.readlines('../README.md')[10..-17]
@@ -15,12 +16,14 @@ readme_en.each_with_index do |line, index|
   link = name_and_link.attr['href']
   id   = name.gsub(' ', '_').delete(".,").downcase
 
+  desc = Sanitize.clean(Kramdown::Document.new(l[2].strip).to_html.strip)
+
   company =  "---\n"
   company << "layout: post\n"
   company << "lang: en\n"
   company << "permalink: /en/#{id}\n"
   company << "title: #{name}\n"
-  company << "description: #{Kramdown::Document.new(l[2].strip).to_html.strip}\n"
+  company << "description: #{desc}\n"
   company << "is_full_remote: #{l[3].include?('ok') ? true : false}\n"
   company << "---\n"
 

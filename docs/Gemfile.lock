@@ -6,6 +6,7 @@ GEM
     backports (3.16.1)
     colorator (1.1.0)
     concurrent-ruby (1.1.6)
+    crass (1.0.6)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -86,6 +87,10 @@ GEM
       ffi (~> 1.0)
     rouge (3.16.0)
     safe_yaml (1.0.5)
+    sanitize (5.1.0)
+      crass (~> 1.0.2)
+      nokogiri (>= 1.8.0)
+      nokogumbo (~> 2.0)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
@@ -122,6 +127,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   rake
+  sanitize
   support-for
 
 BUNDLED WITH
