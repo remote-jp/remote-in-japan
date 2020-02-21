@@ -14,7 +14,7 @@ readme_en.each_with_index do |line, index|
   name_and_link = Kramdown::Document.new(l[1]).root.children[0].children[0]
   name = name_and_link.children[0].value.strip
   link = name_and_link.attr['href']
-  id   = name.gsub(' ', '_').delete(".,").downcase
+  id   = name.gsub(' ', '_').gsub('&', 'and').delete(".,").downcase
 
   desc = Sanitize.clean(Kramdown::Document.new(l[2].strip).to_html.strip)
 
@@ -31,6 +31,5 @@ readme_en.each_with_index do |line, index|
   #company << "by: John Doe\n" # Not being used
   #company << "image: ''\n" # Not being used
 
-  puts company
-  puts
+  IO.write("./en/_posts/2020-02-22-#{id}", company)
 end
