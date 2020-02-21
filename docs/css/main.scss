@@ -12,3 +12,5 @@ $baseurl: '{{ site.baseurl }}';
 @import "layout";
 @import "icons";
 @import "post";
+
+.post-title { margin-top: 15px; }
