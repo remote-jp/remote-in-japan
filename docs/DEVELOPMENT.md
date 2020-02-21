@@ -1,15 +1,13 @@
-# remoteworks.jp
+# remotework.jp
 
 Simple and responsive website for remote work in Japan in Japanese and English.
-
-live demo: https://remoteworks.netlify.com/
 
 # Install & Run
 
 1. Git clone repo
 2. ```
    bundle install
-   npm start
+   bundle exec jekyll serve
    ```
 
 ## Languages 

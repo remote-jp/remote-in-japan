@@ -1,7 +1,12 @@
 source 'http://rubygems.org'
 
 gem 'rake'
-gem 'html-proofer'
+gem 'sanitize'
+
+group :development, :test do
+  gem 'pry'
+  gem 'html-proofer'
+end
 
 group :jekyll_plugins do
   gem 'jekyll'
