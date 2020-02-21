@@ -21,8 +21,8 @@ readme.each_with_index do |line, index|
 
   company =  "---\n"
   company << "layout: post\n"
-  company << "lang: en\n"
-  company << "permalink: /en/#{id}\n"
+  company << "lang: #{lang}\n"
+  company << "permalink: /#{lang}/#{id}\n"
   company << "title: #{name}\n"
   company << "description: '#{desc}'\n"
   company << "categories: #{l[3].include?('ok') ? 'full_remote' : '' }\n"
@@ -32,6 +32,6 @@ readme.each_with_index do |line, index|
   #company << "by: John Doe\n" # Not being used
   #company << "image: ''\n" # Not being used
 
-  IO.write("./en/_posts/2020-02-21-#{id}.md", company)
-  puts "Upsert: ./en/_posts/2020-02-21-#{id}.md"
+  IO.write("./#{lang}/_posts/2020-02-21-#{id}.md", company)
+  puts "Upsert: ./#{lang}/_posts/2020-02-21-#{id}.md"
 end
