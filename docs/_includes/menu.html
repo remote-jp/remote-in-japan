@@ -8,7 +8,7 @@
       {% for lang in site.data.languages %}
         {% assign language = lang[1] %}
         {% if page.lang != language.code %}
-          <li><small><a href="/{{lang[0]}}">{{language.label}} {{language.icon}}</a></small></li>
+          <li><small><a href="/{{lang[0]}}">{{language.label}}</a></small></li>
         {% endif %}
       {% endfor %}
     </ul>
