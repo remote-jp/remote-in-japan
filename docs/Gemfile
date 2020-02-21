@@ -1,5 +1,8 @@
 source 'http://rubygems.org'
 
+gem 'rake'
+gem 'html-proofer'
+
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-admin'
@@ -8,4 +11,4 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
   gem 'jekyll-livereload'
- end
+end
