@@ -31,5 +31,6 @@ readme_en.each_with_index do |line, index|
   #company << "by: John Doe\n" # Not being used
   #company << "image: ''\n" # Not being used
 
-  IO.write("./en/_posts/2020-02-22-#{id}", company)
+  IO.write("./en/_posts/2020-02-22-#{id}.md", company)
+  puts "Upsert: ./en/_posts/2020-02-22-#{id}.md"
 end
