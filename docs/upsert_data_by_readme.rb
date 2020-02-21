@@ -17,14 +17,15 @@ readme.each_with_index do |line, index|
   link = name_and_link.attr['href']
   id   = name.gsub(' ', '_').gsub('&', 'and').delete(".,").downcase
 
-  desc = Sanitize.clean(Kramdown::Document.new(l[2].strip).to_html.strip)
+  full_description = Kramdown::Document.new(l[2].strip).to_html.strip
 
   company =  "---\n"
   company << "layout: post\n"
   company << "lang: #{lang}\n"
   company << "permalink: /#{lang}/#{id}\n"
   company << "title: #{name}\n"
-  company << "description: '#{desc}'\n"
+  company << "description: '#{Sanitize.clean(full_description)}'\n"
+  company << "description_full: '#{full_description}'\n"
   company << "categories: #{l[3].include?('ok') ? 'full_remote' : '' }\n"
   company << "link: #{link}\n"
   company << "---\n"
