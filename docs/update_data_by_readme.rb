@@ -21,12 +21,12 @@ readme_en.each_with_index do |line, index|
   company << "permalink: /en/#{id}\n"
   company << "title: #{name}\n"
   company << "description: #{Kramdown::Document.new(l[2].strip).to_html.strip}\n"
-  company << "date: 2019-01-01 00:00:00 +0900\n" # Not being used
-  company << "by: John Doe\n" # Not being used
-
   company << "is_full_remote: #{l[3].include?('ok') ? true : false}\n"
-  company << "image: ''\n" # Not being used
   company << "---\n"
+
+  #company << "date: 2019-01-01 00:00:00 +0900\n" # Not being used
+  #company << "by: John Doe\n" # Not being used
+  #company << "image: ''\n" # Not being used
 
   puts company
   puts
