@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
+require 'pry' unless ENV['JEKYLL_ENV'] == 'production'
 require 'kramdown'
-require 'pry'
 require 'sanitize'
 
 readme_en = IO.readlines('../README.en.md')[8..-20]
