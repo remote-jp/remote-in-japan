@@ -1,8 +1,6 @@
 task default: 'test'
 
 namespace :upsert_data_by_readme do
-  task default: 'all'
-
   desc 'Upsert company data from English README'
   task :en do
     ruby "upsert_data_by_readme.rb en"
