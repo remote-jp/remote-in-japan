@@ -1,7 +1,7 @@
 # Site settings
 title: 'Remotework.jp'
 description: 'Simple and responsive website for remote work in Japan in Japanese and English.'
-baseurl: ''
+baseurl: '/'
 url: 'https://remotework.jp'
 color_theme: '#3c0909'
 color_text: '#fff'
