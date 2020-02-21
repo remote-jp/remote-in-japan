@@ -19,7 +19,6 @@ readme_en.each_with_index do |line, index|
   company << "layout: post\n"
   company << "lang: en\n"
   company << "permalink: /en/#{id}\n"
-  company << "lang-reference: #{id}\n"
   company << "title: #{name}\n"
   company << "description: #{name}\n"
   company << "date: 2019-01-01 00:00:00 +0900\n" # Not being used
