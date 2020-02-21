@@ -24,7 +24,7 @@ readme_en.each_with_index do |line, index|
   company << "permalink: /en/#{id}\n"
   company << "title: #{name}\n"
   company << "description: #{desc}\n"
-  company << "is_full_remote: #{l[3].include?('ok') ? true : false}\n"
+  company << "categories: #{l[3].include?('ok') ? 'full_remote' : '' }\n"
   company << "---\n"
 
   #company << "date: 2019-01-01 00:00:00 +0900\n" # Not being used
