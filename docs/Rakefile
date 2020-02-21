@@ -1,7 +1,24 @@
-task :upsert_data_by_readme do
-  ruby "upsert_data_by_readme.rb"
-end
+task default: 'test'
 
+namespace :upsert_data_by_readme do
+  task default: 'all'
+
+  desc 'Upsert company data from English README'
+  task :en do
+    ruby "upsert_data_by_readme.rb en"
+  end
+
+  desc 'Upsert company data from Japanese README'
+  task :ja do
+    ruby "upsert_data_by_readme.rb ja"
+  end
+
+  desc 'Upsert company data for both languages'
+  task :all do
+    ruby "upsert_data_by_readme.rb en"
+    ruby "upsert_data_by_readme.rb ja"
+  end
+end
 
 require 'html-proofer'
 # cf. GitHub - gjtorikian/html-proofer

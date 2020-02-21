@@ -4,10 +4,11 @@ require 'pry' unless ENV['JEKYLL_ENV'] == 'production'
 require 'kramdown'
 require 'sanitize'
 
-readme_en = IO.readlines('../README.en.md')[8..-20]
-readme_ja = IO.readlines('../README.md')[10..-17]
+lang = ARGV[0] || 'en'
+readme = IO.readlines('../README.en.md')[8..-20] if lang == 'en'
+readme = IO.readlines('../README.md')[10..-17] if lang == 'ja'
 
-readme_en.each_with_index do |line, index|
+readme.each_with_index do |line, index|
   next unless line.include? '|'
 
   l = line.split '|'
