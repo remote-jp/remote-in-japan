@@ -23,7 +23,7 @@ readme_en.each_with_index do |line, index|
   company << "lang: en\n"
   company << "permalink: /en/#{id}\n"
   company << "title: #{name}\n"
-  company << "description: #{desc}\n"
+  company << "description: '#{desc}'\n"
   company << "categories: #{l[3].include?('ok') ? 'full_remote' : '' }\n"
   company << "---\n"
 
