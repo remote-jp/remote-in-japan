@@ -1,3 +1,8 @@
+task :upsert_data_by_readme do
+  system 'echo "TODO: Not implemented yet."'
+end
+
+
 require 'html-proofer'
 # cf. GitHub - gjtorikian/html-proofer
 # https://github.com/gjtorikian/html-proofer
