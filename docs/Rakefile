@@ -1,5 +1,6 @@
 task :upsert_data_by_readme do
   system 'echo "TODO: Not implemented yet."'
+  ruby "update_data_by_readme.rb"
 end
 
 
