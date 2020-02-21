@@ -15,10 +15,13 @@
               <span class="list-post-description">{{ post.description }}</span>
             </div>
 
+	    {% comment %}
             <div class="list-post-written" data-aos="fade-up" data-aos-delay="700" data-aos-offset="0">
               <small> {{ site.data.translations.postCreatedBy[post.lang] }} <span>{{ post.by }}</span>-</small>
               <small><time>{{ post.date | date_to_string }}</time></small>
             </div>
+	    {% endcomment %}
+
           </div>
           <div class="post-list-tags" data-aos="fade-left" data-aos-delay="800" data-aos-offset="0">
             {% for category in post.categories%}
