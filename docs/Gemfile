@@ -4,6 +4,7 @@ gem 'rake'
 gem 'sanitize'
 
 group :development, :test do
+  gem 'pry'
   gem 'html-proofer'
 end
 

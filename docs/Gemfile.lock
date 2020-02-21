@@ -4,6 +4,7 @@ GEM
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     backports (3.16.1)
+    coderay (1.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.1.6)
     crass (1.0.6)
@@ -63,6 +64,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    method_source (0.9.2)
     mini_portile2 (2.4.0)
     multi_json (1.14.1)
     nokogiri (1.10.8)
@@ -74,6 +76,9 @@ GEM
     parallel (1.19.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    pry (0.12.2)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
     public_suffix (4.0.3)
     rack (1.6.13)
     rack-protection (1.5.5)
@@ -126,6 +131,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
+  pry
   rake
   sanitize
   support-for
