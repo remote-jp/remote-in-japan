@@ -9,7 +9,7 @@ layout: null
       "date"        : "{{ post.date }}",
       "categories"  : "{{ post.categories | array_to_sentence_string }}",
       "by"          : "{{ post.by }}",
-      "url"         : "{{ site.baseurl }}{{ post.url }}",
+      "url"         : "/{{ post.url }}",
       "icon"        : "{{ post.icon }}"
 
     } {% unless forloop.last %},{% endunless %}
