@@ -15,8 +15,8 @@ readme_en.each_with_index do |line, index|
   company[:name] = name_and_link.children[0].value.strip
   company[:link] = name_and_link.attr['href']
   company[:id]   = company[:name].gsub(' ', '_').delete(".,").downcase
-  company[:desc] = l[2].strip
+  company[:desc] = Kramdown::Document.new(l[2].strip).to_html
   company[:full] = l[3].include?('ok') ? true : false
 
-  puts company[:id]
+  puts company[:desc]
 end
