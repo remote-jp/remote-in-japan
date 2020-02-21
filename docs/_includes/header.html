@@ -1,9 +1,13 @@
 <header>
   <div class="header container align-items-center justify-content-center">
     <div class="header--block size margin container column">
+      <!-- Cover description -->
       <div class="header--block--text" data-aos="fade-up" data-aos-delay="" data-aos-offset="0">
         {{ site.data.translations['titleDescription'][page.lang] }}
       </div>
+
+      <!-- Search field -->
+      {% comment %}
       <div class="container column position-search">
         <div class="header--block--input" data-aos="fade-up" data-aos-delay="" data-aos-offset="0" id="search-container">
           <div class="header--block--input--icon">
@@ -15,6 +19,8 @@
           <ul id="results-container"></ul>
         </div>
       </div>
+      {% endcomment %}
+      
     </div>
   </div>
 </header>
