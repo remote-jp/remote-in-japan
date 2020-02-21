@@ -3,8 +3,10 @@
 require 'kramdown'
 require 'pry'
 
-text = IO.readlines('../README.en.md')[8..-20]
-text.each do |line|
+readme_en = IO.readlines('../README.en.md')[8..-20]
+readme_ja = IO.readlines('../README.md')[10..-17]
+
+readme_en.each_with_index do |line, index|
   next unless line.include? '|'
   company = {}
   l = line.split '|'
@@ -18,5 +20,3 @@ text.each do |line|
 
   puts company[:id]
 end
-
-
