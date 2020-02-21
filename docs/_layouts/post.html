@@ -17,6 +17,10 @@ layout: default
 
     {{ content }}
 
+    <p>
+      {{ site.data.translations.link[page.lang] }}: <a href="{{ page.link }}">{{ page.link }}</a>
+    </p>
+
   </article>
 
   {% comment %}

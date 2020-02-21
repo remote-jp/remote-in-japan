@@ -21,3 +21,7 @@ postTagJaRequired:
 postCreatedBy:
   en: 'Created by'
   ja: 'によって'
+
+link:
+  en: 'Link'
+  ja: 'リンク'

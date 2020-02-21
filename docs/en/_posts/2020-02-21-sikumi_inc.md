@@ -5,4 +5,5 @@ permalink: /en/sikumi_inc
 title: SIKUMI Inc.
 description: ' Developing Mobile / Web Apps. '
 categories: full_remote
+link: http://sikmi.com/
 ---

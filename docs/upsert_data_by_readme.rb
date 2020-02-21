@@ -26,6 +26,7 @@ readme.each_with_index do |line, index|
   company << "title: #{name}\n"
   company << "description: '#{desc}'\n"
   company << "categories: #{l[3].include?('ok') ? 'full_remote' : '' }\n"
+  company << "link: #{link}\n"
   company << "---\n"
 
   #company << "date: 2019-01-01 00:00:00 +0900\n" # Not being used
