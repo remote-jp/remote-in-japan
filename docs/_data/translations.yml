@@ -1,6 +1,6 @@
 titleDescription:
   en: 'Tech remote jobs in Japan'
-  ja: 'Add missing translation <a href="https://github.com/uiur/remote-in-japan"> <span>here</span> </a>'
+  ja: 'Tech remote jobs in Japan''
 
 searchPlaceholder:
   en: 'Search for job posts...'
@@ -8,7 +8,7 @@ searchPlaceholder:
 
 seeOnGithub:
   en: 'Contribute on <a href="https://github.com/uiur/remote-in-japan" class="underline">GitHub</a>'
-  ja: 'Add missing translation <a href="https://github.com/uiur/remote-in-japan"> <span>here</span> </a>'
+  ja: 'Contribute on <a href="https://github.com/uiur/remote-in-japan" class="underline">GitHub</a>'
 
 postTagFullRemote:
   en: 'Fully remote 👌'
