@@ -9,7 +9,7 @@ live demo: https://remoteworks.netlify.com/
 1. Git clone repo
 2. ```
    bundle install
-   npm start
+   bundle exec jekyll serve
    ```
 
 ## Languages 
