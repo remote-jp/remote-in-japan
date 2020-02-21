@@ -15,8 +15,8 @@ postTagFullRemote:
   ja: 'フルリモート 👌'
 
 postTagJaRequired:
-  en: 'Japanese required 🇯🇵'
-  ja: '日本語が必要 🇯🇵'
+  en: 'Japanese required'
+  ja: '日本語が必要'
 
 postCreatedBy:
   en: 'Created by'

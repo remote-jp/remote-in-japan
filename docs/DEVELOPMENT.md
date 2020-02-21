@@ -12,10 +12,10 @@ live demo: https://remoteworks.netlify.com/
    npm start
    ```
 
-## Languages
+## Languages 
 
-- Japanese 🇯🇵
-- English 🇺🇸
+- Japanese
+- English
 
 ## Categories
 
