@@ -3,7 +3,7 @@ title: 'Remotework.jp'
 email: hatem.houssein@gmail.com
 description: 'Simple and responsive website for remote work in Japan in Japanese and English.'
 baseurl: ''
-url: 'https://remoteworks.netlify.com/' # change to the production link url
+url: 'https://remotework.jp/'
 twitter_username: 'hatem_hou'
 github_username: 'SaulSilver'
 color_theme: '#3c0909'
