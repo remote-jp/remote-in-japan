@@ -13,4 +13,16 @@ $baseurl: '{{ site.baseurl }}';
 @import "icons";
 @import "post";
 
+$dark-blue: rgb(11,0,128);
+
 .post-title { margin-top: 15px; }
+article p {
+  a{
+    color: $dark-blue;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+      text-decoration-color: $dark-blue;
+    }
+  }
+}
