@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 gem 'rake'
 gem 'sanitize'
+gem "liquid-c"
 
 group :development, :test do
   gem 'pry'
@@ -10,10 +11,9 @@ end
 
 group :jekyll_plugins do
   gem 'jekyll'
-  gem 'jekyll-admin'
   gem 'jekyll-paginate'
   gem 'support-for'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
-  gem 'jekyll-livereload'
+  gem "jekyll-include-cache"
 end
