@@ -25,3 +25,7 @@ postCreatedBy:
 link:
   en: 'Link'
   ja: 'リンク'
+
+back:
+  en: 'Back'
+  ja: '戻る'
