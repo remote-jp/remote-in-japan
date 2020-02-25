@@ -17,7 +17,7 @@ paginate: 10
 
 # Plugins
 plugins_dir:
-  - jekyll-admin
+  - jekyll-include-cache
 
 exclude:
   - .jekyll-cache
