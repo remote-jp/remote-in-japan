@@ -1,3 +1,10 @@
+menuSwitcher:
+  en: 'ja'
+  ja: 'en'
+menuSwitcherLabel:
+  en: '日本語'
+  ja: 'English'
+
 titleDescription:
   en: 'Tech remote jobs in Japan'
   ja: 'Tech remote jobs in Japan'

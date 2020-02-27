@@ -5,12 +5,7 @@
       <a href="/{{ page.lang }}"><span>{{ site.title }}</span></a>
     </div>
      <ul class="languages container align-items-baseline" data-aos="fade-left" data-aos-delay="" data-aos-offset="0">
-      {% for lang in site.data.languages %}
-        {% assign language = lang[1] %}
-        {% if page.lang != language.code %}
-          <li><small><a href="/{{ lang[0] }}">{{ language.label }}</a></small></li>
-        {% endif %}
-      {% endfor %}
+       <li><small><a href="/{{ site.data.translations.menuSwitcher[page.lang] }}">{{ site.data.translations.menuSwitcherLabel[page.lang] }}</a></small></li>
     </ul>
   </div>
 </div>
