@@ -6,11 +6,12 @@ Simple and responsive website for remote work in Japan in Japanese and English.
 
 1. Git clone repo
 2. ```
+   cd docs
    bundle install
    bundle exec jekyll serve
    ```
 
-## Languages 
+## Languages
 
 - Japanese
 - English
