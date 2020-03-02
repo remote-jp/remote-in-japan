@@ -21,8 +21,14 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  @media (prefers-color-scheme: dark) {
+    color: #515151;
+    background-color: #000;
+  }
+  @media (prefers-color-scheme: light) {
+    color: #515151;
+    background-color: #fff;
+  }
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }

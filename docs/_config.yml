@@ -1,6 +1,6 @@
 # Site settings
 title: 'Remotework.jp'
-description: 'Simple and responsive website for remote work in Japan in Japanese and English.'
+description: 'Tech remote jobs in Japan in Japanese and English.'
 baseurl: '/'
 url: 'https://remotework.jp'
 color_theme: '#3c0909'
@@ -8,7 +8,7 @@ color_text: '#fff'
 
 # Build settings
 markdown: kramdown
-# permalink: /:title/     #permalinks are set per file to handlem multilanguages
+# permalink: /:title/     #permalinks are set per file to handle multilanguages
 
 plugins:
   - jekyll-paginate
