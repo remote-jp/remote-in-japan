@@ -1,3 +1,5 @@
+@import './mixins';
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -21,14 +23,8 @@ html {
 }
 
 body {
-  @media (prefers-color-scheme: dark) {
-    color: #515151;
-    background-color: #000;
-  }
-  @media (prefers-color-scheme: light) {
-    color: #515151;
-    background-color: #fff;
-  }
+  @include scheme-mode-color('body', 'color');
+  @include scheme-mode-color('body', 'background-color');
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
