@@ -14,11 +14,17 @@ $baseurl: '{{ site.baseurl }}';
 @import "post";
 
 $dark-blue: rgb(11,0,128);
+$light-blue: rgb(51,204,255);
 
 .post-title { margin-top: 15px; }
 article p {
   a{
-    color: $dark-blue;
+    @media (prefers-color-scheme: dark) {
+      color: $light-blue;
+    }
+    @media (prefers-color-scheme: light) {
+      color: $dark-blue;
+    }
     text-decoration: none;
     &:hover {
       text-decoration: underline;
