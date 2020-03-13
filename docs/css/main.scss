@@ -1,28 +1,52 @@
 ---
 ---
 
-$colortheme: {{ site.color_theme }};
-$colortext: {{ site.color_text }};
 $baseurl: '{{ site.baseurl }}';
 
-@import "base";
-@import "menu";
-@import "header";
-@import "footer";
-@import "layout";
-@import "icons";
-@import "post";
+@import 'base';
+@import 'menu';
+@import 'header';
+@import 'footer';
+@import 'icons';
+@import 'post';
 
-$dark-blue: rgb(11,0,128);
+:root {
+  --color-theme: hsl(0, 74%, 14%);
+  --color-theme-lighter: hsla(0, 75%, 14%, 0.9);
+  --color-theme-grey: hsla(0, 35%, 14%, 0.5);
 
-.post-title { margin-top: 15px; }
+  --color-background: hsl(0, 0%, 100%);
+  --color-title: white;
+  --color-text: hsl(0, 0%, 32%);
+
+  --color-link: #0000ff;
+  --color-link: white;
+  @media screen and (prefers-color-scheme: dark) {
+    --color-theme: hsl(0, 74%, 14%);
+    --color-theme-lighter: hsl(0, 75%, 18%);
+    --color-theme-grey: hsl(0, 74%, 14%, 0.5);
+
+    --color-background: hsl(0, 5%, 21%);
+    --color-title: hsl(0, 0%, 79%);
+    --color-text: hsl(0, 0%, 79%);
+
+    --color-link: hsl(0, 98%, 39%);
+    --color-link-hover: hsl(0, 98%, 45%);
+  }
+}
+
+.post-title {
+  margin-top: 15px;
+}
+
 article p {
-  a{
-    color: $dark-blue;
+  a {
+    color: var(--color-link);
     text-decoration: none;
     &:hover {
       text-decoration: underline;
-      text-decoration-color: $dark-blue;
+      color: var(--color-link-hover);
+      text-decoration-color: var(--color-link-hover);
     }
   }
 }

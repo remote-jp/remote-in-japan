@@ -1,15 +1,16 @@
 .bg-header {
+  // FIXME: check this color
   background: #000;
 }
 
 .header {
   min-height: 200px;
-  background: url('../assets/img/pattern.svg'), rgba($colortheme, 0.9);
+  background-color: var(--color-theme);
   background-size: 310px;
   width: 100%;
 
   .header--block {
-    color: $colortext;
+    color: var(--color-text);
 
     .header--block--input {
       display: flex;
@@ -39,6 +40,7 @@
         box-sizing: border-box;
         opacity: 0.5;
         span {
+          // FIXME: check this color
           color: rgba(0, 0, 0, 1);
         }
       }
@@ -62,7 +64,7 @@
 
 .header--block--result {
   width: 100%;
-  background: #fff;
+  background: var(--color-background);
   z-index: 9;
   position: absolute;
   top: 80px;
@@ -81,7 +83,7 @@
       }
       a {
         &:hover {
-          color: $colortheme;
+          color: var(--color-theme);
         }
       }
     }
