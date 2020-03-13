@@ -36,7 +36,7 @@
   .list-post-title {
     font-size: 22px;
     transition: 0.3s;
-    color: var(--color-theme);
+    color: var(--color-title);
   }
   .list-post-description {
     font-size: 16px;
@@ -76,6 +76,11 @@
       margin-top: 20px;
     }
   }
+}
+
+.post-title {
+  margin-top: 15px;
+  color: var(--color-title);
 }
 
 .post-list-tags {

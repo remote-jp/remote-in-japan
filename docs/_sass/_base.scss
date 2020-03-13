@@ -1,5 +1,3 @@
-@import './mixins';
-
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -23,8 +21,8 @@ html {
 }
 
 body {
-  @include scheme-mode-color('body', 'color');
-  @include scheme-mode-color('body', 'background-color');
+  color: var(--color-text);
+  background-color: var(--color-background);
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }

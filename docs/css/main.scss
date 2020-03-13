@@ -16,7 +16,7 @@ $baseurl: '{{ site.baseurl }}';
   --color-theme-grey: hsla(0, 35%, 14%, 0.5);
 
   --color-background: hsl(0, 0%, 100%);
-  --color-title: white;
+  --color-title: hsl(38, 11%, 86%);
   --color-text: hsl(0, 0%, 32%);
 
   --color-link: #0000ff;
@@ -26,17 +26,12 @@ $baseurl: '{{ site.baseurl }}';
     --color-theme-lighter: hsl(0, 75%, 18%);
     --color-theme-grey: hsl(0, 74%, 14%, 0.5);
 
-    --color-background: hsl(0, 5%, 21%);
-    --color-title: hsl(0, 0%, 79%);
-    --color-text: hsl(0, 0%, 79%);
-
+    --color-background: hsl(0, 0%, 0%);
+    --color-title: hsl(0, 74%, 84%);
+    --color-text: hsl(38, 11%, 86%);
     --color-link: hsl(0, 98%, 39%);
     --color-link-hover: hsl(0, 98%, 45%);
   }
-}
-
-.post-title {
-  margin-top: 15px;
 }
 
 article p {
