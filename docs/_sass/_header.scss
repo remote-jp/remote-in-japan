@@ -1,8 +1,3 @@
-.bg-header {
-  // FIXME: check this color
-  background: #000;
-}
-
 .header {
   min-height: 200px;
   background-color: var(--color-theme);
@@ -39,10 +34,6 @@
         margin: 10px;
         box-sizing: border-box;
         opacity: 0.5;
-        span {
-          // FIXME: check this color
-          color: rgba(0, 0, 0, 1);
-        }
       }
 
       .input-search {

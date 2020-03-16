@@ -9,19 +9,19 @@
     margin-right: 3px;
     color: white;
   }
+  a {
+    color: #fff;
+    text-decoration: none;
+    span {
+      font-weight: bold;
+    }
+  }
 }
 
 .menu--content {
   height: 80px;
 }
 
-.menu a {
-  color: #fff;
-}
-
-.menu a span {
-  font-weight: bold;
-}
 .back-to-site {
   font-size: 14px;
   @media screen and (max-width: 480px) {

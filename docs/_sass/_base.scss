@@ -28,9 +28,14 @@ body {
 }
 
 a {
-  color: #1a191b;
+  color: var(--color-link);
   text-decoration: none;
   transition: 0.3s;
+  &:hover {
+    text-decoration: underline;
+    color: var(--color-link-hover);
+    text-decoration-color: var(--color-link-hover);
+  }
 }
 
 h1,
