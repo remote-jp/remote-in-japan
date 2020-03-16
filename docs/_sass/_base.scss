@@ -48,8 +48,13 @@ h6 {
   margin-bottom: 0.5rem;
   font-weight: 600;
   line-height: 1.1;
-  color: #1a191b;
   letter-spacing: -0.025rem;
+  @media (prefers-color-scheme: dark) {
+    color: #ddd;
+  }
+  @media (prefers-color-scheme: light) {
+    color: #1a191b;
+  }
 }
 
 h1 {
