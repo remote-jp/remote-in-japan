@@ -12,22 +12,28 @@ $baseurl: '{{ site.baseurl }}';
 
 :root {
   --color-theme: hsl(0, 74%, 14%);
-  --color-theme-lighter: hsla(0, 75%, 14%, 0.9);
-  --color-theme-grey: hsla(0, 35%, 14%, 0.5);
+  --color-theme-lighter: hsl(0, 75%, 18%);
+  --color-theme-grey: hsl(0, 74%, 14%, 0.5);
 
-  --color-background: hsl(0, 0%, 100%);
-  --color-text: hsl(0, 0%, 32%);
+  --color-background: hsl(0, 0%, 94%);
+  --color-border: hsl(0, 1%, 77%);
 
-  --color-link: #0000ff;
-  --color-link: white;
+  --color-title: hsl(0, 0%, 94%);
+  --color-text: hsl(0, 0%, 35%);
+
+  --color-link: hsl(0, 74%, 40%);
+  --color-link-hover: hsl(0, 74%, 45%);
   @media screen and (prefers-color-scheme: dark) {
     --color-theme: hsl(0, 74%, 14%);
     --color-theme-lighter: hsl(0, 75%, 18%);
     --color-theme-grey: hsl(0, 74%, 14%, 0.5);
 
     --color-background: hsl(220, 5%, 12%);
-    --color-text: hsl(40, 10%, 83%);
     --color-border: hsl(0, 0%, 35%);
+
+    --color-text: hsl(40, 10%, 83%);
+    --color-title: hsl(40, 10%, 83%);
+
     --color-link: hsl(0, 74%, 40%);
     --color-link-hover: hsl(0, 74%, 45%);
   }

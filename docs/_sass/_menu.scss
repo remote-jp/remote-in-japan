@@ -5,12 +5,8 @@
   left: 0;
   z-index: 10;
   overflow: hidden;
-  small {
-    margin-right: 3px;
-    color: white;
-  }
   a {
-    color: #fff;
+    color: var(--color-title);
     text-decoration: none;
     span {
       font-weight: bold;
