@@ -1,13 +1,16 @@
 .menu {
-  background: $colortheme;
+  background: var(--color-theme-lighter);
   position: sticky;
   top: 0;
   left: 0;
   z-index: 10;
   overflow: hidden;
-  small {
-    margin-right: 3px;
-    color: white;
+  a {
+    color: var(--color-title);
+    text-decoration: none;
+    span {
+      font-weight: bold;
+    }
   }
 }
 
@@ -15,13 +18,6 @@
   height: 80px;
 }
 
-.menu a {
-  color: #fff;
-}
-
-.menu a span {
-  font-weight: bold;
-}
 .back-to-site {
   font-size: 14px;
   @media screen and (max-width: 480px) {

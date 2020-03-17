@@ -1,6 +1,7 @@
 .footer {
   min-height: 200px;
-  background: #ececec;
+  background: var(--color-background);
+  color: var(--color-text);
   overflow: hidden;
 
   .footer--block {

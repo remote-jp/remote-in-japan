@@ -3,8 +3,6 @@ title: 'Remotework.jp'
 description: 'Tech remote jobs in Japan in Japanese and English.'
 baseurl: '/'
 url: 'https://remotework.jp'
-color_theme: '#3c0909'
-color_text: '#fff'
 
 # Build settings
 markdown: kramdown

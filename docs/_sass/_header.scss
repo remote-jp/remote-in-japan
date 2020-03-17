@@ -1,15 +1,11 @@
-.bg-header {
-  background: #000;
-}
-
 .header {
   min-height: 200px;
-  background: url('../assets/img/pattern.svg'), rgba($colortheme, 0.9);
+  background-color: var(--color-theme);
   background-size: 310px;
   width: 100%;
 
   .header--block {
-    color: $colortext;
+    color: var(--color-title);
 
     .header--block--input {
       display: flex;
@@ -38,9 +34,6 @@
         margin: 10px;
         box-sizing: border-box;
         opacity: 0.5;
-        span {
-          color: rgba(0, 0, 0, 1);
-        }
       }
 
       .input-search {
@@ -62,7 +55,7 @@
 
 .header--block--result {
   width: 100%;
-  background: #fff;
+  background: var(--color-background);
   z-index: 9;
   position: absolute;
   top: 80px;
@@ -81,7 +74,7 @@
       }
       a {
         &:hover {
-          color: $colortheme;
+          color: var(--color-theme);
         }
       }
     }

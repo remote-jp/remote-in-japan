@@ -1,6 +1,6 @@
 .content-post {
   min-height: calc(100vh - 480px);
-  background: #f3f5f7;
+  background: var(--color-background);
   padding-top: 30px;
   padding-bottom: 30px;
 }
@@ -8,8 +8,9 @@
 .list-item {
   display: flex;
   flex-direction: column;
+  color: var(--color-text);
   box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.03);
-  border: 1px solid #c1c1c1;
+  border: 1px solid var(--color-border);
   margin-bottom: 20px;
   padding: 20px;
   box-sizing: border-box;
@@ -23,20 +24,22 @@
 
   &:hover {
     transition: 0.3s;
-    border-color: $colortheme;
+    border-color: var(--color-link-hover);
+    text-decoration: none;
+    color: var(--color-text);
   }
 
   .list-item-icon {
     flex-basis: 100px;
     padding-right: 20px;
     font-size: 2rem;
-    color: $colortheme;
+    color: var(--color-theme);
   }
 
   .list-post-title {
     font-size: 22px;
     transition: 0.3s;
-    color: $colortheme;
+    color: var(--color-text);
   }
   .list-post-description {
     font-size: 16px;
@@ -54,28 +57,9 @@
   }
 }
 
-.list-item-2 {
-  box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.03);
-  border: 1px solid #c1c1c1;
-  padding: 40px;
-  box-sizing: border-box;
-  transition: 0.3s;
-  margin-bottom: 10px;
-  overflow: hidden;
-  &:hover {
-    border-color: $colortheme;
-    .list-post-title {
-      color: $colortheme;
-    }
-  }
-
-  .list-item-2-img {
-    margin-right: 20px;
-    @media screen and (max-width: 839px) {
-      margin-right: 0;
-      margin-top: 20px;
-    }
-  }
+.post-title {
+  margin-top: 15px;
+  color: var(--color-text);
 }
 
 .post-list-tags {
@@ -83,7 +67,7 @@
   .post-tag {
     padding: 5px 10px;
     color: white;
-    background-color: rgba($colortheme, 0.7);
+    background-color: var(--color-theme-grey);
     border-radius: 50px;
   }
 }

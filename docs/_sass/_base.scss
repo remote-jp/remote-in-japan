@@ -21,22 +21,21 @@ html {
 }
 
 body {
-  @media (prefers-color-scheme: dark) {
-    color: #eee;
-    background-color: #111;
-  }
-  @media (prefers-color-scheme: light) {
-    color: #515151;
-    background-color: #fff;
-  }
+  color: var(--color-text);
+  background-color: var(--color-background);
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
 
 a {
-  color: #1a191b;
+  color: var(--color-link);
   text-decoration: none;
   transition: 0.3s;
+  &:hover {
+    text-decoration: underline;
+    color: var(--color-link-hover);
+    text-decoration-color: var(--color-link-hover);
+  }
 }
 
 h1,
@@ -56,7 +55,6 @@ h6 {
   @media (prefers-color-scheme: light) {
     color: #1a191b;
   }
-
 }
 
 h1 {
