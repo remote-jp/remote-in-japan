@@ -264,7 +264,7 @@ function compile (data) {
     searchInput: null,
     resultsContainer: null,
     json: [],
-    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+    searchResultTemplate: '<li><a href="{url}" title="{description}">{title}</a></li>',
     templateMiddleware: function () {},
     noResultsText: 'No results found',
     limit: 10,
