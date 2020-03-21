@@ -2,7 +2,8 @@
 layout: null
 ---
 [
-    {% for post in site.posts %}
+    {% assign posts = site.posts | where: "lang", "ja" %}
+    {% for post in posts %}
     {
 	"title"       : "{{ post.title | escape }}",
 	"description" : "{{ post.description }}",
