@@ -4,21 +4,23 @@ require 'pry' unless ENV['JEKYLL_ENV'] == 'production'
 require 'kramdown'
 require 'sanitize'
 
-lang = ARGV[0] || 'en'
+lang   = ARGV[0] || 'en'
 readme = IO.readlines('../README.en.md')[8..-20] if lang == 'en'
-readme = IO.readlines('../README.md')[10..-17] if lang == 'ja'
+readme = IO.readlines('../README.md')[10..-17]   if lang == 'ja'
 
 readme.each_with_index do |line, index|
   next unless line.include? '|'
-
   cells = line.split '|'
+
   name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
   name  = name_and_link.children[0].value.strip
   link  = name_and_link.attr['href']
   id    = name.gsub(' ', '_').gsub('&', 'and').delete(".,").downcase
 
   full_description = Kramdown::Document.new(cells[2].strip).to_html.strip
+  is_full_remote   = cells[3].include?('ok') ? 'full_remote' : ''
 
+  # Generate a corresponding file by parsed-README data
   company =  "---\n"
   company << "layout: post\n"
   company << "lang: #{lang}\n"
@@ -26,7 +28,7 @@ readme.each_with_index do |line, index|
   company << "title: #{name}\n"
   company << "description: '#{Sanitize.clean(full_description)}'\n"
   company << "description_full: '#{full_description}'\n"
-  company << "categories: #{cells[3].include?('ok') ? 'full_remote' : '' }\n"
+  company << "categories: #{is_full_remote}\n"
   company << "link: #{link}\n"
   company << "---\n"
 
