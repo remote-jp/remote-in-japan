@@ -11,13 +11,13 @@ readme = IO.readlines('../README.md')[10..-17] if lang == 'ja'
 readme.each_with_index do |line, index|
   next unless line.include? '|'
 
-  l = line.split '|'
-  name_and_link = Kramdown::Document.new(l[1]).root.children[0].children[0]
-  name = name_and_link.children[0].value.strip
-  link = name_and_link.attr['href']
-  id   = name.gsub(' ', '_').gsub('&', 'and').delete(".,").downcase
+  cells = line.split '|'
+  name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
+  name  = name_and_link.children[0].value.strip
+  link  = name_and_link.attr['href']
+  id    = name.gsub(' ', '_').gsub('&', 'and').delete(".,").downcase
 
-  full_description = Kramdown::Document.new(l[2].strip).to_html.strip
+  full_description = Kramdown::Document.new(cells[2].strip).to_html.strip
 
   company =  "---\n"
   company << "layout: post\n"
@@ -26,7 +26,7 @@ readme.each_with_index do |line, index|
   company << "title: #{name}\n"
   company << "description: '#{Sanitize.clean(full_description)}'\n"
   company << "description_full: '#{full_description}'\n"
-  company << "categories: #{l[3].include?('ok') ? 'full_remote' : '' }\n"
+  company << "categories: #{cells[3].include?('ok') ? 'full_remote' : '' }\n"
   company << "link: #{link}\n"
   company << "---\n"
 
