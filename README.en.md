@@ -102,3 +102,9 @@ We took the liberty to define full remote as follows:
 
 * Workplace is flexible by definition.
   - Must allow remote work up to 2 days a week.
+
+### English Friendly
+
+We define English Friendly as follows:
+
+- requiring only English language ability (i.e. very little or zero Japanese) to perform all tasks required of a position.
