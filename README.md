@@ -83,6 +83,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社bosyu](https://bosyu.me/)                                       | かんたん募集サービス「[bosyu](https://bosyu.me/)」の開発・運営。全員がリモートワーク。                                                                                                                                                                                                                                                            | :ok_hand:    |
 | [メンバーズエッジカンパニー](https://www.membersedge.co.jp/)             |  日本中を開発拠点に！を合言葉に、エンジニアがどこでも東京と同じように仕事ができる制度と環境をつくり、リモート開発チームが企業のシステム開発をスクラムでご支援する会社です。                                                                                                                                                                                        | :ok_hand:    |
 | [Medmain](https://medmain.com/aboutus)                                       | メドメインは、「テクノロジーでいつどこでも必要な医療が受けられる世界をつくる」をコーポレートミッションとして掲げ、世界中の医療従事者のパートナーとして、Deep Learningを用いたデジタル病理画像AI解析ソリューション「PidPort」や、医学生向けクラウドサービス「Medteria」の開発・運営を行っています。                                                                                                                                                                                                                                                            | :ok_hand:    |
+| [クラウドエース株式会社](https://www.cloud-ace.jp/)                    | GCPのプレミアパートナーとして、導入支援から開発やトレーニングまで行なっています。 |  |
 
 ## Contributing
 
