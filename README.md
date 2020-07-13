@@ -86,6 +86,7 @@ Technology companies that allow remote work in Japan.
 | [Medmain](https://medmain.com/aboutus)                                       | メドメインは、「テクノロジーでいつどこでも必要な医療が受けられる世界をつくる」をコーポレートミッションとして掲げ、世界中の医療従事者のパートナーとして、Deep Learningを用いたデジタル病理画像AI解析ソリューション「PidPort」や、医学生向けクラウドサービス「Medteria」の開発・運営を行っています。                                                                                                                                                                                                                                                            | :ok_hand:    |
 | [シェアフル株式会社](https://sharefull.com/about/)                         | シェアフルでは、「スキマ時間を価値に変える」というビジョンのもと、誰でも、もう少し働いて、もう少し豊かな人生を歩める、1日単位のお仕事プラットフォームのサービスを立ち上げています。[(募集中)](https://www.wantedly.com/companies/sharefull/projects)                                            | :ok_hand:    |
 | [クラウドエース株式会社](https://www.cloud-ace.jp/)                    | GCPのプレミアパートナーとして、導入支援から開発やトレーニングまで行なっています。 |  |
+| [株式会社Viibar](https://viibar.com/)                    | 「動画の地平をひらき、世の中をポジティブに。」をミッションにクラウド制作管理ツール「[Vync](https://viibar.com/vync) 」の開発や、メディア・プラットフォーマー向けDX支援などをしています [(募集中)](https://viibar.com/recruit)|  |
 
 ## Contributing
 
