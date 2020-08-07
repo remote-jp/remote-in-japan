@@ -90,9 +90,8 @@ Technology companies that allow remote work in Japan.
 | [株式会社Viibar](https://viibar.com/)                    | 「動画の地平をひらき、世の中をポジティブに。」をミッションにクラウド制作管理ツール「[Vync](https://viibar.com/vync) 」の開発や、メディア・プラットフォーマー向けDX支援などをしています [(募集中)](https://viibar.com/recruit)|  |
 | [株式会社ヌーラボ](https://nulab.com/ja/)  | チームのコラボレーションを促進し、働くを楽しくするツール「[Backlog](https://backlog.com/ja/)」「[Cacoo](https://cacoo.com/ja/)」「[Typetalk](https://www.typetalk.com/ja/)」の開発、運営している会社です。2020年2月以降テレワークで業務を進めているため、全国どこからでも[応募可能](https://nulab.com/ja/about/careers/)です。その他、フレックスタイム制度や[リゾートワーク制度](https://www.itmedia.co.jp/business/articles/1909/30/news004.html)などの制度も取り入れています。 | :ok_hand: |
 | [株式会社メルカリ](https://about.mercari.com/) | 「メルカリ」は、個人が簡単にモノの売り買いが楽しめるフリマアプリです。「新たな価値を生みだす世界的なマーケットプレイスを創る」をミッションに掲げ、事業を展開しています。 | |
- [株式会社 レコモット](https://recomot.co.jp)|
-私たちは、「人が中心の働き方」の実現に向けて、時代が必要とする新たな価値を提供するこために、テレワークやBYODをスマートに実現するモバイル向けテレワークプラットフォーム「moconavi」を開発、販売しています。
-コアタイムなしのフルフレックス制で出退勤の時間は完全に自由。リモートワークや時短勤務の制度も整備し、ひとりひとりが理想のワークスタイルを実現できるように取り組んでいます。|[（募集中）](https://www.green-japan.com/company/5425?job_offer_id=108134)||
+ |[株式会社 レコモット](https://recomot.co.jp)|
+ 私たちは、「人が中心の働き方」の実現に向けて、時代が必要とする新たな価値を提供するこために、テレワークやBYODをスマートに実現するモバイル向けテレワークプラットフォーム「moconavi」を開発、販売しています。コアタイムなしのフルフレックス制で出退勤の時間は完全に自由。リモートワークや時短勤務の制度も整備し、ひとりひとりが理想のワークスタイルを実現できるように取り組んでいます。[（募集中）](https://www.green-japan.com/company/5425?job_offer_id=108134)||
 
 ## Contributing
 
