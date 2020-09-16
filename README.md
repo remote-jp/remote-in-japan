@@ -111,3 +111,8 @@ Pull request 歓迎です。以下の条件を満たしていれば、積極的�
   - ある条件を満たした一部の社員のみに適用される場合は、フルリモートに含まない
 - 原則として勤務場所が自由
   - 「リモート勤務は週二回まで」などと制限がある場合は、フルリモートに含まない
+
+## How to contribute
+会社の名前と説明とリンクはこちらのファイルに入れて下さい
+- [README.MD](https://github.com/remote-jp/remote-in-japan/blob/master/README.md) 会社の日本語のバージョンです.
+- [README.en.md](https://github.com/remote-jp/remote-in-japan/blob/master/README.en.md) 会社の英語のバージョンあれば, このファイルに入れてください.
