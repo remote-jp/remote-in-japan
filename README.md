@@ -94,6 +94,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社ヌーラボ](https://nulab.com/ja/)  | チームのコラボレーションを促進し、働くを楽しくするツール「[Backlog](https://backlog.com/ja/)」「[Cacoo](https://cacoo.com/ja/)」「[Typetalk](https://www.typetalk.com/ja/)」の開発、運営している会社です。2020年2月以降テレワークで業務を進めているため、全国どこからでも[応募可能](https://nulab.com/ja/about/careers/)です。その他、フレックスタイム制度や[リゾートワーク制度](https://www.itmedia.co.jp/business/articles/1909/30/news004.html)などの制度も取り入れています。 | :ok_hand: |
 | [株式会社メルカリ](https://about.mercari.com/) | 「メルカリ」は、個人が簡単にモノの売り買いが楽しめるフリマアプリです。「新たな価値を生みだす世界的なマーケットプレイスを創る」をミッションに掲げ、事業を展開しています。 | |
 | [株式会社レコモット](https://recomot.co.jp) |私たちは、「人が中心の働き方」の実現に向けて、時代が必要とする新たな価値を提供するこために、テレワークやBYODをスマートに実現するモバイル向けテレワークプラットフォーム「moconavi」を開発、販売しています。コアタイムなしのフルフレックス制で出退勤の時間は完全に自由。リモートワークや時短勤務の制度も整備し、ひとりひとりが理想のワークスタイルを実現できるように取り組んでいます。[（募集中）](https://www.green-japan.com/company/5425?job_offer_id=108134) | |
+| [株式会社ドワンゴ](https://dwango.co.jp/) |ドワンゴは「ネットに生まれて、ネットでつながる。」をコンセプトに、多彩なデジタルコンテンツやサービスを展開しているインターネットの総合エンタテインメント企業です。動画サービス「ニコニコ動画」をはじめ、「超会議」などイベントの企画運営、VRや教育サービス「N予備校」の企画開発、ゲーム・音楽配信サービスの提供まで、幅広く展開しています。[在宅勤務を本格導入](https://dwango.co.jp/news/press-release/2020/0629/news-353.html)し、その対象社員には在宅勤務手当も支給されます。 [（採用情報）](https://dwango.co.jp/recruit/#recruit) | |
 
 ## Contributing
 
