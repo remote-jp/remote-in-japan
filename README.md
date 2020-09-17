@@ -103,6 +103,13 @@ Pull request 歓迎です。以下の条件を満たしていれば、積極的�
 - テクノロジー企業である
 - リモートワークを部分的に導入している（完全リモートでなくても可）
 
+会社の情報は、以下のファイルに追加してください
+
+- [README.md](https://github.com/remote-jp/remote-in-japan/blob/master/README.md) 日本語のバージョンです
+- [README.en.md](https://github.com/remote-jp/remote-in-japan/blob/master/README.en.md) 英語のバージョンです
+
+remotework.jp で利用している他のファイルは README から自動生成されるため、READMEのみの追加でOKです
+
 ### フルリモートについて
 
 フルリモートまたは完全リモートの定義については次のようにします。
