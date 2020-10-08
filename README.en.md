@@ -92,7 +92,7 @@ Technology companies that allow remote work in Japan.
 | [SO Technologies](https://www.so-tech.co.jp/)　| Spread the earning power every corner of this country. We are promoting product development with the mission of regional revitalization.  With the discretionary work system, full remote work is possible. A remote work allowance will also be provided. | :ok_hand: | |
 | [Nulab Inc.](https://nulab.com/) | Our products are powerful, web-based collaboration tools to make work to be "fun".<br>[Backlog](https://backlog.com/): Project Management Tool<br>[Cacoo](https://cacoo.com/): Visual Collaboration Tool<br>[Typetalk](https://www.typetalk.com/): Business Chat Tool<br>All products support English, so we have users all over the world. You can work remotely if you live in Japan. Looking forward to your contact from [Nulab Japan Career page](https://nulab.com/ja/about/careers/coffee/). | :ok_hand: | |
 | [Mercari, Inc.](https://about.mercari.com/en/about/about-us/) | Mercari, Japan's C2C marketplace app allowing anyone to easily buy and sell using their smartphones. Our mission is to create value in a global marketplace where anyone can buy & sell. | | |
-
+| [YUMEMI Inc.](https://www.yumemi.co.jp/) | Contract development, production and consulting mainly for mobile services, digital marketing support with a focus on omni-channel, smartphone application development (iOS, Android), digital media content management and in-house service management.[RECRUIT](https://www.yumemi.co.jp/?filter=recruit) | :ok_hand: | |
 ## Contributing
 
 Pull requests are absolutely welcome.
