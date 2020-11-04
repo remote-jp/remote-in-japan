@@ -101,6 +101,7 @@ Technology companies that allow remote work in Japan.
 | [Nulab Inc.](https://nulab.com/) | Our products are powerful, web-based collaboration tools to make work to be "fun".<br>[Backlog](https://backlog.com/): Project Management Tool<br>[Cacoo](https://cacoo.com/): Visual Collaboration Tool<br>[Typetalk](https://www.typetalk.com/): Business Chat Tool<br>All products support English, so we have users all over the world. You can work remotely if you live in Japan. Looking forward to your contact from [Nulab Japan Career page](https://nulab.com/ja/about/careers/coffee/). | :ok_hand: | |
 | [Mercari, Inc.](https://about.mercari.com/en/about/about-us/) | Mercari, Japan's C2C marketplace app allowing anyone to easily buy and sell using their smartphones. Our mission is to create value in a global marketplace where anyone can buy & sell. | | |
 | [PayPay Corp.](https://about.paypay.ne.jp) | `PayPay` provides a mobile, cashless payment service. They introduced new policy of [Work From Anywhere at Anytime (WFA)](https://about.paypay.ne.jp/career/wfa/),  a new way of working, which allows working from anywhere in Japan at any time, as long as the environment enables maintaining a high performance. | :ok_hand: | :ok_hand: |
+| [Fuller, Inc.](https://fuller-inc.com) | Industry leaders in mobile market data and insights. Fuller, Inc. provides App Development Service and Mobile App Analytics Service | | |
 
 ## Contributing
 
