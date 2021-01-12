@@ -32,10 +32,9 @@ task test: [:build] do
     disable_external: true,
 
     # NOTE: You can ignore file, URL, and response as follows
-    #file_ignore: [
-    #  /node_modules/,
-    #  /_site/PATH_TO_IGNORE_FILE
-    #],
+    file_ignore: [
+      './_site/google3a4de0d83c05ed13.html',
+    ],
     #url_ignore:  %w(example.com),
     #http_status_ignore: [0, 500, 999],
   }
