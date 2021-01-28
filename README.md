@@ -120,6 +120,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社FORCAS](https://www.forcas.com/) |データ分析に基づいて成約確度の高い企業を特定し、マーケティングと営業をつなげ、組織をターゲット企業に集中する最新マーケティング戦略「ABM（アカウント・ベースド・マーケティング）」の実践を強力にサポートするクラウドサービス､ FORCAS（フォーカス）の開発・運営｡ [（募集中）](https://www.forcas.com/company/#join-our-team)|:ok_hand: |
 | [PayPay株式会社](https://about.paypay.ne.jp) | モバイル決済サービスを提供しているPayPay株式会社では、従業員の生産性をより高めるため、新しい働き方[「Work From Anywhere at Anytime (WFA)」](https://about.paypay.ne.jp/career/wfa/)を導入いたしました。日本国内であれば、どこからでも、自由に働くことができる新しい働き方です。 | :ok_hand: |
 | [フラー株式会社](https://fuller-inc.com) | フラーは『世界一、ヒトを惹きつける会社を創る。』というユメに挑戦し続け、アプリとデータをテーマに事業を展開するIT企業です。現在、制限なしでリモートワーク可能です。 |  |
+| [株式会社Mobility Technologies](https://mo-t.com/) | Mobility Technologies (MoT:エムオーティー) は JapanTaxi 運営のタクシーアプリ「JapanTaxi」などを運営するJapanTaxiと、DeNAオートモーティブ事業部運営のタクシーアプリ「MOV」などの事業統合により、2020年4月に新体制でスタートした会社です。ミッション「移動で人を幸せに。」のもと、交通課題をテクノロジーで解決すべく、タクシーアプリ「GO」を始め、ハードウェア、サーバサイド、アプリ、AIと幅広い専門分野のエンジニア180名以上がフルリモート(2021.1時点では対コロナ暫定制度)で活躍しています。[募集中](https://mo-t.com/recruit) |  |
 
 
 
