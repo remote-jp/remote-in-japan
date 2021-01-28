@@ -107,6 +107,7 @@ Technology companies that allow remote work in Japan.
 | [FORCAS, Inc.](https://www.forcas.com/) | Development and operation of FORCAS. It is a cloud service that supports ABM practices.| :ok_hand: | | 
 | [PayPay Corp.](https://about.paypay.ne.jp) | `PayPay` provides a mobile, cashless payment service. They introduced new policy of [Work From Anywhere at Anytime (WFA)](https://about.paypay.ne.jp/career/wfa/),  a new way of working, which allows working from anywhere in Japan at any time, as long as the environment enables maintaining a high performance. | :ok_hand: | :ok_hand: |
 | [Fuller, Inc.](https://fuller-inc.com) | Industry leaders in mobile market data and insights. Fuller, Inc. provides App Development Service and Mobile App Analytics Service | | |
+| [Mobility Technologies Co.,Ltd.](https://mo-t.com/) | MoT began in Apr. 2020, when former JapanTaxi and DeNA's mobility businesses merged. 180+ experienced engineers are "covid-temporary" working fully remote on various domains, including development of a taxi-hailing app "GO", in-vehicle devices, an AI-supported drive-recorder, and others. | | |
 
 ## Contributing
 
