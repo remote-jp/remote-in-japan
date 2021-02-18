@@ -21,20 +21,22 @@ readme.each_with_index do |line, index|
   is_full_remote   = cells[3].include?('ok') ? 'full_remote' : ''
 
   # Generate a corresponding file by parsed-README data
-  company =  "---\n"
-  company << "layout: post\n"
-  company << "lang: #{lang}\n"
-  company << "permalink: /#{lang}/#{id}\n"
-  company << "title: #{name}\n"
-  company << "description: '#{Sanitize.clean(full_description)}'\n"
-  company << "description_full: '#{full_description}'\n"
-  company << "categories: #{is_full_remote}\n"
-  company << "link: #{link}\n"
-  company << "---\n"
+  company = <<~COMPANY_PAGE
+    ---
+    layout: post
+    lang: #{lang}
+    permalink: /#{lang}/#{id}
+    title: #{name}
+    description: '#{Sanitize.clean(full_description)}'
+    description_full: '#{full_description}'
+    categories: #{is_full_remote}
+    link: #{link}
+    ---
+  COMPANY_PAGE
 
   #company << "date: 2019-01-01 00:00:00 +0900\n" # Not being used
-  #company << "by: John Doe\n" # Not being used
-  #company << "image: ''\n" # Not being used
+  #company << "by: John Doe\n"                    # Not being used
+  #company << "image: ''\n"                       # Not being used
 
   IO.write("./#{lang}/_posts/2020-02-22-#{id}.md", company)
   puts "Upsert: ./#{lang}/_posts/2020-02-22-#{id}.md"
