@@ -20,13 +20,12 @@ jobs:
 
     - name: 🧪 Install gems
       run: |
-        bundle config set with 'test'
+        cd ./docs
         bundle config set path 'vendor/bundle'
         bundle install --jobs 4 --retry 3
 
     - name: 🔧 Build & Test
       run: |
-        cd ./docs
         JEKYLL_ENV=production bundle exec jekyll build
         bundle exec rake upsert_data_by_readme:all
         bundle exec rake test
