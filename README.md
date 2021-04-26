@@ -129,8 +129,8 @@ Technology companies that allow remote work in Japan.
 | [株式会社マインディア](https://corporate.minedia.com/) | テクノロジーの力で消費者の中に埋もれた価値を再発掘することを目標に自社プロダクト開発を行っています。2020年の緊急事態宣言をきっかけにしてフルリモート体制に移行しました。 | :ok_hand: |
 | [みんなのマーケット株式会社](https://www.minma.jp) | ハウスクリーニングや家事代行、庭木の剪定などの出張サービスを頼めるプラットフォーム「[くらしのマーケット](https://curama.jp/)」を開発・運営しています。フルフレックスに加え、2020年6月よりフルリモートワークの働き方を開始し、日本全国をはじめ、海外からも働く方が増えています。[エンジニア向け会社紹介資料](https://speakerdeck.com/minma/for-developers) / [採用情報](https://www.minma.jp/recruit) | :ok_hand: |
 | [メディアエンジン株式会社](https://media-engine.jp/) | テクノロジーを活かしたメディア運営をしております。「属人化をなくすこと」と、「人は人がやるべき仕事を！」をキーワードに日々開発に取り組んでおります。 ([募集中](https://www.wantedly.com/companies/media-engine/projects)) | :ok_hand: |
+| [株式会社プラハ](https://www.praha-inc.com) | 新規事業に特化し、スタートアップや大学研究室などのWEBアプリケーションをデザイン・開発しつつ、中級エンジニアを育成する[オンライン・ブートキャンプ](https://praha-challenge.com/)を運営しています。勉強会などの参加費用は全て会社負担、毎週社内勉強会を実施するなど、「ものづくりが好きなエンジニア」にとって理想的な環境を作ろうと日々工夫しています。[会社ブログはこちら](https://praha-inc.hatenablog.com/) | :ok_hand: |
 | [株式会社スタディスト](https://studist.jp/) | 手順書作成・共有プラットフォーム「[Teachme Biz（ティーチミー・ビズ）](https://biz.teachme.jp)」と販促PDCAマネジメントプラットフォーム「[Hansoku Cloud](https://biz.hansoku-cloud.jp/)」の開発・運営。[（募集中）](https://www.wantedly.com/companies/studist/projects) |  |
-
 
 
 
