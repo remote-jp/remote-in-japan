@@ -14,8 +14,8 @@ searchPlaceholder:
   ja: '求人を検索...'
 
 seeOnGithub:
-  en: 'Contribute on <a href="https://github.com/uiur/remote-in-japan" class="underline">GitHub</a>'
-  ja: 'Contribute on <a href="https://github.com/uiur/remote-in-japan" class="underline">GitHub</a>'
+  en: 'Contribute on <a href="https://github.com/remote-jp/remote-in-japan" class="underline">GitHub</a>'
+  ja: 'Contribute on <a href="https://github.com/remote-jp/remote-in-japan" class="underline">GitHub</a>'
 
 postTagFullRemote:
   en: 'Fully remote 👌'
