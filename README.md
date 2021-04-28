@@ -131,6 +131,7 @@ Technology companies that allow remote work in Japan.
 | [メディアエンジン株式会社](https://media-engine.jp/) | テクノロジーを活かしたメディア運営をしております。「属人化をなくすこと」と、「人は人がやるべき仕事を！」をキーワードに日々開発に取り組んでおります。 ([募集中](https://www.wantedly.com/companies/media-engine/projects)) | :ok_hand: |
 | [株式会社プラハ](https://www.praha-inc.com) | 新規事業に特化し、スタートアップや大学研究室などのWEBアプリケーションをデザイン・開発しつつ、中級エンジニアを育成する[オンライン・ブートキャンプ](https://praha-challenge.com/)を運営しています。勉強会などの参加費用は全て会社負担、毎週社内勉強会を実施するなど、「ものづくりが好きなエンジニア」にとって理想的な環境を作ろうと日々工夫しています。[会社ブログはこちら](https://praha-inc.hatenablog.com/) | :ok_hand: |
 | [株式会社スタディスト](https://studist.jp/) | 手順書作成・共有プラットフォーム「[Teachme Biz（ティーチミー・ビズ）](https://biz.teachme.jp)」と販促PDCAマネジメントプラットフォーム「[Hansoku Cloud](https://biz.hansoku-cloud.jp/)」の開発・運営。[（募集中）](https://www.wantedly.com/companies/studist/projects) |  |
+| [株式会社シンシア（Xincere, Inc.）](https://corp.xincere.jp/) | 高級不動産専門の不動産仲介、[シンシアレジデンス](https://residence.xincere.jp/)の運営。顧客管理システムやユーザ向けプラットフォームの開発 |  |
 
 
 

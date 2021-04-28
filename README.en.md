@@ -114,6 +114,7 @@ Technology companies that allow remote work in Japan.
 | [Minedia, Inc.](https://corporate.minedia.com/) | We are developing our own products with the goal of rediscovering the value buried within consumers through the power of technology, and have moved to a full remote system in the wake of the 2020 emergency declaration. | :ok_hand: |
 | [Minma, Inc.](https://www.minma.jp) | We develop and operate "[Kurashi no Market (Marketplace for living)](https://curama.jp/)".  In addition to our full-flex work hours, we have transitioned to a fully remote work style since June 2020, with many of our employees working from all over Japan and overseas. [Company and product profile for engineers](https://speakerdeck.com/minma/for-developers) / [We are hiring!](https://www.minma.jp/recruit) | :ok_hand: |  |
 | [PrAha Inc.](https://www.praha-inc.com) | We design and develop softwares for new businesses, and organize a programming bootcamp ["Praha Challenge"](https://praha-challenge.com/) that trains intermediate level engineers. We place great value in making an ideal environment for engineers who love to code. For example, study cost (such as event participation, purchasing books) is fully paid by the company, and weekly study sessions are hosted internally | :ok_hand: | |
+| [Xincere, Inc.](https://corp.xincere.jp/) | We are developing system for real estate agency company for high class rooms, including CRM and personal service system for our clients. |  |
 
 ## Contributing
 
