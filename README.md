@@ -43,7 +43,7 @@ Technology companies that allow remote work in Japan.
 | [ベルフェイス株式会社](https://corp.bell-face.com/) | 「世界数十ヵ国で新たなビジネスを生み出すセールスプラットフォームをつくる」というビジョンのもとで営業に特化したWeb会議システム[bellFace](https://bell-face.com/)を開発・販売しています。[リモート・在宅ワーク制度とフレックス制度](https://corp.bell-face.com/workplace)により自由な働き方が可能です。 [(募集中)](https://hrmos.co/pages/bellface) | :ok_hand: |
 | [オープンワーク株式会社](https://vorkers.jp/) | 転職・就職のための情報プラットフォーム「[OpenWork](https://www.vorkers.com/)」の企画・開発・運用。リモートワークは正社員のみ月４回取得可能です（2020年3月現在、新型コロナウイルス感染拡大予防措置として無制限に取得可能） [(募集中)](https://vorkers.jp/recruit/) |              |
 | [株式会社サーバーワークス](https://www.serverworks.co.jp/) | 「クラウドで、世界を、もっと、はたらきやすく。」をミッションとし、 AWS（Amazon Web Services）に特化したインテグレーション事業とサービスの提供を行っている、クラウドインテグレーターです。  [(募集中)](https://www.serverworks.co.jp/recruit/)| :ok_hand: |
-| [株式会社日本データサイエンス研究所](https://jdsc.ai/) | 日本をアップグレードするAIソリューションの会社 [採用ページ](https://jdsc.ai/recruit/) /[WANTEDLY](https://www.wantedly.com/companies/jdsc/projects)| |
+| [株式会社JDSC](https://jdsc.ai/) | 日本をアップグレードするAIソリューションの会社 [採用ページ](https://jdsc.ai/recruit/) /[WANTEDLY](https://www.wantedly.com/companies/jdsc/projects)| |
 | [株式会社オトバンク](https://www.otobank.co.jp/) | 日本最大のオーディオブック制作・配信サービス [audiobook.jp](https://audiobook.jp/) を開発・運営。[(募集中)](https://kantan-kyujin.com/ats/otobank/jobs)  | :ok_hand: |
 | [BizteX株式会社](https://www.biztex.co.jp/) | クラウドRPA [BizteX cobit ](https://service.biztex.co.jp/) や [BizteX mikke](https://service.biztex.co.jp/mikke/) の開発・運営。 | |
 | [ヤフー株式会社](https://about.yahoo.co.jp/hr/) | [Yahoo! JAPAN](https://www.yahoo.co.jp/) をはじめ、[Yahoo!ショッピング](https://shopping.yahoo.co.jp/)や[ヤフオク!](https://auctions.yahoo.co.jp/)の開発・運用を行っている。[2020年10月より、本格的にリモートワークを導入した。](https://about.yahoo.co.jp/pr/release/2020/07/15a/) | |
