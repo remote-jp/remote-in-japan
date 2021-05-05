@@ -15,7 +15,7 @@ readme.each_with_index do |line, index|
   name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
   name  = name_and_link.children[0].value.strip
   link  = name_and_link.attr['href']
-  id    = name.gsub(' ', '_').gsub('&', 'and').delete(".,").downcase
+  id    = name.gsub(' ', '_').gsub('&', 'and').gsub('（', '(').gsub('）', ')').delete(".,").downcase
 
   full_description = Kramdown::Document.new(cells[2].strip).to_html.strip
   is_full_remote   = cells[3].include?('ok') ? 'full_remote' : ''
