@@ -148,7 +148,7 @@ Pull request 歓迎です。以下の条件を満たしていれば、積極的�
 - [README.md](https://github.com/remote-jp/remote-in-japan/blob/master/README.md) 日本語のバージョンです
 - [README.en.md](https://github.com/remote-jp/remote-in-japan/blob/master/README.en.md) 英語のバージョンです
 
-remotework.jp で利用している他のファイルは README から自動生成されるため、READMEのみの追加でOKです
+[remotework.jp](https://remotework.jp/) で利用している他のファイルは README から自動生成されるため、READMEのみの追加でOKです
 
 ### フルリモートについて
 
