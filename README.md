@@ -143,6 +143,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社フレクト](https://www.flect.co.jp//) | フレクトは、「インターネットを通じて、みんなの人生満足を追求する」を理念に掲げ、Salesforceを中心にAmazon Web ServicesやHeroku等複数のパブリッククラウドサービスを活用したマルチクラウドインテグレーションによるDX支援、またSaaS/PaaS型モビリティ業務最適化クラウドサービスとして「Cariot（キャリオット）」を提供しています。([募集中](https://recruit.flect.co.jp/recruitinfo/)) |  |
 | [株式会社スタートアップテクノロジー](https://startup-technology.com) | 株式会社スタートアップテクノロジーは、「起業家に機会を。世界に価値を。」というミッションを掲げ、Webサービスの開発支援を中心に、UI/UXデザインの制作、エンジニア教育を事業とする会社です。[（募集中）](https://herp.careers/v1/sutateku/AkQ3w17F7ZYv) | :ok_hand: |
 | [株式会社Schoo](https://schoo.jp/) | 株式会社Schooは、「世の中から卒業をなくす」というミッションを掲げ「未来に向けて、社会人が今学んでおくべきこと」をコンセプトとしたビジネス向けの動画配信サービス「Schoo」を運営しています。[（募集中）](http://corp.schoo.jp/recruit/) | :ok_hand: |
+| [note株式会社](https://note.jp/) | わたしたちは “だれもが創作をはじめ、続けられるようにする。“をミッションに、表現と創作の仕組みづくりをしています。メディアプラットフォーム・noteは、クリエイターのあらゆる創作活動を支援しています。<br>noteの社員は、リモートワークをベースとした[フレキシブル出社制度](https://note.jp/n/nf0985293c654 )で多様な働き方を実現しています。現在も青森、名古屋、大阪、福岡、沖縄など日本全国でフルリモートで勤務する社員がいます。 | :ok_hand: |
 
 ## Contributing
 
