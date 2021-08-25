@@ -4,7 +4,7 @@
   {% else %}
     {% assign related = site.posts | where:"lang", page.lang %}
     {% if related.size > 0 %}
-      {% for post in related limit: 50 %}
+      {% for post in related %}
         <a href="{{ post.url }}" class="list-item container">
           <div class="flex-grow-1">
             <div class="">
