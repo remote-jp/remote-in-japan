@@ -1,7 +1,7 @@
 name: Test & Deploy
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -32,15 +32,15 @@ jobs:
         bundle exec rake test
 
     - name: 🚀 Deploy
-      if:   github.ref == 'refs/heads/master' && job.status == 'success'
+      if:   github.ref == 'refs/heads/main' && job.status == 'success'
       run: |
         cd ./docs
         if [ -n "$(git status en ja --porcelain)" ]; then
           git config user.name  "Yohei Yasukawa"
           git config user.email "yohei@yasslab.jp"
           git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git checkout master
+          git checkout main
           git add en ja
           git commit -m '🤖 Generate page(s) by README'
-          git push origin master
+          git push origin main
         fi

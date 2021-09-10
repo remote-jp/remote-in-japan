@@ -138,8 +138,8 @@ Please make sure the following condition are met to add your company to the list
 - Allow full/partial remote work
 
 Please add the company information to the following files
-- [README.md](https://github.com/remote-jp/remote-in-japan/blob/master/README.md) Japanese version
-- [README.en.md](https://github.com/remote-jp/remote-in-japan/blob/master/README.en.md) English version
+- [README.md](https://github.com/remote-jp/remote-in-japan/blob/main/README.md) Japanese version
+- [README.en.md](https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md) English version
 
 Other files used in remotework.jp are automatically generated from the README, so you don't need to create separate files yourself.
 

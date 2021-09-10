@@ -158,8 +158,8 @@ Pull request 歓迎です。以下の条件を満たしていれば、積極的�
 
 会社の情報は、以下のファイルに追加してください
 
-- [README.md](https://github.com/remote-jp/remote-in-japan/blob/master/README.md) 日本語のバージョンです
-- [README.en.md](https://github.com/remote-jp/remote-in-japan/blob/master/README.en.md) 英語のバージョンです
+- [README.md](https://github.com/remote-jp/remote-in-japan/blob/main/README.md) 日本語のバージョンです
+- [README.en.md](https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md) 英語のバージョンです
 
 [remotework.jp](https://remotework.jp/) で利用している他のファイルは README から自動生成されるため、READMEのみの追加でOKです
 
