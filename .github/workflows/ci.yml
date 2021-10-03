@@ -31,6 +31,12 @@ jobs:
         bundle exec rake upsert_data_by_readme:all
         bundle exec rake test
 
+    - name: 🔔 Notify results
+      uses: yasslab/idobata_notify@main # https://github.com/yasslab/idobata_notify
+      if: always()
+      with:
+        idobata_hook_url: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+
     - name: 🚀 Deploy
       if:   github.ref == 'refs/heads/main' && job.status == 'success'
       run: |
