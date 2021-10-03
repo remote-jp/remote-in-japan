@@ -4,13 +4,15 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
 
     steps:
 
     - name: ☑️ Checkout code
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 2
 
     - name: 💎 Setup Ruby
       uses: ruby/setup-ruby@v1
@@ -36,6 +38,16 @@ jobs:
       if: always()
       with:
         idobata_hook_url: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+
+  deploy:
+    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+    - name: ☑️ Checkout code
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
 
     - name: 🚀 Deploy
       if:   github.ref == 'refs/heads/main' && job.status == 'success'
