@@ -64,3 +64,14 @@ jobs:
           git commit -m '🤖 Generate page(s) by README'
           git push origin main
         fi
+
+    - name: 🚨 Notify alert if failed on deployment
+      env:
+        IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+      if: failure() && (env.IDOBATA_GITHUB_ACTIONS != null)
+      uses: mahaker/actions-idobata@v1.1.2
+      with:
+        hookUrl: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+        format: 'markdown'
+        message: |
+          <span class='label label-danger'>本番環境</span> @yasulab :warning: デプロイに失敗したためロールバックされました: https://remotework.jp/ ([build](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}))
