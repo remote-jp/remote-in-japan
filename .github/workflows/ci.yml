@@ -56,13 +56,11 @@ jobs:
       run: |
         cd ./docs
         if [ -n "$(git status en ja --porcelain)" ]; then
-          git config user.name  "Yohei Yasukawa"
-          git config user.email "yohei@yasslab.jp"
-          git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git checkout main
+          git config --global user.name  "Yohei Yasukawa"
+          git config --global user.email "yohei@yasslab.jp"
           git add en ja
           git commit -m '🤖 Generate page(s) by README'
-          git push origin main
+          git push
         fi
 
     - name: 🚨 Notify alert if failed on deployment
