@@ -58,9 +58,10 @@ jobs:
         if [ -n "$(git status en ja --porcelain)" ]; then
           git config --global user.name  "Yohei Yasukawa"
           git config --global user.email "yohei@yasslab.jp"
+          git checkout main
           git add en ja
           git commit -m '🤖 Generate page(s) by README'
-          git push
+          git push origin main
         fi
 
     - name: 🚨 Notify alert if failed on deployment
