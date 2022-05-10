@@ -2,7 +2,8 @@ source 'http://rubygems.org'
 
 gem 'rake'
 gem 'sanitize'
-gem "liquid-c"
+gem 'liquid-c'
+gem 'webrick'
 
 group :development, :test do
   gem 'pry'
