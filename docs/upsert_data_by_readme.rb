@@ -6,9 +6,9 @@ require 'sanitize'
 
 lang   = ARGV[0] || 'en'
 readme = if lang == 'en'
-           IO.readlines('../README.en.md')[8..-20]
+           IO.readlines('../README.en.md')
          elsif lang == 'ja'
-           IO.readlines('../README.md')[10..-17]
+           IO.readlines('../README.md')
          else
            puts "Need to pass [en|ja] to exec this task:"
            puts "Ex. $ bundle exec rake upsert_data_by_readme:en"
@@ -18,7 +18,16 @@ readme = if lang == 'en'
            exit
          end
 
+start_parsing_flag = false
 readme.each_with_index do |line, index|
+  # Code for operating start-of and end-of parsing table of lines in README.
+  if start_parsing_flag == false
+    start_parsing_flag = true if line.start_with? '| ---'
+    next
+  end
+  break if line.start_with? '##' # Stop parsing if reached to next heading.
+
+  # Code for generating Markdown files to publish from remotework.jp
   next unless line.include? '|'
   cells = line.gsub('\|', '&#124;').split '|'
 

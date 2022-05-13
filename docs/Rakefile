@@ -1,6 +1,5 @@
 task default: 'test'
 
-
 desc 'Upsert company data from English/Japanese README'
 task :upsert_data_by_readme do
   ruby "upsert_data_by_readme.rb en"
