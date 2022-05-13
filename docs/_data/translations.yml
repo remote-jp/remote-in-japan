@@ -36,3 +36,7 @@ link:
 back:
   en: 'Back'
   ja: '戻る'
+
+jekyll:
+  en: '<a href="https://jekyllrb.com/">Jekyll</a>'
+  ja: '<a href="http://jekyllrb-ja.github.io/">Jekyll</a>'
