@@ -6,9 +6,9 @@ layout: null
   {% for post in posts %}
     {
       "title"       : "{{ post.title | escape }}",
-      "description" : "{{ post.description }}",
+      "description" : "{{ post.description | escape }}",
       "categories"  : "{{ post.categories | array_to_sentence_string }}",
-      "url"         : "{{ site.url }}{{ post.url }}"
+      "url"         : "{{ post.permalink }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
