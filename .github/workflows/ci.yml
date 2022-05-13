@@ -41,18 +41,8 @@ jobs:
       with:
         idobata_hook_url: ${{ env.IDOBATA_GITHUB_ACTIONS }}
 
-  deploy:
-    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
-    needs: test
-    runs-on: ubuntu-latest
-    steps:
-    - name: ☑️ Checkout code
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: 1
-
     - name: 🚀 Deploy
-      if:   github.ref == 'refs/heads/main' && job.status == 'success'
+      if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
       run: |
         cd ./docs
         if [ -n "$(git status en ja --porcelain)" ]; then
