@@ -5,8 +5,18 @@ require 'kramdown'
 require 'sanitize'
 
 lang   = ARGV[0] || 'en'
-readme = IO.readlines('../README.en.md')[8..-20] if lang == 'en'
-readme = IO.readlines('../README.md')[10..-17]   if lang == 'ja'
+readme = if lang == 'en'
+           IO.readlines('../README.en.md')[8..-20]
+         elsif lang == 'ja'
+           IO.readlines('../README.md')[10..-17]
+         else
+           puts "Need to pass [en|ja] to exec this task:"
+           puts "Ex. $ bundle exec rake upsert_data_by_readme:en"
+           puts "Ex. $ bundle exec rake upsert_data_by_readme:ja"
+           puts "Ex. $ bundle exec rake upsert_data_by_readme"
+           puts "    # This generate both data in English and Japanese"
+           exit
+         end
 
 readme.each_with_index do |line, index|
   next unless line.include? '|'
