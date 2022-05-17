@@ -2,13 +2,13 @@
 layout: null
 ---
 [
-    {% assign posts = site.posts | where: "lang", "en" %}
-    {% for post in posts %}
+  {% assign posts = site.posts | where: "lang", "en" %}
+  {% for post in posts %}
     {
-	"title"       : "{{ post.title | escape }}",
-	"description" : "{{ post.description }}",
-	"categories"  : "{{ post.categories | array_to_sentence_string }}",
-	"url"         : "{{ site.url }}{{ post.url }}"
+      "title"       : "{{ post.title | escape }}",
+      "description" : "{{ post.description | escape }}",
+      "categories"  : "{{ post.categories | array_to_sentence_string }}",
+      "url"         : "{{ post.permalink }}"
     } {% unless forloop.last %},{% endunless %}
-    {% endfor %}
+  {% endfor %}
 ]
