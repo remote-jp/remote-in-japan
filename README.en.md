@@ -135,6 +135,7 @@ Technology companies that allow remote work in Japan.
 | [Xincere, Inc.](https://corp.xincere.jp/) | We are developing system for real estate agency company for high class rooms, including CRM and personal service system for our clients. |  |
 | [note inc.](https://note.jp/) |  Our mission is “Make Creation Start Easily, and to Be Carried On.”　We support and empower all kinds of creators.With our service, we aim to create a world where creators can focus on what they want to express and continue their creative activities.We provide a C2C content platform “note”, and a media SaaS for corporate users called “note pro.”<br>Our team member work in a variety of ways through our “[Flexible Work  System](https://note.jp/n/nf0985293c654)” based on remote work. Even now, we have employees who work fully remotely all over Japan, including Aomori, Nagoya, Osaka, Fukuoka, and Okinawa. | :ok_hand: |
 | [Catalina Marketing Japan K.K.](https://jp.catalina.com/) | To realize 100% remote work for all employees. And to continue... [We are hiring!](https://jp.catalina.com/recruit/) | :ok_hand: |　:ok_hand: |
+| [Kraken Technologies Japan](https://kraken.tech/) | Part of the [Octopus Energy Group](https://octopusenergy.group/), Kraken is the world's leading customer & culture platform for utilities. [Help us make a big green dent in the universe!](https://jobs.lever.co/octoenergy?department=Kraken%20Technologies%20Japan%20%2F%20%E5%8B%A4%E5%8B%99%E5%9C%B0%EF%BC%9A%E6%9D%B1%E4%BA%AC%20%20%F0%9F%87%AF%F0%9F%87%B5) | :ok_hand: |　:ok_hand: |
 
 ## Contributing
 
