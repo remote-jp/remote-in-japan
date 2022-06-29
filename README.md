@@ -161,6 +161,7 @@ Technology companies that allow remote work in Japan.
 | [note株式会社](https://note.jp/) | わたしたちは “だれもが創作をはじめ、続けられるようにする。“をミッションに、表現と創作の仕組みづくりをしています。メディアプラットフォーム・noteは、クリエイターのあらゆる創作活動を支援しています。<br>noteの社員は、リモートワークをベースとした[フレキシブル出社制度](https://note.jp/n/nf0985293c654 )で多様な働き方を実現しています。現在も青森、名古屋、大阪、福岡、沖縄など日本全国でフルリモートで勤務する社員がいます。 | :ok_hand: |
 | [カタリナ マーケティング ジャパン株式会社](https://jp.catalina.com/) | 全社員[リモートワーク100%](https://jp.catalina.com/news/column/company-activity/2020/06/20200628/)を実現するために。そして継続するために。[募集中！](https://jp.catalina.com/recruit/) | :ok_hand: |
 | [Kraken Technologies Japan](https://kraken.tech/) | [Octopus Energy Group](https://octopusenergy.group/)の一員であるKrakenは、ユーティリティ企業のための世界有数の顧客＆カルチャープラットフォームです。 [私たちが宇宙に大きな緑のくぼみを作るのを手伝ってください!](https://jobs.lever.co/octoenergy?department=Kraken%20Technologies%20Japan%20%2F%20%E5%8B%A4%E5%8B%99%E5%9C%B0%EF%BC%9A%E6%9D%B1%E4%BA%AC%20%20%F0%9F%87%AF%F0%9F%87%B5) | :ok_hand: |
+| [ストリートアカデミー株式会社](https://corp.street-academy.com/) | Web/iOS/Androidという3つのプラットフォームで、教えたい人と学びたい人をマッチングするC2Cサービス「[ストアカ](https://www.street-academy.com/)」を自社で開発・運営しています。まなびの選択肢を増やし、自由に生きる人を増やす、というミッションを一緒になって達成していっていただける仲間を[募集中です!](https://www.wantedly.com/companies/streetacademy) | :ok_hand: |
 
 ## Contributing
 
