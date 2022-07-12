@@ -163,6 +163,7 @@ Technology companies that allow remote work in Japan.
 | [Kraken Technologies Japan](https://kraken.tech/) | [Octopus Energy Group](https://octopusenergy.group/)の一員であるKrakenは、ユーティリティ企業のための世界有数の顧客＆カルチャープラットフォームです。 [私たちが宇宙に大きな緑のくぼみを作るのを手伝ってください!](https://jobs.lever.co/octoenergy?department=Kraken%20Technologies%20Japan%20%2F%20%E5%8B%A4%E5%8B%99%E5%9C%B0%EF%BC%9A%E6%9D%B1%E4%BA%AC%20%20%F0%9F%87%AF%F0%9F%87%B5) | :ok_hand: |
 | [ストリートアカデミー株式会社](https://corp.street-academy.com/) | Web/iOS/Androidという3つのプラットフォームで、教えたい人と学びたい人をマッチングするC2Cサービス「[ストアカ](https://www.street-academy.com/)」を自社で開発・運営しています。まなびの選択肢を増やし、自由に生きる人を増やす、というミッションを一緒になって達成していっていただける仲間を[募集中です!](https://www.wantedly.com/companies/streetacademy) | :ok_hand: |
 | [株式会社POL](https://pol.co.jp/) | 研究関連市場をテクノロジーで革新するLabTechスタートアップです。[採用情報](https://pol.co.jp/recruit/) | :ok_hand: |
+| [株式会社ムーブ](https://moove.co.jp/) | 株式会社ムーブは「生産性高く、効率よく、楽しく働く」をモットーに、主に Web システムの受託開発を行う会社です。客先常駐や派遣は行わず、すべての工程を自社内で対応しています。なお、毎週水曜日はテレワーク day としており、その他の曜日も含め完全テレワークで勤務する社員が約30％おります。【残業最大マイナス20時間】業務終了時間は18時ですが、普段は17時に業務を終えるようにしているため、20営業日なら残業時間はマイナス20時間となります。売上至上主義に走ることなく、社内リソースを考慮して無理がない案件受注を行っています。リリース前や緊急時を除き17時以降の業務はほとんど発生していません。【年間休日130日以上】長い夏季休暇・冬季休暇以外に独自の公休日を年間１～2日設けているため、年間休日が130日以上となります。詳しくは[こちら](https://www.wantedly.com/projects/1050412)をご覧ください。 | |
 
 ## Contributing
 
