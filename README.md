@@ -174,12 +174,12 @@ Pull request 歓迎です。以下の条件を満たしていれば、積極的�
 - テクノロジー企業である
 - リモートワークを部分的に導入している（完全リモートでなくても可）
 
-会社の情報は、以下のファイルに追加してください
+会社の情報は、以下のファイルに追加してください。
 
 - [README.md](https://github.com/remote-jp/remote-in-japan/blob/main/README.md) 日本語のバージョンです
 - [README.en.md](https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md) 英語のバージョンです
 
-[remotework.jp](https://remotework.jp/) で利用している他のファイルは README から自動生成されるため、READMEのみの追加でOKです
+[remotework.jp](https://remotework.jp/) のページは README から[自動生成](https://github.com/remote-jp/remote-in-japan/blob/main/docs/upsert_data_by_readme.rb)されるため、README のみの追加で OK です！
 
 ### フルリモートについて
 
