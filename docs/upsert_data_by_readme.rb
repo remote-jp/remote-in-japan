@@ -18,6 +18,9 @@ readme = if lang == 'en'
            exit
          end
 
+# Remove existing files, parse README, and re-generate them
+Dir.glob("./#{lang}/_posts/*.md").each { |filename| File.delete(filename) }
+
 start_parsing_flag = false
 readme.each_with_index do |line, index|
   # Code for operating start-of and end-of parsing table of lines in README.
@@ -64,3 +67,4 @@ readme.each_with_index do |line, index|
   IO.write("./#{lang}/_posts/2020-02-22-#{id}.md", company)
   puts "Upsert: ./#{lang}/_posts/2020-02-22-#{id}.md"
 end
+puts ''
