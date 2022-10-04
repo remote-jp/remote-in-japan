@@ -29,10 +29,14 @@ task test: [:build] do
     checks: ['Links', 'Images', 'OpenGraph', 'Favicon'],
 
     # NOTE: You can ignore file, URL, and response as follows
-    file_ignore: [
-      './_site/google3a4de0d83c05ed13.html',
+    ignore_files: [
+      '_site/google3a4de0d83c05ed13.html',
     ],
-    #ignore_urls:  %w(example.com),
+    ignore_urls: [
+      %r{^http://www.ahunrupar.co},
+      %r{^http://kanamei.co.jp},
+      %r{^http://www.unicon-ltd.com},
+    ],
     #ignore_status_ignore: [0, 500, 999],
   }
 
