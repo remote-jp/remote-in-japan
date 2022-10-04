@@ -25,21 +25,18 @@ require 'html-proofer'
 task test: [:build] do
   options = {
     allow_hash_href:  true,
-    assume_extension: true,
-    check_opengraph:  true,
-    check_favicon:    true,
-    check_html:       true,
     disable_external: true,
+    checks: ['Links', 'Images', 'OpenGraph', 'Favicon'],
 
     # NOTE: You can ignore file, URL, and response as follows
     file_ignore: [
       './_site/google3a4de0d83c05ed13.html',
     ],
-    #url_ignore:  %w(example.com),
-    #http_status_ignore: [0, 500, 999],
+    #ignore_urls:  %w(example.com),
+    #ignore_status_ignore: [0, 500, 999],
   }
 
-  HTMLProofer.check_directory('./_site', options).run
+  HTMLProofer.check_directory('_site/', options).run
 end
 
 # Enable 'build' to flush cache files via 'clean'
