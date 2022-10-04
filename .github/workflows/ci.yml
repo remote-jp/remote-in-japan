@@ -1,7 +1,11 @@
 name: Test & Deploy
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+  pull_request:
+    branches:
+      - "*"
 
 jobs:
   test:
@@ -36,8 +40,8 @@ jobs:
     - name: 🔔 Notify results
       env:
         IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+      if: always() && ( env.IDOBATA_GITHUB_ACTIONS!= null )
       uses: yasslab/idobata_notify@main
-      if: always() && (env.IDOBATA_GITHUB_ACTIONS != null)
       with:
         idobata_hook_url: ${{ env.IDOBATA_GITHUB_ACTIONS }}
 
