@@ -36,6 +36,7 @@ task test: [:build] do
       %r{^http://www.ahunrupar.co},
       %r{^http://kanamei.co.jp},
       %r{^http://www.unicon-ltd.com},
+      %r{^/ja/グロース},
     ],
     #ignore_status_ignore: [0, 500, 999],
   }
