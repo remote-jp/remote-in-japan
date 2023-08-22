@@ -8,11 +8,18 @@
 	 <small>
 	   <a href='{{ site.data.translations.linkToGitHub[page.lang] }}'>
 	     <i class="fa-brands fa-github" style='margin-right: 3px;'></i>
+	     GitHub
 	   </a>
-	   {{ site.data.translations.viewOnGitHub[page.lang] }}
 	 </small>
        </li>
-       <li><small><a href="/{{ site.data.translations.menuSwitcher[page.lang] }}">{{ site.data.translations.menuSwitcherLabel[page.lang] }}</a></small></li>
+       <li>
+	 <small>
+	   <a href="/{{ site.data.translations.menuSwitcher[page.lang] }}">
+	     <i class='fa-regular fa-language' style='margin-right: 3px;'></i>
+	     {{ site.data.translations.menuSwitcherLabel[page.lang] }}
+	   </a>
+	 </small>
+       </li>
     </ul>
   </div>
 </div>
