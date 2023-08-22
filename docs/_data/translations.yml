@@ -5,6 +5,13 @@ menuSwitcherLabel:
   en: '日本語'
   ja: 'English'
 
+linkToGitHub:
+  en: 'https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md'
+  ja: 'https://github.com/remote-jp/remote-in-japan/blob/main/README.md'
+viewOnGitHub:
+  en: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md">GitHub</a>'
+  ja: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.md">GitHub</a>'
+
 titleDescription:
   en: 'Tech remote jobs in Japan'
   ja: 'Tech remote jobs in Japan'
@@ -12,10 +19,6 @@ titleDescription:
 searchPlaceholder:
   en: 'Search for job posts...'
   ja: '求人を検索...'
-
-viewOnGitHub:
-  en: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md">GitHub</a>'
-  ja: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.md">GitHub</a>'
 
 postTagFullRemote:
   en: 'Fully remote 👌'
