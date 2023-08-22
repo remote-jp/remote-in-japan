@@ -4,9 +4,6 @@ menuSwitcher:
 menuSwitcherLabel:
   en: '日本語'
   ja: 'English'
-menuViewOnGitHub:
-  en: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.md">GitHub</a>'
-  ja: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md">GitHub</a>'
 
 titleDescription:
   en: 'Tech remote jobs in Japan'
