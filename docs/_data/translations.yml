@@ -16,7 +16,7 @@ searchPlaceholder:
   en: 'Search for job posts...'
   ja: '求人を検索...'
 
-viewOnGithub:
+viewOnGitHub:
   en: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md">GitHub</a>'
   ja: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.md">GitHub</a>'
 
