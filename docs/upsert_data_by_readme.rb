@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
-require 'pry' unless ENV['JEKYLL_ENV'] == 'production'
 require 'kramdown'
 require 'sanitize'
 

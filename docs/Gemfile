@@ -5,7 +5,6 @@ gem 'sanitize'
 gem 'webrick'
 
 group :development, :test do
-  gem 'pry'
   gem 'html-proofer'
 end
 
