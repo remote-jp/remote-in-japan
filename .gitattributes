@@ -5,6 +5,7 @@
 # See: https://github.com/github-linguist/linguist/blob/master/docs/overrides.md
 
 # Mark Jekyll-based markups as Ruby
-_includes/* linguist-language=Ruby
-_layouts/*  linguist-language=Ruby
-_sass/**    linguist-language=Ruby
+docs/**         -linguist-documentation
+docs/_includes/* linguist-language=Ruby
+docs/_layouts/*  linguist-language=Ruby
+docs/_sass/**    linguist-language=Ruby
