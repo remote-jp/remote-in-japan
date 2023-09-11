@@ -141,6 +141,7 @@ Technology companies that allow remote work in Japan.
 | [Nikkei Inc.](https://www.nikkei.co.jp/nikkeiinfo/en/) | Nikkei provides valuable information for customers seeking affluence. While starting from the newspaper business, we utilize the latest technology to develop various information services such as digital media and databases, including the “Nikkei Electronic Edition”. | |
 | [Henry, Inc.](https://corp.henry-app.jp/) | Henry, Inc. is developing products with the mission of "keep solving social issues to make a brighter world". As a first step, we are currently developing "Henry" a cloud-based electronic medical record and receipt system, which is a core system for clinics and small to medium-sized hospitals. | :ok_hand: | |
 | [viviON, Inc.](https://vivion.jp/) | viviON is behind a range of 2D content services, including DLsite, one of Japan's largest 2D content download sites. viviON is looking for new staff who can help us provide world-class 2D content and services to everyone who resonates with the label "otaku". | | |
+| [RevComm Inc.](https://www.revcomm.co.jp/) | RevComm develops and delivers the best in class AI-powered voice transcription and analytics platform that helps businesses streamline their voice communication at all levels. We are a remote-first company and our employees can live anywhere in Japan. For more details, please see [here](https://www.tokyodev.com/companies/revcomm) | :ok_hand: | :ok_hand: |
 
 
 ## Contributing
