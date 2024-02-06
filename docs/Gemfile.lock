@@ -79,11 +79,11 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_portile2 (2.8.4)
-    nokogiri (1.15.4)
+    mini_portile2 (2.8.5)
+    nokogiri (1.16.2)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    nokogiri (1.15.4-x86-mingw32)
+    nokogiri (1.16.2-x86-mingw32)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -94,7 +94,7 @@ GEM
       ruby-rc4
       ttfunk
     public_suffix (5.0.3)
-    racc (1.7.1)
+    racc (1.7.3)
     rainbow (3.1.1)
     rake (13.0.6)
     rb-fsevent (0.11.2)
