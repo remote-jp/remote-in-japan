@@ -27,8 +27,7 @@ jobs:
     - name: 🧪 Install gems
       run: |
         cd ./docs
-        bundle config set path 'vendor/bundle'
-        bundle install --jobs 4 --retry 3
+        bundle install
 
     - name: 🔧 Build & Test
       run: |
