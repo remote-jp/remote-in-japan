@@ -175,6 +175,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社sustenキャピタル・マネジメント](https://susten.jp/) | susten(サステン)は『誰もが安心して暮らせるsustainableな社会の実現』というビジョンの下、2019年に設立されたFinTechスタートアップです。「家族や友人にすすめられる投資運用サービスの創出」を目指し、従来様々な障壁のため不可能とされてきた最先端の金融工学をベースとした投資を、誰もが簡単に始められるオンライン資産運用サービスを作っています。<br>[採用情報](https://susten.jp/careers) | |
 | [株式会社viviON](https://vivion.jp/) | viviON(ヴィヴィオン)は国内最大級の二次元コンテンツ総合ダウンロードサイト「DLsite」をはじめとした、さまざまな総合二次元コンテンツサービスを展開しています。「オタク」という言葉で繋がる全ての人たちにとって、世界基準の二次元コンテンツ・サービスを提供するべくviviONでは新たなメンバーを募集しています。<br>[採用情報](https://vivion.jp/recruit/) | |
 | [株式会社RevComm](https://www.revcomm.co.jp/) | RevCommは、「コミュニケーションを再発明し、人が人を想う社会を創る。」という理念のもと、音声技術とAIにより、コミュニケーション課題を解決する企業です。 ビジネスにおける会話の可視化とセルフコーチング、テレワーク化を実現する音声解析AI電話「MiiTel（ミーテル）」、AI搭載オンライン会議解析ツール「MiiTel Meetings」、オフライン（対面）の商談を可視化する「MiiTel RecPod（α版）」を提供しています。<br>[採用情報](https://hrmos.co/pages/revcomm/jobs) | :ok_hand: |
+| [ドクターメイト株式会社](https://doctormate.co.jp/) | ドクターメイト株式会社はデジタルの力を活用することで、介護の現場から医療に関わるリスクや負担を軽減し、介護従事者が安心して日々のケアに集中できる体制づくりをサポートしています。<br>[カジュアル面談](https://herp.careers/v1/doctormate/3l6Guniw02L3)を実施しています。オンラインでお気軽にお話ししませんか？ | :ok_hand: |
 
 ## Contributing
 
