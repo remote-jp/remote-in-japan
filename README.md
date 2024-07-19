@@ -178,6 +178,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社viviON](https://vivion.jp/) | viviON(ヴィヴィオン)は国内最大級の二次元コンテンツ総合ダウンロードサイト「DLsite」をはじめとした、さまざまな総合二次元コンテンツサービスを展開しています。「オタク」という言葉で繋がる全ての人たちにとって、世界基準の二次元コンテンツ・サービスを提供するべくviviONでは新たなメンバーを募集しています。<br>[採用情報](https://vivion.jp/recruit/) | |
 | [株式会社RevComm](https://www.revcomm.co.jp/) | RevCommは、「コミュニケーションを再発明し、人が人を想う社会を創る。」という理念のもと、音声技術とAIにより、コミュニケーション課題を解決する企業です。 ビジネスにおける会話の可視化とセルフコーチング、テレワーク化を実現する音声解析AI電話「MiiTel（ミーテル）」、AI搭載オンライン会議解析ツール「MiiTel Meetings」、オフライン（対面）の商談を可視化する「MiiTel RecPod（α版）」を提供しています。<br>[採用情報](https://hrmos.co/pages/revcomm/jobs) | :ok_hand: |
 | [ドクターメイト株式会社](https://doctormate.co.jp/) | ドクターメイト株式会社はデジタルの力を活用することで、介護の現場から医療に関わるリスクや負担を軽減し、介護従事者が安心して日々のケアに集中できる体制づくりをサポートしています。<br>[カジュアル面談](https://herp.careers/v1/doctormate/3l6Guniw02L3)を実施しています。オンラインでお気軽にお話ししませんか？ | :ok_hand: |
+| [株式会社コレック](https://www.correc.co.jp/) |株式会社コレックは「情報コミュニケーションに感性と体温」をパーパスに掲げ、メディア事業や保険事業など、BtoCに特化した様々な事業を展開しています。||
 
 ## Contributing
 
