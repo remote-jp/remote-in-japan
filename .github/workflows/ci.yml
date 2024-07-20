@@ -1,7 +1,14 @@
 name: Test & Deploy
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+  pull_request:
+    branches:
+      - "*"
+  # Allows you to run this workflow manually from the Actions tab
+  # https://docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow
+  workflow_dispatch:
 
 jobs:
   test:
@@ -10,7 +17,7 @@ jobs:
     steps:
 
     - name: ☑️ Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         fetch-depth: 2
 
@@ -23,42 +30,22 @@ jobs:
     - name: 🧪 Install gems
       run: |
         cd ./docs
-        bundle config set path 'vendor/bundle'
-        bundle install --jobs 4 --retry 3
+        bundle install
 
     - name: 🔧 Build & Test
       run: |
         cd ./docs
         JEKYLL_ENV=production bundle exec jekyll build
-        bundle exec rake upsert_data_by_readme:all
+        bundle exec rake upsert_data_by_readme
         bundle exec rake test
 
-    - name: 🔔 Notify results
-      env:
-        IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
-      uses: yasslab/idobata_notify@main
-      if: always() && (env.IDOBATA_GITHUB_ACTIONS != null)
-      with:
-        idobata_hook_url: ${{ env.IDOBATA_GITHUB_ACTIONS }}
-
-  deploy:
-    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
-    needs: test
-    runs-on: ubuntu-latest
-    steps:
-    - name: ☑️ Checkout code
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: 1
-
     - name: 🚀 Deploy
-      if:   github.ref == 'refs/heads/main' && job.status == 'success'
+      if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
       run: |
         cd ./docs
         if [ -n "$(git status en ja --porcelain)" ]; then
-          git config user.name  "Yohei Yasukawa"
-          git config user.email "yohei@yasslab.jp"
-          git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git config --global user.name  "Yohei Yasukawa"
+          git config --global user.email "yohei@yasslab.jp"
           git checkout main
           git add en ja
           git commit -m '🤖 Generate page(s) by README'
