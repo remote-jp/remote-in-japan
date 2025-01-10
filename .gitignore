@@ -7,3 +7,4 @@ jekyll-help-center-theme.gemspec
 node_modules
 .DS_Store
 .bundle
+.idea
