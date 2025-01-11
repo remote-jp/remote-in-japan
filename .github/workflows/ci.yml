@@ -38,7 +38,7 @@ jobs:
         bundle exec rake upsert_data_by_readme
         bundle exec rake test
 
-    - name: 🚀 Deploy
+    - name: 🤖 Generate page(s) by README
       if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
       run: |
         cd ./docs
@@ -50,3 +50,31 @@ jobs:
           git commit -m '🤖 Generate page(s) by README'
           git push origin main
         fi
+
+  # Deploy job is triggered only pushed to main branch && CI passed
+  deploy:
+    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+    - name: ☑️ Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 2
+
+    - name: 💎 Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+
+    - name: 🧪 Install gems
+      run: |
+        cd ./docs
+        bundle install
+
+    - name: 🚀 Deploy to GitHub Pages
+      if:   github.ref == 'refs/heads/main' && job.status == 'success'
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        personal_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir:    ./_site
