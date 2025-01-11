@@ -1,0 +1,51 @@
+[
+  
+    {
+      "title"       : "株式会社ランチェスター",
+      "description" : "ブランドとファンの関係を支えるEAPの開発と導入",
+      "date"        : "2020-01-27 11:46:41 -0300",
+      "categories"  : "ja and ja_required",
+      "by"          : "zakizaki-ri9",
+      "url"         : "/ja/lanchester",
+      "icon"        : "",
+      "job_description"   : "ブランドとファンの関係を支える<a href=\"https://e-ap.jp\">EAP</a>の開発と導入 "
+
+    } ,
+  
+    {
+      "title"       : "Lanchester",
+      "description" : "Development and introduction of EAP that supports the relationship between brands and fans",
+      "date"        : "2020-01-27 11:46:41 -0300",
+      "categories"  : "en and ja_required",
+      "by"          : "zakizaki-ri9",
+      "url"         : "/en/lanchester",
+      "icon"        : "",
+      "job_description"   : "Development and introduction of <a href=\"https://e-ap.jp\">EAP</a> that supports the relationship between brands and fans"
+
+    } ,
+  
+    {
+      "title"       : "Kaizen Platform",
+      "description" : "ウェブサイト改善 SaaS Kaizen Platform の開発運",
+      "date"        : "2019-01-01 11:46:41 -0300",
+      "categories"  : "ja, full_remote, and ja_required",
+      "by"          : "John Doe",
+      "url"         : "/ja/kaizen-platform",
+      "icon"        : "",
+      "job_description"   : "ウェブサイト改善 SaaS <a href=\"https://kaizenplatform.com\">Kaizen Platform</a> の開発運"
+
+    } ,
+  
+    {
+      "title"       : "Kaizen Platform",
+      "description" : "SaaS Kaizen Platform development",
+      "date"        : "2019-01-01 11:46:41 -0300",
+      "categories"  : "en, full_remote, and ja_required",
+      "by"          : "John Doe",
+      "url"         : "/en/kaizen-platform",
+      "icon"        : "",
+      "job_description"   : "SaaS <a href=\"https://kaizenplatform.com\">Kaizen Platform</a> development"
+
+    } 
+  
+]
