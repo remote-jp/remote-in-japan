@@ -3,12 +3,12 @@
 
 $baseurl: '{{ site.baseurl }}';
 
-@import 'base';
-@import 'menu';
-@import 'header';
-@import 'footer';
-@import 'icons';
-@import 'post';
+@use 'base';
+@use 'menu';
+@use 'header';
+@use 'footer';
+@use 'icons';
+@use 'post';
 
 :root {
   --color-theme: hsl(0, 74%, 14%);
