@@ -20,3 +20,7 @@ plugins_dir:
 
 exclude:
   - .jekyll-cache
+  - Rakefile
+  - search.json.original
+  - search.json.sample
+  - upsert_data_by_readme.rb
