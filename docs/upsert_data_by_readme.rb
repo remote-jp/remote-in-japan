@@ -38,7 +38,8 @@ readme.each.with_index(1) do |line, index|
 
   # Fetch latest commit info
   latest_commit_id  = `git blame #{target} -L #{index},+1 --porcelain --ignore-revs-file=docs/ignore_revs.txt`.strip.lines[0].split.first
-  latest_commit_at  = git.gcommit(latest_commit_id).author_date.strftime('%Y-%m-%d')
+  latest_commit_at  = git.gcommit(latest_commit_id).author_date.strftime('%Y-%m-%d %H:%M:%S %z')
+  latest_commit_day = git.gcommit(latest_commit_id).author_date.strftime('%Y-%m-%d')
   latest_commit_url = 'https://github.com/remote-jp/remote-in-japan/commit/' + latest_commit_id
 
   # Fetch company name and its link from 1st cell
@@ -76,7 +77,7 @@ readme.each.with_index(1) do |line, index|
   #company << "by: John Doe\n"                    # Not being used
   #company << "image: ''\n"                       # Not being used
 
-  IO.write("./#{lang}/_posts/#{latest_commit_at}-#{id}.md", company)
-  puts "Upsert: ./#{lang}/_posts/#{latest_commit_at}-#{id}.md"
+  IO.write(    "./#{lang}/_posts/#{latest_commit_day}-#{id}.md", company)
+  puts "Upsert: ./#{lang}/_posts/#{latest_commit_day}-#{id}.md"
 end
 puts ''
