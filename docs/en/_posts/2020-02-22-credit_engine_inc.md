@@ -7,7 +7,7 @@ description: 'Credit Engine is an online lending startup that is working to “c
 categories: full_remote
 link: https://creditengine.jp/en
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/c7c12023fc754090b3c63e58cb873d607ffa333f
-commit_at:  2021-09-30
+commit_at:  2021-10-01
 ---
 
 <p>Credit Engine is an online lending startup that is working to “change the financial system with data and technology” that was started in November 2018.<br />You can work full remote / flex-time, and we have created an environment where you can concentrate on personal development. Our environment is English-friendly but everyday business is conducted entirely in Japanese.<br /><a href="https://www.wantedly.com/companies/creditengine/projects">We are hiring here.</a></p>
