@@ -19,8 +19,8 @@ jobs:
     - name: ☑️ Checkout code
       uses: actions/checkout@v4
       # Need all commits to track info
-      #with:
-      #  fetch-depth: 2
+      with:
+        fetch-depth: 0
 
     - name: 💎 Setup Ruby
       uses: ruby/setup-ruby@v1
