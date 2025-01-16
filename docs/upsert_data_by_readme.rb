@@ -43,7 +43,7 @@ readme.each_with_index do |line, index|
     .gsub('）', ')')
     .delete(".,").downcase
 
-  full_description = Kramdown::Document.new(cells[2].strip).to_html.strip
+  description = Kramdown::Document.new(cells[2].strip).to_html.strip
   is_full_remote   = cells[3].include?('ok') ? 'full_remote' : ''
 
   # Generate a corresponding file by parsed-README data
@@ -53,12 +53,12 @@ readme.each_with_index do |line, index|
     lang: #{lang}
     permalink: /#{lang}/#{id}
     title: #{name}
-    description: '#{Sanitize.clean(full_description)}'
+    description: '#{Sanitize.clean(description)}'
     categories: #{is_full_remote}
     link: #{link}
     ---
 
-    #{CGI.unescapeHTML full_description}
+    #{CGI.unescapeHTML description}
   COMPANY_PAGE
 
   #company << "date: 2019-01-01 00:00:00 +0900\n" # Not being used
