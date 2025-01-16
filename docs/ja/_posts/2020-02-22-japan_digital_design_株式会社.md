@@ -6,7 +6,7 @@ title: Japan Digital Design 株式会社
 description: 'Japan Digital Design（JDD）は、「金融の新しいあたりまえを創造し人々の成長に貢献する」をミッションとしているMUFGグループのFintech企業です。 金融ビジネス、テクノロジー、体験デザインの機能が融合されたチームを社内に組成し、新規事業の構想から、AI研究開発、技術実証実験、プロダクト開発までを行っています。 JDDではフルリモート、フルフレックス勤務が可能です！（*一部職種のみ要相談） 現在エンジニア、デザイナー、データサイエンティスト、ビジネス職を募集中ですのでぜひご応募ください。カジュアル面談もOKです！ 採用情報はこちら'
 categories: full_remote
 link: https://japan-d2.com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
 commit_at:  2025-01-16
 ---
 

@@ -6,7 +6,7 @@ title: Data Vehicle Inc.
 description: 'We develop and provide data analysis services with the mission of “Data Science for All”. Development engineers can be fully remote work. The side job and part-time are all right. Please add a word that “remote-in-japan” when applying. (Hiring)'
 categories: 
 link: https://www.dtvcl.com/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
 commit_at:  2025-01-16
 ---
 

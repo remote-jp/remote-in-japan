@@ -6,7 +6,7 @@ title: Yahoo Japan Corporation
 description: 'Development and management of Yahoo!Japan and related services, including Yahoo!Shopping, Yahoo!Auctions. From Oct. 2020, unlimited remote working has begun.'
 categories: 
 link: https://about.yahoo.co.jp/hr/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
 commit_at:  2025-01-16
 ---
 

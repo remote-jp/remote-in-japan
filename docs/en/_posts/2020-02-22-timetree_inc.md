@@ -6,7 +6,7 @@ title: TimeTree, Inc.
 description: 'We are a small Tokyo-based company developing a calendar sharing app called TimeTree. Driven by our company vision, «Ask “Shall We?” to your loved ones», TimeTree puts user communication and sharing at its core.  Since its release 9 years ago, the service has grown to over 60M users worldwide (as of October 2024).  TimeTree is always evolving, constantly looking for new people to tackle challenges and create exciting new services embracing our vision “Shall We?”. Join us and let’s build the future of TimeTree together.  About Us(Japanese) Career Opportunities(Japanese)'
 categories: full_remote
 link: https://timetreeapp.com/intl/en/corporate
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
 commit_at:  2025-01-16
 ---
 
