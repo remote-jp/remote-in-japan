@@ -6,8 +6,8 @@ title: Fuller, Inc.
 description: 'Industry leaders in mobile market data and insights. Fuller, Inc. provides App Development Service and Mobile App Analytics Service'
 categories: 
 link: https://fuller-inc.com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/4c3e29bc7d0e3a67f179183cbd0118fb6a39b2d3
+commit_at:  2020-10-29
 ---
 
 <p>Industry leaders in mobile market data and insights. Fuller, Inc. provides App Development Service and Mobile App Analytics Service</p>

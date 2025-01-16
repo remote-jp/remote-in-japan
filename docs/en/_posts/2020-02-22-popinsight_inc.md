@@ -6,8 +6,8 @@ title: Popinsight, Inc.
 description: 'Developing Usertest Express and other remote UI/UX testing solutions. Members work remotely from Tokyo, Sapporo, Hiroshima, Shanghai, and more!'
 categories: full_remote
 link: https://popinsight.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/88225de1232b84bad8993b2decff2ebbef803354
+commit_at:  2017-06-27
 ---
 
 <p>Developing <a href="https://usertesting.jp/express">Usertest Express</a> and other remote UI/UX testing solutions. Members work remotely from Tokyo, Sapporo, Hiroshima, Shanghai, and more!</p>

@@ -6,8 +6,8 @@ title: Misoca Inc.
 description: 'Developing Misoca, a cloud invoicing service.Hiring now'
 categories: full_remote
 link: https://www.misoca.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/5022d6fe3589b39639e1cc82e68c8c53cea38c0b
+commit_at:  2019-12-24
 ---
 
 <p>Developing <a href="https://www.misoca.jp/">Misoca</a>, a cloud invoicing service.<a href="https://recruit.misoca.jp/">Hiring now</a></p>

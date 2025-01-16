@@ -6,8 +6,8 @@ title: ROLLCAKE Inc.
 description: '「楽しみが待っている毎日をつくる。」を理念として、積極的に新サービスの開発を行っています。現在は4つのサービスを提供中。ALUBS , FLOWER , レター , nu サービスをつくるということは、社会の未来をデザインすること。メンバーそれぞれが思う「もっとこういう社会になればいいのに！」を体験として提供している会社です。 社員が最も能力を発揮できる場所を選べるようにフルリモート勤務が可能です。'
 categories: full_remote
 link: https://rollcake.co/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/f31ef56eb10522531dd30598945c47d8c4a75896
+commit_at:  2023-02-15
 ---
 
 <p>「楽しみが待っている毎日をつくる。」を理念として、積極的に新サービスの開発を行っています。現在は4つのサービスを提供中。<a href="https://albus.is/">ALUBS</a> , <a href="https://flowr.is/">FLOWER</a> , <a href="https://lttr.jp/">レター</a> , <a href="https://nu-app.me/">nu</a><br />サービスをつくるということは、社会の未来をデザインすること。メンバーそれぞれが思う「もっとこういう社会になればいいのに！」を体験として提供している会社です。<br />社員が最も能力を発揮できる場所を選べるようにフルリモート勤務が可能です。</p>

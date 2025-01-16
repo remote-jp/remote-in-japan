@@ -6,8 +6,8 @@ title: IMPATH Inc.
 description: 'UX デザインを専門に、アプリの情報設計から UI デザイン、開発までを行う会社。'
 categories: 
 link: https://impath.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/d0d26cbab9ee9172f935f1dbba1c1389af621f39
+commit_at:  2015-09-14
 ---
 
 <p>UX デザインを専門に、アプリの情報設計から UI デザイン、開発までを行う会社。</p>

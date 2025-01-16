@@ -6,8 +6,8 @@ title: GAOGAO Pte. Ltd.
 description: 'GAOGAO is a start-up studio, a professional platform for “startup engineers” based in Southeast Asia and Japan. We have 40+ software engineers with entrepreneurship to support your new business. (Hiring)'
 categories: full_remote
 link: https://en.gaogao.asia/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/eb2b7e256fa66cde2b4cfe2453ceebfd3ef591e9
+commit_at:  2020-09-08
 ---
 
 <p>GAOGAO is a start-up studio, a professional platform for “startup engineers” based in Southeast Asia and Japan. We have 40+ software engineers with entrepreneurship to support your new business. <a href="https://www.linkedin.com/company/gaogao">(Hiring)</a></p>

@@ -6,8 +6,8 @@ title: viviON, Inc.
 description: 'viviON is behind a range of 2D content services, including DLsite, one of Japan’s largest 2D content download sites. viviON is looking for new staff who can help us provide world-class 2D content and services to everyone who resonates with the label “otaku”.'
 categories: 
 link: https://vivion.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/5f257dacf8bcb481fd601de7aec7756ea33af3e1
+commit_at:  2023-08-22
 ---
 
 <p>viviON is behind a range of 2D content services, including DLsite, one of Japan’s largest 2D content download sites. viviON is looking for new staff who can help us provide world-class 2D content and services to everyone who resonates with the label “otaku”.</p>

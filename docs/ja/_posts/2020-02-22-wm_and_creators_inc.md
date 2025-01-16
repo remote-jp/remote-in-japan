@@ -6,8 +6,8 @@ title: WM & Creators, Inc.
 description: 'Web 開発、DTP デザイン、ブランディングを行うベンチャー。フルリモートを実践しており、「リモートワーカーを応援するメディアanywher」を運営中。'
 categories: full_remote
 link: https://wm-creators.com/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/e19644f026f3b89518395c20dd6d8f10edd87113
+commit_at:  2015-10-01
 ---
 
 <p>Web 開発、DTP デザイン、ブランディングを行うベンチャー。フルリモートを実践しており、「リモートワーカーを応援するメディア<a href="https://anywher.net">anywher</a>」を運営中。</p>

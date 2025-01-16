@@ -6,8 +6,8 @@ title: Mazrica Inc.
 description: 'We develop and provide AI-based sales support tool Senses. There is a full remote and full flex system from with the intent of “Get results in the most productive places and times”.'
 categories: full_remote
 link: https://mazrica.com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/3f776e11b07a11b1e04bb727a3d2db0d79f526ea
+commit_at:  2020-02-11
 ---
 
 <p>We develop and provide AI-based sales support tool <a href="https://product-senses.mazrica.com/">Senses</a>. There is a full remote and full flex system from with the intent of “Get results in the most productive places and times”.</p>

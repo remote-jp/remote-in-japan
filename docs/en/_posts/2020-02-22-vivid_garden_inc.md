@@ -6,8 +6,8 @@ title: vivid garden, Inc.
 description: 'A startup that provides “TABE CHOKU”, a service that allows producers who grow ganic crops to send their favorite crops by “farmers direct delivery”.'
 categories: 
 link: https://vivid-garden.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/6de161fccc93898795fef7e6ad70fd2be9f801a8
+commit_at:  2020-10-12
 ---
 
 <p>A startup that provides “TABE CHOKU”, a service that allows producers who grow ganic crops to send their favorite crops by “farmers direct delivery”.</p>

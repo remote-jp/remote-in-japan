@@ -6,8 +6,8 @@ title: co-meeting
 description: 'Crowy・掲示板サイト co-meeting・Salesforce のアプリ開発会社。リモート勤務・時間・曜日選択可能。'
 categories: 
 link: https://www.co-meeting.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/0206250f596c38ce09cffdc01b7905ef7fceea7c
+commit_at:  2015-09-08
 ---
 
 <p>Crowy・掲示板サイト co-meeting・Salesforce のアプリ開発会社。リモート勤務・時間・曜日選択可能。</p>

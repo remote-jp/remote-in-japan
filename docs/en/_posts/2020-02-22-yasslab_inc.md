@@ -6,8 +6,8 @@ title: YassLab Inc.
 description: 'Developing railstutorial.jp, railsguides.jp, and coderdojo.jp.'
 categories: full_remote
 link: https://yasslab.jp/en/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/d6eaea26bfba7ae03c72d9d53994f74e587bb53b
+commit_at:  2020-02-21
 ---
 
 <p>Developing <a href="https://railstutorial.jp/">railstutorial.jp</a>, <a href="https://railsguides.jp/">railsguides.jp</a>, and <a href="https://coderdojo.jp/">coderdojo.jp</a>.</p>

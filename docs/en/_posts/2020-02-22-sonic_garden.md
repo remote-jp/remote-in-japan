@@ -6,8 +6,8 @@ title: Sonic Garden
 description: 'Web Development and technical consulting. Developing「SKIP」'
 categories: full_remote
 link: https://www.sonicgarden.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/1c12b4b2c55617d978a857740293795c4e7580ad
+commit_at:  2015-11-11
 ---
 
 <p>Web Development and technical consulting. Developing「<a href="https://www.skip-sns.jp/">SKIP</a>」</p>

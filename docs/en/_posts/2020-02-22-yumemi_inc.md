@@ -6,8 +6,8 @@ title: YUMEMI Inc.
 description: 'Contract development, production and consulting mainly for mobile services, digital marketing support with a focus on omni-channel, smartphone application development (iOS, Android), digital media content management and in-house service management.RECRUIT'
 categories: full_remote
 link: https://www.yumemi.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
-commit_at:  2025-01-16
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/69589901188e463aed8ce9646957038221fd17e7
+commit_at:  2020-10-08
 ---
 
 <p>Contract development, production and consulting mainly for mobile services, digital marketing support with a focus on omni-channel, smartphone application development (iOS, Android), digital media content management and in-house service management.<a href="https://www.yumemi.co.jp/?filter=recruit">RECRUIT</a></p>
