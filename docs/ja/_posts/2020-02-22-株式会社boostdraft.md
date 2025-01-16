@@ -6,7 +6,7 @@ title: 株式会社BoostDraft
 description: '株式会社BoostDraftは、IDEの考え方を法務文書の分野に取り入れた支援機能付きドキュメントエディタ『BoostDraft』を開発しています。私たちはフルリモート体制を採用しており、世界中から多様なバックグラウンドを持つメンバーが集まっています。マネジメントを含めた多くのメンバーが子育てと仕事を両立しており、各自のライフスタイルに合わせた柔軟な働き方が可能です。Offsite Meeting（年一回）や、任意参加のOffice day（月一回）といった、メンバー同士が直接会える機会を設けているほか、Morning-checkin や Game Day、Coffee-chat など、雑談の時間も積極的に取り入れています。こうした取り組みを通して、リモートワークでも円滑に業務を遂行できるよう工夫を凝らしています。  複数ポジションで採用中ですので、ぜひ採用情報をご覧ください！ 採用情報（募集ポジション） / note / テックブログ'
 categories: full_remote
 link: https://boostdraft.com/ja/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc0213e5d3bf547e1dd7b4da3b612a689016ef3e
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
 commit_at:  2025-01-16
 ---
 

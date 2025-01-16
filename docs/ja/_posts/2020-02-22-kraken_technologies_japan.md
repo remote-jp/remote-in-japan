@@ -6,7 +6,7 @@ title: Kraken Technologies Japan
 description: 'Octopus Energy Groupの一員であるKrakenは、ユーティリティ企業のための世界有数の顧客＆カルチャープラットフォームです。 私たちが宇宙に大きな緑のくぼみを作るのを手伝ってください!'
 categories: full_remote
 link: https://kraken.tech/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc0213e5d3bf547e1dd7b4da3b612a689016ef3e
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
 commit_at:  2025-01-16
 ---
 

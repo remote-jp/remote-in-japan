@@ -6,7 +6,7 @@ title: GameWith Inc.
 description: 'Development and operation of Japan’s largest game media GameWith. In addition to the web, we also develop iOS/Android apps. Software engineers work under a discretionary labor system. In principle, all employees will be able to work remotely from May 2020. (Hiring)'
 categories: full_remote
 link: https://gamewith.co.jp/en
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc0213e5d3bf547e1dd7b4da3b612a689016ef3e
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
 commit_at:  2025-01-16
 ---
 

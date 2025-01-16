@@ -6,7 +6,7 @@ title: kaonavi, inc.
 description: 'Our company has been leading the talent management market with our service “kaonavi”. In 2024, we are aiming for further business expansion by launching two new services: “Yojitstics,” a budget management system, and “Roummate,” a labor management service. We offer fully remote work (primarily within Japan, with a system requiring in-office face-to-face work once per quarter), super-flexible hours with no core time, and we encourage side jobs, allowing for a flexible work style. We are hiring!'
 categories: 
 link: https://corp.kaonavi.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc0213e5d3bf547e1dd7b4da3b612a689016ef3e
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
 commit_at:  2025-01-16
 ---
 

@@ -6,7 +6,7 @@ title: 株式会社SocialDog
 description: 'あらゆる人がSNSを活用できる世界を創る 多くの人がSNSを使うようになり、コミュニケーションのインフラとなったことで新たな課題も生まれました。そんな課題を解決し、あらゆる人や組織がSNSを活用できる世界を創ることが私達 SocialDog のミッションです。現在は100万以上のSNSアカウントを支えるSNSマネジメントプラットフォーム「SocialDog」を運営しています。 フルリモート、フルフレックスです。ぜひ情報ポータルや採用情報もご一読ください。'
 categories: full_remote
 link: https://socialdog.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc0213e5d3bf547e1dd7b4da3b612a689016ef3e
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
 commit_at:  2025-01-16
 ---
 

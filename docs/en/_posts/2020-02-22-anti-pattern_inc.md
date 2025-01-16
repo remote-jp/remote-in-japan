@@ -6,7 +6,7 @@ title: Anti-Pattern Inc.
 description: 'We are a group of engineers for engineers striving towards our mission of “Bringing Japanese software engineering to the next aspirational occupation”. Press'
 categories: full_remote
 link: https://anti-pattern.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc0213e5d3bf547e1dd7b4da3b612a689016ef3e
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
 commit_at:  2025-01-16
 ---
 
