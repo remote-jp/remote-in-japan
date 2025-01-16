@@ -7,7 +7,7 @@ description: 'We provide Software Development and Digital Marketing Services in 
 categories: full_remote
 link: https://spinetta.tech
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/123e5fc59e35f30097401faf1d2a0eef915dcb59
-commit_at:  2019-07-24
+commit_at:  2019-07-24 16:03:29 +0900
 ---
 
 <p>We provide Software Development and Digital Marketing Services in Fukuoka.</p>

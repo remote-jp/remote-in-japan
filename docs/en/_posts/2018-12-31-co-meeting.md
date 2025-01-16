@@ -7,7 +7,7 @@ description: 'Developing Crowy, BBS site co-meeting and Salesforce apps. Staff c
 categories: 
 link: https://www.co-meeting.co.jp/
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/0e457c88f9aa295e71512742c6dd8d5ffcb5fc82
-commit_at:  2018-12-31
+commit_at:  2018-12-31 16:50:20 +0900
 ---
 
 <p>Developing Crowy, BBS site co-meeting and Salesforce apps. Staff can choose how they work, timezone and day of the week.</p>

@@ -7,7 +7,7 @@ description: '高級不動産専門の不動産仲介、シンシアレジデン
 categories: 
 link: https://corp.xincere.jp/
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc46f93530ae01ccaa41528fdaa12a70a997562e
-commit_at:  2021-04-28
+commit_at:  2021-04-28 09:30:30 +0900
 ---
 
 <p>高級不動産専門の不動産仲介、<a href="https://residence.xincere.jp/">シンシアレジデンス</a>の運営。顧客管理システムやユーザ向けプラットフォームの開発</p>

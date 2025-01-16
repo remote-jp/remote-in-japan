@@ -7,7 +7,7 @@ description: 'Part of the Octopus Energy Group, Kraken is the world’s leading 
 categories: full_remote
 link: https://kraken.tech/
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/f129c8109c823b8bd25381503d3d537a1caeacaf
-commit_at:  2022-05-22
+commit_at:  2022-05-22 23:18:33 +0900
 ---
 
 <p>Part of the <a href="https://octopusenergy.group/">Octopus Energy Group</a>, Kraken is the world’s leading customer & culture platform for utilities. <a href="https://jobs.lever.co/octoenergy?department=Kraken%20Technologies%20Japan%20%2F%20%E5%8B%A4%E5%8B%99%E5%9C%B0%EF%BC%9A%E6%9D%B1%E4%BA%AC%20%20%F0%9F%87%AF%F0%9F%87%B5">Help us make a big green dent in the universe!</a></p>

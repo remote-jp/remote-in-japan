@@ -7,7 +7,7 @@ description: 'Offering high quality internet services based on our data centers 
 categories: 
 link: https://www.sakura.ad.jp/en/corporate/
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/24d2853f50ccec2848fa78bf477908d17b4e2d20
-commit_at:  2018-10-23
+commit_at:  2018-10-23 13:28:01 +0900
 ---
 
 <p>Offering high quality internet services based on our data centers like housing, hosting, IoT platform.</p>
