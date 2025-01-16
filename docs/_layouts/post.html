@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="size margin min-height">
   <article>
     <h1 class="post-title" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">{{ page.title }}</h1>
@@ -12,10 +13,8 @@ layout: default
     {% endcomment %}
 
     <div class="margin-top-20 margin-bottom-50">
-     {{ page.description_full }}
+      {{ content }}
     </div>
-
-    {{ content }}
 
     <p>
       {{ site.data.translations.link[page.lang] }}: <a href="{{ page.link }}">{{ page.link }}</a>

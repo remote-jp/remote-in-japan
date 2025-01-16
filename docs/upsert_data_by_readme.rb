@@ -54,10 +54,11 @@ readme.each_with_index do |line, index|
     permalink: /#{lang}/#{id}
     title: #{name}
     description: '#{Sanitize.clean(full_description)}'
-    description_full: '#{full_description}'
     categories: #{is_full_remote}
     link: #{link}
     ---
+
+    #{CGI.unescapeHTML full_description}
   COMPANY_PAGE
 
   #company << "date: 2019-01-01 00:00:00 +0900\n" # Not being used
