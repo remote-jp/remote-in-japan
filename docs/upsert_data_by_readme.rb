@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require 'git'
 require 'kramdown'
 require 'sanitize'
 
@@ -20,9 +21,9 @@ readme = if lang == 'en'
 # Remove existing files, parse README, and re-generate them
 Dir.glob("./#{lang}/_posts/*.md").each { |filename| File.delete(filename) }
 
+git = Git.open(`git rev-parse --show-toplevel`.chomp!)
 start_parsing_flag = false
-readme.each_with_index do |line, index|
-
+readme.each.with_index(1) do |line, index|
   # Operate start-of and end-of parsing table of lines in README.
   if start_parsing_flag == false
     start_parsing_flag = true if line.start_with? '| ---'
@@ -33,6 +34,11 @@ readme.each_with_index do |line, index|
   # Generate Markdown files to publish from remotework.jp
   next unless line.include? '|'
   cells = line.gsub('\|', '&#124;').split '|'
+
+  # Fetch latest commit info
+  latest_commit_id  = `git blame ../README.md -L #{index},+1 --porcelain --ignore-revs-file=docs/ignore_revs.txt`.strip.lines[0].split.first
+  latest_commit_at  = git.gcommit(latest_commit_id).author_date.strftime('%Y-%m-%d')
+  latest_commit_url = 'https://github.com/remote-jp/remote-in-japan/commit/' + latest_commit_id
 
   # Fetch company name and its link from 1st cell
   name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
@@ -59,6 +65,8 @@ readme.each_with_index do |line, index|
     description: '#{Sanitize.clean(CGI.unescapeHTML description).strip}'
     categories: #{is_full_remote}
     link: #{link}
+    commit_url: #{latest_commit_url}
+    commit_at:  #{latest_commit_at}
     ---
 
     #{CGI.unescapeHTML description}
