@@ -53,7 +53,7 @@ readme.each_with_index do |line, index|
     lang: #{lang}
     permalink: /#{lang}/#{id}
     title: #{name}
-    description: '#{Sanitize.clean(description)}'
+    description: '#{Sanitize.clean(description).strip}'
     categories: #{is_full_remote}
     link: #{link}
     ---
