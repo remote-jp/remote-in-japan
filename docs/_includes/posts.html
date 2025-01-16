@@ -15,22 +15,21 @@
               <span class="list-post-description">{{ post.description }}</span>
             </div>
 
-	    {% comment %}
             <div class="list-post-written">
-              <small> {{ site.data.translations.postCreatedBy[post.lang] }} <span>{{ post.by }}</span>-</small>
-              <small><time>{{ post.date | date_to_string }}</time></small>
+	      <small>
+		{{ site.data.translations.postUpdatedBy[page.lang] }}:
+		<time>
+     		  {% if page.lang == 'en' %}
+	            {{ post.date | date_to_string }}
+		  {% else %}
+	            {{ post.date | date: "%Y-%m-%d " }}
+		  {% endif %}
+		</time>
+	      </small>
             </div>
-	    {% endcomment %}
 
           </div>
           <div class="post-list-tags">
-	    <small class="post-tag">
-	      {% if page.lang == 'en' %}
-	        {{ post.date | date_to_string }}
-	      {% else %}
-	        {{ post.date | date: "%Y-%m-%d " }}
-	      {% endif %}
-	    </small>
             {% for category in post.categories %}
               {% if category == 'full_remote' %} 
                 <small class="post-tag">{{ site.data.translations.postTagFullRemote[post.lang]}}</small> 

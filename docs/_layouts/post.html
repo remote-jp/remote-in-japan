@@ -8,11 +8,16 @@ layout: default
 
     <div class="post-date" data-aos="fade-left" data-aos-delay="300" data-aos-offset="0">
       <a href='{{ page.commit_url }}'>
-	{% if page.lang == 'en' %}
-	Updated: <time>{{ page.commit_at | date_to_string }}</time>
-	{% else %}
-	掲載日: <time>{{ page.commit_at | date: "%Y-%m-%d " }}</time>
-	{% endif %}
+      <small>
+	{{ site.data.translations.postUpdatedBy[page.lang] }}:
+	<time>
+     	  {% if page.lang == 'en' %}
+	    {{ page.commit_at | date_to_string }}
+	  {% else %}
+	    {{ page.commit_at | date: "%Y-%m-%d " }}
+	  {% endif %}
+	</time>
+      </small>
       </a>
     </div>
 

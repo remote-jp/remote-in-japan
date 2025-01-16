@@ -28,9 +28,9 @@ postTagJaRequired:
   en: 'Japanese required'
   ja: '日本語が必要'
 
-postCreatedBy:
-  en: 'Created by'
-  ja: 'によって'
+postUpdatedBy:
+  en: 'Updated'
+  ja: '掲載日'
 
 link:
   en: 'Link'
