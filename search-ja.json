@@ -1290,27 +1290,6 @@
     } ,
   
     {
-      "title"       : "永和システムマネジメント",
-      "description" : "Ruby を使ったアジャイルな受託開発。チャットサービスidobataの開発・運営。",
-      "categories"  : "ja",
-      "url"         : "/ja/永和システムマネジメント"
-    } ,
-  
-    {
-      "title"       : "パシフィックポーター株式会社",
-      "description" : "美容室予約サイトの一元管理システム「かんざし」の開発運営",
-      "categories"  : "ja",
-      "url"         : "/ja/パシフィックポーター株式会社"
-    } ,
-  
-    {
-      "title"       : "かなめい株式会社",
-      "description" : "ウェブアプリケーション企画・制作・運営、モバイル向けコンテンツ制作",
-      "categories"  : "ja",
-      "url"         : "/ja/かなめい株式会社"
-    } ,
-  
-    {
       "title"       : "Unicon",
       "description" : "RockU Talk開発・運営",
       "categories"  : "ja",
@@ -1318,24 +1297,10 @@
     } ,
   
     {
-      "title"       : "Ubiregi Inc.",
-      "description" : "iPad を使った POS レジシステムの開発・運用。",
-      "categories"  : "ja",
-      "url"         : "/ja/ubiregi_inc"
-    } ,
-  
-    {
       "title"       : "Somewrite",
       "description" : "オウンドメディア総合支援サービス＋ネイティブ広告ネットワークの開発・運営",
       "categories"  : "ja",
       "url"         : "/ja/somewrite"
-    } ,
-  
-    {
-      "title"       : "Sansan",
-      "description" : "名刺管理サービス「Sansan」と「Eight」の開発・運営。リモートワーカー用のサテライトオフィス「Sansan 神山ラボ」に加え、在宅労働を支援する制度もある。",
-      "categories"  : "ja",
-      "url"         : "/ja/sansan"
     } ,
   
     {
@@ -1360,10 +1325,45 @@
     } ,
   
     {
+      "title"       : "BePROUD",
+      "description" : "connpass の運営。Web 受託開発。技術研修・コンサルティング",
+      "categories"  : "ja and full_remote",
+      "url"         : "/ja/beproud"
+    } ,
+  
+    {
+      "title"       : "永和システムマネジメント",
+      "description" : "Ruby を使ったアジャイルな受託開発。チャットサービスidobataの開発・運営。",
+      "categories"  : "ja",
+      "url"         : "/ja/永和システムマネジメント"
+    } ,
+  
+    {
+      "title"       : "Ubiregi Inc.",
+      "description" : "iPad を使った POS レジシステムの開発・運用。",
+      "categories"  : "ja",
+      "url"         : "/ja/ubiregi_inc"
+    } ,
+  
+    {
+      "title"       : "Sansan",
+      "description" : "名刺管理サービス「Sansan」と「Eight」の開発・運営。リモートワーカー用のサテライトオフィス「Sansan 神山ラボ」に加え、在宅労働を支援する制度もある。",
+      "categories"  : "ja",
+      "url"         : "/ja/sansan"
+    } ,
+  
+    {
       "title"       : "Degica",
       "description" : "Ruby/Rails で決済・EC システム開発。",
       "categories"  : "ja",
       "url"         : "/ja/degica"
+    } ,
+  
+    {
+      "title"       : "かなめい株式会社",
+      "description" : "ウェブアプリケーション企画・制作・運営、モバイル向けコンテンツ制作",
+      "categories"  : "ja",
+      "url"         : "/ja/かなめい株式会社"
     } ,
   
     {
@@ -1374,10 +1374,10 @@
     } ,
   
     {
-      "title"       : "BePROUD",
-      "description" : "connpass の運営。Web 受託開発。技術研修・コンサルティング",
-      "categories"  : "ja and full_remote",
-      "url"         : "/ja/beproud"
+      "title"       : "パシフィックポーター株式会社",
+      "description" : "美容室予約サイトの一元管理システム「かんざし」の開発運営",
+      "categories"  : "ja",
+      "url"         : "/ja/パシフィックポーター株式会社"
     } 
   
 ]
