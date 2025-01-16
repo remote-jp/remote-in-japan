@@ -6,7 +6,7 @@ title: Unscene, Inc.
 description: 'Unscene is adding to our team passionate people who are revolutionizing how ideas are shared in 3D. Unscene is a simple and intuitive web based 3D presentation tool. Unscene’s intuitive design makes it extremely easy for anyone to share their ideas in 3D. As a result, engineers, marketers and sales executives, especially in manufacturing and construction, use Unscene to create 3D based maintenance manuals, work instructions, sales presentations or promotion materials. (Current Openings)'
 categories: 
 link: https://unscene.app
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
 commit_at:  2025-01-16
 ---
 

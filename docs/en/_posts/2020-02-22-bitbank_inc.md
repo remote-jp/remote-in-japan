@@ -6,7 +6,7 @@ title: bitbank, inc.
 description: 'bitbank, inc. harbors the vision, “enhancing value exchange with bitcoin technology”. We operate services related to crypto assets and its practical technology, remarkably crypto asset exchange “bitbank.cc”. You can check some of our members’ interview articles from note. (We are hiring!)'
 categories: full_remote
 link: https://bitcoinbank.co.jp/en
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
 commit_at:  2025-01-16
 ---
 

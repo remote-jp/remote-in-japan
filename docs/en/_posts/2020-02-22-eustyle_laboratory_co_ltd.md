@@ -6,7 +6,7 @@ title: Eustyle Laboratory Co., Ltd.
 description: '“Challenge to the next generation of social problems.”  We develop software to solve problems such as nursing care.  Would you like to contribute to society together?  (recruiting)'
 categories: full_remote
 link: https://eustylelab.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
 commit_at:  2025-01-16
 ---
 

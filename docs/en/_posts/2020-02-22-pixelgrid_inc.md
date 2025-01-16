@@ -6,7 +6,7 @@ title: PixelGrid Inc.
 description: 'Producing website and apps with JavaScript. Development and management of front-end information delivery service CodeGrid .'
 categories: full_remote
 link: https://www.pxgrid.com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
 commit_at:  2025-01-16
 ---
 

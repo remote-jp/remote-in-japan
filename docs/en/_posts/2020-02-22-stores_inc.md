@@ -6,7 +6,7 @@ title: STORES, Inc.
 description: 'With the mission of “Just for Fun,” we aim to contribute to the development of an economy driven by commitment, passion, and fun. STORES provides comprehensive support services for store operators, from sole proprietors to mid-size companies, including online store setup, POS cash registers, cashless payment, online reservation systems, and store app creation. By combining each of the “STORES” services, we provide an environment for easier and more efficient business operations and support growth.(Hiring now)'
 categories: 
 link: https://www.st.inc/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
 commit_at:  2025-01-16
 ---
 

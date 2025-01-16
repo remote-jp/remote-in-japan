@@ -6,7 +6,7 @@ title: ROLLCAKE Inc.
 description: '「楽しみが待っている毎日をつくる。」を理念として、積極的に新サービスの開発を行っています。現在は4つのサービスを提供中。ALUBS , FLOWER , レター , nu サービスをつくるということは、社会の未来をデザインすること。メンバーそれぞれが思う「もっとこういう社会になればいいのに！」を体験として提供している会社です。 社員が最も能力を発揮できる場所を選べるようにフルリモート勤務が可能です。'
 categories: full_remote
 link: https://rollcake.co/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1f42463fa278ec6976af90175ef27509a22908f0
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/269b8121aa196f71e3b6ae053662484bf0056892
 commit_at:  2025-01-16
 ---
 
