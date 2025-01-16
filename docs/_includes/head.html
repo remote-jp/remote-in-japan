@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang }}">
+{% assign lang = page.lang | default: "en" %}
+<html lang="{{ lang }}">
   <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2N12DFZTYC"></script>
@@ -13,7 +14,30 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ site.title }}</title>
+
+    {% if page.title %}
+      <title>{{ page.title }} - {{ site.title }}</title>
+      <meta name="title"            content="{{ page.title }} - {{ site.title }}" />
+      <meta property="og:title"     content="{{ page.title }} - {{ site.title }}" />
+      <meta property="og:site_name" content="{{ page.title }} - {{ site.title }}" />
+      <meta name="twitter:title"    content="{{ page.title }} - {{ site.title }}" />
+    {% else %}
+      <title>{{ site.title }} - {{ site.data.translations.titleDescription[lang] }}</title>
+      <meta name="title"            content="{{ site.title }} - {{ site.data.translations.titleDescription[lang] }}" />
+      <meta property="og:title"     content="{{ site.title }} - {{ site.data.translations.titleDescription[lang] }}" />
+      <meta property="og:site_name" content="{{ site.title }} - {{ site.data.translations.titleDescription[lang] }}" />
+      <meta name="twitter:title"    content="{{ site.title }} - {{ site.data.translations.titleDescription[lang] }}" />
+    {% endif %}
+
+    {% if page.description %}
+      <meta name="twitter:description" content="{{ page.description | strip_html }}" />
+      <meta name="description"         content="{{ page.description | strip_html }}" />
+      <meta property="og:description"  content="{{ page.description | strip_html }}" />
+    {% else %}
+      <meta name="twitter:description" content="{{ site.data.translations.titleDescription[lang] }}" />
+      <meta name="description"         content="{{ site.data.translations.titleDescription[lang] }}" />
+      <meta property="og:description"  content="{{ site.data.translations.titleDescription[lang] }}" />
+    {% endif %}
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/the-grid-flexbox@2.0.1/css/the-grid.min.css">
