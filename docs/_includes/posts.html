@@ -24,7 +24,14 @@
 
           </div>
           <div class="post-list-tags">
-            {% for category in post.categories%}
+	    <small class="post-tag">
+	      {% if page.lang == 'en' %}
+	        {{ post.date | date_to_string }}
+	      {% else %}
+	        {{ post.date | date: "%Y-%m-%d " }}
+	      {% endif %}
+	    </small>
+            {% for category in post.categories %}
               {% if category == 'full_remote' %} 
                 <small class="post-tag">{{ site.data.translations.postTagFullRemote[post.lang]}}</small> 
               {% endif %} 
