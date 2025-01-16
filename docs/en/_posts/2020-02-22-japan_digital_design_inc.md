@@ -6,6 +6,8 @@ title: Japan Digital Design, Inc.
 description: 'Japan Digital Design（JDD） is a Fintech company of MUFG group.  JDD is composed of in-house teams which combine the functions of finance business, technology, and experience design.  We do everything from conceiving new projects to AI R&amp;D, field testing technologies, and product development. JDD offers full remote and fully flexible work hours! (*Negotiable for some positions) Recruit'
 categories: full_remote
 link: https://japan-d2.com
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc0213e5d3bf547e1dd7b4da3b612a689016ef3e
+commit_at:  2025-01-16
 ---
 
 <p>Japan Digital Design（JDD） is a Fintech company of MUFG group. <br />JDD is composed of in-house teams which combine the functions of finance business, technology, and experience design. <br />We do everything from conceiving new projects to AI R&D, field testing technologies, and product development.<br />JDD offers full remote and fully flexible work hours! (*Negotiable for some positions)<br /><a href="https://japan-d2.com/careers">Recruit</a></p>

@@ -6,6 +6,8 @@ title: Minedia, Inc.
 description: 'We are developing our own products with the goal of rediscovering the value buried within consumers through the power of technology, and have moved to a full remote system in the wake of the 2020 emergency declaration.'
 categories: full_remote
 link: https://corporate.minedia.com/
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc0213e5d3bf547e1dd7b4da3b612a689016ef3e
+commit_at:  2025-01-16
 ---
 
 <p>We are developing our own products with the goal of rediscovering the value buried within consumers through the power of technology, and have moved to a full remote system in the wake of the 2020 emergency declaration.</p>
