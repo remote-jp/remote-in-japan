@@ -22,17 +22,19 @@ Dir.glob("./#{lang}/_posts/*.md").each { |filename| File.delete(filename) }
 
 start_parsing_flag = false
 readme.each_with_index do |line, index|
-  # Code for operating start-of and end-of parsing table of lines in README.
+
+  # Operate start-of and end-of parsing table of lines in README.
   if start_parsing_flag == false
     start_parsing_flag = true if line.start_with? '| ---'
     next
   end
   break if line.start_with? '##' # Stop parsing if reached to next heading.
 
-  # Code for generating Markdown files to publish from remotework.jp
+  # Generate Markdown files to publish from remotework.jp
   next unless line.include? '|'
   cells = line.gsub('\|', '&#124;').split '|'
 
+  # Fetch company name and its link from 1st cell
   name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
   name  = name_and_link.children[0].value.strip
   link  = name_and_link.attr['href']
@@ -43,10 +45,11 @@ readme.each_with_index do |line, index|
     .gsub('）', ')')
     .delete(".,").downcase
 
-  description = Kramdown::Document.new(cells[2].strip).to_html.strip
-  is_full_remote   = cells[3].include?('ok') ? 'full_remote' : ''
+  # Fetch company description from 2nd cell and categories from the other cell(s)
+  description    = Kramdown::Document.new(cells[2].strip).to_html.strip
+  is_full_remote = cells[3].include?('ok') ? 'full_remote' : ''
 
-  # Generate a corresponding file by parsed-README data
+  # Generate Jekyll post with fetched company data above
   company = <<~COMPANY_PAGE
     ---
     layout: post
