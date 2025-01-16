@@ -33,6 +33,8 @@ jobs:
         bundle install
 
     - name: 🔧 Build & Test
+      env:
+        TZ: 'Asia/Tokyo'
       run: |
         cd ./docs
         JEKYLL_ENV=production bundle exec jekyll build
@@ -75,6 +77,8 @@ jobs:
         bundle install
 
     - name: 🔧 Build all pages
+      env:
+        TZ: 'Asia/Tokyo'
       run: |
         cd ./docs
         JEKYLL_ENV=production bundle exec jekyll build
