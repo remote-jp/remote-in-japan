@@ -3,7 +3,7 @@ layout: post
 lang: ja
 permalink: /ja/mocomoco_inc(mocomoco株式会社)
 title: mocomoco inc.（mocomoco株式会社）
-description: ' 音声認識AI mocoVoiceのサービス運営をはじめ、最先端AIの研究開発を行なっています。 現在、全従業員がフルリモートで働いています！ '
+description: '音声認識AI mocoVoiceのサービス運営をはじめ、最先端AIの研究開発を行なっています。 現在、全従業員がフルリモートで働いています！'
 categories: full_remote
 link: https://mocomoco.ai/
 ---

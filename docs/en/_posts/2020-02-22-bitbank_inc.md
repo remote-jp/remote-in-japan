@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/bitbank_inc
 title: bitbank, inc.
-description: ' bitbank, inc. harbors the vision, “enhancing value exchange with bitcoin technology”. We operate services related to crypto assets and its practical technology, remarkably crypto asset exchange “bitbank.cc”. You can check some of our members’ interview articles from note. (We are hiring!) '
+description: 'bitbank, inc. harbors the vision, “enhancing value exchange with bitcoin technology”. We operate services related to crypto assets and its practical technology, remarkably crypto asset exchange “bitbank.cc”. You can check some of our members’ interview articles from note. (We are hiring!)'
 categories: full_remote
 link: https://bitcoinbank.co.jp/en
 ---

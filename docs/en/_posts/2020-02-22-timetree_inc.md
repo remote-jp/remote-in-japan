@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/timetree_inc
 title: TimeTree, Inc.
-description: ' We are a small Tokyo-based company developing a calendar sharing app called TimeTree. Driven by our company vision, «Ask “Shall We?” to your loved ones», TimeTree puts user communication and sharing at its core.  Since its release 9 years ago, the service has grown to over 60M users worldwide (as of October 2024).  TimeTree is always evolving, constantly looking for new people to tackle challenges and create exciting new services embracing our vision “Shall We?”. Join us and let’s build the future of TimeTree together.  About Us(Japanese) Career Opportunities(Japanese) '
+description: 'We are a small Tokyo-based company developing a calendar sharing app called TimeTree. Driven by our company vision, «Ask “Shall We?” to your loved ones», TimeTree puts user communication and sharing at its core.  Since its release 9 years ago, the service has grown to over 60M users worldwide (as of October 2024).  TimeTree is always evolving, constantly looking for new people to tackle challenges and create exciting new services embracing our vision “Shall We?”. Join us and let’s build the future of TimeTree together.  About Us(Japanese) Career Opportunities(Japanese)'
 categories: full_remote
 link: https://timetreeapp.com/intl/en/corporate
 ---

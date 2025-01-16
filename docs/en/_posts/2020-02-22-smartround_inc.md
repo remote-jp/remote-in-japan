@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/smartround_inc
 title: Smartround Inc.
-description: ' Our mission is “Making startup time more business!” We develop and provide BtoB SaaS “Smartround” to streamline the daily work of startups and investors. We are hiring! '
+description: 'Our mission is “Making startup time more business!” We develop and provide BtoB SaaS “Smartround” to streamline the daily work of startups and investors. We are hiring!'
 categories: full_remote
 link: https://en.smartround.com/startup/capital-event/
 ---

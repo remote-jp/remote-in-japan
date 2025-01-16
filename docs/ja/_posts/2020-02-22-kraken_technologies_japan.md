@@ -3,7 +3,7 @@ layout: post
 lang: ja
 permalink: /ja/kraken_technologies_japan
 title: Kraken Technologies Japan
-description: ' Octopus Energy Groupの一員であるKrakenは、ユーティリティ企業のための世界有数の顧客＆カルチャープラットフォームです。 私たちが宇宙に大きな緑のくぼみを作るのを手伝ってください! '
+description: 'Octopus Energy Groupの一員であるKrakenは、ユーティリティ企業のための世界有数の顧客＆カルチャープラットフォームです。 私たちが宇宙に大きな緑のくぼみを作るのを手伝ってください!'
 categories: full_remote
 link: https://kraken.tech/
 ---

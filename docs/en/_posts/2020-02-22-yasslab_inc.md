@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/yasslab_inc
 title: YassLab Inc.
-description: ' Developing railstutorial.jp, railsguides.jp, and coderdojo.jp. '
+description: 'Developing railstutorial.jp, railsguides.jp, and coderdojo.jp.'
 categories: full_remote
 link: https://yasslab.jp/en/
 ---

@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/yahoo_japan_corporation
 title: Yahoo Japan Corporation
-description: ' Development and management of Yahoo!Japan and related services, including Yahoo!Shopping, Yahoo!Auctions. From Oct. 2020, unlimited remote working has begun. '
+description: 'Development and management of Yahoo!Japan and related services, including Yahoo!Shopping, Yahoo!Auctions. From Oct. 2020, unlimited remote working has begun.'
 categories: 
 link: https://about.yahoo.co.jp/hr/
 ---

@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/everyleaf_corporation
 title: Everyleaf Corporation
-description: ' We provide contract development with Ruby/Rails, development consulting, and support for team building. We are also working on the use of AI and natural language processing in cooperation with our group company, Retrieva, Inc. (Employment Information) '
+description: 'We provide contract development with Ruby/Rails, development consulting, and support for team building. We are also working on the use of AI and natural language processing in cooperation with our group company, Retrieva, Inc. (Employment Information)'
 categories: 
 link: https://everyleaf.com/
 ---

@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/bellface_inc
 title: bellFace Inc.
-description: ' Developing [bellFace], a web video conferencing system specialized for inside sales. Free working styles are possible with the remote work system and the flex system. (Hiring) '
+description: 'Developing [bellFace], a web video conferencing system specialized for inside sales. Free working styles are possible with the remote work system and the flex system. (Hiring)'
 categories: full_remote
 link: https://corp.bell-face.com/
 ---

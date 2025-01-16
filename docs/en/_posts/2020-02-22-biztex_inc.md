@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/biztex_inc
 title: BizteX, Inc.
-description: ' Developing BizteX cobit and BizteX mikke. '
+description: 'Developing BizteX cobit and BizteX mikke.'
 categories: 
 link: https://www.biztex.co.jp/
 ---

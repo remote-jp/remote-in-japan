@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/gaogao_pte_ltd
 title: GAOGAO Pte. Ltd.
-description: ' GAOGAO is a start-up studio, a professional platform for “startup engineers” based in Southeast Asia and Japan. We have 40+ software engineers with entrepreneurship to support your new business. (Hiring) '
+description: 'GAOGAO is a start-up studio, a professional platform for “startup engineers” based in Southeast Asia and Japan. We have 40+ software engineers with entrepreneurship to support your new business. (Hiring)'
 categories: full_remote
 link: https://en.gaogao.asia/
 ---

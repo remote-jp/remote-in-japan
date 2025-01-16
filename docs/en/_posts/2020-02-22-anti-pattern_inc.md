@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/anti-pattern_inc
 title: Anti-Pattern Inc.
-description: ' We are a group of engineers for engineers striving towards our mission of “Bringing Japanese software engineering to the next aspirational occupation”. Press '
+description: 'We are a group of engineers for engineers striving towards our mission of “Bringing Japanese software engineering to the next aspirational occupation”. Press'
 categories: full_remote
 link: https://anti-pattern.co.jp/
 ---

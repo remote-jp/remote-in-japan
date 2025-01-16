@@ -3,7 +3,7 @@ layout: post
 lang: ja
 permalink: /ja/portion_inc
 title: Portion inc.
-description: ' ポーション株式会社は、ゲームアカウントのCtoCサービス「トレジャム」を運営している会社です。フルリモート可フルフレックスの働き方が可能です。X(旧Twitter) '
+description: 'ポーション株式会社は、ゲームアカウントのCtoCサービス「トレジャム」を運営している会社です。フルリモート可フルフレックスの働き方が可能です。X(旧Twitter)'
 categories: full_remote
 link: https://www.portion.co.jp/
 ---

@@ -3,7 +3,7 @@ layout: post
 lang: en
 permalink: /en/kraken_technologies_japan
 title: Kraken Technologies Japan
-description: ' Part of the Octopus Energy Group, Kraken is the world’s leading customer &amp; culture platform for utilities. Help us make a big green dent in the universe! '
+description: 'Part of the Octopus Energy Group, Kraken is the world’s leading customer &amp; culture platform for utilities. Help us make a big green dent in the universe!'
 categories: full_remote
 link: https://kraken.tech/
 ---
