@@ -6,7 +6,7 @@ title: tambourine inc.
 description: 'Our mission is to help our clients’ companies grow by innovating the consumer experience in B2C businesses using design and engineering. We mainly use Salesforce to build community services, e-commerce sites, and business systems. Since our inception, we have been working remotely once a week. Now, we have adapted most of our work structure to be fully remote. Additionally, we have built an organization that achieves results even in a remote environment. We’re looking for people to work with us!'
 categories: full_remote
 link: https://www.tam-bourine.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
 commit_at:  2025-01-16
 ---
 

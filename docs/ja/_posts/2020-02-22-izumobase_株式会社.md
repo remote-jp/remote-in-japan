@@ -6,7 +6,7 @@ title: IzumoBASE 株式会社
 description: 'ストレージソフトウェア製品の開発・販売。一部在宅勤務も可能。'
 categories: 
 link: https://www.izumobase.com/ja
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
 commit_at:  2025-01-16
 ---
 

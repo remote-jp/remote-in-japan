@@ -6,7 +6,7 @@ title: Spacely, Inc.
 description: 'We are an IT startup on a mission to “bring wonder and discovery to as many people as possible.” We develop and offer Spacely, a SaaS product that automatically generates interactive, high-quality VR content by uploading 360° panoramic photos or 3D CG data. Our technology—protected by multiple patents—enables features such as measuring dimensions, placing virtual furniture in VR, and easily synchronizing 360° VR content across various devices. Currently, more than 10,000 users in the real estate and housing industries leverage Spacely to drive sales and marketing DX, while in the manufacturing sector, it is utilised as a DX solution for training, with adoption steadily expanding.  For more information about our team and open positions, please visit our Recruitment page. For technical updates, check out our Tech Blog.'
 categories: full_remote
 link: https://corp.spacely.co.jp/recruit/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
 commit_at:  2025-01-16
 ---
 

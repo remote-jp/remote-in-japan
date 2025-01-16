@@ -6,7 +6,7 @@ title: Portion Inc.
 description: 'Portion Inc. is a company that operates a CtoC service for game accounts called “トレジャム”. We offer fully remote and fully flexible working arrangements.'
 categories: full_remote
 link: https://www.portion.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
 commit_at:  2025-01-16
 ---
 

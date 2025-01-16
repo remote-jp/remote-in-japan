@@ -6,7 +6,7 @@ title: Smartround Inc.
 description: 'Our mission is “Making startup time more business!” We develop and provide BtoB SaaS “Smartround” to streamline the daily work of startups and investors. We are hiring!'
 categories: full_remote
 link: https://en.smartround.com/startup/capital-event/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
 commit_at:  2025-01-16
 ---
 

@@ -6,7 +6,7 @@ title: EventHub, Inc
 description: '“EventHub” is an event platform specialized for business events that companies use when holding events for sales, marketing, recruitment and customer relationship maintenance. It is possible to hold a wide variety of events in an online space, from webiners with dozens of people to large-scale online exhibitions.'
 categories: 
 link: https://eventhub.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cf8ada8eae0f29603e476cd235d4527e9ea268e4
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/b650b0994970e1784f9df7f676d17574b0470674
 commit_at:  2025-01-16
 ---
 
