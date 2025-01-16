@@ -1,0 +1,13 @@
+---
+layout: post
+lang: en
+permalink: /en/revcomm_inc
+title: RevComm Inc.
+description: 'RevComm develops and delivers the best in class AI-powered voice transcription and analytics platform that helps businesses streamline their voice communication at all levels. We are a remote-first company and our employees can live anywhere in Japan. For more details, please see here'
+categories: full_remote
+link: https://www.revcomm.co.jp/
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/f6f3b70df504985894a1bc42c5e5a352dd830cfb
+commit_at:  2023-09-11
+---
+
+<p>RevComm develops and delivers the best in class AI-powered voice transcription and analytics platform that helps businesses streamline their voice communication at all levels. We are a remote-first company and our employees can live anywhere in Japan. For more details, please see <a href="https://www.tokyodev.com/companies/revcomm">here</a></p>

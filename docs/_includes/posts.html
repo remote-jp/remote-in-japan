@@ -2,7 +2,7 @@
   {% if site.posts.size == 0 %}
     <h2>No job post found</h2>
   {% else %}
-    {% assign related = site.posts | reverse | where:"lang", page.lang %}
+    {% assign related = site.posts | sort_by: "commit_at" | where:"lang", page.lang %}
     {% if related.size > 0 %}
       {% for post in related %}
         <a href="{{ post.permalink }}" class="list-item container">
@@ -15,16 +15,22 @@
               <span class="list-post-description">{{ post.description }}</span>
             </div>
 
-	    {% comment %}
             <div class="list-post-written">
-              <small> {{ site.data.translations.postCreatedBy[post.lang] }} <span>{{ post.by }}</span>-</small>
-              <small><time>{{ post.date | date_to_string }}</time></small>
+	      <small>
+		{{ site.data.translations.postUpdatedBy[page.lang] }}:
+		<time>
+     		  {% if page.lang == 'en' %}
+	            {{ post.date | date_to_string }}
+		  {% else %}
+	            {{ post.date | date: "%Y-%m-%d " }}
+		  {% endif %}
+		</time>
+	      </small>
             </div>
-	    {% endcomment %}
 
           </div>
           <div class="post-list-tags">
-            {% for category in post.categories%}
+            {% for category in post.categories %}
               {% if category == 'full_remote' %} 
                 <small class="post-tag">{{ site.data.translations.postTagFullRemote[post.lang]}}</small> 
               {% endif %} 

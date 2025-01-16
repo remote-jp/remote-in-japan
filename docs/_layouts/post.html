@@ -1,21 +1,29 @@
 ---
 layout: default
 ---
+
 <div class="size margin min-height">
   <article>
     <h1 class="post-title" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">{{ page.title }}</h1>
 
-    {% comment %}
     <div class="post-date" data-aos="fade-left" data-aos-delay="300" data-aos-offset="0">
-      <time>{{ page.date | date_to_string }}</time>
+      <a href='{{ page.commit_url }}'>
+      <small>
+	{{ site.data.translations.postUpdatedBy[page.lang] }}:
+	<time>
+     	  {% if page.lang == 'en' %}
+	    {{ page.commit_at | date_to_string }}
+	  {% else %}
+	    {{ page.commit_at | date: "%Y-%m-%d " }}
+	  {% endif %}
+	</time>
+      </small>
+      </a>
     </div>
-    {% endcomment %}
 
     <div class="margin-top-20 margin-bottom-50">
-     {{ page.description_full }}
+      {{ content }}
     </div>
-
-    {{ content }}
 
     <p>
       {{ site.data.translations.link[page.lang] }}: <a href="{{ page.link }}">{{ page.link }}</a>

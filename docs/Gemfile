@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'git'
 gem 'rake'
 gem 'sanitize'
 
