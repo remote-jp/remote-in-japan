@@ -5,10 +5,10 @@ require 'kramdown'
 require 'sanitize'
 
 lang   = ARGV[0] || 'en'
-readme = if lang == 'en'
-           IO.readlines('../README.en.md')
+target = if lang == 'en'
+           '../README.en.md'
          elsif lang == 'ja'
-           IO.readlines('../README.md')
+           '../README.md'
          else
            puts "Need to pass [en|ja] to exec this task:"
            puts "Ex. $ bundle exec rake upsert_data_by_readme:en"
@@ -17,6 +17,7 @@ readme = if lang == 'en'
            puts "    # This generate both data in English and Japanese"
            exit
          end
+readme = IO.readlines(target)
 
 # Remove existing files, parse README, and re-generate them
 Dir.glob("./#{lang}/_posts/*.md").each { |filename| File.delete(filename) }
@@ -36,7 +37,7 @@ readme.each.with_index(1) do |line, index|
   cells = line.gsub('\|', '&#124;').split '|'
 
   # Fetch latest commit info
-  latest_commit_id  = `git blame ../README.md -L #{index},+1 --porcelain --ignore-revs-file=docs/ignore_revs.txt`.strip.lines[0].split.first
+  latest_commit_id  = `git blame #{target} -L #{index},+1 --porcelain --ignore-revs-file=docs/ignore_revs.txt`.strip.lines[0].split.first
   latest_commit_at  = git.gcommit(latest_commit_id).author_date.strftime('%Y-%m-%d')
   latest_commit_url = 'https://github.com/remote-jp/remote-in-japan/commit/' + latest_commit_id
 
