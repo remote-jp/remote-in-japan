@@ -6,11 +6,15 @@ layout: default
   <article>
     <h1 class="post-title" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">{{ page.title }}</h1>
 
-    {% comment %}
     <div class="post-date" data-aos="fade-left" data-aos-delay="300" data-aos-offset="0">
-      <time>{{ page.date | date_to_string }}</time>
+      <a href='{{ page.commit_url }}'>
+	{% if page.lang == 'en' %}
+	Updated: <time>{{ page.commit_at | date_to_string }}</time>
+	{% else %}
+	掲載日: <time>{{ page.commit_at | date: "%Y-%m-%d " }}</time>
+	{% endif %}
+      </a>
     </div>
-    {% endcomment %}
 
     <div class="margin-top-20 margin-bottom-50">
       {{ content }}

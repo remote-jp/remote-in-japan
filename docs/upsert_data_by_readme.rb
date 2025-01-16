@@ -72,7 +72,6 @@ readme.each.with_index(1) do |line, index|
     #{CGI.unescapeHTML description}
   COMPANY_PAGE
 
-  #company << "date: 2019-01-01 00:00:00 +0900\n" # Not being used
   #company << "by: John Doe\n"                    # Not being used
   #company << "image: ''\n"                       # Not being used
 
