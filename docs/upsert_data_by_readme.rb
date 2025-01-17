@@ -46,7 +46,21 @@ readme.each.with_index(1) do |line, index|
   name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
   name  = name_and_link.children[0].value.strip
   link  = name_and_link.attr['href']
-  id    = name.gsub(' ', '_')
+  id    = name.downcase # ID (v2)
+    .gsub('株式会社', '')
+    .gsub('inc.', '')
+    .gsub('＆', 'and')
+    .gsub('&',  'and')
+    .gsub('（', ' ')
+    .gsub('）', ' ')
+    .gsub('／', '_')
+    .strip.gsub(' ', '_').gsub('__', '_')
+    .delete(".,").downcase
+
+  # ID (v1): Need to archive each version for redirects with this plugin
+  # https://github.com/jekyll/jekyll-redirect-from
+  # NOTE: This plugin can handle redirect loop if `id == id_v1`
+  id_v1 = name.gsub(' ', '_')
     .gsub('＆', 'and')
     .gsub('&',  'and')
     .gsub('（', '(')
@@ -69,6 +83,8 @@ readme.each.with_index(1) do |line, index|
     link: #{link}
     commit_url: #{latest_commit_url}
     commit_at:  #{latest_commit_at}
+    redirect_from:
+      - /#{lang}/#{id_v1}
     ---
 
     #{CGI.unescapeHTML description}
