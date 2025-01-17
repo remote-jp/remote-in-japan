@@ -63,17 +63,12 @@ jobs:
         cd ./docs
         bundle install
 
-    - name: 🔧 Build all pages
+    - name: 🤖 Generate page(s) by README
       env:
         TZ: 'Asia/Tokyo'
       run: |
         cd ./docs
-        JEKYLL_ENV=production bundle exec jekyll build
         bundle exec rake upsert_data_by_readme
-
-    - name: 🤖 Generate page(s) by README
-      run: |
-        cd ./docs
         if [ -n "$(git status en ja --porcelain)" ]; then
           git config --global user.name  "Yohei Yasukawa"
           git config --global user.email "yohei@yasslab.jp"
@@ -82,6 +77,13 @@ jobs:
           git commit -m '🤖 Generate page(s) by README'
           git push origin main
         fi
+
+    - name: 🔧 Build all pages
+      env:
+        TZ: 'Asia/Tokyo'
+      run: |
+        cd ./docs
+        JEKYLL_ENV=production bundle exec jekyll build
 
     - name: 🚀 Deploy to gh-pages branch
       if:   github.ref == 'refs/heads/main' && job.status == 'success'
