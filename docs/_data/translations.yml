@@ -30,7 +30,7 @@ postTagJaRequired:
 
 postUpdatedBy:
   en: 'Updated'
-  ja: '掲載日'
+  ja: '更新日'
 
 link:
   en: 'Link'
