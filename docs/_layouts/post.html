@@ -37,7 +37,8 @@ layout: default
         {{ site.data.translations.link[page.lang] }}: <a href='{{ url_en }}'>&raquo; Switch to English</a><br>
       {% endif %}
 
-      {{ site.data.translations.share[page.lang] }}: <a href='https://twitter.com/intent/tweet?text={{ page.title }}&hashtags=RemoteWorkJP&lang={{ page.lang }}&url={{ site.url }}{{ page.url | url_encode }}'><i class="fa-brands fa-x-twitter"></i></a>
+      {% assign url = page.url | split: '/' | last %}
+      {{ site.data.translations.share[page.lang] }}: <a href='https://twitter.com/intent/tweet?text={{ page.title }}&hashtags=RemoteWorkJP&lang={{ page.lang }}&url={{ site.url }}/{{ page.lang }}/{{ url | cgi_escape | url_encode }}'><i class="fa-brands fa-x-twitter"></i></a>
     </small></p>
     
     <p>
