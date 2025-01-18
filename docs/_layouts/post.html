@@ -25,18 +25,20 @@ layout: default
       {{ content }}
     </div>
 
-    <p>
+    <p><small>
       {{ site.data.translations.link[page.lang] }}: <a href="{{ page.link }}">{{ page.link }}</a><br>
 
       {% assign urls   = site.posts | map: 'url' | sort %}
       {% assign url_en = page.url | replace_first: page.lang, 'en'  %}
       {% assign url_ja = page.url | replace_first: page.lang, 'ja'  %}
       {% if page.lang == 'en' and urls contains url_ja %}
-        {{ site.data.translations.link[page.lang] }}: <a href='{{ url_ja }}'>&raquo; Switch to Japanese</a>
+        {{ site.data.translations.link[page.lang] }}: <a href='{{ url_ja }}'>&raquo; Switch to Japanese</a><br>
       {% elsif page.lang == 'ja' and urls contains url_en %}
-	{{ site.data.translations.link[page.lang] }}: <a href='{{ url_en }}'>&raquo; Switch to English</a>
+        {{ site.data.translations.link[page.lang] }}: <a href='{{ url_en }}'>&raquo; Switch to English</a><br>
       {% endif %}
-    </p>
+
+      {{ site.data.translations.share[page.lang] }}: <a href='https://twitter.com/intent/tweet?text={{ page.title }}&hashtags=RemoteWorkJP&lang={{ page.lang }}&url={{ site.url }}{{ page.url }}'><i class="fa-brands fa-x-twitter"></i></a>
+    </small></p>
     
     <p>
       <small><a href="/{{ page.lang }}">« {{ site.data.translations.back[page.lang] }}</a></small>
