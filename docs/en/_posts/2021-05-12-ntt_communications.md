@@ -2,12 +2,12 @@
 layout: post
 lang: en
 permalink: /en/ntt_communications
-title: NTT Communications
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/04efc076de47073c15cc4cf655f7c043b10eed21
+date:       2021-05-12 14:57:17 +0900
+link:       https://www.ntt.com/en/index.html
+title:      NTT Communications
 description: 'NTT Communications has been developing a wide range of businesses from infrastructure such as data centers and submarine cables to software and web services under the philosophy of “Creating communications that open up possibilities for people and the world.” In addition to the introduction of remote work, we also publish a “remote work handbook” to further promote remote work. Click here for employment information.'
 categories: 
-link: https://www.ntt.com/en/index.html
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/04efc076de47073c15cc4cf655f7c043b10eed21
-commit_at:  2021-05-12 14:57:17 +0900
 redirect_from:
   - /en/ntt_communications
 ---

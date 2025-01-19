@@ -2,12 +2,12 @@
 layout: post
 lang: ja
 permalink: /ja/kraken_technologies_japan
-title: Kraken Technologies Japan
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/b761f7e249777568ef532b9b888ef636b1bf6d23
+date:       2022-05-22 23:29:23 +0900
+link:       https://kraken.tech/
+title:      Kraken Technologies Japan
 description: 'Octopus Energy Groupの一員であるKrakenは、ユーティリティ企業のための世界有数の顧客＆カルチャープラットフォームです。 私たちが宇宙に大きな緑のくぼみを作るのを手伝ってください!'
 categories: full_remote
-link: https://kraken.tech/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b761f7e249777568ef532b9b888ef636b1bf6d23
-commit_at:  2022-05-22 23:29:23 +0900
 redirect_from:
   - /ja/kraken_technologies_japan
 ---

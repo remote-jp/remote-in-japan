@@ -2,12 +2,12 @@
 layout: post
 lang: ja
 permalink: /ja/enechange
-title: ENECHANGE株式会社
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/247663346bf5de43f883ef57018ff10b172f5700
+date:       2025-01-14 18:01:30 +0900
+link:       https://enechange.co.jp/
+title:      ENECHANGE株式会社
 description: '私達ENECHANGE（エネチェンジ）は、「エネルギーの未来をつくる」というミッションを掲げ、エネルギー領域のDXを加速するプラットフォームになることを目指して事業を推進する、日本を代表するエネルギーテックカンパニーです。 日本最大級のエネルギー切り替えプラットフォーム「エネチェンジ」、EV（電気自動車）の目的地充電サービス「EV充電エネチェンジ」、エネルギー業界のDXを実現する「エネルギークラウド」の開発運用など、エネルギーテックをベースにした革新的事業を次々に展開しています。 弊社では2020年より「恒久的リモートワーク制度」を導入し、柔軟な働き方を実現しています。 現在社員の34%がフルリモートで働いており、デジタルツールを駆使しつつ、コミュニケーションを大切にして助け合いながら、仕事に取り組んでいます。  採用情報はこちらからご覧ください。 https://engineer-recruit.enechange.co.jp/'
 categories: 
-link: https://enechange.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/247663346bf5de43f883ef57018ff10b172f5700
-commit_at:  2025-01-14 18:01:30 +0900
 redirect_from:
   - /ja/enechange株式会社
 ---

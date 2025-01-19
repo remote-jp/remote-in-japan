@@ -2,12 +2,12 @@
 layout: post
 lang: ja
 permalink: /ja/エニトグループ_with_omiai
-title: 株式会社エニトグループ（with／Omiai）
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/cc708979d611726729730286db8f5bcb53a1aad8
+date:       2025-01-07 17:58:09 +0900
+link:       https://enito.co.jp/
+title:      株式会社エニトグループ（with／Omiai）
 description: '恋活・婚活マッチングアプリ運営のホールディング会社として2023年3月1日に誕生しました。20代向け価値観重視のマッチングアプリ『with』、恋愛結婚を叶えるマッチングアプリ『Omiai』のプロダクトの企画開発、運営を行っています。「自分らしくいられる人と生きる幸せを、世界中へ」というビジョンのもと、マッチングアプリが出会いのインフラとなるよう、 「安心・安全」 に 「自分に合った方と出会える」 サービスをいっしょに作りませんか？  フルリモート、フレックス勤務OK。遠方に居住する社員や、子育て世代の社員も複数在籍しています。   会社説明   採用情報'
 categories: full_remote
-link: https://enito.co.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cc708979d611726729730286db8f5bcb53a1aad8
-commit_at:  2025-01-07 17:58:09 +0900
 redirect_from:
   - /ja/株式会社エニトグループ(with／omiai)
 ---

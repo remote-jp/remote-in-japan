@@ -2,12 +2,12 @@
 layout: post
 lang: ja
 permalink: /ja/socialdog
-title: 株式会社SocialDog
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/4c6d62e2551c3bae42c5d9ea4903677eeae2dbd6
+date:       2025-01-08 19:38:53 +0900
+link:       https://socialdog.jp/
+title:      株式会社SocialDog
 description: 'あらゆる人がSNSを活用できる世界を創る 多くの人がSNSを使うようになり、コミュニケーションのインフラとなったことで新たな課題も生まれました。そんな課題を解決し、あらゆる人や組織がSNSを活用できる世界を創ることが私達 SocialDog のミッションです。現在は100万以上のSNSアカウントを支えるSNSマネジメントプラットフォーム「SocialDog」を運営しています。 フルリモート、フルフレックスです。ぜひ情報ポータルや採用情報もご一読ください。'
 categories: full_remote
-link: https://socialdog.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/4c6d62e2551c3bae42c5d9ea4903677eeae2dbd6
-commit_at:  2025-01-08 19:38:53 +0900
 redirect_from:
   - /ja/株式会社socialdog
 ---

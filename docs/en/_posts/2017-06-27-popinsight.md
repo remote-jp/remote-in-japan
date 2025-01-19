@@ -2,12 +2,12 @@
 layout: post
 lang: en
 permalink: /en/popinsight
-title: Popinsight, Inc.
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/88225de1232b84bad8993b2decff2ebbef803354
+date:       2017-06-27 18:14:37 +0900
+link:       https://popinsight.jp/
+title:      Popinsight, Inc.
 description: 'Developing Usertest Express and other remote UI/UX testing solutions. Members work remotely from Tokyo, Sapporo, Hiroshima, Shanghai, and more!'
 categories: full_remote
-link: https://popinsight.jp/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/88225de1232b84bad8993b2decff2ebbef803354
-commit_at:  2017-06-27 18:14:37 +0900
 redirect_from:
   - /en/popinsight_inc
 ---

@@ -2,12 +2,12 @@
 layout: post
 lang: en
 permalink: /en/yahoo_japan_corporation
-title: Yahoo Japan Corporation
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/f921940671ebd18478dc941d894f9a4ba9c427b5
+date:       2020-10-28 10:07:27 +0900
+link:       https://about.yahoo.co.jp/hr/
+title:      Yahoo Japan Corporation
 description: 'Development and management of Yahoo!Japan and related services, including Yahoo!Shopping, Yahoo!Auctions. From Oct. 2020, unlimited remote working has begun.'
 categories: 
-link: https://about.yahoo.co.jp/hr/
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/f921940671ebd18478dc941d894f9a4ba9c427b5
-commit_at:  2020-10-28 10:07:27 +0900
 redirect_from:
   - /en/yahoo_japan_corporation
 ---
