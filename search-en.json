@@ -2,6 +2,13 @@
   
   
     {
+      "title"       : "BoostDraft, Inc.",
+      "description" : "BoostDraft develops a document editor with support features incorporating IDE concepts into legal documents. We operate as a fully remote team, bringing together members from diverse backgrounds worldwide. Many of our team members, including those in management, balance parenting and work, and we offer flexible working arrangements tailored to individual lifestyles.   In addition to fostering in-person connections through events like our annual Offsite Meeting and our monthly Office Day, we actively create casual online interaction opportunities such as Morning Check-ins, Game Days, and Coffee Chats. These initiatives help ensure smooth collaboration and productivity, even in a remote work environment.  We’re currently hiring for multiple positions—be sure to check out our job openings! Job Openings",
+      "categories"  : "en and full_remote",
+      "url"         : "/en/boostdraft"
+    } ,
+  
+    {
       "title"       : "Spacely, Inc.",
       "description" : "We are an IT startup on a mission to “bring wonder and discovery to as many people as possible.” We develop and offer Spacely, a SaaS product that automatically generates interactive, high-quality VR content by uploading 360° panoramic photos or 3D CG data. Our technology—protected by multiple patents—enables features such as measuring dimensions, placing virtual furniture in VR, and easily synchronizing 360° VR content across various devices. Currently, more than 10,000 users in the real estate and housing industries leverage Spacely to drive sales and marketing DX, while in the manufacturing sector, it is utilised as a DX solution for training, with adoption steadily expanding.  For more information about our team and open positions, please visit our Recruitment page. For technical updates, check out our Tech Blog.",
       "categories"  : "en and full_remote",
@@ -16,31 +23,10 @@
     } ,
   
     {
-      "title"       : "BoostDraft, Inc.",
-      "description" : "BoostDraft develops a document editor with support features incorporating IDE concepts into legal documents. We operate as a fully remote team, bringing together members from diverse backgrounds worldwide. Many of our team members, including those in management, balance parenting and work, and we offer flexible working arrangements tailored to individual lifestyles.   In addition to fostering in-person connections through events like our annual Offsite Meeting and our monthly Office Day, we actively create casual online interaction opportunities such as Morning Check-ins, Game Days, and Coffee Chats. These initiatives help ensure smooth collaboration and productivity, even in a remote work environment.  We’re currently hiring for multiple positions—be sure to check out our job openings! Job Openings",
-      "categories"  : "en and full_remote",
-      "url"         : "/en/boostdraft"
-    } ,
-  
-    {
       "title"       : "AP Communications Co., Ltd.",
       "description" : "As IT infrastructure professionals, we provide a wide range of services, particularly in recent times, including IT infrastructure automation, support for the introduction and operation of generative AI and data AI platforms, network and cloud security measures, and digital transformation development support. As of January 2025, nearly 20% of our employees live in rural areas and work remotely. In addition, we are an engineer-driven company that is committed to supporting the work environment and careers, with an in-house university and an official department where engineers support other engineers. Recruitment(Japanese) Technical blog(Japanese) Public relations blog(Japanese)",
       "categories"  : "en",
       "url"         : "/en/ap_communications_co_ltd"
-    } ,
-  
-    {
-      "title"       : "U-NEXT Co., Ltd.",
-      "description" : "We operate U-NEXT, one of Japan’s largest content streaming platforms. Employees can choose between remote work or office attendance on a daily basis, and in practice, more than 90% of departments and employees opt for remote work.",
-      "categories"  : "en and full_remote",
-      "url"         : "/en/u-next_co_ltd"
-    } ,
-  
-    {
-      "title"       : "TimeTree, Inc.",
-      "description" : "We are a small Tokyo-based company developing a calendar sharing app called TimeTree. Driven by our company vision, «Ask “Shall We?” to your loved ones», TimeTree puts user communication and sharing at its core.  Since its release 9 years ago, the service has grown to over 60M users worldwide (as of October 2024).  TimeTree is always evolving, constantly looking for new people to tackle challenges and create exciting new services embracing our vision “Shall We?”. Join us and let’s build the future of TimeTree together.  About Us(Japanese) Career Opportunities(Japanese)",
-      "categories"  : "en and full_remote",
-      "url"         : "/en/timetree"
     } ,
   
     {
@@ -58,10 +44,24 @@
     } ,
   
     {
+      "title"       : "TimeTree, Inc.",
+      "description" : "We are a small Tokyo-based company developing a calendar sharing app called TimeTree. Driven by our company vision, «Ask “Shall We?” to your loved ones», TimeTree puts user communication and sharing at its core.  Since its release 9 years ago, the service has grown to over 60M users worldwide (as of October 2024).  TimeTree is always evolving, constantly looking for new people to tackle challenges and create exciting new services embracing our vision “Shall We?”. Join us and let’s build the future of TimeTree together.  About Us(Japanese) Career Opportunities(Japanese)",
+      "categories"  : "en and full_remote",
+      "url"         : "/en/timetree"
+    } ,
+  
+    {
       "title"       : "Helpfeel Inc.",
       "description" : "Developing Helpfeel, Gyazo, Cosense . Based in Kyoto.",
       "categories"  : "en and full_remote",
       "url"         : "/en/helpfeel"
+    } ,
+  
+    {
+      "title"       : "U-NEXT Co., Ltd.",
+      "description" : "We operate U-NEXT, one of Japan’s largest content streaming platforms. Employees can choose between remote work or office attendance on a daily basis, and in practice, more than 90% of departments and employees opt for remote work.",
+      "categories"  : "en and full_remote",
+      "url"         : "/en/u-next_co_ltd"
     } ,
   
     {
@@ -653,17 +653,17 @@
     } ,
   
     {
+      "title"       : "LINE Corp.",
+      "description" : "Developing LINE and some applications. In some development department, possible remote working one day per one month. Hiring now",
+      "categories"  : "en",
+      "url"         : "/en/line_corp"
+    } ,
+  
+    {
       "title"       : "YassLab Inc.",
       "description" : "Developing railstutorial.jp, railsguides.jp, and coderdojo.jp.",
       "categories"  : "en and full_remote",
       "url"         : "/en/yasslab"
-    } ,
-  
-    {
-      "title"       : "Pacific Porter",
-      "description" : "Developing「かんざし」, Reservation and Customer Manager System for Beauty Salon.",
-      "categories"  : "en",
-      "url"         : "/en/pacific_porter"
     } ,
   
     {
@@ -674,10 +674,10 @@
     } ,
   
     {
-      "title"       : "LINE Corp.",
-      "description" : "Developing LINE and some applications. In some development department, possible remote working one day per one month. Hiring now",
+      "title"       : "Pacific Porter",
+      "description" : "Developing「かんざし」, Reservation and Customer Manager System for Beauty Salon.",
       "categories"  : "en",
-      "url"         : "/en/line_corp"
+      "url"         : "/en/pacific_porter"
     } ,
   
     {
@@ -688,17 +688,17 @@
     } ,
   
     {
-      "title"       : "Chatwork",
-      "description" : "Developing『Chatwork』, a cloud tool for business chat.",
-      "categories"  : "en",
-      "url"         : "/en/chatwork"
-    } ,
-  
-    {
       "title"       : "actindi",
       "description" : "Developing 子どもとお出かけ情報サイト「いこーよ」",
       "categories"  : "en",
       "url"         : "/en/actindi"
+    } ,
+  
+    {
+      "title"       : "Chatwork",
+      "description" : "Developing『Chatwork』, a cloud tool for business chat.",
+      "categories"  : "en",
+      "url"         : "/en/chatwork"
     } ,
   
     {
