@@ -12,9 +12,9 @@ layout: default
 	{{ site.data.translations.postUpdatedBy[page.lang] }}:
 	<time>
      	  {% if page.lang == 'en' %}
-	    {{ page.commit_at | date_to_string }}
+	    {{ page.date | date_to_string }}
 	  {% else %}
-	    {{ page.commit_at | date: "%Y-%m-%d " }}
+	    {{ page.date | date: "%Y-%m-%d " }}
 	  {% endif %}
 	</time>
       </small>

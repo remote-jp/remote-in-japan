@@ -77,12 +77,12 @@ readme.each.with_index(1) do |line, index|
     layout: post
     lang: #{lang}
     permalink: /#{lang}/#{id}
-    title: #{name}
+    commit_url: #{latest_commit_url}
+    date:       #{latest_commit_at}
+    link:       #{link}
+    title:      #{name}
     description: '#{Sanitize.clean(CGI.unescapeHTML description).strip}'
     categories: #{is_full_remote}
-    link: #{link}
-    commit_url: #{latest_commit_url}
-    commit_at:  #{latest_commit_at}
     redirect_from:
       - /#{lang}/#{id_v1}
     ---
