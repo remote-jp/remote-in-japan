@@ -41,8 +41,8 @@ share:
   ja: 'シェア'
 
 back:
-  en: 'Back'
-  ja: '戻る'
+  en: 'Back to index'
+  ja: '目次に戻る'
 
 jekyll:
   en: '<a href="https://jekyllrb.com/">Jekyll</a>'

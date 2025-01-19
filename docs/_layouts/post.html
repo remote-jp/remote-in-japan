@@ -28,7 +28,8 @@ layout: default
     <p><small>
       {{ site.data.translations.link[page.lang] }}: <a href="{{ page.link }}">{{ page.link }}</a><br>
 
-      {% assign urls   = site.posts | map: 'url' | sort %}
+      {% assign posts  = site.posts | sort: 'date' | reverse %}
+      {% assign urls   =      posts |  map: 'url' %}
       {% assign url_en = page.url | replace_first: page.lang, 'en'  %}
       {% assign url_ja = page.url | replace_first: page.lang, 'ja'  %}
       {% if page.lang == 'en' and urls contains url_ja %}
@@ -38,15 +39,52 @@ layout: default
       {% endif %}
 
       {% assign url = page.url | split: '/' | last %}
-      {{ site.data.translations.share[page.lang] }}: <a href='https://twitter.com/intent/tweet?text={{ page.title }}&hashtags=RemoteWorkJP&lang={{ page.lang }}&url={{ site.url }}/{{ page.lang }}/{{ url | cgi_escape | url_encode }}'><i class="fa-brands fa-x-twitter"></i></a>
-    </small></p>
-    
-    <p>
-      <small><a href="/{{ page.lang }}">« {{ site.data.translations.back[page.lang] }}</a></small>
-    </p>
-  </article>
+      {{ site.data.translations.share[page.lang] }}: <a href='https://twitter.com/intent/tweet?text={{ page.title }}&hashtags=RemoteWorkJP&lang={{ page.lang }}&url={{ site.url }}/{{ page.lang }}/{{ url | cgi_escape | url_encode }}'><i class="fa-brands fa-x-twitter"></i></a><br>
+      <br>
+      {% assign this_lang_posts = posts | where: 'lang', page.lang %}
+      {% assign current_index = nil %}
+      {% for tlp in this_lang_posts %}
+        {% if tlp.url == page.url %}
+          {% assign current_index = forloop.index0 %}
+        {% endif %}
+      {% endfor %}
 
-  {% comment %}
-  <small>{{ site.data.translations.postCreatedBy[page.lang] }} <b>{{ page.by }}</b></small>
-  {% endcomment %}
+      {% assign prev_index = current_index | minus: 1 %}
+      {% assign next_index = current_index | plus:  1 %}
+      {% if prev_index == -1                   %}{% assign prev_index = this_lang_posts.size | minus: 1 %}{% endif %}
+      {% if next_index == this_lang_posts.size %}{% assign next_index = 0                               %}{% endif %}
+      <style>
+	.nav-wrapper {
+	  display: flex;
+	  justify-content: space-between; /* 左右端に配置 */
+	  align-items:     center;        /* 垂直方向で中央揃え */
+	  width: 100%;
+	  padding: 10px;
+	}
+	.prev { text-align: left;   }
+	.toc  { text-align: center; }
+	.next { text-align: right;  }
+	.clearfix { clear: both; } /* 直前の float を解除 */
+      </style>
+      <div class='clearfix'></div>
+      <div class="nav-wrapper">
+	<div class="prev">
+	  &laquo;
+	  <a href="{{ this_lang_posts[prev_index].url }}">
+	    {{ this_lang_posts[prev_index].title | remove_first: '株式会社' }}
+	  </a>
+	</div>
+	<div class="next">
+	  <a href="{{ this_lang_posts[next_index].url }}">
+	    {{ this_lang_posts[next_index].title | remove_first: '株式会社' }}
+	  </a>
+	  &raquo;
+	</div>
+      </div>
+      <div class="toc">
+	<small><a href="/{{ page.lang }}">{{ site.data.translations.back[page.lang] }}</a></small>
+      </div>
+
+    </small></p>
+  </article>
 </div>
