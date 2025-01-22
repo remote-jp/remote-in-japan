@@ -5,9 +5,39 @@
     <description>Tech remote jobs in Japan in Japanese and English.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Jan 2025 15:09:07 +0900</pubDate>
-    <lastBuildDate>Sun, 19 Jan 2025 15:09:07 +0900</lastBuildDate>
+    <pubDate>Wed, 22 Jan 2025 16:34:56 +0900</pubDate>
+    <lastBuildDate>Wed, 22 Jan 2025 16:34:56 +0900</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>Credit Engine, Inc.</title>
+        <description>&lt;p&gt;We are developing DX (digital transformation) services for the financial industry with the mission, “Transform Lending. Transform Borrowing.”&lt;br /&gt;&lt;br /&gt;To achieve this mission, we are developing a Loan DX Platform that delivers both financial services for lending and debt collection and technology solutions to financial institutions.&lt;br /&gt;&lt;br /&gt;We reduce the hassles of lending and borrowing, helping businesses focus on their core operations and enabling a more dynamic capital flow throughout the economy, contributing to economic revitalization.&lt;br /&gt;&lt;br /&gt;We became a member of the PayPay Group from November 2024, and as our organization continues to grow, we are looking for colleagues who will work together with us to develop new features and improve existing ones.&lt;br /&gt;&lt;br /&gt;◼️Work style&lt;br /&gt;Full-remote・Full-flex&lt;br /&gt;&lt;br /&gt;◼️Development environment&lt;br /&gt;・Frontend: JS/TS, Vue.js, Tailwind CSS, Storybook&lt;br /&gt;・Backend: Python, Django&lt;br /&gt;・DB: PostgreSQL (Amazon RDS)&lt;br /&gt;・Test: Autify&lt;br /&gt;・CI/CD: GitHub Actions, AWS CodeBuild/CodeDeploy/CodePipeline&lt;br /&gt;・Infrastructure: AWS (AWS CDK, ECS Fargate, etc), Azure (OpenAI Service, etc)&lt;br /&gt;・Data analysis: Python, scikit-learn, Amazon SageMaker&lt;br /&gt;・Design: Figma&lt;br /&gt;・Other: Slack, GitHub, Asana, etc&lt;br /&gt;・MacBook provided&lt;br /&gt;・GitHub Copilot provided&lt;br /&gt;・Licenses for editors (PyCharm, etc) provided&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jan 2025 14:53:44 +0900</pubDate>
+        <link>https://remotework.jp/en/credit_engine</link>
+        <guid isPermaLink="true">https://remotework.jp/en/credit_engine</guid>
+        
+        
+        <category>en</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>クレジットエンジン株式会社</title>
+        <description>&lt;p&gt;私たちは「”かす”をかえる。”かりる”をかえる。」をミッションに、金融事業のDXサービスを展開しています。&lt;br /&gt;&lt;br /&gt;ミッションを実現するべく、ローンDXプラットフォームを展開しており、融資と債権回収の領域で金融サービスを提供するとともに、金融機関にテクノロジーサービスを提供しています。&lt;br /&gt;&lt;br /&gt;借り手・貸し手の双方にとって面倒くさい資金調達の手間を削減し、事業者が本業に集中できるようにするとともに、お金が機動的に流れるようにすることで経済活動の盛り上がりにも貢献します。&lt;br /&gt;&lt;br /&gt;2024年11月よりPayPayグループの一員となり、さらに組織が成長を続けていくなかで、共に新機能開発・機能改善を推進していく仲間を募集しています。&lt;br /&gt;&lt;br /&gt;◼️勤務スタイル&lt;br /&gt;フルリモート・フレックス&lt;br /&gt;&lt;br /&gt;◼️開発環境&lt;br /&gt;・フロントエンド: JS/TS, Vue.js, Tailwind CSS, Storybook&lt;br /&gt;・バックエンド: Python, Django&lt;br /&gt;・DB: PostgreSQL (Amazon RDS)&lt;br /&gt;・テスト: Autify&lt;br /&gt;・CI/CD: GitHub Actions, AWS CodeBuild/CodeDeploy/CodePipeline&lt;br /&gt;・インフラ: AWS (AWS CDK, ECS Fargateなど), Azure (OpenAI Serviceなど)&lt;br /&gt;・データ分析: Python, scikit-learn, Amazon SageMaker&lt;br /&gt;・デザイン: Figma&lt;br /&gt;・その他: Slack, GitHub, Asanaなど&lt;br /&gt;・MacBook 貸与&lt;br /&gt;・GitHub Copilot付与&lt;br /&gt;・有償エディタ (PyCharmなど) の利用可能&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jan 2025 14:46:32 +0900</pubDate>
+        <link>https://remotework.jp/ja/クレジットエンジン</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/クレジットエンジン</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>ポート株式会社（PORT INC.）</title>
@@ -124,32 +154,6 @@
         <category>ja</category>
         
         <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>ENECHANGE株式会社</title>
-        <description>&lt;p&gt;私達ENECHANGE（エネチェンジ）は、「エネルギーの未来をつくる」というミッションを掲げ、エネルギー領域のDXを加速するプラットフォームになることを目指して事業を推進する、日本を代表するエネルギーテックカンパニーです。&lt;br /&gt;日本最大級のエネルギー切り替えプラットフォーム「エネチェンジ」、EV（電気自動車）の目的地充電サービス「EV充電エネチェンジ」、エネルギー業界のDXを実現する「エネルギークラウド」の開発運用など、エネルギーテックをベースにした革新的事業を次々に展開しています。&lt;br /&gt;弊社では2020年より「恒久的リモートワーク制度」を導入し、柔軟な働き方を実現しています。&lt;br /&gt;現在社員の34%がフルリモートで働いており、デジタルツールを駆使しつつ、コミュニケーションを大切にして助け合いながら、仕事に取り組んでいます。&lt;br /&gt;&lt;br /&gt;採用情報はこちらからご覧ください。&lt;br /&gt;&lt;a href=&quot;https://engineer-recruit.enechange.co.jp/&quot;&gt;https://engineer-recruit.enechange.co.jp/&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 14 Jan 2025 18:01:30 +0900</pubDate>
-        <link>https://remotework.jp/ja/enechange</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/enechange</guid>
-        
-        
-        <category>ja</category>
-        
-      </item>
-    
-      <item>
-        <title>株式会社エーピーコミュニケーションズ</title>
-        <description>&lt;p&gt;ITインフラのプロフェッショナルとして、特に直近ではITインフラの自動化や生成AI・データAI基盤の導入・運用支援、ネットワークやクラウドのセキュリティ対策、DX開発支援など、幅広いサービスを提供しています。&lt;br /&gt;そのほか2025年1月時点で2割弱が地方在住とリモートワークをしており、加えて社内大学やエンジニアがエンジニアを応援するオフィシャルな部署があるなど、就業環境やキャリア支援にも力をいれているエンジニアドリブンな会社です。&lt;br /&gt;&lt;a href=&quot;https://www.ap-com.co.jp/recruit/&quot;&gt;採用サイト&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://techblog.ap-com.co.jp/&quot;&gt;技術ブログ&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://www.ap-com.co.jp/blog/archives/10738#article&quot;&gt;広報ブログ&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 14 Jan 2025 12:40:17 +0900</pubDate>
-        <link>https://remotework.jp/ja/エーピーコミュニケーションズ</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/エーピーコミュニケーションズ</guid>
-        
-        
-        <category>ja</category>
         
       </item>
     
