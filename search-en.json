@@ -674,27 +674,6 @@
     } ,
   
     {
-      "title"       : "Pacific Porter",
-      "description" : "Developing「かんざし」, Reservation and Customer Manager System for Beauty Salon.",
-      "categories"  : "en",
-      "url"         : "/en/pacific_porter"
-    } ,
-  
-    {
-      "title"       : "Kanamei",
-      "description" : "Website planning, development and management. Mobile content focus.",
-      "categories"  : "en",
-      "url"         : "/en/kanamei"
-    } ,
-  
-    {
-      "title"       : "actindi",
-      "description" : "Developing 子どもとお出かけ情報サイト「いこーよ」",
-      "categories"  : "en",
-      "url"         : "/en/actindi"
-    } ,
-  
-    {
       "title"       : "Chatwork",
       "description" : "Developing『Chatwork』, a cloud tool for business chat.",
       "categories"  : "en",
@@ -989,6 +968,13 @@
     } ,
   
     {
+      "title"       : "actindi",
+      "description" : "Developing 子どもとお出かけ情報サイト「いこーよ」",
+      "categories"  : "en",
+      "url"         : "/en/actindi"
+    } ,
+  
+    {
       "title"       : "Unicon",
       "description" : "Developing RockU Talk",
       "categories"  : "en",
@@ -1017,10 +1003,24 @@
     } ,
   
     {
+      "title"       : "Pacific Porter",
+      "description" : "Developing「かんざし」, Reservation and Customer Manager System for Beauty Salon.",
+      "categories"  : "en",
+      "url"         : "/en/pacific_porter"
+    } ,
+  
+    {
       "title"       : "MMM",
       "description" : "Design and Implementation support of AWS services, website design and development.",
       "categories"  : "en and full_remote",
       "url"         : "/en/mmm"
+    } ,
+  
+    {
+      "title"       : "Kanamei",
+      "description" : "Website planning, development and management. Mobile content focus.",
+      "categories"  : "en",
+      "url"         : "/en/kanamei"
     } ,
   
     {
