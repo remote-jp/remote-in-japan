@@ -28,20 +28,20 @@ layout: default
     <p><small>
       {{ site.data.translations.link[page.lang] }}: <a href="{{ page.link }}">{{ page.link }}</a><br>
 
-      {% assign posts  = site.posts | sort: 'date' | reverse %}
-      {% assign urls   =      posts |  map: 'url' %}
-      {% assign url_en = page.url | replace_first: page.lang, 'en'  %}
-      {% assign url_ja = page.url | replace_first: page.lang, 'ja'  %}
-      {% if page.lang == 'en' and urls contains url_ja %}
+      <!-- Link to corresponding language's page if detected by domains. -->
+      {% assign url_en  = site.posts | where: 'lang', 'en' | where: 'domain', page.domain | map: 'url' | first %}
+      {% assign url_ja  = site.posts | where: 'lang', 'ja' | where: 'domain', page.domain | map: 'url' | first %}
+      {% if page.lang == 'en' and url_ja %}
         {{ site.data.translations.link[page.lang] }}: <a href='{{ url_ja }}'>&raquo; Switch to Japanese</a><br>
-      {% elsif page.lang == 'ja' and urls contains url_en %}
-        {{ site.data.translations.link[page.lang] }}: <a href='{{ url_en }}'>&raquo; Switch to English</a><br>
+      {% endif %}
+      {% if page.lang == 'ja' and url_en %}
+        {{ site.data.translations.link[page.lang] }}: <a href='{{ url_en }}'>&raquo; 英語版を見る</a><br>
       {% endif %}
 
       {% assign url = page.url | split: '/' | last %}
       {{ site.data.translations.share[page.lang] }}: <a href='https://twitter.com/intent/tweet?text={{ page.title }}&hashtags=RemoteWorkJP&lang={{ page.lang }}&url={{ site.url }}/{{ page.lang }}/{{ url | cgi_escape | url_encode }}'><i class="fa-brands fa-x-twitter"></i></a><br>
       <br>
-      {% assign this_lang_posts = posts | where: 'lang', page.lang %}
+      {% assign this_lang_posts = site.posts | sort: 'date' | reverse | where: 'lang', page.lang %}
       {% assign current_index = nil %}
       {% for tlp in this_lang_posts %}
         {% if tlp.url == page.url %}
