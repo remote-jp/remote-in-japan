@@ -5,6 +5,7 @@ permalink: /en/recruit_marketing_partners
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/3d7cc4d10e1513b41d16775671b43fc58c5716aa
 date:       2015-09-10 03:05:19 +0900
 link:       https://www.recruit-mp.co.jp/
+domain:     www.recruit-mp.co.jp
 title:      Recruit Marketing Partners
 description: 'Developing Sapuri collection which are online learning services.'
 categories: 

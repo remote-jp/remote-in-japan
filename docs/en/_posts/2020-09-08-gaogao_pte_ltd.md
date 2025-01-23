@@ -5,6 +5,7 @@ permalink: /en/gaogao_pte_ltd
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/eb2b7e256fa66cde2b4cfe2453ceebfd3ef591e9
 date:       2020-09-08 21:58:21 +0900
 link:       https://en.gaogao.asia/
+domain:     en.gaogao.asia
 title:      GAOGAO Pte. Ltd.
 description: 'GAOGAO is a start-up studio, a professional platform for “startup engineers” based in Southeast Asia and Japan. We have 40+ software engineers with entrepreneurship to support your new business. (Hiring)'
 categories: full_remote

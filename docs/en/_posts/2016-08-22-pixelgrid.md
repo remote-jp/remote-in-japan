@@ -5,6 +5,7 @@ permalink: /en/pixelgrid
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/d27c0d06c44e6691170db792964889125937e19a
 date:       2016-08-22 15:10:02 +0900
 link:       https://www.pxgrid.com
+domain:     www.pxgrid.com
 title:      PixelGrid Inc.
 description: 'Producing website and apps with JavaScript. Development and management of front-end information delivery service CodeGrid .'
 categories: full_remote
