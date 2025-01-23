@@ -44,9 +44,10 @@ readme.each.with_index(1) do |line, index|
 
   # Fetch company name and its link from 1st cell
   name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
-  name  = name_and_link.children[0].value.strip
-  link  = name_and_link.attr['href']
-  id    = name.downcase # ID (v2)
+  name   = name_and_link.children[0].value.strip
+  link   = name_and_link.attr['href']
+  domain = link.split('/')[2]
+  id     = name.downcase # ID (v2)
     .gsub('株式会社', '')
     .gsub('inc.', '')
     .gsub('＆', 'and')
@@ -80,6 +81,7 @@ readme.each.with_index(1) do |line, index|
     commit_url: #{latest_commit_url}
     date:       #{latest_commit_at}
     link:       #{link}
+    domain:     #{domain}
     title:      #{name}
     description: '#{Sanitize.clean(CGI.unescapeHTML description).strip}'
     categories: #{is_full_remote}
