@@ -2,6 +2,13 @@
   
   
     {
+      "title"       : "株式会社Inner Resource",
+      "description" : "株式会社Inner Resourceは、「研究者が研究に没頭できる世界を創る」をミッションに掲げ、研究業界に特化した購買・在庫・機器管理サービス「reprua」を開発・提供しています。  エンジニアは基本フルリモートで残業もないため、ワークライフバランスを重視する方にも働きやすい環境です。（通勤圏内にお住まいの方には2週間に1回程度の頻度で状況に応じて出社いただく場合があります）  また少数精鋭の組織のため一人一人の裁量が大きく、フルスタック開発や、関連部署も交えた要件定義や設計への落とし込み等、幅広い業務に携わることができます。  採用情報",
+      "categories"  : "ja",
+      "url"         : "/ja/inner_resource"
+    } ,
+  
+    {
       "title"       : "クレジットエンジン株式会社",
       "description" : "私たちは「”かす”をかえる。”かりる”をかえる。」をミッションに、金融事業のDXサービスを展開しています。  ミッションを実現するべく、ローンDXプラットフォームを展開しており、融資と債権回収の領域で金融サービスを提供するとともに、金融機関にテクノロジーサービスを提供しています。  借り手・貸し手の双方にとって面倒くさい資金調達の手間を削減し、事業者が本業に集中できるようにするとともに、お金が機動的に流れるようにすることで経済活動の盛り上がりにも貢献します。  2024年11月よりPayPayグループの一員となり、さらに組織が成長を続けていくなかで、共に新機能開発・機能改善を推進していく仲間を募集しています。  ◼️勤務スタイル フルリモート・フレックス  ◼️開発環境 ・フロントエンド: JS/TS, Vue.js, Tailwind CSS, Storybook ・バックエンド: Python, Django ・DB: PostgreSQL (Amazon RDS) ・テスト: Autify ・CI/CD: GitHub Actions, AWS CodeBuild/CodeDeploy/CodePipeline ・インフラ: AWS (AWS CDK, ECS Fargateなど), Azure (OpenAI Serviceなど) ・データ分析: Python, scikit-learn, Amazon SageMaker ・デザイン: Figma ・その他: Slack, GitHub, Asanaなど ・MacBook 貸与 ・GitHub Copilot付与 ・有償エディタ (PyCharmなど) の利用可能",
       "categories"  : "ja and full_remote",
