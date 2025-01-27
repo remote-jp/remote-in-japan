@@ -1,24 +1,26 @@
-{% include head.html %}
+<!DOCTYPE html>
+{% assign lang = page.lang | default: "en" %}
+<html lang="{{ lang }}">
+  {% include head.html %}
 
-<body>
-  {% include menu.html %}
-  {{ content }}
-  {% include footer.html %}
+  <body>
+    {% include menu.html %}
+    {{ content }}
+    {% include footer.html %}
 
-  <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
-  <script src="/assets/js/simple-jekyll-search.min.js"></script>
-  <script>
-    AOS.init({
-      once: true
-    });
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+    <script src="/assets/js/simple-jekyll-search.min.js"></script>
+    <script>
+     AOS.init({
+       once: true
+     });
 
-    const searchTarget = "/search-{{ page.lang }}.json";
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: searchTarget
-    });
-  </script>
-</body>
-
+     const searchTarget = "/search-{{ lang }}.json";
+     SimpleJekyllSearch({
+       searchInput: document.getElementById('search-input'),
+       resultsContainer: document.getElementById('results-container'),
+       json: searchTarget
+     });
+    </script>
+  </body>
 </html>
