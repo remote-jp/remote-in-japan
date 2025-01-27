@@ -1,0 +1,36 @@
+{% include head.html %}
+
+<body>
+  <div class="">
+    {% include menu.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+  </div>
+</body>
+
+</html>
+
+<script type="text/javascript">
+  function getBrowserLanguage() {
+    try {
+      return (navigator.browserLanguage || navigator.language || navigator.userLanguage).substr(0,2)
+    }
+    catch(e) {
+      return undefined;
+    }
+  }
+
+  // Redirect to the given redirect.to URL. If failed, redirect to the landing page upon browser language.
+  // https://github.com/jekyll/jekyll-redirect-from#customizing-the-redirect-template
+  if ("{{ page.redirect.to }}" != ""){
+    window.location.replace("{{ page.redirect.to }}" + window.location.hash + window.location.search);
+  }
+  else if (getBrowserLanguage().indexOf("ja") != -1) {
+    window.location.replace("/ja");
+  }
+  else {
+    window.location.replace("/en");
+  }
+</script>
