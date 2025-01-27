@@ -1,12 +1,12 @@
 <div class="menu">
   <div class="size margin menu--content container align-items-center justify-content-between">
     <div class="" data-aos="fade-right" data-aos-delay="" data-aos-offset="0">
-      <a href="/{{ page.lang }}"><span>{{ site.title }}</span></a>
+      <a href="/{{ lang }}"><span>{{ site.title }}</span></a>
     </div>
      <ul class="languages container align-items-baseline" data-aos="fade-left" data-aos-delay="" data-aos-offset="0">
        <li style='margin-right: 20px;'>
 	 <small>
-	   <a href='{{ site.data.translations.linkToGitHub[page.lang] }}'>
+	   <a href='{{ site.data.translations.linkToGitHub[lang] }}'>
 	     <i class="fa-brands fa-github" style='margin-right: 3px;'></i>
 	     GitHub
 	   </a>
@@ -14,9 +14,9 @@
        </li>
        <li>
 	 <small>
-	   <a href="/{{ site.data.translations.menuSwitcher[page.lang] }}">
+	   <a href="/{{ site.data.translations.menuSwitcher[lang] }}">
 	     <i class='fa-regular fa-language' style='margin-right: 3px;'></i>
-	     {{ site.data.translations.menuSwitcherLabel[page.lang] }}
+	     {{ site.data.translations.menuSwitcherLabel[lang] }}
 	   </a>
 	 </small>
        </li>
