@@ -1,16 +1,22 @@
-{% include head.html %}
+---
+layout: default
+---
 
-<body>
-  <div class="">
-    {% include menu.html %}
+<div class="size margin min-height">
+  <article>
+    <h1 class="post-title" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0"> Redirecting to ...</h1>
 
-    {{ content }}
+    <div class="post-date" data-aos="fade-left" data-aos-delay="300" data-aos-offset="0">
+      <a href='{{ page.redirect.to }}'>
+	<small>{{ page.redirect.to }}</small>
+      </a>
+    </div>
 
-    {% include footer.html %}
-  </div>
-</body>
-
-</html>
+    <div class="margin-top-20 margin-bottom-50">
+      {{ content }}
+    </div>
+  </article>
+</div>
 
 <script type="text/javascript">
   function getBrowserLanguage() {
