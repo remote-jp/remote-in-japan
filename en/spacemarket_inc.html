@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html lang="en">
-  <head>
+    <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2N12DFZTYC"></script>
     <script>
@@ -56,8 +56,7 @@
   </head>
 
 
-<body>
-  <div class="">
+  <body>
     <div class="menu">
   <div class="size margin menu--content container align-items-center justify-content-between">
     <div class="" data-aos="fade-right" data-aos-delay="" data-aos-offset="0">
@@ -84,25 +83,21 @@
   </div>
 </div>
 
+    <div class="size margin min-height">
+  <article>
+    <h1 class="post-title" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0"> Redirecting to ...</h1>
 
-    
-
-    <footer>
-  <div class="footer container column align-items-center justify-content-center">
-    <div class="footer--block text-align-center">
-      <div class="by" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">
-        <small>Made with ❤️ using </small>
-        <br>
-        <small>Contribute on  - 2025</small>
-      </div>
+    <div class="post-date" data-aos="fade-left" data-aos-delay="300" data-aos-offset="0">
+      <a href='https://remotework.jp/en/spacemarket'>
+	<small>https://remotework.jp/en/spacemarket</small>
+      </a>
     </div>
-  </div>
-</footer>
 
-  </div>
-</body>
-
-</html>
+    <div class="margin-top-20 margin-bottom-50">
+      
+    </div>
+  </article>
+</div>
 
 <script type="text/javascript">
   function getBrowserLanguage() {
@@ -126,3 +121,33 @@
     window.location.replace("/en");
   }
 </script>
+
+    <footer>
+  <div class="footer container column align-items-center justify-content-center">
+    <div class="footer--block text-align-center">
+      <div class="by" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">
+        <small>Made with ❤️ using </small>
+        <br>
+        <small>Contribute on  - 2025</small>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+    <script src="/assets/js/simple-jekyll-search.min.js"></script>
+    <script>
+     AOS.init({
+       once: true
+     });
+
+     const searchTarget = "/search-en.json";
+     SimpleJekyllSearch({
+       searchInput: document.getElementById('search-input'),
+       resultsContainer: document.getElementById('results-container'),
+       json: searchTarget
+     });
+    </script>
+  </body>
+</html>
