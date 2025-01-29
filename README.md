@@ -207,6 +207,7 @@ Technology companies that allow remote work in Japan.
 | [ドクターメイト株式会社](https://doctormate.co.jp/) | ドクターメイト株式会社はデジタルの力を活用することで、介護の現場から医療に関わるリスクや負担を軽減し、介護従事者が安心して日々のケアに集中できる体制づくりをサポートしています。<br>[カジュアル面談](https://herp.careers/v1/doctormate/3l6Guniw02L3)を実施しています。オンラインでお気軽にお話ししませんか？ | :ok_hand: |
 | [株式会社コレック](https://www.correc.co.jp/) |株式会社コレックは「情報コミュニケーションに感性と体温」をパーパスに掲げ、メディア事業や保険事業など、BtoCに特化した様々な事業を展開しています。||
 | [シックス・アパート株式会社](https://www.sixapart.jp) | シックス・アパートは2003年に設立し、ブログブームを牽引。現在は、事実上標準的なWebCMSを提供しています。社員数約30人の小さな企業ですが、主力製品[Movable Type（ムーヴァブル・タイプ）](https://www.sixapart.jp/movabletype/)」は国内から全世界に向けて製品を提供しています。製品は、日本全国300社の制作会社パートナーと、北海道から鹿児島まで全国16箇所のユーザーグループの皆様に支援いただいています。<br>2016年にEBO（従業員企業買収）で独立し、経営陣と従業員が100%株式を保有しています。独立時から、全社員がフルリモートで働いており、厚生労働省・東京都・総務省などのテレワーク関連の賞を受賞しました。<br>[採用情報](https://www.sixapart.jp/jobs/) | :ok_hand: |
+| [株式会社Acompany](https://acompany.tech/) | Acompanyはエンタープライズ企業向けのプライバシーDXを推進するスタートアップです。<br>秘密計算を用いて安全なデータコラボレーションを実現する『AutoPrivacy DataCleanRoom』およびプライバシーガバナンスソリューションの『AutoPrivacy Governance』を開発・提供しています。<br>Acompanyでは完全リモートでの就業が可能であり、リモートワーク完結でのメンバーもいます。ぜひお気軽にカジュアル面談など申し込みください！<br>[採用情報](https://recruit.acompany.tech/) | :ok_hand: |
 
 
 ## Contributing
