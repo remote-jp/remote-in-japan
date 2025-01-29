@@ -5,7 +5,7 @@ permalink: /ja/sonic_garden
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/1c12b4b2c55617d978a857740293795c4e7580ad
 date:       2015-11-11 22:46:21 +0900
 link:       https://www.sonicgarden.jp/
-domain:     www.sonicgarden.jp
+domain:     sonicgarden.jp
 title:      Sonic Garden
 description: '「納品のない受託開発」を提供。社内 SNS「SKIP」等自社サービスの開発・運用。'
 categories: full_remote

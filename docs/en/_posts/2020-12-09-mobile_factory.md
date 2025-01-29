@@ -5,7 +5,7 @@ permalink: /en/mobile_factory
 commit_url: https://github.com/remote-jp/remote-in-japan/commit/dcf52c8e50637942d39455750a8078a74afb3e1e
 date:       2020-12-09 14:34:46 +0900
 link:       https://en.mobilefactory.jp/
-domain:     en.mobilefactory.jp
+domain:     mobilefactory.jp
 title:      Mobile Factory Inc.
 description: 'At Mobile Factory, we think it is important to have as flexible a work style as possible for employees to work excitingly. So we have introduced “Moba Work” to adapt to the new normal. You can work from wherever places in Japan by Moba Work!'
 categories: full_remote
