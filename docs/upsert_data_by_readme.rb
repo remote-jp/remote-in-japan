@@ -3,6 +3,7 @@
 require 'git'
 require 'kramdown'
 require 'sanitize'
+require 'public_suffix'
 
 lang        = ARGV[0] || 'en'
 readme_path = if lang == 'en'
@@ -46,7 +47,7 @@ readme.each.with_index(1) do |line, index|
   name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
   name   = name_and_link.children[0].value.strip
   link   = name_and_link.attr['href']
-  domain = link.split('/')[2]
+  domain = PublicSuffix.domain(link.split('/')[2])
   id     = name.downcase # ID (v2)
     .gsub('株式会社', '')
     .gsub('inc.', '')

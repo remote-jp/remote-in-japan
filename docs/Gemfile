@@ -11,6 +11,7 @@ gem 'csv'
 gem 'base64'
 gem 'bigdecimal'
 gem 'logger'
+gem 'public_suffix'
 
 group :development, :test do
   gem 'html-proofer'

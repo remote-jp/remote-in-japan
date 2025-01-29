@@ -182,6 +182,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   logger
+  public_suffix
   rake
   sanitize
   support-for
