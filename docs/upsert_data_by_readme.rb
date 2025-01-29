@@ -48,7 +48,14 @@ readme.each.with_index(1) do |line, index|
   name   = name_and_link.children[0].value.strip
   link   = name_and_link.attr['href']
   domain = PublicSuffix.domain(link.split('/')[2])
-  id     = name.downcase # ID (v2)
+  id     = domain.gsub('.', '_')
+
+  # The following`id` has been replaced with the `domain` above.
+  # So need to archive each version for redirects with this plugin
+  # https://github.com/jekyll/jekyll-redirect-from
+  #
+  # NOTE: This plugin can handle redirect loop if `id == id_v1`
+  id_v2  = name.downcase # ID (v2)
     .gsub('株式会社', '')
     .gsub('inc.', '')
     .gsub('＆', 'and')
@@ -58,10 +65,6 @@ readme.each.with_index(1) do |line, index|
     .gsub('／', '_')
     .strip.gsub(' ', '_').gsub('__', '_')
     .delete(".,").downcase
-
-  # ID (v1): Need to archive each version for redirects with this plugin
-  # https://github.com/jekyll/jekyll-redirect-from
-  # NOTE: This plugin can handle redirect loop if `id == id_v1`
   id_v1 = name.gsub(' ', '_')
     .gsub('＆', 'and')
     .gsub('&',  'and')
@@ -88,6 +91,7 @@ readme.each.with_index(1) do |line, index|
     categories: #{is_full_remote}
     redirect_from:
       - /#{lang}/#{id_v1}
+      - /#{lang}/#{id_v2}
     ---
 
     #{CGI.unescapeHTML description}
