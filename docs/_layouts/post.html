@@ -35,7 +35,7 @@ layout: default
         {{ site.data.translations.link[page.lang] }}: <a href='{{ url_ja }}'>&raquo; Switch to Japanese</a><br>
       {% endif %}
       {% if page.lang == 'ja' and url_en %}
-        {{ site.data.translations.link[page.lang] }}: <a href='{{ url_en }}'>&raquo; 英語版を見る</a><br>
+        {{ site.data.translations.link[page.lang] }}: <a href='{{ url_en }}'>&raquo; 英語版を見る <small>(Switch to English)</small></a><br>
       {% endif %}
 
       {% assign url = page.url | split: '/' | last %}
