@@ -48,6 +48,9 @@ readme.each.with_index(1) do |line, index|
   name   = name_and_link.children[0].value.strip
   link   = name_and_link.attr['href']
   domain = PublicSuffix.domain(link.split('/')[2])
+
+  # ID needs to be unique. So `PublicSuffix.parse(domain).sld` does not work.
+  # https://github.com/weppos/publicsuffix-ruby#usage
   id     = domain.gsub('.', '_')
 
   # The following`id` has been replaced with the `domain` above.
