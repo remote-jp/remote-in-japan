@@ -32,7 +32,7 @@ layout: default
       {% assign url_en  = site.posts | where: 'lang', 'en' | where: 'domain', page.domain | map: 'url' | first %}
       {% assign url_ja  = site.posts | where: 'lang', 'ja' | where: 'domain', page.domain | map: 'url' | first %}
       {% if page.lang == 'en' and url_ja %}
-        {{ site.data.translations.link[page.lang] }}: <a href='{{ url_ja }}'>&raquo; Switch to Japanese</a><br>
+        {{ site.data.translations.link[page.lang] }}: <a href='{{ url_ja }}'>&raquo; Switch to Japanese <small>(日本語で見る)</small></a><br>
       {% endif %}
       {% if page.lang == 'ja' and url_en %}
         {{ site.data.translations.link[page.lang] }}: <a href='{{ url_en }}'>&raquo; 英語版を見る <small>(Switch to English)</small></a><br>
