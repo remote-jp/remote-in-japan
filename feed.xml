@@ -5,8 +5,8 @@
     <description>Tech remote jobs in Japan in Japanese and English.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jan 2025 16:41:03 +0900</pubDate>
-    <lastBuildDate>Wed, 29 Jan 2025 16:41:03 +0900</lastBuildDate>
+    <pubDate>Wed, 29 Jan 2025 16:52:44 +0900</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2025 16:52:44 +0900</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;Acompanyはエンタープライズ企業向けのプライバシーDXを推進するスタートアップです。&lt;br /&gt;秘密計算を用いて安全なデータコラボレーションを実現する『AutoPrivacy DataCleanRoom』およびプライバシーガバナンスソリューションの『AutoPrivacy Governance』を開発・提供しています。&lt;br /&gt;Acompanyでは完全リモートでの就業が可能であり、リモートワーク完結でのメンバーもいます。ぜひお気軽にカジュアル面談など申し込みください！&lt;br /&gt;&lt;a href=&quot;https://recruit.acompany.tech/&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Jan 2025 15:53:08 +0900</pubDate>
-        <link>https://remotework.jp/ja/acompany</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/acompany</guid>
+        <link>https://remotework.jp/ja/acompany_tech</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/acompany_tech</guid>
         
         
         <category>ja</category>
@@ -29,8 +29,8 @@
         <description>&lt;p&gt;Acompany is a startup driving privacy-focused digital transformation (Privacy DX) for enterprise businesses. We develop and provide “AutoPrivacy DataCleanRoom,” which leverages secure computation to enable safe data collaboration, and “AutoPrivacy Governance,” a comprehensive privacy governance solution. Acompany fully supports remote work—some of our team members work 100% remotely. We’d love to chat, so please feel free to reach out for a casual conversation anytime&lt;img src=&quot;https://recruit.acompany.tech/&quot; alt=&quot;We are hiring!&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Jan 2025 15:53:08 +0900</pubDate>
-        <link>https://remotework.jp/en/acompany_co_ltd</link>
-        <guid isPermaLink="true">https://remotework.jp/en/acompany_co_ltd</guid>
+        <link>https://remotework.jp/en/acompany_tech</link>
+        <guid isPermaLink="true">https://remotework.jp/en/acompany_tech</guid>
         
         
         <category>en</category>
@@ -44,8 +44,8 @@
         <description>&lt;p&gt;株式会社Inner Resourceは、「研究者が研究に没頭できる世界を創る」をミッションに掲げ、研究業界に特化した購買・在庫・機器管理サービス「&lt;a href=&quot;https://reprua.jp/&quot;&gt;reprua&lt;/a&gt;」を開発・提供しています。&lt;br /&gt;&lt;br /&gt;エンジニアは基本フルリモートで残業もないため、ワークライフバランスを重視する方にも働きやすい環境です。（通勤圏内にお住まいの方には2週間に1回程度の頻度で状況に応じて出社いただく場合があります）&lt;br /&gt;&lt;br /&gt;また少数精鋭の組織のため一人一人の裁量が大きく、フルスタック開発や、関連部署も交えた要件定義や設計への落とし込み等、幅広い業務に携わることができます。&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://irsc.jp/recruit/dev&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Jan 2025 14:51:14 +0900</pubDate>
-        <link>https://remotework.jp/ja/inner_resource</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/inner_resource</guid>
+        <link>https://remotework.jp/ja/irsc_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/irsc_jp</guid>
         
         
         <category>ja</category>
@@ -57,8 +57,8 @@
         <description>&lt;p&gt;We are developing DX (digital transformation) services for the financial industry with the mission, “Transform Lending. Transform Borrowing.”&lt;br /&gt;&lt;br /&gt;To achieve this mission, we are developing a Loan DX Platform that delivers both financial services for lending and debt collection and technology solutions to financial institutions.&lt;br /&gt;&lt;br /&gt;We reduce the hassles of lending and borrowing, helping businesses focus on their core operations and enabling a more dynamic capital flow throughout the economy, contributing to economic revitalization.&lt;br /&gt;&lt;br /&gt;We became a member of the PayPay Group from November 2024, and as our organization continues to grow, we are looking for colleagues who will work together with us to develop new features and improve existing ones.&lt;br /&gt;&lt;br /&gt;◼️Work style&lt;br /&gt;Full-remote・Full-flex&lt;br /&gt;&lt;br /&gt;◼️Development environment&lt;br /&gt;・Frontend: JS/TS, Vue.js, Tailwind CSS, Storybook&lt;br /&gt;・Backend: Python, Django&lt;br /&gt;・DB: PostgreSQL (Amazon RDS)&lt;br /&gt;・Test: Autify&lt;br /&gt;・CI/CD: GitHub Actions, AWS CodeBuild/CodeDeploy/CodePipeline&lt;br /&gt;・Infrastructure: AWS (AWS CDK, ECS Fargate, etc), Azure (OpenAI Service, etc)&lt;br /&gt;・Data analysis: Python, scikit-learn, Amazon SageMaker&lt;br /&gt;・Design: Figma&lt;br /&gt;・Other: Slack, GitHub, Asana, etc&lt;br /&gt;・MacBook provided&lt;br /&gt;・GitHub Copilot provided&lt;br /&gt;・Licenses for editors (PyCharm, etc) provided&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jan 2025 14:53:44 +0900</pubDate>
-        <link>https://remotework.jp/en/credit_engine</link>
-        <guid isPermaLink="true">https://remotework.jp/en/credit_engine</guid>
+        <link>https://remotework.jp/en/creditengine_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/en/creditengine_jp</guid>
         
         
         <category>en</category>
@@ -72,8 +72,8 @@
         <description>&lt;p&gt;私たちは「”かす”をかえる。”かりる”をかえる。」をミッションに、金融事業のDXサービスを展開しています。&lt;br /&gt;&lt;br /&gt;ミッションを実現するべく、ローンDXプラットフォームを展開しており、融資と債権回収の領域で金融サービスを提供するとともに、金融機関にテクノロジーサービスを提供しています。&lt;br /&gt;&lt;br /&gt;借り手・貸し手の双方にとって面倒くさい資金調達の手間を削減し、事業者が本業に集中できるようにするとともに、お金が機動的に流れるようにすることで経済活動の盛り上がりにも貢献します。&lt;br /&gt;&lt;br /&gt;2024年11月よりPayPayグループの一員となり、さらに組織が成長を続けていくなかで、共に新機能開発・機能改善を推進していく仲間を募集しています。&lt;br /&gt;&lt;br /&gt;◼️勤務スタイル&lt;br /&gt;フルリモート・フレックス&lt;br /&gt;&lt;br /&gt;◼️開発環境&lt;br /&gt;・フロントエンド: JS/TS, Vue.js, Tailwind CSS, Storybook&lt;br /&gt;・バックエンド: Python, Django&lt;br /&gt;・DB: PostgreSQL (Amazon RDS)&lt;br /&gt;・テスト: Autify&lt;br /&gt;・CI/CD: GitHub Actions, AWS CodeBuild/CodeDeploy/CodePipeline&lt;br /&gt;・インフラ: AWS (AWS CDK, ECS Fargateなど), Azure (OpenAI Serviceなど)&lt;br /&gt;・データ分析: Python, scikit-learn, Amazon SageMaker&lt;br /&gt;・デザイン: Figma&lt;br /&gt;・その他: Slack, GitHub, Asanaなど&lt;br /&gt;・MacBook 貸与&lt;br /&gt;・GitHub Copilot付与&lt;br /&gt;・有償エディタ (PyCharmなど) の利用可能&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jan 2025 14:46:32 +0900</pubDate>
-        <link>https://remotework.jp/ja/クレジットエンジン</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/クレジットエンジン</guid>
+        <link>https://remotework.jp/ja/creditengine_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/creditengine_jp</guid>
         
         
         <category>ja</category>
@@ -87,8 +87,8 @@
         <description>&lt;p&gt;ポート株式会社は、「社会的負債を、次世代の可能性に。」をパーパスに掲げ、人材領域およびエネルギー領域を主力事業とした事業を展開しています。人材領域では、「&lt;a href=&quot;https://careerpark.jp/&quot;&gt;キャリアパーク！&lt;/a&gt;」「&lt;a href=&quot;https://syukatsu-kaigi.jp/&quot;&gt;就活会議&lt;/a&gt;」「&lt;a href=&quot;https://www.nikki.ne.jp/&quot;&gt;みん就&lt;/a&gt;」などのサービスを提供しています。&lt;br /&gt;エンジニアは週4以上のリモート勤務が可能で、約70%がフルリモートで働いています。&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.theport.jp/recruit/info/engineer/&quot;&gt;ポート株式会社 エンジニア採用 採用情報&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://speakerdeck.com/portinc/f80a16a4d62c6cfcef6da34a5838ab0d&quot;&gt;サービス開発部紹介資料&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Jan 2025 15:53:10 +0900</pubDate>
-        <link>https://remotework.jp/ja/ポート_port</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/ポート_port</guid>
+        <link>https://remotework.jp/ja/theport_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/theport_jp</guid>
         
         
         <category>ja</category>
@@ -100,8 +100,8 @@
         <description>&lt;p&gt;BoostDraft develops a document editor with support features incorporating IDE concepts into legal documents. We operate as a fully remote team, bringing together members from diverse backgrounds worldwide. Many of our team members, including those in management, balance parenting and work, and we offer flexible working arrangements tailored to individual lifestyles. &lt;br /&gt;&lt;br /&gt;In addition to fostering in-person connections through events like our annual Offsite Meeting and our monthly Office Day, we actively create casual online interaction opportunities such as Morning Check-ins, Game Days, and Coffee Chats. These initiatives help ensure smooth collaboration and productivity, even in a remote work environment.&lt;br /&gt;&lt;br /&gt;We’re currently hiring for multiple positions—be sure to check out our job openings!&lt;br /&gt;&lt;a href=&quot;https://apply.workable.com/boostdraft/?lng=en&quot;&gt;Job Openings&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Jan 2025 18:57:16 +0900</pubDate>
-        <link>https://remotework.jp/en/boostdraft</link>
-        <guid isPermaLink="true">https://remotework.jp/en/boostdraft</guid>
+        <link>https://remotework.jp/en/boostdraft_com</link>
+        <guid isPermaLink="true">https://remotework.jp/en/boostdraft_com</guid>
         
         
         <category>en</category>
@@ -115,8 +115,8 @@
         <description>&lt;p&gt;「驚きと発見を多くの人に届けよう」をミッションに掲げているITスタートアップ企業です。360°パノラマ写真や3D CGデータをアップロードするだけで滑らかに動く高品質のVRコンテンツを自動作成できる「&lt;a href=&quot;https://info.spacely.co.jp/&quot;&gt;スペースリー&lt;/a&gt;」というSaaSプロダクトを開発・提供しています。　VR上でのサイズ測定やバーチャル家具を配置することができる技術、デバイス間で360°VRコンテンツを簡単に同期させる技術など、複数の特許も取得した技術力が特徴です。&lt;br /&gt;不動産住宅業界向けには営業マーケティングDXとして、製造業界向けには研修DXとして、10,000を超えるユーザーに導入され拡大中です。&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://corp.spacely.co.jp/recruit/&quot;&gt;採用情報&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://tech.spacely.co.jp/&quot;&gt;TechBlog&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Jan 2025 12:08:36 +0900</pubDate>
-        <link>https://remotework.jp/ja/スペースリー</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/スペースリー</guid>
+        <link>https://remotework.jp/ja/spacely_co_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/spacely_co_jp</guid>
         
         
         <category>ja</category>
@@ -130,8 +130,8 @@
         <description>&lt;p&gt;We are an IT startup on a mission to “bring wonder and discovery to as many people as possible.” We develop and offer &lt;a href=&quot;https://info.spacely.co.jp/&quot;&gt;Spacely&lt;/a&gt;, a SaaS product that automatically generates interactive, high-quality VR content by uploading 360° panoramic photos or 3D CG data.&lt;br /&gt;Our technology—protected by multiple patents—enables features such as measuring dimensions, placing virtual furniture in VR, and easily synchronizing 360° VR content across various devices. Currently, more than 10,000 users in the real estate and housing industries leverage Spacely to drive sales and marketing DX, while in the manufacturing sector, it is utilised as a DX solution for training, with adoption steadily expanding.&lt;br /&gt;&lt;br /&gt;For more information about our team and open positions, please visit our &lt;a href=&quot;https://corp.spacely.co.jp/recruit/&quot;&gt;Recruitment page&lt;/a&gt;. For technical updates, check out our &lt;a href=&quot;https://tech.spacely.co.jp/&quot;&gt;Tech Blog&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Jan 2025 12:08:36 +0900</pubDate>
-        <link>https://remotework.jp/en/spacely</link>
-        <guid isPermaLink="true">https://remotework.jp/en/spacely</guid>
+        <link>https://remotework.jp/en/spacely_co_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/en/spacely_co_jp</guid>
         
         
         <category>en</category>
@@ -145,8 +145,8 @@
         <description>&lt;p&gt;Asobicaは「顧客中心の経営をスタンダードにする」というビジョンのもと、顧客ロイヤリティの向上・分析で、企業の持続的な成長を実現するサービスcoorumを提供しております。コンパウンドスタートアップとして、以下複数のプロダクトを提供しております。&lt;br /&gt;&lt;ul&gt;&lt;li&gt;コミュニティで顧客との接点を構築する「coorum community」&lt;/li&gt;&lt;li&gt;顧客のデータ統合で精度の高い分析を行う「coorum insight」&lt;/li&gt;&lt;li&gt;体験データを取得し、顧客理解を深化する「coorum research」&lt;/li&gt;&lt;/ul&gt;これら以外にも新規事業を立ち上げて事業の加速を目指しております。&lt;br /&gt;開発組織のカルチャーとしては「大人な開発組織」というものを掲げており、各人がプロダクト思考を持って思いやりあるコミュニケーションを大切にしている組織です。少しでも興味をお持ちいただけたら、ぜひお話ししましょう！&lt;br /&gt;&lt;a href=&quot;https://speakerdeck.com/asobica/company-deck-288ce65d-aea4-428c-84b4-d1701cf98c92&quot;&gt;会社説明&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://herp.careers/v1/asobica&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Jan 2025 02:50:41 +0900</pubDate>
-        <link>https://remotework.jp/ja/asobica</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/asobica</guid>
+        <link>https://remotework.jp/ja/asobica_co_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/asobica_co_jp</guid>
         
         
         <category>ja</category>
