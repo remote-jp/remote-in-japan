@@ -2,6 +2,13 @@
   
   
     {
+      "title"       : "YassLab 株式会社",
+      "description" : "『Railsチュートリアル』『Railsガイド』『coderdojo.jp』の開発・運営。» GitHub を見る",
+      "categories"  : "ja and full_remote",
+      "url"         : "/ja/yasslab_jp"
+    } ,
+  
+    {
       "title"       : "フェンリル株式会社",
       "description" : "スマホに入っているそのアプリ、フェンリルがつくっているかもしれません。 デザインと技術にこだわったプロダクトとサービスの制作を行っています。 制作実績400社600アプリ以上、ユーザーから愛されるアプリをつくりあげています。 採用情報",
       "categories"  : "ja",
@@ -1035,13 +1042,6 @@
       "description" : "かんたん募集サービス「bosyu」の開発・運営。全員がリモートワーク。",
       "categories"  : "ja and full_remote",
       "url"         : "/ja/bosyu_me"
-    } ,
-  
-    {
-      "title"       : "YassLab 株式会社",
-      "description" : "『Railsチュートリアル』『Railsガイド』『coderdojo.jp』の開発・運営",
-      "categories"  : "ja and full_remote",
-      "url"         : "/ja/yasslab_jp"
     } ,
   
     {

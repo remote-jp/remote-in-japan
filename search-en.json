@@ -2,6 +2,13 @@
   
   
     {
+      "title"       : "YassLab Inc.",
+      "description" : "Developing railstutorial.jp, railsguides.jp, and coderdojo.jp. » See on GitHub",
+      "categories"  : "en and full_remote",
+      "url"         : "/en/yasslab_jp"
+    } ,
+  
+    {
       "title"       : "Fenrir Inc.",
       "description" : "Your smartphone app might be made by Fenrir. We specialize in innovative design and technology, boasting over 600 beloved apps developed for more than 400 satisfied companies. Requirements",
       "categories"  : "en",
@@ -671,13 +678,6 @@
       "description" : "Developing LINE and some applications. In some development department, possible remote working one day per one month. Hiring now",
       "categories"  : "en",
       "url"         : "/en/linecorp_com"
-    } ,
-  
-    {
-      "title"       : "YassLab Inc.",
-      "description" : "Developing railstutorial.jp, railsguides.jp, and coderdojo.jp.",
-      "categories"  : "en and full_remote",
-      "url"         : "/en/yasslab_jp"
     } ,
   
     {
