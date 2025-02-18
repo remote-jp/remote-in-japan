@@ -2,6 +2,13 @@
   
   
     {
+      "title"       : "フェンリル株式会社",
+      "description" : "スマホに入っているそのアプリ、フェンリルがつくっているかもしれません。 デザインと技術にこだわったプロダクトとサービスの制作を行っています。 制作実績400社600アプリ以上、ユーザーから愛されるアプリをつくりあげています。 採用情報",
+      "categories"  : "ja",
+      "url"         : "/ja/fenrir-inc_com"
+    } ,
+  
+    {
       "title"       : "株式会社Acompany",
       "description" : "Acompanyはエンタープライズ企業向けのプライバシーDXを推進するスタートアップです。 秘密計算を用いて安全なデータコラボレーションを実現する『AutoPrivacy DataCleanRoom』およびプライバシーガバナンスソリューションの『AutoPrivacy Governance』を開発・提供しています。 Acompanyでは完全リモートでの就業が可能であり、リモートワーク完結でのメンバーもいます。ぜひお気軽にカジュアル面談など申し込みください！ 採用情報",
       "categories"  : "ja and full_remote",

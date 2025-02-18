@@ -2,6 +2,13 @@
   
   
     {
+      "title"       : "Fenrir Inc.",
+      "description" : "Your smartphone app might be made by Fenrir. We specialize in innovative design and technology, boasting over 600 beloved apps developed for more than 400 satisfied companies. Requirements",
+      "categories"  : "en",
+      "url"         : "/en/fenrir-inc_com"
+    } ,
+  
+    {
       "title"       : "Acompany Co., Ltd.",
       "description" : "Acompany is a startup driving privacy-focused digital transformation (Privacy DX) for enterprise businesses. We develop and provide “AutoPrivacy DataCleanRoom,” which leverages secure computation to enable safe data collaboration, and “AutoPrivacy Governance,” a comprehensive privacy governance solution. Acompany fully supports remote work—some of our team members work 100% remotely. We’d love to chat, so please feel free to reach out for a casual conversation anytime! We are hiring!",
       "categories"  : "en and full_remote",
