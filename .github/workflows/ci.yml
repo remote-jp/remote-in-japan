@@ -63,9 +63,20 @@ jobs:
         cd ./docs
         bundle install
 
+    - name: 📝 Extract PR number from last commit
+      run: |
+        COMMIT_MESSAGE=$(git show -s --format=%s HEAD)
+        PR_NUMBER=$(echo "$COMMIT_MESSAGE" | sed -nE 's/^Merge pull request #([0-9]+).*/\1/p')
+        
+        if [ -n "$PR_NUMBER" ]; then
+          echo "PR_NUMBER=#$PR_NUMBER" >> $GITHUB_ENV; else
+          echo "PR_NUMBER="            >> $GITHUB_ENV
+        fi
+    
     - name: 🤖 Generate page(s) by README
       env:
         TZ: 'Asia/Tokyo'
+        PR_NUMBER: ${{ env.PR_NUMBER }}
       run: |
         cd ./docs
         bundle exec rake upsert_data_by_readme
@@ -74,7 +85,7 @@ jobs:
           git config --global user.email "yohei@yasslab.jp"
           git checkout main
           git add en ja
-          git commit -m '🤖 Generate page(s) by README'
+          git commit -m "🤖 Generate page(s) by README $PR_NUMBER"
           git push origin main
         fi
 
