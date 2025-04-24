@@ -44,6 +44,6 @@ back:
   en: 'Back to index'
   ja: '目次に戻る'
 
-jekyll:
-  en: '<a href="https://jekyllrb.com/">Jekyll</a>'
-  ja: '<a href="https://jekyllrb-ja.github.io/">Jekyll</a>'
+poweredBy:
+  en: '<a href="https://www.ruby-lang.org/en/">Ruby</a>'
+  ja: '<a href="https://www.ruby-lang.org/ja/">Ruby</a>'
