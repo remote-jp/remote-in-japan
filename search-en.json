@@ -2,6 +2,13 @@
   
   
     {
+      "title"       : "CoDMON Inc.",
+      "description" : "With the mission of “Making the environment surrounding children better through the power of technology,” we are developing our business from multiple angles to transform society into one that is friendly to child-rearing, primarily through our main product “CoDMON,” an ICT service for childcare and educational facilities. Engineer Recruitment Page / Job Listings",
+      "categories"  : "en and full_remote",
+      "url"         : "/en/codmon_com"
+    } ,
+  
+    {
       "title"       : "mov inc.",
       "description" : "Rooted in digital marketing consulting, we have expanded our business scope to include ‘Inbound Tourism Business’ and ‘Store Support Business.’ Currently, we are actively engaged in both of these ventures. In our ‘Store Support Business,’ we develop and manage ‘kutikomi com,’ a platform adept at assimilating vast and intricate review-centric data. Through user-friendly software and AI-driven suggestions, we guide stores towards optimal actions, ultimately approaching shifts in consumer behavior. This significantly contributes to marketing strategies and operational enhancements within the store business. Our honest consulting approach, coupled with top-tier products anchored by Ruby on Rails, has propelled us towards both steady and exponential growth. We are hiring!",
       "categories"  : "en and full_remote",
