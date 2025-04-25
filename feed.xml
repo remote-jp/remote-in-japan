@@ -5,9 +5,39 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Apr 2025 22:29:32 +0900</pubDate>
-    <lastBuildDate>Fri, 25 Apr 2025 22:29:32 +0900</lastBuildDate>
+    <pubDate>Fri, 25 Apr 2025 22:33:55 +0900</pubDate>
+    <lastBuildDate>Fri, 25 Apr 2025 22:33:55 +0900</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>YassLab 株式会社</title>
+        <description>&lt;p&gt;『&lt;a href=&quot;https://railstutorial.jp&quot;&gt;Ruby on Railsチュートリアル&lt;/a&gt;』『&lt;a href=&quot;https://railsguides.jp&quot;&gt;Ruby on Railsガイド&lt;/a&gt;』『&lt;a href=&quot;https://coderdojo.jp&quot;&gt;coderdojo.jp&lt;/a&gt;』の開発・運営。&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/YassLab&quot;&gt;» GitHub を見る&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2025 22:31:48 +0900</pubDate>
+        <link>https://remotework.jp/ja/yasslab_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/yasslab_jp</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>YassLab Inc.</title>
+        <description>&lt;p&gt;Developing &lt;a href=&quot;https://railstutorial.jp/&quot;&gt;railstutorial.jp&lt;/a&gt;, &lt;a href=&quot;https://railsguides.jp/&quot;&gt;railsguides.jp&lt;/a&gt;, and &lt;a href=&quot;https://coderdojo.jp/&quot;&gt;coderdojo.jp&lt;/a&gt; using Ruby on Rails.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/YassLab&quot;&gt;» See on GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2025 22:31:48 +0900</pubDate>
+        <link>https://remotework.jp/en/yasslab_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/en/yasslab_jp</guid>
+        
+        
+        <category>en</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>株式会社IDCフロンティア</title>
@@ -91,36 +121,6 @@
         <pubDate>Thu, 20 Feb 2025 22:25:48 +0900</pubDate>
         <link>https://remotework.jp/en/mov_am</link>
         <guid isPermaLink="true">https://remotework.jp/en/mov_am</guid>
-        
-        
-        <category>en</category>
-        
-        <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>YassLab 株式会社</title>
-        <description>&lt;p&gt;『&lt;a href=&quot;https://railstutorial.jp&quot;&gt;Railsチュートリアル&lt;/a&gt;』『&lt;a href=&quot;https://railsguides.jp&quot;&gt;Railsガイド&lt;/a&gt;』『&lt;a href=&quot;https://coderdojo.jp&quot;&gt;coderdojo.jp&lt;/a&gt;』の開発・運営。&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/YassLab&quot;&gt;» GitHub を見る&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Feb 2025 11:16:37 +0900</pubDate>
-        <link>https://remotework.jp/ja/yasslab_jp</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/yasslab_jp</guid>
-        
-        
-        <category>ja</category>
-        
-        <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>YassLab Inc.</title>
-        <description>&lt;p&gt;Developing &lt;a href=&quot;https://railstutorial.jp/&quot;&gt;railstutorial.jp&lt;/a&gt;, &lt;a href=&quot;https://railsguides.jp/&quot;&gt;railsguides.jp&lt;/a&gt;, and &lt;a href=&quot;https://coderdojo.jp/&quot;&gt;coderdojo.jp&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/YassLab&quot;&gt;» See on GitHub&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Feb 2025 11:16:37 +0900</pubDate>
-        <link>https://remotework.jp/en/yasslab_jp</link>
-        <guid isPermaLink="true">https://remotework.jp/en/yasslab_jp</guid>
         
         
         <category>en</category>

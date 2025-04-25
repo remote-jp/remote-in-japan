@@ -2,6 +2,13 @@
   
   
     {
+      "title"       : "YassLab 株式会社",
+      "description" : "『Ruby on Railsチュートリアル』『Ruby on Railsガイド』『coderdojo.jp』の開発・運営。  » GitHub を見る",
+      "categories"  : "ja and full_remote",
+      "url"         : "/ja/yasslab_jp"
+    } ,
+  
+    {
       "title"       : "株式会社IDCフロンティア",
       "description" : "「デジタルインフラを担う上で安全・安心にこだわりながら、常に挑戦を続け、お客さまがインフラレイヤーを意識することなく利用できる未来を目指しています。データセンター事業やクラウド事業、ホスティングサービスなど幅広く展開しています。 会社概要  採用ページ",
       "categories"  : "ja and full_remote",
@@ -20,13 +27,6 @@
       "description" : "株式会社mov は、「日本のポテンシャルを最大化する」を使命として掲げ「インバウンド事業」「店舗支援事業」の2事業を展開しています。 movは活気のある日本を取り戻すために、日本市場、日本企業、日本のコンテンツを支援する会社として存在していきます。 実直なコンサルティングのスタイルと、Ruby on Railsを軸にした高水準のプロダクトで、着実かつ加速度的な成長を遂げています。 採用情報",
       "categories"  : "ja and full_remote",
       "url"         : "/ja/mov_am"
-    } ,
-  
-    {
-      "title"       : "YassLab 株式会社",
-      "description" : "『Railsチュートリアル』『Railsガイド』『coderdojo.jp』の開発・運営。  » GitHub を見る",
-      "categories"  : "ja and full_remote",
-      "url"         : "/ja/yasslab_jp"
     } ,
   
     {
