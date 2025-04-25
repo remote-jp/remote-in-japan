@@ -1,6 +1,6 @@
 # Site settings
 title: 'Remotework.jp'
-description: 'Tech remote jobs in Japan in Japanese and English.'
+description: 'Tech companies in Japan that hire remote workers.'
 baseurl: '/'
 url: 'https://remotework.jp'
 
