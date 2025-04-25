@@ -5,9 +5,39 @@
     <description>Tech remote jobs in Japan in Japanese and English.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Apr 2025 11:26:50 +0900</pubDate>
-    <lastBuildDate>Fri, 25 Apr 2025 11:26:50 +0900</lastBuildDate>
+    <pubDate>Fri, 25 Apr 2025 20:35:54 +0900</pubDate>
+    <lastBuildDate>Fri, 25 Apr 2025 20:35:54 +0900</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>株式会社IDCフロンティア</title>
+        <description>&lt;p&gt;「デジタルインフラを担う上で安全・安心にこだわりながら、常に挑戦を続け、お客さまがインフラレイヤーを意識することなく利用できる未来を目指しています。データセンター事業やクラウド事業、ホスティングサービスなど幅広く展開しています。&lt;br /&gt;&lt;a href=&quot;https://www.idcf.jp/company/about/&quot;&gt;会社概要&lt;/a&gt; &lt;br /&gt;&lt;a href=&quot;https://www.idcf.jp/recruit/&quot;&gt;採用ページ&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2025 14:35:52 +0900</pubDate>
+        <link>https://remotework.jp/ja/idcf_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/idcf_jp</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>IDC Frontier Inc.</title>
+        <description>&lt;p&gt;While maintaining our commitment to safety and security in managing digital infrastructure, we continuously challenge ourselves to create a future where customers can use our services without having to be conscious of the infrastructure layer. We offer a wide range of services including data center operations, cloud services, and hosting solutions.&lt;br /&gt;&lt;a href=&quot;https://www.idcf.jp/company/about/&quot;&gt;Company Profile&lt;/a&gt; &lt;br /&gt;&lt;a href=&quot;https://www.idcf.jp/recruit/&quot;&gt;Careers&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2025 14:35:52 +0900</pubDate>
+        <link>https://remotework.jp/en/idcf_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/en/idcf_jp</guid>
+        
+        
+        <category>en</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>株式会社コドモン</title>
@@ -122,36 +152,6 @@
         
         
         <category>en</category>
-        
-      </item>
-    
-      <item>
-        <title>Acompany Co., Ltd.</title>
-        <description>&lt;p&gt;Acompany is a startup driving privacy-focused digital transformation (Privacy DX) for enterprise businesses. We develop and provide “AutoPrivacy DataCleanRoom,” which leverages secure computation to enable safe data collaboration, and “AutoPrivacy Governance,” a comprehensive privacy governance solution. Acompany fully supports remote work—some of our team members work 100% remotely. We’d love to chat, so please feel free to reach out for a casual conversation anytime! &lt;a href=&quot;https://recruit.acompany.tech/&quot;&gt;We are hiring!&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 31 Jan 2025 12:44:38 +0900</pubDate>
-        <link>https://remotework.jp/en/acompany_tech</link>
-        <guid isPermaLink="true">https://remotework.jp/en/acompany_tech</guid>
-        
-        
-        <category>en</category>
-        
-        <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>株式会社Acompany</title>
-        <description>&lt;p&gt;Acompanyはエンタープライズ企業向けのプライバシーDXを推進するスタートアップです。&lt;br /&gt;秘密計算を用いて安全なデータコラボレーションを実現する『AutoPrivacy DataCleanRoom』およびプライバシーガバナンスソリューションの『AutoPrivacy Governance』を開発・提供しています。&lt;br /&gt;Acompanyでは完全リモートでの就業が可能であり、リモートワーク完結でのメンバーもいます。ぜひお気軽にカジュアル面談など申し込みください！&lt;br /&gt;&lt;a href=&quot;https://recruit.acompany.tech/&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 29 Jan 2025 15:53:08 +0900</pubDate>
-        <link>https://remotework.jp/ja/acompany_tech</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/acompany_tech</guid>
-        
-        
-        <category>ja</category>
-        
-        <category>full_remote</category>
         
       </item>
     
