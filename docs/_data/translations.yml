@@ -13,12 +13,12 @@ viewOnGitHub:
   ja: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.md">GitHub</a>'
 
 titleDescription:
-  en: 'Tech remote jobs in Japan'
-  ja: 'Tech remote jobs in Japan'
+  en: 'Tech companies in Japan that hire remote workers.'
+  ja: 'Tech companies in Japan that hire remote workers.'
 
 searchPlaceholder:
-  en: 'Search for job posts...'
-  ja: '求人を検索...'
+  en: 'e.g. Ruby, Python, PHP'
+  ja: '検索例: Ruby, Python, PHP'
 
 postTagFullRemote:
   en: 'Fully remote 👌'
