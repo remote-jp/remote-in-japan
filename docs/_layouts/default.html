@@ -40,6 +40,16 @@
        searchResultTemplate: '<li><a href="{url}">{title}</a> <small><small>{description}</small></small></li>',
        noResultsText:        '{{ site.data.translations["searchNoResults"][page.lang] }}',
        loadingText:          '{{ site.data.translations["searchLoading"][page.lang] }}',
+
+       // 100文字以上なら truncate する
+       templateMiddleware: function(prop, value, template) {
+	 if (prop === 'description' && typeof value === 'string') {
+	   if (value.length > 100) {
+             return value.substring(0, 100) + '...';
+	   }
+	 }
+	 // それ以外はundefinedを返す（何も変えない）
+       }
      });
     </script>
   </body>
