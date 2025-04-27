@@ -1315,6 +1315,21 @@ ul li {
   }
 }
 
+.search-result-item {
+  transition: background-color 0.3s ease; /* なめらかに変わる */
+  /* ダークモード用とライトモード用 */
+}
+@media (prefers-color-scheme: dark) {
+  .search-result-item:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+}
+@media (prefers-color-scheme: light) {
+  .search-result-item:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+}
+
 .description-link {
   font-size: smaller;
   color: inherit !important; /* 親の色を引き継ぐ（変えない！） */
