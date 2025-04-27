@@ -35,16 +35,6 @@
        json:                 searchTarget,
        limit:                20,
 
-       // JSONの読み込み完了後に success コールバック内で検索処理を実行する
-       success: function() {
-	 const queryParamValue = getQueryParam('q');
-	 if (queryParamValue) {
-           //setInputValue('search-input', queryParamValue);
-	   document.getElementById('search-input').value = queryParamValue;
-	   this.search(queryParamValue);
-	 }
-       },
-
        searchResultTemplate: '<li><a href="{url}">{title}</a> <small><small>{description}</small></small></li>',
        noResultsText:        '{{ site.data.translations["searchNoResults"][page.lang] }}',
        loadingText:          '{{ site.data.translations["searchLoading"][page.lang] }}',
