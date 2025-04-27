@@ -214,25 +214,31 @@
 	 if (typeof value === 'string') {
 	   const query = document.getElementById('search-input').value.trim();
 	   if (query) {
-	     const regex = new RegExp(escapeRegExp(query), 'i'); // ここでは1個だけにしてる
-      
-	     const matchResult = regex.exec(value); // exec()ならマッチ位置が取れる！
+	     const regex = new RegExp(escapeRegExp(query), 'i'); // case-insensitive
+	     
+	     const matchResult = regex.exec(value); // ← これでマッチと位置取得
+	     
 	     if (matchResult) {
-               const matchIndex  = matchResult.index;
+               const matchIndex = matchResult.index;
                const matchLength = matchResult[0].length;
+               
+               const desiredLength = 100; // だいたい100文字ぐらい見せたい
+               let start = Math.max(0, matchIndex - Math.floor(desiredLength / 2));
+               let end = start + desiredLength;
+               
+               // もし end が本文超えちゃうなら調整
+               if (end > value.length) {
+		 end = value.length;
+		 start = Math.max(0, end - desiredLength);
+               }
 
-               const contextLength = 50; // 前後50文字
-        
-               const start = Math.max(0, matchIndex - contextLength);
-               const end = Math.min(value.length, matchIndex + matchLength + contextLength);
-        
                let sliced = value.slice(start, end);
-        
-               // その後にハイライトをかける
+
+               // ハイライトする（切り出した後に）
                const highlightRegex = new RegExp(escapeRegExp(query), 'gi');
                sliced = sliced.replace(highlightRegex, '<mark>$&</mark>');
-        
-               // もし切り取ったのが完全じゃなければ「...」を付ける
+
+               // 切り出した時に「...」をつける
                if (start > 0) {
 		 sliced = '...' + sliced;
                }
@@ -244,14 +250,14 @@
 	     }
 	   }
 	 }
-  
+	 
 	 if (prop === 'description' && typeof value === 'string') {
-	   // ハイライトでタグも入るので、文字数は少し余裕を見る
+	   // 念のため超長かったらカット（タグ込み）
 	   if (value.length > 300) {
 	     return value.substring(0, 300) + '...';
 	   }
 	 }
-  
+	 
 	 return value;
        }
      });
