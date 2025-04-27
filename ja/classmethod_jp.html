@@ -177,7 +177,7 @@
 
 
     <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
-    <script src="/assets/js/simple-jekyll-search.min.js"></script>
+    <script src="/simple-jekyll-search.js"></script>
     <script>
      AOS.init({
        once: true
@@ -185,9 +185,9 @@
 
      const searchTarget = "/search-ja.json";
      SimpleJekyllSearch({
-       searchInput: document.getElementById('search-input'),
+       searchInput:      document.getElementById('search-input'),
        resultsContainer: document.getElementById('results-container'),
-       json: searchTarget
+       json:             searchTarget
      });
     </script>
   </body>
