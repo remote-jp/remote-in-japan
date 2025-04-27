@@ -1332,12 +1332,30 @@ ul li {
 
 .description-link {
   font-size: smaller;
-  color: inherit !important; /* 親の色を引き継ぐ（変えない！） */
   text-decoration: none; /* 下線なし */
 }
+@media (prefers-color-scheme: light) {
+  .description-link {
+    color: #222 !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .description-link {
+    color: inherit !important;
+  }
+}
 .description-link:hover {
-  color: inherit !important; /* hover時も色を変えない！！ */
   text-decoration: none; /* hoverしても下線なし */
+}
+@media (prefers-color-scheme: light) {
+  .description-link:hover {
+    color: #222 !important;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .description-link:hover {
+    color: inherit !important;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
