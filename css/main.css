@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1312,6 +1313,16 @@ ul li {
     --color-link: hsl(0, 74%, 40%);
     --color-link-hover: hsl(0, 74%, 45%);
   }
+}
+
+.description-link {
+  font-size: smaller;
+  color: inherit !important; /* 親の色を引き継ぐ（変えない！） */
+  text-decoration: none; /* 下線なし */
+}
+.description-link:hover {
+  color: inherit !important; /* hover時も色を変えない！！ */
+  text-decoration: none; /* hoverしても下線なし */
 }
 
 /*# sourceMappingURL=main.css.map */
