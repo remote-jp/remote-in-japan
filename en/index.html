@@ -98,10 +98,10 @@
           <div class="header--block--input--icon">
             <span class="feather-icon icon-search"></span>
           </div>
-          <input class="input-search" type="text" name="" value="" placeholder="e.g. Ruby, Python, PHP" id="search-input" />
+          <input class="input-search" type="text" name="" value="" placeholder="e.g. " id="search-input" />
         </div>
         <div class="header--block--result">
-          <ul id="results-container"></ul>
+          <ul id="search-results"></ul>
         </div>
       </div>
       
@@ -5201,11 +5201,39 @@
        once: true
      });
 
+     // Company Search
+     let placeholder_text = "e.g. ";
+     const categories = ['Ruby', 'Python', 'PHP', 'Java', 'TypeScript', 'React', 'Vue', 'AWS', 'Django', 'Rails'];
+
+     // Durstenfeld Shuffle Algorithm
+     // https://ja.wikipedia.org/wiki/フィッシャー–イェーツのシャッフル
+     for (i=categories.length; 1<i ; i--) {
+       j = Math.floor(Math.random() * i);
+       [categories[j], categories[i-1]] = [categories[i-1], categories[j]];
+     }
+     placeholder_text += categories[0] + ", " + categories[1] + ", " + categories[2];
+     document.getElementById("search-input").placeholder = placeholder_text;
+
      const searchTarget = "/search-en.json";
-     SimpleJekyllSearch({
-       searchInput:      document.getElementById('search-input'),
-       resultsContainer: document.getElementById('results-container'),
-       json:             searchTarget
+     const sjs = SimpleJekyllSearch({
+       searchInput:          document.getElementById('search-input'),
+       resultsContainer:     document.getElementById('search-results'),
+       json:                 searchTarget,
+       limit:                20,
+
+       // JSONの読み込み完了後に success コールバック内で検索処理を実行する
+       success: function() {
+	 const queryParamValue = getQueryParam('q');
+	 if (queryParamValue) {
+           //setInputValue('search-input', queryParamValue);
+	   document.getElementById('search-input').value = queryParamValue;
+	   this.search(queryParamValue);
+	 }
+       },
+
+       searchResultTemplate: '<li><a href="{url}">{title}</a> <small><small>{description}</small></small></li>',
+       noResultsText:        'No search results.',
+       loadingText:          'searching ...',
      });
     </script>
   </body>
