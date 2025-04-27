@@ -55,8 +55,8 @@ $baseurl: '{{ site.baseurl }}';
   @media (prefers-color-scheme: dark)  { color: inherit !important; }
 
   &:hover {
+    text-decoration: none; /* hoverしても下線なし */
     @media (prefers-color-scheme: light) { color: #222    !important; }
     @media (prefers-color-scheme: dark)  { color: inherit !important; }
-    text-decoration: none; /* hoverしても下線なし */
   }
 }
