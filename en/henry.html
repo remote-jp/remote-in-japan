@@ -168,16 +168,57 @@
        noResultsText:        '',
        loadingText:          '',
 
-       // 100文字以上なら truncate する
+       // descriptionを100文字にtruncate. 100文字以下ならundefinedを返す（何も変えない）
        templateMiddleware: function(prop, value, template) {
-	 if (prop === 'description' && typeof value === 'string') {
-	   if (value.length > 100) {
-             return value.substring(0, 100) + '...';
+	 if (typeof value === 'string') {
+	   const query = document.getElementById('search-input').value.trim();
+	   if (query) {
+	     const regex = new RegExp(escapeRegExp(query), 'i'); // ここでは1個だけにしてる
+      
+	     const matchResult = regex.exec(value); // exec()ならマッチ位置が取れる！
+	     if (matchResult) {
+               const matchIndex  = matchResult.index;
+               const matchLength = matchResult[0].length;
+
+               const contextLength = 50; // 前後50文字
+        
+               const start = Math.max(0, matchIndex - contextLength);
+               const end = Math.min(value.length, matchIndex + matchLength + contextLength);
+        
+               let sliced = value.slice(start, end);
+        
+               // その後にハイライトをかける
+               const highlightRegex = new RegExp(escapeRegExp(query), 'gi');
+               sliced = sliced.replace(highlightRegex, '<mark>$&</mark>');
+        
+               // もし切り取ったのが完全じゃなければ「...」を付ける
+               if (start > 0) {
+		 sliced = '...' + sliced;
+               }
+               if (end < value.length) {
+		 sliced = sliced + '...';
+               }
+
+               value = sliced;
+	     }
 	   }
 	 }
-	 // それ以外はundefinedを返す（何も変えない）
+  
+	 if (prop === 'description' && typeof value === 'string') {
+	   // ハイライトでタグも入るので、文字数は少し余裕を見る
+	   if (value.length > 300) {
+	     return value.substring(0, 300) + '...';
+	   }
+	 }
+  
+	 return value;
        }
      });
+
+     // 正規表現エスケープ用の関数
+     function escapeRegExp(string) {
+       return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+     }
     </script>
   </body>
 </html>
