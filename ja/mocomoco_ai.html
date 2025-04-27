@@ -177,21 +177,23 @@
     <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
     <script src="/simple-jekyll-search.js"></script>
     <script>
+     // CSS Animation
      AOS.init({
        once: true
      });
 
      // Company Search
-     let placeholder_text = "検索例: ";
-     const categories = ['Ruby', 'Python', 'PHP', 'Java', 'TypeScript', 'React', 'Vue', 'AWS', 'Django', 'Rails'];
+     const placeholders = ['Ruby', 'Python', 'PHP', 'Java', 'TypeScript', 'React', 'Vue', 'AWS', 'Django', 'Rails'];
 
      // Durstenfeld Shuffle Algorithm
      // https://ja.wikipedia.org/wiki/フィッシャー–イェーツのシャッフル
-     for (i=categories.length; 1<i ; i--) {
+     for (i=placeholders.length; 1<i ; i--) {
        j = Math.floor(Math.random() * i);
-       [categories[j], categories[i-1]] = [categories[i-1], categories[j]];
+       [placeholders[j], placeholders[i-1]] = [placeholders[i-1], placeholders[j]];
      }
-     placeholder_text += categories[0] + ", " + categories[1] + ", " + categories[2];
+
+     let placeholder_text = "検索例: ";
+     placeholder_text      += placeholders[0] + ", " + placeholders[1] + ", " + placeholders[2];
      document.getElementById("search-input").placeholder = placeholder_text;
 
      const searchTarget = "/search-ja.json";
