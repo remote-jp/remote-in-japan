@@ -6875,6 +6875,16 @@
        searchResultTemplate: '<li><a href="{url}">{title}</a> <small><small>{description}</small></small></li>',
        noResultsText:        '検索結果が見つかりませんでした。',
        loadingText:          '検索中...',
+
+       // 100文字以上なら truncate する
+       templateMiddleware: function(prop, value, template) {
+	 if (prop === 'description' && typeof value === 'string') {
+	   if (value.length > 100) {
+             return value.substring(0, 100) + '...';
+	   }
+	 }
+	 // それ以外はundefinedを返す（何も変えない）
+       }
      });
     </script>
   </body>
