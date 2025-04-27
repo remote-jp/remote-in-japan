@@ -49,11 +49,14 @@ $baseurl: '{{ site.baseurl }}';
 
 .description-link {
   font-size: smaller;
-  color: inherit !important; /* 親の色を引き継ぐ（変えない！） */
   text-decoration: none; /* 下線なし */
+  // ライトモード時は黒くする
+  @media (prefers-color-scheme: light) { color: #222    !important; }
+  @media (prefers-color-scheme: dark)  { color: inherit !important; }
 
   &:hover {
-    color: inherit !important; /* hover時も色を変えない！！ */
+    @media (prefers-color-scheme: light) { color: #222    !important; }
+    @media (prefers-color-scheme: dark)  { color: inherit !important; }
     text-decoration: none; /* hoverしても下線なし */
   }
 }
