@@ -17,8 +17,14 @@ titleDescription:
   ja: 'Tech companies in Japan that hire remote workers.'
 
 searchPlaceholder:
-  en: 'e.g. Ruby, Python, PHP'
-  ja: '検索例: Ruby, Python, PHP'
+  en: 'e.g. '
+  ja: '検索例: '
+searchNoResults:
+  en: 'No search results.'
+  ja: '検索結果が見つかりませんでした。'
+searchLoading:
+  en: 'searching ...'
+  ja: '検索中...'
 
 postTagFullRemote:
   en: 'Fully remote 👌'
