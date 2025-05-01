@@ -35,9 +35,9 @@
        searchInput:          document.getElementById('search-input'),
        resultsContainer:     document.getElementById('search-results'),
        json:                 searchTarget,
-       // limit:                20,
+       limit:                30,
 
-       searchResultTemplate: '<li class="search-result-item"><a href="{url}">{title}</a> <small><a href="{url}" class="description-link">{description}</a></small></li>',
+       searchResultTemplate: '<li class="search-result-item"><a href="{url}">{title}</a> <small><a href="{url}" class="description-link">{description} {full_remote}</a></small></li>',
        noResultsText:        '{{ site.data.translations["searchNoResults"][page.lang] }}',
        loadingText:          '{{ site.data.translations["searchLoading"][page.lang] }}',
 
@@ -46,21 +46,20 @@
 	 if (typeof value === 'string') {
 	   const query = document.getElementById('search-input').value.trim();
 	   if (query) {
-	     const regex = new RegExp(escapeRegExp(query), 'i'); // case-insensitive
-	     
+	     const regex       = new RegExp(escapeRegExp(query), 'i'); // case-insensitive
 	     const matchResult = regex.exec(value); // ← これでマッチと位置取得
 	     
 	     if (matchResult) {
-               const matchIndex = matchResult.index;
+               const matchIndex  = matchResult.index;
                const matchLength = matchResult[0].length;
                
                const desiredLength = 100; // だいたい100文字ぐらい見せたい
                let start = Math.max(0, matchIndex - Math.floor(desiredLength / 2));
-               let end = start + desiredLength;
+               let end   = start + desiredLength;
                
                // もし end が本文超えちゃうなら調整
                if (end > value.length) {
-		 end = value.length;
+		 end   = value.length;
 		 start = Math.max(0, end - desiredLength);
                }
 
@@ -84,7 +83,7 @@
 	 }
 	 
 	 if (prop === 'description' && typeof value === 'string') {
-	   // 念のため超長かったらカット（タグ込み）
+	   // 長かったらカット（タグ込み）
 	   if (value.length > 300) {
 	     return value.substring(0, 300) + '...';
 	   }

@@ -8,6 +8,7 @@ layout: null
       "title"       : "{{ post.title | escape }}",
       "description" : "{{ post.description | escape }}",
       "categories"  : "{{ post.categories | array_to_sentence_string }}",
+      "full_remote" : {% if post.categories contains 'full_remote' %}"<code><small><small>(Fully remote👌)</small></small></code>"{% else %}""{% endif %},
       "url"         : "{{ post.permalink }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
