@@ -27,7 +27,7 @@
      }
 
      let placeholder_text = "{{ site.data.translations['searchPlaceholder'][page.lang] }}";
-     placeholder_text      += placeholders[0] + ", " + placeholders[1] + ", " + placeholders[2];
+     placeholder_text    += placeholders[0] + ", " + placeholders[1] + ", " + placeholders[2];
      document.getElementById("search-input").placeholder = placeholder_text;
 
      const searchTarget = "/search-{{ lang }}.json";
