@@ -5,6 +5,7 @@
       "title"       : "YassLab Inc.",
       "description" : "Developing railstutorial.jp, railsguides.jp, and coderdojo.jp using Ruby on Rails.  » See on GitHub",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/yasslab_jp"
     } ,
   
@@ -12,6 +13,7 @@
       "title"       : "IDC Frontier Inc.",
       "description" : "While maintaining our commitment to safety and security in managing digital infrastructure, we continuously challenge ourselves to create a future where customers can use our services without having to be conscious of the infrastructure layer. We offer a wide range of services including data center operations, cloud services, and hosting solutions. Company Profile  Careers",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/idcf_jp"
     } ,
   
@@ -19,6 +21,7 @@
       "title"       : "CoDMON Inc.",
       "description" : "With the mission of “Making the environment surrounding children better through the power of technology,” we are developing our business from multiple angles to transform society into one that is friendly to child-rearing, primarily through our main product “CoDMON,” an ICT service for childcare and educational facilities. Engineer Recruitment Page / Job Listings",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/codmon_com"
     } ,
   
@@ -26,6 +29,7 @@
       "title"       : "mov inc.",
       "description" : "Rooted in digital marketing consulting, we have expanded our business scope to include ‘Inbound Tourism Business’ and ‘Store Support Business.’ Currently, we are actively engaged in both of these ventures. In our ‘Store Support Business,’ we develop and manage ‘kutikomi com,’ a platform adept at assimilating vast and intricate review-centric data. Through user-friendly software and AI-driven suggestions, we guide stores towards optimal actions, ultimately approaching shifts in consumer behavior. This significantly contributes to marketing strategies and operational enhancements within the store business. Our honest consulting approach, coupled with top-tier products anchored by Ruby on Rails, has propelled us towards both steady and exponential growth. We are hiring!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/mov_am"
     } ,
   
@@ -33,6 +37,7 @@
       "title"       : "Fenrir Inc.",
       "description" : "Your smartphone app might be made by Fenrir. We specialize in innovative design and technology, boasting over 600 beloved apps developed for more than 400 satisfied companies. Requirements",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/fenrir-inc_com"
     } ,
   
@@ -40,6 +45,7 @@
       "title"       : "Acompany Co., Ltd.",
       "description" : "Acompany is a startup driving privacy-focused digital transformation (Privacy DX) for enterprise businesses. We develop and provide “AutoPrivacy DataCleanRoom,” which leverages secure computation to enable safe data collaboration, and “AutoPrivacy Governance,” a comprehensive privacy governance solution. Acompany fully supports remote work—some of our team members work 100% remotely. We’d love to chat, so please feel free to reach out for a casual conversation anytime! We are hiring!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/acompany_tech"
     } ,
   
@@ -47,6 +53,7 @@
       "title"       : "Credit Engine, Inc.",
       "description" : "We are developing DX (digital transformation) services for the financial industry with the mission, “Transform Lending. Transform Borrowing.”  To achieve this mission, we are developing a Loan DX Platform that delivers both financial services for lending and debt collection and technology solutions to financial institutions.  We reduce the hassles of lending and borrowing, helping businesses focus on their core operations and enabling a more dynamic capital flow throughout the economy, contributing to economic revitalization.  We became a member of the PayPay Group from November 2024, and as our organization continues to grow, we are looking for colleagues who will work together with us to develop new features and improve existing ones.  ◼️Work style Full-remote・Full-flex  ◼️Development environment ・Frontend: JS/TS, Vue.js, Tailwind CSS, Storybook ・Backend: Python, Django ・DB: PostgreSQL (Amazon RDS) ・Test: Autify ・CI/CD: GitHub Actions, AWS CodeBuild/CodeDeploy/CodePipeline ・Infrastructure: AWS (AWS CDK, ECS Fargate, etc), Azure (OpenAI Service, etc) ・Data analysis: Python, scikit-learn, Amazon SageMaker ・Design: Figma ・Other: Slack, GitHub, Asana, etc ・MacBook provided ・GitHub Copilot provided ・Licenses for editors (PyCharm, etc) provided",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/creditengine_jp"
     } ,
   
@@ -54,6 +61,7 @@
       "title"       : "BoostDraft, Inc.",
       "description" : "BoostDraft develops a document editor with support features incorporating IDE concepts into legal documents. We operate as a fully remote team, bringing together members from diverse backgrounds worldwide. Many of our team members, including those in management, balance parenting and work, and we offer flexible working arrangements tailored to individual lifestyles.   In addition to fostering in-person connections through events like our annual Offsite Meeting and our monthly Office Day, we actively create casual online interaction opportunities such as Morning Check-ins, Game Days, and Coffee Chats. These initiatives help ensure smooth collaboration and productivity, even in a remote work environment.  We’re currently hiring for multiple positions—be sure to check out our job openings! Job Openings",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/boostdraft_com"
     } ,
   
@@ -61,6 +69,7 @@
       "title"       : "Spacely, Inc.",
       "description" : "We are an IT startup on a mission to “bring wonder and discovery to as many people as possible.” We develop and offer Spacely, a SaaS product that automatically generates interactive, high-quality VR content by uploading 360° panoramic photos or 3D CG data. Our technology—protected by multiple patents—enables features such as measuring dimensions, placing virtual furniture in VR, and easily synchronizing 360° VR content across various devices. Currently, more than 10,000 users in the real estate and housing industries leverage Spacely to drive sales and marketing DX, while in the manufacturing sector, it is utilised as a DX solution for training, with adoption steadily expanding.  For more information about our team and open positions, please visit our Recruitment page. For technical updates, check out our Tech Blog.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/spacely_co_jp"
     } ,
   
@@ -68,6 +77,7 @@
       "title"       : "Japan Digital Design, Inc.",
       "description" : "Japan Digital Design（JDD） is a Fintech company of MUFG group.  JDD is composed of in-house teams which combine the functions of finance business, technology, and experience design.  We do everything from conceiving new projects to AI R&amp;amp;D, field testing technologies, and product development. JDD offers full remote and fully flexible work hours! (*Negotiable for some positions) Recruit",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/japan-d2_com"
     } ,
   
@@ -75,6 +85,7 @@
       "title"       : "AP Communications Co., Ltd.",
       "description" : "As IT infrastructure professionals, we provide a wide range of services, particularly in recent times, including IT infrastructure automation, support for the introduction and operation of generative AI and data AI platforms, network and cloud security measures, and digital transformation development support. As of January 2025, nearly 20% of our employees live in rural areas and work remotely. In addition, we are an engineer-driven company that is committed to supporting the work environment and careers, with an in-house university and an official department where engineers support other engineers. Recruitment(Japanese) Technical blog(Japanese) Public relations blog(Japanese)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/ap-com_co_jp"
     } ,
   
@@ -82,6 +93,7 @@
       "title"       : "Rakko, Inc.",
       "description" : "Rakko Keyword / Rakko M&amp;amp;A / Rakko Tools 🦦 Join our team! We are actively hiring engineers for fully remote positions. Careers React/Next.js/TypeScript/AWS/PHP/Vue",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/rakko_inc"
     } ,
   
@@ -89,6 +101,7 @@
       "title"       : "OpenWork Inc.",
       "description" : "We have a hybrid system of remote work and office attendance, with rules on the frequency of attendance set for each department (such as coming to the office once a month, once a week, etc.). (Hiring)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/openwork_co_jp"
     } ,
   
@@ -96,6 +109,7 @@
       "title"       : "TimeTree, Inc.",
       "description" : "We are a small Tokyo-based company developing a calendar sharing app called TimeTree. Driven by our company vision, «Ask “Shall We?” to your loved ones», TimeTree puts user communication and sharing at its core.  Since its release 9 years ago, the service has grown to over 60M users worldwide (as of October 2024).  TimeTree is always evolving, constantly looking for new people to tackle challenges and create exciting new services embracing our vision “Shall We?”. Join us and let’s build the future of TimeTree together.  About Us(Japanese) Career Opportunities(Japanese)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/timetreeapp_com"
     } ,
   
@@ -103,6 +117,7 @@
       "title"       : "Helpfeel Inc.",
       "description" : "Developing Helpfeel, Gyazo, Cosense . Based in Kyoto.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/helpfeel_com"
     } ,
   
@@ -110,6 +125,7 @@
       "title"       : "U-NEXT Co., Ltd.",
       "description" : "We operate U-NEXT, one of Japan’s largest content streaming platforms. Employees can choose between remote work or office attendance on a daily basis, and in practice, more than 90% of departments and employees opt for remote work.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/unext_co_jp"
     } ,
   
@@ -117,6 +133,7 @@
       "title"       : "ING Inc.",
       "description" : "We started as a company established in Yokohama in 2010. We were a contracted developer at the time of establishment, but now we mainly focus on developing our own services as follows.  ・Survey service : ”Smile Survey” ・Reservation service (Planned for Commercialization) : Currently offering this service as a core solution for major apparel events, golf courses, online medical clinics, etc. ・Matching service (Planned for Commercialization) : Currently offering this service as a core solution for direct recruiting, real estate sales, CrowdWorks, etc.  As our company name suggests, we have a vision of “evolving day by day”, and we invite you to join us in creating services that change the world with software! Full remote working is OK (several employees live in Kyushu and Kansai), and mothers working shorter hours are also thriving in our company. The office is directly connected to Nihon-Odori Station on the Minatomirai Line, so you won’t need an umbrella even on rainy days!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/in-g_jp"
     } ,
   
@@ -124,6 +141,7 @@
       "title"       : "SPACEMARKET, Inc.",
       "description" : "We will contribute to a sustainable society full of diversity by making space-sharing a commonplace option through the power of technology. Our team will continue to work together to take on the challenge of becoming the next generation of infrastructure necessary for society.   We are looking forward to working with you if you want to be a part of a service that will change the way the world works and continue to grow!   We offer a flexible work schedule that allows you to come to the office once a week and work remotely four times a week!   We are hiring!",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/spacemarket_co_jp"
     } ,
   
@@ -131,6 +149,7 @@
       "title"       : "ZOZO, Inc.",
       "description" : "ZOZO, Inc. develops, operates, and plans for multiple services such as ZOZOTOWN, the fashion e-commerce, WEAR by ZOZO, a smartphone app for sharing stylings and outfits, niaulab by ZOZO, the ultimate personalized-styling service, and develops technology devices for body measurement, such as the ZOZOSUIT, ZOZOMAT, and ZOZOGLASS. We also run our customer support operation, and logistics centers “ZOZOBASE”. (Hiring)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/zozo_com"
     } ,
   
@@ -138,6 +157,7 @@
       "title"       : "GameWith Inc.",
       "description" : "Development and operation of Japan’s largest game media GameWith. In addition to the web, we also develop iOS/Android apps. Software engineers work under a discretionary labor system. In principle, all employees will be able to work remotely from May 2020. (Hiring)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/gamewith_co_jp"
     } ,
   
@@ -145,6 +165,7 @@
       "title"       : "kaonavi, inc.",
       "description" : "Our company has been leading the talent management market with our service “kaonavi”. In 2024, we are aiming for further business expansion by launching two new services: “Yojitstics,” a budget management system, and “Roummate,” a labor management service. We offer fully remote work (primarily within Japan, with a system requiring in-office face-to-face work once per quarter), super-flexible hours with no core time, and we encourage side jobs, allowing for a flexible work style. We are hiring!",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/kaonavi_jp"
     } ,
   
@@ -152,6 +173,7 @@
       "title"       : "Eustyle Laboratory Co., Ltd.",
       "description" : "“Challenge to the next generation of social problems.”  We develop software to solve problems such as nursing care.  Would you like to contribute to society together?  (recruiting)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/eustylelab_co_jp"
     } ,
   
@@ -159,6 +181,7 @@
       "title"       : "GO Inc.",
       "description" : "GO Inc. offers various technology services that evolve Japan’s mobility industry.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/goinc_jp"
     } ,
   
@@ -166,6 +189,7 @@
       "title"       : "AEON Smart Technology Co., Ltd.",
       "description" : "AEON Smart Technology Co., Ltd. focuses on developing the All-in-One App “iAEON”, which serves as a common touchpoint across the entire Aeon Group. It aims to enhance the user experience in all services provided by the Aeon Group. The company operates fully remotely with flexible working arrangements.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/aeon-st_co_jp"
     } ,
   
@@ -173,6 +197,7 @@
       "title"       : "hacomono, inc.",
       "description" : "hacomono Inc. is a company that offers the vertical SaaS “hacomono”, which handles customer management, reservations, and payments for fitness clubs and schools. You can find more about them at hacomono. The company operates fully remotely and with full flexibility.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/hacomono_jp"
     } ,
   
@@ -180,6 +205,7 @@
       "title"       : "Portion Inc.",
       "description" : "Portion Inc. is a company that operates a CtoC service for game accounts called “トレジャム”. We offer fully remote and fully flexible working arrangements.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/portion_co_jp"
     } ,
   
@@ -187,6 +213,7 @@
       "title"       : "RevComm Inc.",
       "description" : "RevComm develops and delivers the best in class AI-powered voice transcription and analytics platform that helps businesses streamline their voice communication at all levels. We are a remote-first company and our employees can live anywhere in Japan. For more details, please see here",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/revcomm_co_jp"
     } ,
   
@@ -194,6 +221,7 @@
       "title"       : "viviON, Inc.",
       "description" : "viviON is behind a range of 2D content services, including DLsite, one of Japan’s largest 2D content download sites. viviON is looking for new staff who can help us provide world-class 2D content and services to everyone who resonates with the label “otaku”.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/vivion_jp"
     } ,
   
@@ -201,6 +229,7 @@
       "title"       : "Findy Inc.",
       "description" : "Findy’s vision is “Create a platform that unlocks software engineer’s highest potential”. Findy has developed Findy, Findy Freelance, and Findy Global, matching platforms for high-skilled engineers, and Findy Team+, a SaaS that improves the organization of engineers, In 2022, the company raised 1.5 billion yen in a Series C round of funding. The company is entering a phase of business expansion, aiming for global expansion and an IPO. Engineers are working remotely from all over Japan, from Hokkaido in the north to Fukuoka in the south. We are hiring here. We are hiring here",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/findy_co_jp"
     } ,
   
@@ -208,6 +237,7 @@
       "title"       : "UZUMAKI, Inc.",
       "description" : "UZUMAKI Inc. is a “guild-type” development company without employees but with project-basis-teams consisting of sole proprietors and side hustlers. The member software engineers, web and graphic designers, and directors work together based on mutual trust. We use Rails, React, Vue.js, AWS, and Flutter to work on web development projects from the early stages such as web designing and wireframing.Careers",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/uzumaki-inc_jp"
     } ,
   
@@ -215,6 +245,7 @@
       "title"       : "STORES, Inc.",
       "description" : "With the mission of “Just for Fun,” we aim to contribute to the development of an economy driven by commitment, passion, and fun. STORES provides comprehensive support services for store operators, from sole proprietors to mid-size companies, including online store setup, POS cash registers, cashless payment, online reservation systems, and store app creation. By combining each of the “STORES” services, we provide an environment for easier and more efficient business operations and support growth.(Hiring now)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/st_inc"
     } ,
   
@@ -222,6 +253,7 @@
       "title"       : "cybozu",
       "description" : "Groupware and team support development and management. Variety of work styles, human resource selection, ultrawork, etc.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/cybozu_co_jp"
     } ,
   
@@ -229,6 +261,7 @@
       "title"       : "Hello, Inc.",
       "description" : "Hello Inc. is a startup that provides AutoReserve, which automates restaurant phone reservations with voice AI, and AutoReserve for Restaurants. You can work on challenging problems using overseas expansion and voice AI.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/hello_ai"
     } ,
   
@@ -236,6 +269,7 @@
       "title"       : "Classmethod Inc.",
       "description" : "Classmethod Inc.is an AWS cloud integrator. We focus on AWS-related consulting/development/operation/monitoring, big data, mobile applications and IoT solutions. We share our AWS and mobile knowledge &amp;amp; experience on our site DevelopersIO",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/classmethod_jp"
     } ,
   
@@ -243,6 +277,7 @@
       "title"       : "Henry, Inc.",
       "description" : "Henry, Inc. is developing products with the mission of “keep solving social issues to make a brighter world”. As a first step, we are currently developing “Henry” a cloud-based electronic medical record and receipt system, which is a core system for clinics and small to medium-sized hospitals.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/henry-app_jp"
     } ,
   
@@ -250,6 +285,7 @@
       "title"       : "Nikkei Inc.",
       "description" : "Nikkei provides valuable information for customers seeking affluence. While starting from the newspaper business, we utilize the latest technology to develop various information services such as digital media and databases, including the “Nikkei Electronic Edition”.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/nikkei_co_jp"
     } ,
   
@@ -257,6 +293,7 @@
       "title"       : "OTOBANK Inc.",
       "description" : "Developing audiobook.jp (Hiring)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/otobank_co_jp"
     } ,
   
@@ -264,6 +301,7 @@
       "title"       : "moove Co., Ltd.",
       "description" : "Moove Co., Ltd. is a company that mainly performs contracted development of web systems under the motto “Work Productively, Efficiently, and Enjoyably. We do not have any customer-resident or dispatched workers, and all processes are handled in-house. We have a telework day every Wednesday, and about 30% of our employees work completely by telework including other days of the week. For more details, please click here.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/moove_co_jp"
     } ,
   
@@ -271,6 +309,7 @@
       "title"       : "Kraken Technologies Japan",
       "description" : "Part of the Octopus Energy Group, Kraken is the world’s leading customer &amp;amp; culture platform for utilities. Help us make a big green dent in the universe!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/kraken_tech"
     } ,
   
@@ -278,6 +317,7 @@
       "title"       : "Timee, Inc.",
       "description" : "Timee is a matching platform for gig workers launched in 2018. Our mission is “to make the infrastructure which helps everyone to achieve promising future through working.” We use Ruby for agile service development to achieve our mission.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/timee_co_jp"
     } ,
   
@@ -285,6 +325,7 @@
       "title"       : "Nulab Inc.",
       "description" : "Our products are powerful, web-based collaboration tools that improve teamwork. Backlog | Plan. Manage. Track. Cacoo | Create. Collaborate. Typetalk | Chat. Connect. Share. Nulab Pass | Secure. Simple. Scalable. All products are available in English, and we have users from all over the world. You can work remotely from wherever in Japan you live. We are looking forward to hearing from you. Please check the contact page and send us a message using the “Nulab” subject button, and tell us why you want to work at Nulab Japan!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/nulab_com"
     } ,
   
@@ -292,6 +333,7 @@
       "title"       : "yamaneco株式会社",
       "description" : "yamaneco is a Tokyo-based agile, devOps and design coaching agency. We work with Japanese and international clients in both English and Japanese that work closely with our clients’ teams to work better, ship faster and make higher quality products.We are hiring!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/yamaneco_co_jp"
     } ,
   
@@ -299,6 +341,7 @@
       "title"       : "beBit, Inc.",
       "description" : "beBit provides UX team cloud “USERGRAM”, which helps digital marketing based on detailed understanding of customer behaviors. Hiring now",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/bebit_co_jp"
     } ,
   
@@ -306,6 +349,7 @@
       "title"       : "OPENLOGI.inc",
       "description" : "OPENLOGI offers a  pay-as-you-go logistics fulfillment platform service. Our vision is “Network siloed logistics with data, and revolutionize the merchandise distribution”. Engineers can work fully remotely. Recruitment (Japanese)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/openlogi_com"
     } ,
   
@@ -313,6 +357,7 @@
       "title"       : "MI-6, Inc.",
       "description" : "We are a startup that uses AI to streamline R&amp;amp;D for materials manufacturers. The use of AI in materials development is also known as materials informatics (MI), a technology that has attracted much attention and has been selected as “one of the 100 technologies that will change the world. The MI market is expanding rapidly and is said to grow from 26.7 billion yen in 2020 to 321.6 billion yen in 2030. Full remote work (many members in rural areas), OK to start as a second job, many advisors from famous companies, over 500 million yen in funding, flexible work style (35% of employees are raising children) Python・React+TypeScript・Ruby on Rails・AWS  採用情報 Wantedly 採用情報 HERP",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/mi-6_co_jp"
     } ,
   
@@ -320,6 +365,7 @@
       "title"       : "WAmazing, Inc.",
       "description" : "「Enjoy Japan for a WAmazing Life」 If you visit Japan, make your trip amazing with WAmazing! WAmazing allows you to book hotels at the lowest prices, reserve activities, and even receive a free SIM card. We are working fully remotely. We are hiring!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/wamazing_com"
     } ,
   
@@ -327,6 +373,7 @@
       "title"       : "Smartround Inc.",
       "description" : "Our mission is “Making startup time more business!” We develop and provide BtoB SaaS “Smartround” to streamline the daily work of startups and investors. We are hiring!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/smartround_com"
     } ,
   
@@ -334,6 +381,7 @@
       "title"       : "Catalina Marketing Japan K.K.",
       "description" : "To realize 100% remote work for all employees. And to continue… We are hiring!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/catalina_com"
     } ,
   
@@ -341,6 +389,7 @@
       "title"       : "Growth Architectures &amp; Teams, Inc.",
       "description" : "We support the Digital Transformation (DX) of enterprise companies.  In particular, we provide professional services in the areas of Enterprise Agile, Microservices, DevOps, Modern Web, and Atlassian products. Our customers are in the top tier of telecom, retail, manufacturing, and healthcare. We are hiring here.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/graat_co_jp"
     } ,
   
@@ -348,6 +397,7 @@
       "title"       : "Joyz, Inc.",
       "description" : "Joyz provides technology solutions in the English as a Second Language market. Our flagship product TerraTalk boasts 500k users in public education going from year 1 to 9, seeing 1,000% increase YoY. Our customers include schools as well as some of the largest providers of private education products. Our front-end is TypeScript/Vue.js, and our back-end is Python/Django. We are hiring here.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/joyz_co_jp"
     } ,
   
@@ -355,6 +405,7 @@
       "title"       : "note inc.",
       "description" : "Our mission is “Make Creation Start Easily, and to Be Carried On.”　We support and empower all kinds of creators.With our service, we aim to create a world where creators can focus on what they want to express and continue their creative activities.We provide a C2C content platform “note”, and a media SaaS for corporate users called “note pro.” Our team member work in a variety of ways through our “Flexible Work  System” based on remote work. Even now, we have employees who work fully remotely all over Japan, including Aomori, Nagoya, Osaka, Fukuoka, and Okinawa.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/note_jp"
     } ,
   
@@ -362,6 +413,7 @@
       "title"       : "Paiza, Inc.",
       "description" : "Paiza, Inc. have a mission “Grow one’s unique ability”, and provides job matching service for engineers and online coding courses. At now, we are working fully remotely, and after COVID-19 we will work at both home and office. We are hiring here",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/paiza_co_jp"
     } ,
   
@@ -369,6 +421,7 @@
       "title"       : "EventHub, Inc",
       "description" : "“EventHub” is an event platform specialized for business events that companies use when holding events for sales, marketing, recruitment and customer relationship maintenance. It is possible to hold a wide variety of events in an online space, from webiners with dozens of people to large-scale online exhibitions.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/eventhub_jp"
     } ,
   
@@ -376,6 +429,7 @@
       "title"       : "Bizer Inc",
       "description" : "“Bizer team” is a service to visualize the work of the team and lead to the improvement of the work, based on the concept of “making the work of the team faster”. I don’t know the progress of who is doing what in the team., Work is personalized and management is not functioning. and We will improve issues such as “I am busy with the work in front of me and cannot afford to tackle medium- to long-term issues.”   Currently, all employees work fully remotely. React + TypeScript on the front end / Ruby on Rails is used for the back end.  Click here for employment information",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/bizer_jp"
     } ,
   
@@ -383,6 +437,7 @@
       "title"       : "Everyleaf Corporation",
       "description" : "We provide contract development with Ruby/Rails, development consulting, and support for team building. We are also working on the use of AI and natural language processing in cooperation with our group company, Retrieva, Inc. (Employment Information)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/everyleaf_com"
     } ,
   
@@ -390,6 +445,7 @@
       "title"       : "Cloud Ace",
       "description" : "Cloud Ace provides a comprehensive range of services to help customers adopt Google Cloud including migration, maintenance, billing and system development.  We work with a portfolio of partner companies to provide solutions in areas such as artificial intelligence, machine learning and IoT.  Cloud Ace has local subsidiaries in Vietnam, Singapore, Indonesia, Thailand, China, Taiwan, and HongKong.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/cloud-ace_com"
     } ,
   
@@ -397,6 +453,7 @@
       "title"       : "tambourine inc.",
       "description" : "Our mission is to help our clients’ companies grow by innovating the consumer experience in B2C businesses using design and engineering. We mainly use Salesforce to build community services, e-commerce sites, and business systems. Since our inception, we have been working remotely once a week. Now, we have adapted most of our work structure to be fully remote. Additionally, we have built an organization that achieves results even in a remote environment. We’re looking for people to work with us!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/tam-bourine_co_jp"
     } ,
   
@@ -404,6 +461,7 @@
       "title"       : "NTT Communications",
       "description" : "NTT Communications has been developing a wide range of businesses from infrastructure such as data centers and submarine cables to software and web services under the philosophy of “Creating communications that open up possibilities for people and the world.” In addition to the introduction of remote work, we also publish a “remote work handbook” to further promote remote work. Click here for employment information.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/ntt_com"
     } ,
   
@@ -411,6 +469,7 @@
       "title"       : "FORCAS, Inc.",
       "description" : "Development and operation of FORCAS. It is a cloud service that supports ABM practices.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/forcas_com"
     } ,
   
@@ -418,6 +477,7 @@
       "title"       : "Ateam, Inc.",
       "description" : "Ateam is a comprehensive IT company that develops businesses in a variety of technological and business domains based on the internet. We are developing our business in three core segments: “Lifestyle Support Business” which provides comparison sites and information sites closely related to life events and daily life, “Entertainment Business” which provides game and tool applications, and “E-Commerce Business” which operates a specialized online bicycle store. With the aim of realizing our corporate philosophy, “to be a company where all can achieve happiness together” and “to be a company that will last 100 years from today”, we will continue to grow as a company where employees recognize each other, work energetically, and are needed by society and others.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/a-tm_co_jp"
     } ,
   
@@ -425,6 +485,7 @@
       "title"       : "Xincere, Inc.",
       "description" : "We are developing system for real estate agency company for high class rooms, including CRM and personal service system for our clients.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/xincere_jp"
     } ,
   
@@ -432,6 +493,7 @@
       "title"       : "PrAha Inc.",
       "description" : "We design and develop softwares for new businesses, and organize a programming bootcamp “Praha Challenge” that trains intermediate level engineers. We place great value in making an ideal environment for engineers who love to code. For example, study cost (such as event participation, purchasing books) is fully paid by the company, and weekly study sessions are hosted internally",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/praha-inc_com"
     } ,
   
@@ -439,6 +501,7 @@
       "title"       : "Unscene, Inc.",
       "description" : "Unscene is adding to our team passionate people who are revolutionizing how ideas are shared in 3D. Unscene is a simple and intuitive web based 3D presentation tool. Unscene’s intuitive design makes it extremely easy for anyone to share their ideas in 3D. As a result, engineers, marketers and sales executives, especially in manufacturing and construction, use Unscene to create 3D based maintenance manuals, work instructions, sales presentations or promotion materials. (Current Openings)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/unscene_app"
     } ,
   
@@ -446,6 +509,7 @@
       "title"       : "Autify, Inc.",
       "description" : "With the mission to increase creativity with the power of tech, we develop and provide Autify, an AI-based software test automation platform. Our engineering team consists of engineers from various countries and the company official language is English. Visa sponsorship is also available. Join our team and make Autify great!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/autify_com"
     } ,
   
@@ -453,6 +517,7 @@
       "title"       : "Toranoana Lab Inc.",
       "description" : "It is an engineer company that specializes in system development of Toranoana related services such as “Toranoana mail order” and “Fantia”. On October 1, 2019, we spun off from Yumenosora Holdings Co., Ltd. in order to create a system and environment that makes it easy for engineers to work. As of 2021, based on our corporate philosophy of “becoming a family of creators,” we want to expand the places where creators can play an active role and create services that will excite more customers. “Toranoana Lab” is involved in the development of various services.（Under recruitment）",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/yumenosora_co_jp"
     } ,
   
@@ -460,6 +525,7 @@
       "title"       : "Minma, Inc.",
       "description" : "We develop and operate “Kurashi no Market (Marketplace for living)”.  In addition to our full-flex work hours, we have transitioned to a fully remote work style since June 2020, with many of our employees working from all over Japan and overseas. Company and product profile for engineers / We are hiring!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/minma_jp"
     } ,
   
@@ -467,6 +533,7 @@
       "title"       : "Minedia, Inc.",
       "description" : "We are developing our own products with the goal of rediscovering the value buried within consumers through the power of technology, and have moved to a full remote system in the wake of the 2020 emergency declaration.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/minedia_com"
     } ,
   
@@ -474,6 +541,7 @@
       "title"       : "207 Inc.",
       "description" : "We develop “Todocu Supporter”, a service that improves the efficiency of Last-Mile delivery operation, and also operate “Skima-bin”, a service that solves the shortage of human resources in the delivery business by applying gig workers and the big-data accumulated through the activities on our app.We believe the synergy of these businesses accelerate the accumulation of big-data and the expansion of distribution network that will be essential for futuristic delivery operation realized through the technologies such as drone, self-driving car, and so on. You can work whenever from wherever, with autonomous, enthusiastic, and helpful colleagues :smiley:(We are hiring!)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/207-inc_com"
     } ,
   
@@ -481,6 +549,7 @@
       "title"       : "ROUTE06, Inc.",
       "description" : "We provide professional services such as strategic consulting in digital transformation, development of digital product and data platform. You can work fully remote from all over Japan. (Hiring)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/route06_co_jp"
     } ,
   
@@ -488,6 +557,7 @@
       "title"       : "Mobile Factory Inc.",
       "description" : "At Mobile Factory, we think it is important to have as flexible a work style as possible for employees to work excitingly. So we have introduced “Moba Work” to adapt to the new normal. You can work from wherever places in Japan by Moba Work!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/mobilefactory_jp"
     } ,
   
@@ -495,6 +565,7 @@
       "title"       : "Oisix ra daichi Inc.",
       "description" : "In addition to food delivery for individual customers, Oisix ra daichi also offers unique solutions for corporate customers developed through our experience in the food delivery business.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/oisixradaichi_co_jp"
     } ,
   
@@ -502,6 +573,7 @@
       "title"       : "sikmi Inc.",
       "description" : "We mainly contract development of Rails-based web app, iOS and Android app. We also focus on developing our own products. e.g. reBako All employees work full remote.We’re hiring!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/sikmi_com"
     } ,
   
@@ -509,6 +581,7 @@
       "title"       : "Uzabase, Inc.",
       "description" : "We guide business people to insights that change the world. We provide a foundation of intelligence that supports the needs of business and business people. We analyze, organize, and create global information so you can make the right decisions at the right time unleashing your creative and innovative potential. (Hiring)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/uzabase_com"
     } ,
   
@@ -516,6 +589,7 @@
       "title"       : "PayPay Corp.",
       "description" : "PayPay provides a mobile, cashless payment service. They introduced new policy of Work From Anywhere at Anytime (WFA),  a new way of working, which allows working from anywhere in Japan at any time, as long as the environment enables maintaining a high performance.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/paypay_ne_jp"
     } ,
   
@@ -523,6 +597,7 @@
       "title"       : "Fuller, Inc.",
       "description" : "Industry leaders in mobile market data and insights. Fuller, Inc. provides App Development Service and Mobile App Analytics Service",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/fuller-inc_com"
     } ,
   
@@ -530,6 +605,7 @@
       "title"       : "Yahoo Japan Corporation",
       "description" : "Development and management of Yahoo!Japan and related services, including Yahoo!Shopping, Yahoo!Auctions. From Oct. 2020, unlimited remote working has begun.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/yahoo_co_jp"
     } ,
   
@@ -537,6 +613,7 @@
       "title"       : "Retty Inc.",
       "description" : "Development and management of the gourmet service Retty. Currently we allow 3 remote work days per week.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/retty_me"
     } ,
   
@@ -544,6 +621,7 @@
       "title"       : "bitbank, inc.",
       "description" : "bitbank, inc. harbors the vision, “enhancing value exchange with bitcoin technology”. We operate services related to crypto assets and its practical technology, remarkably crypto asset exchange “bitbank.cc”. You can check some of our members’ interview articles from note. (We are hiring!)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/bitcoinbank_co_jp"
     } ,
   
@@ -551,6 +629,7 @@
       "title"       : "Pecopla Co., Ltd.",
       "description" : "Pecopla has been improving a remote work environment since its establishment in 2013. As of 2020, all employees and staff are living in various parts of Japan and working full-remotely, doing SEO measures and web production business.(Hiring)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/pecopla_net"
     } ,
   
@@ -558,6 +637,7 @@
       "title"       : "vivid garden, Inc.",
       "description" : "A startup that provides “TABE CHOKU”, a service that allows producers who grow ganic crops to send their favorite crops by “farmers direct delivery”.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/vivid-garden_co_jp"
     } ,
   
@@ -565,6 +645,7 @@
       "title"       : "Belong Inc.",
       "description" : "Belong Inc. provides the ecosystem of used mobile devices such as EC site, Buy-back Trade-in, Subscription, and Insurance. Hiring Page",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/belong_co_jp"
     } ,
   
@@ -572,6 +653,7 @@
       "title"       : "YUMEMI Inc.",
       "description" : "Contract development, production and consulting mainly for mobile services, digital marketing support with a focus on omni-channel, smartphone application development (iOS, Android), digital media content management and in-house service management.RECRUIT",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/yumemi_co_jp"
     } ,
   
@@ -579,6 +661,7 @@
       "title"       : "Money Forward, Inc.",
       "description" : "Money Forward is a fintech company, providing PFM (personal financial management) service “Money Forward ME” and SaaS software “Money Forward Cloud”. Since its launch in 2012, we aim to solve money-related issues of all individuals and businesses through building an open and fair financial platform and providing essential services. Money Forward was listed on Tokyo Stock Exchange, Mothers in September 2017.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/moneyforward_com"
     } ,
   
@@ -586,6 +669,7 @@
       "title"       : "Kaizen Platform, Inc.",
       "description" : "We provide “Kaizen Platform” to KAIZEN the UI of web services and “Kaizen Ad” to KAIZEN video advertising. With these services, we support  Digital Transformation (DX) of the society.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/kaizenplatform_com"
     } ,
   
@@ -593,6 +677,7 @@
       "title"       : "CADDi, inc.",
       "description" : "CADDi is a manufacturing platform that utilizes an original cost estimation algorithm to optimally matches buyers and suppliers based on quality, cost, and delivery time. More information on CADDi’s software engineering team available here.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/caddi_jp"
     } ,
   
@@ -600,6 +685,7 @@
       "title"       : "Lang-8, Inc.",
       "description" : "We run HiNative, the global Q&amp;amp;A language learning platform built on the vision that native speakers all around the world should share their knowledge and experience with each other. We’re powered by an international team, and we’re hiring.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/lang-8_jp"
     } ,
   
@@ -607,6 +693,7 @@
       "title"       : "SmartHR",
       "description" : "SmartHR was founded on Jan. 23, 2013 and we launched our eponymous service in November of 2015.  SmartHR is an HR/Labor SaaS that allows companies to completely digitzalize onboarding paperwork, tax forms, and other labor procedures that have traditionally been all done on paper.  By integrating our service with the e-Gov API offered by the Ministry of Internal Affairs and Communications, companies can submit their paperwork entirely online to government offices.  As a result, management, HR personnel, and employees are liberated from doing time-consuming and difficult paperwork.  In 2018, SmartHR was selected as one of the companies for the J-Startup program, sponsored by the Ministry of Economy, Trade and Industry which aims to create unicorn companies out of Japan.  In 2019, we established our first branch office in the Kansai region of Japan.(Hiring)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/smarthr_co_jp"
     } ,
   
@@ -614,6 +701,7 @@
       "title"       : "GAOGAO Pte. Ltd.",
       "description" : "GAOGAO is a start-up studio, a professional platform for “startup engineers” based in Southeast Asia and Japan. We have 40+ software engineers with entrepreneurship to support your new business. (Hiring)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/gaogao_asia"
     } ,
   
@@ -621,6 +709,7 @@
       "title"       : "Mercari, Inc.",
       "description" : "Mercari, Japan’s C2C marketplace app allowing anyone to easily buy and sell using their smartphones. Our mission is to create value in a global marketplace where anyone can buy &amp;amp; sell.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/mercari_com"
     } ,
   
@@ -628,6 +717,7 @@
       "title"       : "ZAICO Inc.",
       "description" : "Our mission is by collecting, arranging, and providing information about things around the world to improve the efficiency of society. We are developing and operating cloud inventory management software “ZAICO”. All employees work fully remotely and can work with the freedom to make decisions on my own.(Hiring)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/zaico_co_jp"
     } ,
   
@@ -635,6 +725,7 @@
       "title"       : "SO Technologies",
       "description" : "Spread the earning power every corner of this country. We are promoting product development with the mission of regional revitalization.  With the discretionary work system, full remote work is possible. A remote work allowance will also be provided.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/so-tech_co_jp"
     } ,
   
@@ -642,6 +733,7 @@
       "title"       : "Akatsuki Inc.",
       "description" : "Akatsuki Inc. is a game company in Meguro. Remote-work was introduced under the influence of the COVID-19.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/aktsk_jp"
     } ,
   
@@ -649,6 +741,7 @@
       "title"       : "Fundbook",
       "description" : "Fundbook is a next-generation M&amp;amp;A matching service that revolutionizes the current M&amp;amp;A’s market. Fundbook helps investors to find the best deals and company owners find successors with matching corporate philosophy. Email us to apply",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/fundbook_co_jp"
     } ,
   
@@ -656,6 +749,7 @@
       "title"       : "Medmain",
       "description" : "Medmain is a medical technology startup founded in January 2018, specifically in telepathology and AI-driven pathological image diagnosis.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/medmain_com"
     } ,
   
@@ -663,6 +757,7 @@
       "title"       : "Anti-Pattern Inc.",
       "description" : "We are a group of engineers for engineers striving towards our mission of “Bringing Japanese software engineering to the next aspirational occupation”. Press",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/anti-pattern_co_jp"
     } ,
   
@@ -670,6 +765,7 @@
       "title"       : "bellFace Inc.",
       "description" : "Developing [bellFace], a web video conferencing system specialized for inside sales. Free working styles are possible with the remote work system and the flex system. (Hiring)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/bell-face_com"
     } ,
   
@@ -677,6 +773,7 @@
       "title"       : "Serverworks Co., Ltd.",
       "description" : "We are a Cloud integrator, who provides integration businesses and services specialized for AWS (Amazon Web Services)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/serverworks_co_jp"
     } ,
   
@@ -684,6 +781,7 @@
       "title"       : "BizteX, Inc.",
       "description" : "Developing BizteX cobit and BizteX mikke.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/biztex_co_jp"
     } ,
   
@@ -691,6 +789,7 @@
       "title"       : "bosyu",
       "description" : "Developing bosyu. bosyu is the simplest place to make “something you are good at” as your work.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/bosyu_me"
     } ,
   
@@ -698,6 +797,7 @@
       "title"       : "LINE Corp.",
       "description" : "Developing LINE and some applications. In some development department, possible remote working one day per one month. Hiring now",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/linecorp_com"
     } ,
   
@@ -705,6 +805,7 @@
       "title"       : "overflow, inc.",
       "description" : "Developing “Offers”, a job matching platform specialized in the hiring of engineers and designers wishing to switch jobs or to find a side job. (Currently hiring)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/overflow_co_jp"
     } ,
   
@@ -712,6 +813,7 @@
       "title"       : "Chatwork",
       "description" : "Developing『Chatwork』, a cloud tool for business chat.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/chatwork_com"
     } ,
   
@@ -719,6 +821,7 @@
       "title"       : "nohana, inc.",
       "description" : "We develop a photo book application service Nohana. We implement a remote work system once a week.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/nohana_co_jp"
     } ,
   
@@ -726,6 +829,7 @@
       "title"       : "Mazrica Inc.",
       "description" : "We develop and provide AI-based sales support tool Senses. There is a full remote and full flex system from with the intent of “Get results in the most productive places and times”.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/mazrica_com"
     } ,
   
@@ -733,6 +837,7 @@
       "title"       : "CrowdWorks Inc.",
       "description" : "Developing “CrowdWorks”, Japan’s largest crowd sourcing service. (Hiring)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/crowdworks_co_jp"
     } ,
   
@@ -740,6 +845,7 @@
       "title"       : "Misoca Inc.",
       "description" : "Developing Misoca, a cloud invoicing service.Hiring now",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/misoca_jp"
     } ,
   
@@ -747,6 +853,7 @@
       "title"       : "Data Vehicle Inc.",
       "description" : "We develop and provide data analysis services with the mission of “Data Science for All”. Development engineers can be fully remote work. The side job and part-time are all right. Please add a word that “remote-in-japan” when applying. (Hiring)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/dtvcl_com"
     } ,
   
@@ -754,6 +861,7 @@
       "title"       : "Syoya, Inc.",
       "description" : "Developing 「Wakka」, a social networking service.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/syoya_com"
     } ,
   
@@ -761,6 +869,7 @@
       "title"       : "Agileware Inc.",
       "description" : "We are Ruby specialists developing Project Management solutions in a stress-free and flexible environment (possible to work remotely, full-flex, MacBook Pro is provided, our office has wide sub-displays, comfortable chairs as well as height-adjustable desks)(Hiring now)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/agileware_jp"
     } ,
   
@@ -768,6 +877,7 @@
       "title"       : "Quipper Limited",
       "description" : "Development and management of learning platform for elementary, junior high, and high school students and adults. Providing online homework/assignment management service for teachers, and learning contents and tests for students all over the world. Development and operation of online learning service.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/quipper_com"
     } ,
   
@@ -775,6 +885,7 @@
       "title"       : "Xoxzo Inc.",
       "description" : "Develops and runs Xoxzo Cloud Telephony Platform, a HTTP API only telephony platform connecting the telephone with web developers. Fully remote, with team members from Ufa in Russia to Tokyo working from 10 different cities and 7 different nationalities.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/xoxzo_com"
     } ,
   
@@ -782,6 +893,7 @@
       "title"       : "Spinetta Inc.",
       "description" : "We provide Software Development and Digital Marketing Services in Fukuoka.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/spinetta_tech"
     } ,
   
@@ -789,6 +901,7 @@
       "title"       : "Grooves Inc.",
       "description" : "We develop numerous Ruby on Rails applications to make the world easy to connect job seekers and employer.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/grooves_com_my"
     } ,
   
@@ -796,6 +909,7 @@
       "title"       : "Source Tokyo",
       "description" : "Product design studio, UI &amp;amp; UX design and web development.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/source_paris"
     } ,
   
@@ -803,6 +917,7 @@
       "title"       : "Sider, Inc.",
       "description" : "Developing SideCI, an Automated Code Review Tool.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/sider_review"
     } ,
   
@@ -810,6 +925,7 @@
       "title"       : "Tokyo Otaku Mode Inc.",
       "description" : "Developing Tokyo Otaku Mode to share Japanese otaku culture with the rest of the world. All teams are allowed the option of working fully remote.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/otakumode_com"
     } ,
   
@@ -817,6 +933,7 @@
       "title"       : "Takeyu Web Inc.",
       "description" : "You can not only work fully remote with full flextime, but have free choice of days off, and short work hours. A web consulting company that strives to create environments where you have freedom.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/takeyuweb_co_jp"
     } ,
   
@@ -824,6 +941,7 @@
       "title"       : "Rainforest QA",
       "description" : "Rainforest QA is an on-demand QA solution. Our commitment to the distributed team model and to our company values has earned us multiple culture and workplace awards and helped us build a diverse team of individuals working toward the same goal: change the way QA is done. (Hiring now)",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/rainforestqa_com"
     } ,
   
@@ -831,6 +949,7 @@
       "title"       : "Quartet Communications Co.,Ltd.",
       "description" : "Advertising agency specializing in operational advertisement like listing ads. And also developing “Lisket” which is a SaaS for advertisers. In development division, some staffs are working remotely. (Hiring now)",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/quartetcom_co_jp"
     } ,
   
@@ -838,6 +957,7 @@
       "title"       : "co-meeting",
       "description" : "Developing Crowy, BBS site co-meeting and Salesforce apps. Staff can choose how they work, timezone and day of the week.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/co-meeting_co_jp"
     } ,
   
@@ -845,6 +965,7 @@
       "title"       : "BrainPad Inc.",
       "description" : "Bring innovation with data analytics. BrainPad is an innovative company with leading expertise in analytics.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/brainpad_co_jp"
     } ,
   
@@ -852,6 +973,7 @@
       "title"       : "SAKURA Internet Inc.",
       "description" : "Offering high quality internet services based on our data centers like housing, hosting, IoT platform.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/sakura_ad_jp"
     } ,
   
@@ -859,6 +981,7 @@
       "title"       : "CircleCI",
       "description" : "CircleCI provides CI/CD service for developers, allowing teams to rapidly build quality projects, at scale. Our mission is to give people everywhere the power to build and deliver software at the speed of imagination. We’re hiring!",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/circleci_com"
     } ,
   
@@ -866,6 +989,7 @@
       "title"       : "SpringBoard Inc.",
       "description" : "iPhone / Android smart phone · tablet application development, social application development, web service development etc. Also deployment of smartphone applications and Web services under their own brands.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/springboard_co_jp"
     } ,
   
@@ -873,6 +997,7 @@
       "title"       : "Buffer",
       "description" : "We make people’s lives easier on social media. You will work in the place that makes you happy, that inspires you daily, and helps you to become the person that you wish to be. We’re spreaded in 15 countries, 11 timezones and 42 cities.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/buffer_com"
     } ,
   
@@ -880,6 +1005,7 @@
       "title"       : "BePROUD",
       "description" : "Develops connpass &amp;amp; PyQ. Web Development and technical consulting. English Careers Page",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/beproud_jp"
     } ,
   
@@ -887,6 +1013,7 @@
       "title"       : "Aqutras Inc.",
       "description" : "Our company mainly engaged in entrusted development of web systems and games. BeeCon is one of our product for security learning. It’s not only remote working but also work hours or holidays are almost free. A small group of elite.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/aqutras_com"
     } ,
   
@@ -894,6 +1021,7 @@
       "title"       : "Popinsight, Inc.",
       "description" : "Developing Usertest Express and other remote UI/UX testing solutions. Members work remotely from Tokyo, Sapporo, Hiroshima, Shanghai, and more!",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/popinsight_jp"
     } ,
   
@@ -901,6 +1029,7 @@
       "title"       : "codeTakt",
       "description" : "Developing and providing a learning management system “schoolTakt”. Members from Tokyo area, Osaka, Okinawa, Berlin and etc. work remotely.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/codetakt_com"
     } ,
   
@@ -908,6 +1037,7 @@
       "title"       : "Mobalab, KK",
       "description" : "Developing Commet, a search engine for GitHub, Slack, and other developer tools, as well as website development for SMEs. Full remote.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/mystrikingly_com"
     } ,
   
@@ -915,6 +1045,7 @@
       "title"       : "PixelGrid Inc.",
       "description" : "Producing website and apps with JavaScript. Development and management of front-end information delivery service CodeGrid .",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/pxgrid_com"
     } ,
   
@@ -922,6 +1053,7 @@
       "title"       : "Players1st",
       "description" : "「By power of sports, making the world a better place」Developing a sports web service, chargeable PR and reporting their activities.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/players1_st"
     } ,
   
@@ -929,6 +1061,7 @@
       "title"       : "Nepula, Inc.",
       "description" : "Developing “LogiNebula” the Warehouse Management as a Service. We have over 100 customers in worldwide.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/nepula_net"
     } ,
   
@@ -936,6 +1069,7 @@
       "title"       : "Repro",
       "description" : "Developing a marketing automation tool for mobile app",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/repro_io"
     } ,
   
@@ -943,6 +1077,7 @@
       "title"       : "IzumoBASE, Inc.",
       "description" : "Developing Software-Defined Storage(SDS). Possible partial remote working.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/izumobase_com"
     } ,
   
@@ -950,6 +1085,7 @@
       "title"       : "Increments",
       "description" : "Website planning, development and management. For example, Qiita The website for programmers.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/increments_co_jp"
     } ,
   
@@ -957,6 +1093,7 @@
       "title"       : "Ruffnote inc.",
       "description" : "Developing a time Sharing Service for Remote workers TimeCrowd",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/ruffnote_com"
     } ,
   
@@ -964,6 +1101,7 @@
       "title"       : "Sonic Garden",
       "description" : "Web Development and technical consulting. Developing「SKIP」",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/sonicgarden_jp"
     } ,
   
@@ -971,6 +1109,7 @@
       "title"       : "WM &amp; Creators, Inc.",
       "description" : "Full-service web design/development, graphic design, and branding agency. Managing web media “anywher” for remote workers.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/wm-creators_com"
     } ,
   
@@ -978,6 +1117,7 @@
       "title"       : "IMPATH Inc.",
       "description" : "Designing/Improving UI, Developing Mobile/Web Apps and introducing UX design into companies",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/impath_co_jp"
     } ,
   
@@ -985,6 +1125,7 @@
       "title"       : "Recruit Marketing Partners",
       "description" : "Developing Sapuri collection which are online learning services.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/recruit-mp_co_jp"
     } ,
   
@@ -992,6 +1133,7 @@
       "title"       : "Eiwa System Management, Inc.",
       "description" : "Agile entrusted development using Ruby. Development and management for chat service idobata.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/esm_co_jp"
     } ,
   
@@ -999,6 +1141,7 @@
       "title"       : "Ahunrupar",
       "description" : "developing Web・iOS. Based in Hokkaido,Tokyo,Kanagawa,kagawa. we are trying Agriculture, Food and drink shop, and more.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/ahunrupar_co"
     } ,
   
@@ -1006,6 +1149,7 @@
       "title"       : "actindi",
       "description" : "Developing 子どもとお出かけ情報サイト「いこーよ」",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/actindi_net"
     } ,
   
@@ -1013,6 +1157,7 @@
       "title"       : "Unicon",
       "description" : "Developing RockU Talk",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/unicon-ltd_com"
     } ,
   
@@ -1020,6 +1165,7 @@
       "title"       : "Ubiregi Inc.",
       "description" : "Developing an iPad-based POS registration system.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/ubiregi_com"
     } ,
   
@@ -1027,6 +1173,7 @@
       "title"       : "Somewrite",
       "description" : "Total support services and owned media and native commercial network development and administration.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/somewrite_com"
     } ,
   
@@ -1034,6 +1181,7 @@
       "title"       : "Pacific Porter",
       "description" : "Developing「かんざし」, Reservation and Customer Manager System for Beauty Salon.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/pacificporter_jp"
     } ,
   
@@ -1041,6 +1189,7 @@
       "title"       : "MMM",
       "description" : "Design and Implementation support of AWS services, website design and development.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/mmmcorp_co_jp"
     } ,
   
@@ -1048,6 +1197,7 @@
       "title"       : "Kanamei",
       "description" : "Website planning, development and management. Mobile content focus.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/kanamei_co_jp"
     } ,
   
@@ -1055,6 +1205,7 @@
       "title"       : "HeartRails Inc.",
       "description" : "Planning and development of web services and smartphone apps for new business.",
       "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/heartrails_com"
     } ,
   
@@ -1062,6 +1213,7 @@
       "title"       : "Degica",
       "description" : "Ruby/Rails based account settlement and EC system development.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/degica_com"
     } ,
   
@@ -1069,6 +1221,7 @@
       "title"       : "Sansan",
       "description" : "Developing「Sansan」「Eight」for business card management. Providing a satellite office「Sansan 神山ラボ」 to support remote staff.",
       "categories"  : "en",
+      "full_remote" : "",
       "url"         : "/en/corp-sansan_com"
     } 
   
