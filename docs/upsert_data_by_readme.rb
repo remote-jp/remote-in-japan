@@ -47,10 +47,10 @@ readme.each.with_index(1) do |line, index|
   name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
   name   = name_and_link.children[0].value.strip
   link   = name_and_link.attr['href']
-  domain = PublicSuffix.domain(link.split('/')[2])
 
-  # ID needs to be unique. So `PublicSuffix.parse(domain).sld` does not work.
-  # https://github.com/weppos/publicsuffix-ruby#usage
+  # ID needs to be unique. So this needs top-level domain.
+  # NOTE: Some dot-included URLs behave as download when clicked.
+  domain = PublicSuffix.domain(link.split('/')[2])
   id     = domain.gsub('.', '_')
 
   # The following`id` has been replaced with the `domain` above.
