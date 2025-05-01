@@ -208,7 +208,7 @@
        searchInput:          document.getElementById('search-input'),
        resultsContainer:     document.getElementById('search-results'),
        json:                 searchTarget,
-       limit:                30,
+       limit:                50,
 
        searchResultTemplate: '<li class="search-result-item"><a href="{url}">{title}</a> <small><a href="{url}" class="description-link">{description} {full_remote}</a></small></li>',
        noResultsText:        '&nbsp;&nbsp; No search results.',
@@ -216,17 +216,19 @@
 
        // descriptionを100文字にtruncate. 100文字以下ならundefinedを返す（何も変えない）
        templateMiddleware: function(prop, value, template) {
-	 if (typeof value === 'string') {
-	   const query = document.getElementById('search-input').value.trim();
+	 const query = document.getElementById('search-input').value.trim();
+
+	 // description にヒットしたら前後１００文字を表示
+	 if (prop === 'description' && typeof value === 'string') {
 	   if (query) {
 	     const regex       = new RegExp(escapeRegExp(query), 'i'); // case-insensitive
 	     const matchResult = regex.exec(value); // ← これでマッチと位置取得
 	     
 	     if (matchResult) {
-               const matchIndex  = matchResult.index;
-               const matchLength = matchResult[0].length;
-               
+               const matchIndex    = matchResult.index;
+               const matchLength   = matchResult[0].length;
                const desiredLength = 100; // だいたい100文字ぐらい見せたい
+
                let start = Math.max(0, matchIndex - Math.floor(desiredLength / 2));
                let end   = start + desiredLength;
                
@@ -243,23 +245,24 @@
                sliced = sliced.replace(highlightRegex, '<mark>$&</mark>');
 
                // 切り出した時に「...」をつける
-               if (start > 0) {
-		 sliced = '...' + sliced;
-               }
-               if (end < value.length) {
-		 sliced = sliced + '...';
-               }
+               if (start > 0)          sliced = '...' + sliced;
+               if (end < value.length) sliced = sliced + '...';
 
-               value = sliced;
+               return sliced;
 	     }
 	   }
-	 }
-	 
-	 if (prop === 'description' && typeof value === 'string') {
-	   // 長かったらカット（タグ込み）
-	   if (value.length > 300) {
-	     return value.substring(0, 300) + '...';
+
+	   // ヒットしてない場合（full_remote タグにヒットしたら場合など）は最初の１００文字を表示
+	   if (value.length > 100) {
+	     return value.substring(0, 100) + '...';
+	   } else {
+	     return value;
 	   }
+	 }
+
+	 // full_remote タグにヒットした場合もハイライトする
+	 if (prop === 'full_remote' && typeof value === 'string') {
+	   return value.replace(new RegExp(escapeRegExp(query), 'gi'), '<mark>$&</mark>');
 	 }
 	 
 	 return value;
