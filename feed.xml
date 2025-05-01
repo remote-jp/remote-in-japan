@@ -5,9 +5,24 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 May 2025 14:52:28 +0900</pubDate>
-    <lastBuildDate>Thu, 01 May 2025 14:52:28 +0900</lastBuildDate>
+    <pubDate>Thu, 01 May 2025 14:54:48 +0900</pubDate>
+    <lastBuildDate>Thu, 01 May 2025 14:54:48 +0900</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>エースチャイルド株式会社</title>
+        <description>&lt;p&gt;ITのチカラで、子どもの未来を明るく。&lt;br /&gt;&lt;br /&gt;エースチャイルドは、子ども達を守るために、子ども達が安心安全に育つことができる社会を実現するために、ITのチカラで明るい未来を作る会社です。&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.as-child.com/recruit/&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 May 2025 14:08:06 +0900</pubDate>
+        <link>https://remotework.jp/ja/as-child_com</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/as-child_com</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>YassLab 株式会社</title>
@@ -139,19 +154,6 @@
         
         
         <category>ja</category>
-        
-      </item>
-    
-      <item>
-        <title>Fenrir Inc.</title>
-        <description>&lt;p&gt;Your smartphone app might be made by Fenrir.&lt;br /&gt;We specialize in innovative design and technology, boasting over 600 beloved apps developed for more than 400 satisfied companies.&lt;br /&gt;&lt;a href=&quot;https://recruit.fenrir-inc.com/&quot;&gt;Requirements&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Feb 2025 09:52:25 +0900</pubDate>
-        <link>https://remotework.jp/en/fenrir-inc_com</link>
-        <guid isPermaLink="true">https://remotework.jp/en/fenrir-inc_com</guid>
-        
-        
-        <category>en</category>
         
       </item>
     
