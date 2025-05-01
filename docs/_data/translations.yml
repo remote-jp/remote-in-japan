@@ -20,8 +20,8 @@ searchPlaceholder:
   en: 'e.g. '
   ja: '検索例: '
 searchNoResults:
-  en: 'No search results.'
-  ja: '検索結果が見つかりませんでした。'
+  en: "&nbsp;&nbsp; No search results."
+  ja: "&nbsp;&nbsp; 検索結果が見つかりませんでした。"
 searchLoading:
   en: 'searching ...'
   ja: '検索中...'
