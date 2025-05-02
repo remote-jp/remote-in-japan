@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-  {% assign posts = site.posts | where: "lang", "en" %}
+  {% assign posts = site.posts | sort: "date" | reverse | where: "lang", "en" %}
   {% for post in posts %}
     {
       "title"       : "{{ post.title | escape }}",
