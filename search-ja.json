@@ -1562,19 +1562,19 @@
     } ,
   
     {
-      "title"       : "MMM",
-      "description" : "AWS 設計・導入支援や、Web サービスの設計・開発などを行う開発会社。社員全員がリモートワーク。",
-      "categories"  : "ja and full_remote",
-      "full_remote" : "<code><small><small>(フルリモート👌)</small></small></code>",
-      "url"         : "/ja/mmmcorp_co_jp"
-    } ,
-  
-    {
       "title"       : "HeartRails Inc.",
       "description" : "新規事業に伴うウェブサービス・スマホアプリ専門の企画開発会社。社員全員がリモートワーク。",
       "categories"  : "ja and full_remote",
       "full_remote" : "<code><small><small>(フルリモート👌)</small></small></code>",
       "url"         : "/ja/heartrails_com"
+    } ,
+  
+    {
+      "title"       : "MMM",
+      "description" : "AWS 設計・導入支援や、Web サービスの設計・開発などを行う開発会社。社員全員がリモートワーク。",
+      "categories"  : "ja and full_remote",
+      "full_remote" : "<code><small><small>(フルリモート👌)</small></small></code>",
+      "url"         : "/ja/mmmcorp_co_jp"
     } ,
   
     {

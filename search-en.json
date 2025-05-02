@@ -458,19 +458,19 @@
     } ,
   
     {
-      "title"       : "NTT Communications",
-      "description" : "NTT Communications has been developing a wide range of businesses from infrastructure such as data centers and submarine cables to software and web services under the philosophy of “Creating communications that open up possibilities for people and the world.” In addition to the introduction of remote work, we also publish a “remote work handbook” to further promote remote work. Click here for employment information.",
-      "categories"  : "en",
-      "full_remote" : "",
-      "url"         : "/en/ntt_com"
-    } ,
-  
-    {
       "title"       : "FORCAS, Inc.",
       "description" : "Development and operation of FORCAS. It is a cloud service that supports ABM practices.",
       "categories"  : "en and full_remote",
       "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/forcas_com"
+    } ,
+  
+    {
+      "title"       : "NTT Communications",
+      "description" : "NTT Communications has been developing a wide range of businesses from infrastructure such as data centers and submarine cables to software and web services under the philosophy of “Creating communications that open up possibilities for people and the world.” In addition to the introduction of remote work, we also publish a “remote work handbook” to further promote remote work. Click here for employment information.",
+      "categories"  : "en",
+      "full_remote" : "",
+      "url"         : "/en/ntt_com"
     } ,
   
     {
@@ -1154,59 +1154,11 @@
     } ,
   
     {
-      "title"       : "Unicon",
-      "description" : "Developing RockU Talk",
+      "title"       : "Sansan",
+      "description" : "Developing「Sansan」「Eight」for business card management. Providing a satellite office「Sansan 神山ラボ」 to support remote staff.",
       "categories"  : "en",
       "full_remote" : "",
-      "url"         : "/en/unicon-ltd_com"
-    } ,
-  
-    {
-      "title"       : "Ubiregi Inc.",
-      "description" : "Developing an iPad-based POS registration system.",
-      "categories"  : "en",
-      "full_remote" : "",
-      "url"         : "/en/ubiregi_com"
-    } ,
-  
-    {
-      "title"       : "Somewrite",
-      "description" : "Total support services and owned media and native commercial network development and administration.",
-      "categories"  : "en",
-      "full_remote" : "",
-      "url"         : "/en/somewrite_com"
-    } ,
-  
-    {
-      "title"       : "Pacific Porter",
-      "description" : "Developing「かんざし」, Reservation and Customer Manager System for Beauty Salon.",
-      "categories"  : "en",
-      "full_remote" : "",
-      "url"         : "/en/pacificporter_jp"
-    } ,
-  
-    {
-      "title"       : "MMM",
-      "description" : "Design and Implementation support of AWS services, website design and development.",
-      "categories"  : "en and full_remote",
-      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
-      "url"         : "/en/mmmcorp_co_jp"
-    } ,
-  
-    {
-      "title"       : "Kanamei",
-      "description" : "Website planning, development and management. Mobile content focus.",
-      "categories"  : "en",
-      "full_remote" : "",
-      "url"         : "/en/kanamei_co_jp"
-    } ,
-  
-    {
-      "title"       : "HeartRails Inc.",
-      "description" : "Planning and development of web services and smartphone apps for new business.",
-      "categories"  : "en and full_remote",
-      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
-      "url"         : "/en/heartrails_com"
+      "url"         : "/en/corp-sansan_com"
     } ,
   
     {
@@ -1218,11 +1170,59 @@
     } ,
   
     {
-      "title"       : "Sansan",
-      "description" : "Developing「Sansan」「Eight」for business card management. Providing a satellite office「Sansan 神山ラボ」 to support remote staff.",
+      "title"       : "HeartRails Inc.",
+      "description" : "Planning and development of web services and smartphone apps for new business.",
+      "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
+      "url"         : "/en/heartrails_com"
+    } ,
+  
+    {
+      "title"       : "Kanamei",
+      "description" : "Website planning, development and management. Mobile content focus.",
       "categories"  : "en",
       "full_remote" : "",
-      "url"         : "/en/corp-sansan_com"
+      "url"         : "/en/kanamei_co_jp"
+    } ,
+  
+    {
+      "title"       : "MMM",
+      "description" : "Design and Implementation support of AWS services, website design and development.",
+      "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
+      "url"         : "/en/mmmcorp_co_jp"
+    } ,
+  
+    {
+      "title"       : "Pacific Porter",
+      "description" : "Developing「かんざし」, Reservation and Customer Manager System for Beauty Salon.",
+      "categories"  : "en",
+      "full_remote" : "",
+      "url"         : "/en/pacificporter_jp"
+    } ,
+  
+    {
+      "title"       : "Somewrite",
+      "description" : "Total support services and owned media and native commercial network development and administration.",
+      "categories"  : "en",
+      "full_remote" : "",
+      "url"         : "/en/somewrite_com"
+    } ,
+  
+    {
+      "title"       : "Ubiregi Inc.",
+      "description" : "Developing an iPad-based POS registration system.",
+      "categories"  : "en",
+      "full_remote" : "",
+      "url"         : "/en/ubiregi_com"
+    } ,
+  
+    {
+      "title"       : "Unicon",
+      "description" : "Developing RockU Talk",
+      "categories"  : "en",
+      "full_remote" : "",
+      "url"         : "/en/unicon-ltd_com"
     } 
   
 ]
