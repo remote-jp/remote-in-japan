@@ -5,9 +5,24 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 May 2025 18:51:54 +0900</pubDate>
-    <lastBuildDate>Tue, 27 May 2025 18:51:54 +0900</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 19:30:17 +0900</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 19:30:17 +0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>株式会社ビートバップ</title>
+        <description>&lt;p&gt;私たちビートバップは「メタバースで世界をワクワクさせる」をミッションに、革新的なソリューションを開発する企業です 。完全フルリモートワーク体制を導入し、メンバー一人ひとりが時間や場所に捉われず、最高のパフォーマンスを発揮できる環境を重視しています。教育機関向け「ネクストデジタルスキルラボ」、法人向けメタバース「BizHubメタ」、イベント開催向け「ビートバップメタバースハイスクール」、人気ゲームプラットフォームFortniteを活用したプロモーション受託開発など、その事業は多岐にわたります 。3DCG、ゲームエンジン、生成AI、Three.js、ReactThreeFiberといった先端技術を駆使し、お客様のニーズを第一に考えた「ビジネス力」で、新たな価値創造と課題解決に貢献しています。&lt;br /&gt;&lt;a href=&quot;https://beatbop.jp/next_digital_skill_lab/&quot;&gt;事業ページ&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jun 2025 15:08:59 +0900</pubDate>
+        <link>https://remotework.jp/ja/beatbop_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/beatbop_jp</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>エースチャイルド株式会社</title>
@@ -141,19 +156,6 @@
         <category>en</category>
         
         <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>フェンリル株式会社</title>
-        <description>&lt;p&gt;スマホに入っているそのアプリ、フェンリルがつくっているかもしれません。&lt;br /&gt;デザインと技術にこだわったプロダクトとサービスの制作を行っています。&lt;br /&gt;制作実績400社600アプリ以上、ユーザーから愛されるアプリをつくりあげています。&lt;br /&gt;&lt;a href=&quot;https://recruit.fenrir-inc.com/&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Feb 2025 09:52:25 +0900</pubDate>
-        <link>https://remotework.jp/ja/fenrir-inc_com</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/fenrir-inc_com</guid>
-        
-        
-        <category>ja</category>
         
       </item>
     
