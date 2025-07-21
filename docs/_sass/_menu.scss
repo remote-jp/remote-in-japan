@@ -33,3 +33,52 @@
     }
   }
 }
+
+// Language dropdown styles
+.language-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.language-dropdown-btn {
+  background: none;
+  border: none;
+  color: var(--color-title);
+  cursor: pointer;
+  padding: 5px 10px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  transition: 0.3s;
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+}
+
+.language-dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: var(--color-theme-lighter);
+  min-width: 120px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 4px;
+
+  a {
+    color: var(--color-title);
+    padding: 8px 12px;
+    text-decoration: none;
+    display: block;
+    transition: 0.3s;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+  }
+}
+
+.language-dropdown:hover .language-dropdown-content {
+  display: block;
+}

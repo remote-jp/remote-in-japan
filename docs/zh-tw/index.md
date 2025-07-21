@@ -1,7 +1,8 @@
 ---
 layout: default
-lang: en
+lang: zh-tw
 ---
+
 <div class="bg-header">
   {% include header.html %}
 </div>
@@ -11,4 +12,3 @@ lang: en
     {% include posts.html %}
   </div>
 </div>
-

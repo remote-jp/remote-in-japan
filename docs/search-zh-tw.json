@@ -1,0 +1,15 @@
+---
+layout: null
+---
+[
+  {% assign posts = site.posts | sort: "date" | reverse | where: "lang", "zh-tw" %}
+  {% for post in posts %}
+    {
+      "title"       : "{{ post.title | escape }}",
+      "description" : "{{ post.description | escape }}",
+      "categories"  : "{{ post.categories | array_to_sentence_string }}",
+      "full_remote" : {% if post.categories contains 'full_remote' %}"<code><small><small>(全遠端👌)</small></small></code>"{% else %}""{% endif %},
+      "url"         : "{{ post.permalink }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

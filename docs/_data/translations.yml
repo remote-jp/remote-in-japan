@@ -67,3 +67,4 @@ back:
 poweredBy:
   en: '<a href="https://www.ruby-lang.org/en/">Ruby</a>'
   ja: '<a href="https://www.ruby-lang.org/ja/">Ruby</a>'
+  zh-tw: '<a href="https://www.ruby-lang.org/">Ruby</a>'
