@@ -1,54 +1,68 @@
 menuSwitcher:
-  en: 'ja'
-  ja: 'en'
+  en: "ja"
+  ja: "zh-tw"
+  zh-tw: "en"
 menuSwitcherLabel:
-  en: '日本語'
-  ja: 'English'
+  en: "日本語"
+  ja: "繁體中文"
+  zh-tw: "English"
 
 linkToGitHub:
-  en: 'https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md'
-  ja: 'https://github.com/remote-jp/remote-in-japan/blob/main/README.md'
+  en: "https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md"
+  ja: "https://github.com/remote-jp/remote-in-japan/blob/main/README.md"
+  zh-tw: "https://github.com/remote-jp/remote-in-japan/blob/main/README.zh-tw.md"
 viewOnGitHub:
   en: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md">GitHub</a>'
   ja: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.md">GitHub</a>'
+  zh-tw: '<a href="https://github.com/remote-jp/remote-in-japan/blob/main/README.zh-tw.md">GitHub</a>'
 
 titleDescription:
-  en: 'Tech companies in Japan that hire remote workers.'
-  ja: 'Tech companies in Japan that hire remote workers.'
+  en: "Tech companies in Japan that hire remote workers."
+  ja: "Tech companies in Japan that hire remote workers."
+  zh-tw: "在日本僱用遠端工作者的科技公司。"
 
 searchPlaceholder:
-  en: 'e.g. '
-  ja: '検索例: '
+  en: "e.g. "
+  ja: "検索例: "
+  zh-tw: "搜尋範例: "
 searchNoResults:
   en: "&nbsp;&nbsp; No search results."
   ja: "&nbsp;&nbsp; 検索結果が見つかりませんでした。"
+  zh-tw: "&nbsp;&nbsp; 沒有搜尋結果。"
 searchLoading:
-  en: 'searching ...'
-  ja: '検索中...'
+  en: "searching ..."
+  ja: "検索中..."
+  zh-tw: "搜尋中..."
 
 postTagFullRemote:
-  en: 'Fully remote 👌'
-  ja: 'フルリモート 👌'
+  en: "Fully remote 👌"
+  ja: "フルリモート 👌"
+  zh-tw: "全遠端 👌"
 
 postTagJaRequired:
-  en: 'Japanese required'
-  ja: '日本語が必要'
+  en: "Japanese required"
+  ja: "日本語が必要"
+  zh-tw: "需要日語"
 
 postUpdatedBy:
-  en: 'Updated'
-  ja: '更新日'
+  en: "Updated"
+  ja: "更新日"
+  zh-tw: "更新日期"
 
 link:
-  en: 'Link'
-  ja: 'リンク'
+  en: "Link"
+  ja: "リンク"
+  zh-tw: "連結"
 
 share:
-  en: 'Share'
-  ja: 'シェア'
+  en: "Share"
+  ja: "シェア"
+  zh-tw: "分享"
 
 back:
-  en: 'Back to index'
-  ja: '目次に戻る'
+  en: "Back to index"
+  ja: "目次に戻る"
+  zh-tw: "返回目錄"
 
 poweredBy:
   en: '<a href="https://www.ruby-lang.org/en/">Ruby</a>'
