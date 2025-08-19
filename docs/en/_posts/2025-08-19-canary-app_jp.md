@@ -1,11 +1,11 @@
 ---
 layout: post
 lang: en
-permalink: /en/canary-inc_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/c185e33e0f72b50d97c33be51e8125f2401c9c19
-date:       2025-06-30 16:00:16 +0900
-link:       https://canary-inc.co.jp/
-domain:     canary-inc.co.jp
+permalink: /en/canary-app_jp
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/dcde60a2371c4805ba1b35f461c99c32c3f34a66
+date:       2025-08-19 13:34:16 +0900
+link:       https://corp.canary-app.jp/
+domain:     canary-app.jp
 title:      Canary, Inc.
 description: 'We are a startup company with the mission of “Creating Better Standards,” operating in the real estate DX sector.  We have established capital and business alliances with major domestic companies such as Yamada Holdings and Credit Saison, and our brand recognition has been growing through nationwide TV commercials for “CANARY”. With approximately 120 employees, our organization is in a growth phase aiming for an IPO.  To establish a structural advantage as a platform in the real estate tech sector, we operate two main services:    【BtoC】Real Estate Marketplace “CANARY”      Over 5 million downloads, rated 4.8★ (No.1 in category on App Store)      【BtoB】Real Estate Agent-Focused SaaS “CANARY Cloud”      Over 2 million cumulative users, growing with adoption by major industry players      We are developing and operating services on both B2C and B2B fronts, with multiple new products under development.  Our tech stack includes Go, Next.js, React Native, and GCP, with an development organization structure inspired by Team Topologies. We often receive praise for having “a modern and robust development environment unusual for a startup.”  We actively utilize AI in development, with access to GitHub Copilot, Cursor, and Devin. As of June 2025, we are also testing Claude Code. (Additionally, all employees have access to the paid version of Gemini.)  ※Development team members (engineers, designers, etc.) are eligible for full remote work!   Engineer Entrance Book'
 categories: 
