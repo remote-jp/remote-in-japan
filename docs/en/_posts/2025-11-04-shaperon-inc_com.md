@@ -1,0 +1,17 @@
+---
+layout: post
+lang: en
+permalink: /en/shaperon-inc_com
+commit_url: https://github.com/remote-jp/remote-in-japan/commit/cec575a0a0ecd9cb7a6ce82e49da57d9617b3310
+date:       2025-11-04 14:46:35 +0900
+link:       https://shaperon-inc.com/
+domain:     shaperon-inc.com
+title:      Shaperon, Inc.
+description: 'We are a startup dedicated to providing specialized solutions for the pharmaceutical industry, driven by our mission to “solve problems in regulated industries.”  We develop and offer products centered on two main pillars: enterprise SaaS and AI solutions. Our goal is to address the complex challenges unique to the pharmaceutical sector, such as specific legal regulations and compliance requirements. We are driving technological transformation in a field where accuracy and reliability are paramount.  ◼️Main Products &amp; Services    SaaS (Shaperon Email): A communication service that enables effective 1-to-1 communication with healthcare professionals while adhering to the strict compliance standards of the pharmaceutical industry.  AI Solutions (Monitoring AI / Review AI): We provide solutions such as AI-powered monitoring of sales communications and automated AI review of promotional materials.   ◼️Tech Stack &amp; Development Environment Our SaaS uses React (TypeScript) and Flask (Python), with its infrastructure running on AWS ECS managed via CDK (IaC). Our AI solutions flexibly utilize Python, Streamlit, AWS, and Google Colab. Developers are also free to choose AI coding assistance tools such as GitHub Copilot, Cursor, Claude Code, and Codex.  ◼️Related Links Recruitment Info / Engineer Entrance Book / note'
+categories: full_remote
+redirect_from:
+  - /en/shaperon_inc
+  - /en/shaperon
+---
+
+<p>We are a startup dedicated to providing specialized solutions for the pharmaceutical industry, driven by our mission to “solve problems in regulated industries.”<br /><br />We develop and offer products centered on two main pillars: enterprise SaaS and AI solutions. Our goal is to address the complex challenges unique to the pharmaceutical sector, such as specific legal regulations and compliance requirements. We are driving technological transformation in a field where accuracy and reliability are paramount.<br /><br />◼️Main Products & Services<br /><ul><li>SaaS (<a href="https://product.shaperon-inc.com/">Shaperon Email</a>): A communication service that enables effective 1-to-1 communication with healthcare professionals while adhering to the strict compliance standards of the pharmaceutical industry.</li><li>AI Solutions (<a href="https://ai-monitoring.shaperon-inc.com/">Monitoring AI</a> / Review AI): We provide solutions such as AI-powered monitoring of sales communications and automated AI review of promotional materials.</li></ul><br />◼️Tech Stack & Development Environment<br />Our SaaS uses React (TypeScript) and Flask (Python), with its infrastructure running on AWS ECS managed via CDK (IaC). Our AI solutions flexibly utilize Python, Streamlit, AWS, and Google Colab. Developers are also free to choose AI coding assistance tools such as GitHub Copilot, Cursor, Claude Code, and Codex.<br /><br />◼️Related Links<br /><a href="https://shaperon.notion.site/Shaperon-Entrance-Book-7299fdd0c74e44b9a125c83376286b09">Recruitment Info</a> / <a href="https://shaperon.notion.site/Engineer-Entrance-Book-59977135145f42c09f6fb19e8a3fc83e">Engineer Entrance Book</a> / <a href="https://note.shaperon-inc.com/">note</a></p>
