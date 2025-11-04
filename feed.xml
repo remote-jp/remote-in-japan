@@ -5,9 +5,39 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Aug 2025 14:38:32 +0900</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 14:38:32 +0900</lastBuildDate>
+    <pubDate>Tue, 04 Nov 2025 15:21:49 +0900</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2025 15:21:49 +0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>株式会社シャペロン</title>
+        <description>&lt;p&gt;私たちは「規制産業が抱える問題を解決する」というミッションのもと、製薬業界に特化したソリューションを提供するスタートアップです。&lt;br /&gt;&lt;br /&gt;製薬業界特有の法規制やコンプライアンスといった複雑な課題を解決するため、業務システム型SaaSとAIソリューションの両軸でプロダクトを開発・提供しています。正確さと信頼性が求められる領域で、テクノロジーによる変革を推進しています。&lt;br /&gt;&lt;br /&gt;◼️主なプロダクト・サービス&lt;br /&gt;&lt;ul&gt;&lt;li&gt;SaaS (&lt;a href=&quot;https://product.shaperon-inc.com/&quot;&gt;Shaperon Email&lt;/a&gt;): 製薬業界の厳格なコンプライアンスに準拠しつつ、医療従事者との効果的な1to1コミュニケーションを実現するメールサービスです。&lt;/li&gt;&lt;li&gt;AIソリューション (&lt;a href=&quot;https://ai-monitoring.shaperon-inc.com/&quot;&gt;モニタリングAI&lt;/a&gt; / 審査AI): 営業活動におけるコミュニケーション内容のAIモニタリングや、プロモーション資材のAIによる自動審査ソリューションなどを提供しています。&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;◼️技術スタックと開発環境&lt;br /&gt;SaaSはReact (TypeScript), Flask (Python)を使用し、インフラはAWS ECSをCDK (IaC)で運用しています。AIソリューションはPython, Streamlit, AWS, Google Colabなどを柔軟に採用しています。GitHub Copilot, Cursor, Claude Code, Codex等、AIコーディング支援ツールも自由に選択可能です。&lt;br /&gt;&lt;br /&gt;◼️関連リンク&lt;br /&gt;&lt;a href=&quot;https://shaperon.notion.site/Shaperon-Entrance-Book-7299fdd0c74e44b9a125c83376286b09&quot;&gt;採用情報&lt;/a&gt; / &lt;a href=&quot;https://shaperon.notion.site/Engineer-Entrance-Book-59977135145f42c09f6fb19e8a3fc83e&quot;&gt;Engineer Entrance Book&lt;/a&gt; / &lt;a href=&quot;https://note.shaperon-inc.com/&quot;&gt;note&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Nov 2025 14:46:35 +0900</pubDate>
+        <link>https://remotework.jp/ja/shaperon-inc_com</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/shaperon-inc_com</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>Shaperon, Inc.</title>
+        <description>&lt;p&gt;We are a startup dedicated to providing specialized solutions for the pharmaceutical industry, driven by our mission to “solve problems in regulated industries.”&lt;br /&gt;&lt;br /&gt;We develop and offer products centered on two main pillars: enterprise SaaS and AI solutions. Our goal is to address the complex challenges unique to the pharmaceutical sector, such as specific legal regulations and compliance requirements. We are driving technological transformation in a field where accuracy and reliability are paramount.&lt;br /&gt;&lt;br /&gt;◼️Main Products &amp;amp; Services&lt;br /&gt;&lt;ul&gt;&lt;li&gt;SaaS (&lt;a href=&quot;https://product.shaperon-inc.com/&quot;&gt;Shaperon Email&lt;/a&gt;): A communication service that enables effective 1-to-1 communication with healthcare professionals while adhering to the strict compliance standards of the pharmaceutical industry.&lt;/li&gt;&lt;li&gt;AI Solutions (&lt;a href=&quot;https://ai-monitoring.shaperon-inc.com/&quot;&gt;Monitoring AI&lt;/a&gt; / Review AI): We provide solutions such as AI-powered monitoring of sales communications and automated AI review of promotional materials.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;◼️Tech Stack &amp;amp; Development Environment&lt;br /&gt;Our SaaS uses React (TypeScript) and Flask (Python), with its infrastructure running on AWS ECS managed via CDK (IaC). Our AI solutions flexibly utilize Python, Streamlit, AWS, and Google Colab. Developers are also free to choose AI coding assistance tools such as GitHub Copilot, Cursor, Claude Code, and Codex.&lt;br /&gt;&lt;br /&gt;◼️Related Links&lt;br /&gt;&lt;a href=&quot;https://shaperon.notion.site/Shaperon-Entrance-Book-7299fdd0c74e44b9a125c83376286b09&quot;&gt;Recruitment Info&lt;/a&gt; / &lt;a href=&quot;https://shaperon.notion.site/Engineer-Entrance-Book-59977135145f42c09f6fb19e8a3fc83e&quot;&gt;Engineer Entrance Book&lt;/a&gt; / &lt;a href=&quot;https://note.shaperon-inc.com/&quot;&gt;note&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Nov 2025 14:46:35 +0900</pubDate>
+        <link>https://remotework.jp/en/shaperon-inc_com</link>
+        <guid isPermaLink="true">https://remotework.jp/en/shaperon-inc_com</guid>
+        
+        
+        <category>en</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>株式会社カナリー</title>
@@ -117,36 +147,6 @@
         <pubDate>Fri, 25 Apr 2025 14:35:52 +0900</pubDate>
         <link>https://remotework.jp/en/idcf_jp</link>
         <guid isPermaLink="true">https://remotework.jp/en/idcf_jp</guid>
-        
-        
-        <category>en</category>
-        
-        <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>株式会社コドモン</title>
-        <description>&lt;p&gt;「子どもを取り巻く環境をテクノロジーの力でよりよいものに」をミッションとし、主力プロダクトである保育・教育施設向けICTサービス「CoDMON(コドモン)」をはじめとし、子育てに優しい社会に変わるよう多角的に事業を展開しています。&lt;br /&gt;&lt;a href=&quot;https://codmon.notion.site/recruit-engineer&quot;&gt;エンジニア採用ページ&lt;/a&gt; / &lt;a href=&quot;https://herp.careers/v1/codmon/requisition-groups/8b8f9990-a614-45c5-8b9d-492b4bc5894e&quot;&gt;求人一覧&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 Apr 2025 09:48:47 +0900</pubDate>
-        <link>https://remotework.jp/ja/codmon_com</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/codmon_com</guid>
-        
-        
-        <category>ja</category>
-        
-        <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>CoDMON Inc.</title>
-        <description>&lt;p&gt;With the mission of “Making the environment surrounding children better through the power of technology,” we are developing our business from multiple angles to transform society into one that is friendly to child-rearing, primarily through our main product “CoDMON,” an ICT service for childcare and educational facilities.&lt;br /&gt;&lt;a href=&quot;https://codmon.notion.site/recruit-engineer&quot;&gt;Engineer Recruitment Page&lt;/a&gt; / &lt;a href=&quot;https://herp.careers/v1/codmon/requisition-groups/8b8f9990-a614-45c5-8b9d-492b4bc5894e&quot;&gt;Job Listings&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 Apr 2025 09:48:47 +0900</pubDate>
-        <link>https://remotework.jp/en/codmon_com</link>
-        <guid isPermaLink="true">https://remotework.jp/en/codmon_com</guid>
         
         
         <category>en</category>
