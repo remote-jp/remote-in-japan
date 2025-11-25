@@ -2,6 +2,14 @@
   
   
     {
+      "title"       : "SEN CORPORATION",
+      "description" : "With the slogan “Bringing more smiles to children and becoming a trusted partner forever,” we operate comprehensive childcare tech services under the “HaiCheese!” brand, specializing in the childcare and education sector.  Our services include internet photo sales “HaiCheese! Photo,” childcare ICT system “HaiCheese! System,” and school lunch service “HaiCheese! Vege,” serving over 3.8 million parent users and adopted by more than 20,000 facilities with industry-leading market share.  We use PHP / Laravel / TypeScript / React / Vue.js / Golang / Kotlin / AWS / Docker / PostgreSQL / MySQL / Snowflake and offer remote work and hybrid work options with over 120 annual holidays, supporting work-life balance. Recruitment Info / Engineer Recruitment / Wantedly",
+      "categories"  : "en",
+      "full_remote" : "",
+      "url"         : "/en/sencorp_co_jp"
+    } ,
+  
+    {
       "title"       : "Shaperon, Inc.",
       "description" : "We are a startup dedicated to providing specialized solutions for the pharmaceutical industry, driven by our mission to “solve problems in regulated industries.”  We develop and offer products centered on two main pillars: enterprise SaaS and AI solutions. Our goal is to address the complex challenges unique to the pharmaceutical sector, such as specific legal regulations and compliance requirements. We are driving technological transformation in a field where accuracy and reliability are paramount.  ◼️Main Products &amp;amp; Services    SaaS (Shaperon Email): A communication service that enables effective 1-to-1 communication with healthcare professionals while adhering to the strict compliance standards of the pharmaceutical industry.  AI Solutions (Monitoring AI / Review AI): We provide solutions such as AI-powered monitoring of sales communications and automated AI review of promotional materials.   ◼️Tech Stack &amp;amp; Development Environment Our SaaS uses React (TypeScript) and Flask (Python), with its infrastructure running on AWS ECS managed via CDK (IaC). Our AI solutions flexibly utilize Python, Streamlit, AWS, and Google Colab. Developers are also free to choose AI coding assistance tools such as GitHub Copilot, Cursor, Claude Code, and Codex.  ◼️Related Links Recruitment Info / Engineer Entrance Book / note",
       "categories"  : "en and full_remote",
