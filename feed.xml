@@ -5,9 +5,24 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Nov 2025 15:43:03 +0900</pubDate>
-    <lastBuildDate>Tue, 25 Nov 2025 15:43:03 +0900</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 11:41:48 +0900</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 11:41:48 +0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>株式会社kickflow</title>
+        <description>&lt;p&gt;kickflowは、「エンタープライズ企業の課題と向き合い、未来を切り拓く」をミッションに、エンタープライズ向けクラウド稟議・ワークフロー SaaS「kickflow」を展開しています。&lt;br /&gt;さまざまなライフステージの社員が活躍できるように、フルリモート、フルフレックスで柔軟な働き方が可能です。&lt;br /&gt;&lt;br /&gt;■技術スタック&lt;br /&gt;バックエンド: Ruby on Rails, RSpec, Rubocop, Sidekiq&lt;br /&gt;フロントエンド: HTML, CSS, TypeScript, Vue.js, Nuxt.js, Vitest, ESLint&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://careers.kickflow.co.jp/&quot;&gt;採用情報はこちら&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Jan 2026 10:21:57 +0900</pubDate>
+        <link>https://remotework.jp/ja/kickflow_com</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/kickflow_com</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>千株式会社</title>
@@ -131,21 +146,6 @@
         
         
         <category>ja</category>
-        
-        <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>YassLab Inc.</title>
-        <description>&lt;p&gt;Developing &lt;a href=&quot;https://railstutorial.jp/&quot;&gt;railstutorial.jp&lt;/a&gt;, &lt;a href=&quot;https://railsguides.jp/&quot;&gt;railsguides.jp&lt;/a&gt;, and &lt;a href=&quot;https://coderdojo.jp/&quot;&gt;coderdojo.jp&lt;/a&gt; using Ruby on Rails.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/YassLab&quot;&gt;» See on GitHub&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2025 22:31:48 +0900</pubDate>
-        <link>https://remotework.jp/en/yasslab_jp</link>
-        <guid isPermaLink="true">https://remotework.jp/en/yasslab_jp</guid>
-        
-        
-        <category>en</category>
         
         <category>full_remote</category>
         
