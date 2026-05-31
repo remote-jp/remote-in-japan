@@ -5,9 +5,35 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 May 2026 10:37:45 +0900</pubDate>
-    <lastBuildDate>Tue, 19 May 2026 10:37:45 +0900</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 13:11:57 +0900</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 13:11:57 +0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>イオンスマートテクノロジー株式会社</title>
+        <description>&lt;p&gt;イオンスマートテクノロジーは、イオンのグループ全体の共通のタッチポイントとなるトータルアプリ&lt;a href=&quot;https://www.aeon.com/aeonapp/&quot;&gt;「iAEON」&lt;/a&gt;の開発を中心に、イオングループが提供する全てのサービスにおけるユーザー体験の向上を行っています。リモートも活用したフルフレックスな会社です。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2026 13:41:43 +0900</pubDate>
+        <link>https://remotework.jp/ja/aeon-st_co_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/aeon-st_co_jp</guid>
+        
+        
+        <category>ja</category>
+        
+      </item>
+    
+      <item>
+        <title>AEON Smart Technology Co., Ltd.</title>
+        <description>&lt;p&gt;AEON Smart Technology Co., Ltd. focuses on developing the All-in-One App “&lt;a href=&quot;https://www.aeon.com/aeonapp/&quot;&gt;iAEON&lt;/a&gt;”, which serves as a common touchpoint across the entire Aeon Group. It aims to enhance the user experience in all services provided by the Aeon Group. The company provides flexible working arrangements, including a telecommuting system, enabling employees to effectively utilize remote work while maintaining a hybrid working style.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2026 13:41:43 +0900</pubDate>
+        <link>https://remotework.jp/en/aeon-st_co_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/en/aeon-st_co_jp</guid>
+        
+        
+        <category>en</category>
+        
+      </item>
     
       <item>
         <title>株式会社スリーシェイク</title>
@@ -122,34 +148,6 @@
         <category>ja</category>
         
         <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>Shaperon, Inc.</title>
-        <description>&lt;p&gt;We are a startup dedicated to providing specialized solutions for the pharmaceutical industry, driven by our mission to “solve problems in regulated industries.”&lt;br /&gt;&lt;br /&gt;We develop and offer products centered on two main pillars: enterprise SaaS and AI solutions. Our goal is to address the complex challenges unique to the pharmaceutical sector, such as specific legal regulations and compliance requirements. We are driving technological transformation in a field where accuracy and reliability are paramount.&lt;br /&gt;&lt;br /&gt;◼️Main Products &amp;amp; Services&lt;br /&gt;&lt;ul&gt;&lt;li&gt;SaaS (&lt;a href=&quot;https://product.shaperon-inc.com/&quot;&gt;Shaperon Email&lt;/a&gt;): A communication service that enables effective 1-to-1 communication with healthcare professionals while adhering to the strict compliance standards of the pharmaceutical industry.&lt;/li&gt;&lt;li&gt;AI Solutions (&lt;a href=&quot;https://ai-monitoring.shaperon-inc.com/&quot;&gt;Monitoring AI&lt;/a&gt; / Review AI): We provide solutions such as AI-powered monitoring of sales communications and automated AI review of promotional materials.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;◼️Tech Stack &amp;amp; Development Environment&lt;br /&gt;Our SaaS uses React (TypeScript) and Flask (Python), with its infrastructure running on AWS ECS managed via CDK (IaC). Our AI solutions flexibly utilize Python, Streamlit, AWS, and Google Colab. Developers are also free to choose AI coding assistance tools such as GitHub Copilot, Cursor, Claude Code, and Codex.&lt;br /&gt;&lt;br /&gt;◼️Related Links&lt;br /&gt;&lt;a href=&quot;https://shaperon.notion.site/Shaperon-Entrance-Book-7299fdd0c74e44b9a125c83376286b09&quot;&gt;Recruitment Info&lt;/a&gt; / &lt;a href=&quot;https://shaperon.notion.site/Engineer-Entrance-Book-59977135145f42c09f6fb19e8a3fc83e&quot;&gt;Engineer Entrance Book&lt;/a&gt; / &lt;a href=&quot;https://note.shaperon-inc.com/&quot;&gt;note&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 04 Nov 2025 14:46:35 +0900</pubDate>
-        <link>https://remotework.jp/en/shaperon-inc_com</link>
-        <guid isPermaLink="true">https://remotework.jp/en/shaperon-inc_com</guid>
-        
-        
-        <category>en</category>
-        
-        <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>株式会社カナリー</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://corp.canary-app.jp/&quot;&gt;株式会社カナリー&lt;/a&gt;は、【もっといい「当たり前」をつくる】をミッションに掲げ、&lt;br /&gt;不動産DX領域で事業展開するスタートアップ企業です。&lt;br /&gt;&lt;br /&gt;ヤマダホールディングスやクレディセゾンといった国内大手企業との資本業務提携なども実施しており、&lt;br /&gt;「カナリー」TVCMを全国で放映するなど知名度も高まってきています。&lt;br /&gt;社員は120名程度で、組織も拡大しつつ上場を目指しているグロースフェーズです。&lt;br /&gt;&lt;br /&gt;不動産テック領域内でプラットフォームとして構造的な優位性を確立すべく、&lt;br /&gt;&lt;ul&gt;&lt;li&gt;【BtoC】不動産マーケットプレイス「カナリー(CANARY)」  &lt;ul&gt;  &lt;li&gt;500万DL突破、App Storeでカテゴリ内ユーザー評価No.1の★4.8&lt;/li&gt;  &lt;/ul&gt;&lt;/li&gt;&lt;li&gt;【BtoB】： 不動産仲介業者特化型SaaS「カナリークラウド(CANARY Cloud)」  &lt;ul&gt;  &lt;li&gt;累計利用者数200万人突破。業界大手企業などへの導入を経て成長中&lt;/li&gt;  &lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;といったようにtoC / toB両軸でサービスを開発・運用しており、&lt;br /&gt;複数の新規プロダクトも開発中です。&lt;br /&gt;&lt;br /&gt;使用技術はGo / Next.js / React Native / GCPなどで、チームトポロジーを参考にした開発組織づくりを行っています。 手前味噌ながら、「スタートアップらしからぬモダンで堅牢な開発環境ですね」とお褒めの言葉を頂くことが多いです。&lt;br /&gt;&lt;br /&gt;開発における生成AIの活用も積極的に行っており、GitHub Copilot、Cursor、Devinを利用できます。&lt;br /&gt;2025/6現在、Claude Codeも試験運用中です。（加えて、全社員有料版Geminiを利用可能です。）&lt;br /&gt;&lt;br /&gt;※開発本部のメンバー（エンジニア、デザイナー等）はフルリモートでの勤務が可能です！ &lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&quot;https://recruit.canary-app.jp/engineer-entrance-book#block-1bb1009a77028091bee2e23277d6c8ec&quot;&gt;エンジニア向けEntrance Book&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Aug 2025 13:34:16 +0900</pubDate>
-        <link>https://remotework.jp/ja/canary-app_jp</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/canary-app_jp</guid>
-        
-        
-        <category>ja</category>
         
       </item>
     
