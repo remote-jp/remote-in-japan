@@ -5,9 +5,22 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 May 2026 13:11:57 +0900</pubDate>
-    <lastBuildDate>Sun, 31 May 2026 13:11:57 +0900</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 14:22:17 +0900</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 14:22:17 +0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>株式会社グレフ</title>
+        <description>&lt;p&gt;当社が提供する『myteam』は、企業が自社専用のスキマバイトアプリを構築し、OB・OGやスポットワーカーとの「繋がり」を活かして、アルバイト採用を内製化できるクラウドサービスです。&lt;br /&gt;求職者との接点を「一度きり」で終わらせず、「循環」させることで、外部サービスに依存しない持続可能な採用体制を実現します。&lt;br /&gt;&lt;br /&gt;『myteam』は、「ダイレクトソーシング」というスポットワーク領域においても新たなポジションを築いており、まだ競合の少ないブルーオーシャン市場を開拓中です。&lt;br /&gt;今後さらに拡大が見込まれるスポットワーク市場の成長波に乗り、業界No.1を目指してプロダクトを共に磨き上げていただけるエンジニアを募集しております。&lt;br /&gt;&lt;br /&gt;なお、エンジニアについてはフルリモート勤務となっています（年に3〜4回程度の出社あり）。&lt;br /&gt;主な使用技術：PHP / Laravel / TypeScript / Next.js / Flutter / AWS&lt;br /&gt;&lt;a href=&quot;https://www.greff.co.jp/recruit/&quot;&gt;採用ページ&lt;/a&gt; / &lt;a href=&quot;https://hrmos.co/pages/greff/jobs?category=2239224412779438081&quot;&gt;エンジニア募集要項&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Jun 2026 19:03:22 +0900</pubDate>
+        <link>https://remotework.jp/ja/greff_co_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/greff_co_jp</guid>
+        
+        
+        <category>ja</category>
+        
+      </item>
     
       <item>
         <title>イオンスマートテクノロジー株式会社</title>
@@ -133,21 +146,6 @@
         
         
         <category>en</category>
-        
-      </item>
-    
-      <item>
-        <title>株式会社シャペロン</title>
-        <description>&lt;p&gt;私たちは「規制産業が抱える問題を解決する」というミッションのもと、製薬業界に特化したソリューションを提供するスタートアップです。&lt;br /&gt;&lt;br /&gt;製薬業界特有の法規制やコンプライアンスといった複雑な課題を解決するため、業務システム型SaaSとAIソリューションの両軸でプロダクトを開発・提供しています。正確さと信頼性が求められる領域で、テクノロジーによる変革を推進しています。&lt;br /&gt;&lt;br /&gt;◼️主なプロダクト・サービス&lt;br /&gt;&lt;ul&gt;&lt;li&gt;SaaS (&lt;a href=&quot;https://product.shaperon-inc.com/&quot;&gt;Shaperon Email&lt;/a&gt;): 製薬業界の厳格なコンプライアンスに準拠しつつ、医療従事者との効果的な1to1コミュニケーションを実現するメールサービスです。&lt;/li&gt;&lt;li&gt;AIソリューション (&lt;a href=&quot;https://ai-monitoring.shaperon-inc.com/&quot;&gt;モニタリングAI&lt;/a&gt; / 審査AI): 営業活動におけるコミュニケーション内容のAIモニタリングや、プロモーション資材のAIによる自動審査ソリューションなどを提供しています。&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;◼️技術スタックと開発環境&lt;br /&gt;SaaSはReact (TypeScript), Flask (Python)を使用し、インフラはAWS ECSをCDK (IaC)で運用しています。AIソリューションはPython, Streamlit, AWS, Google Colabなどを柔軟に採用しています。GitHub Copilot, Cursor, Claude Code, Codex等、AIコーディング支援ツールも自由に選択可能です。&lt;br /&gt;&lt;br /&gt;◼️関連リンク&lt;br /&gt;&lt;a href=&quot;https://shaperon.notion.site/Shaperon-Entrance-Book-7299fdd0c74e44b9a125c83376286b09&quot;&gt;採用情報&lt;/a&gt; / &lt;a href=&quot;https://shaperon.notion.site/Engineer-Entrance-Book-59977135145f42c09f6fb19e8a3fc83e&quot;&gt;Engineer Entrance Book&lt;/a&gt; / &lt;a href=&quot;https://note.shaperon-inc.com/&quot;&gt;note&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 04 Nov 2025 14:46:35 +0900</pubDate>
-        <link>https://remotework.jp/ja/shaperon-inc_com</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/shaperon-inc_com</guid>
-        
-        
-        <category>ja</category>
-        
-        <category>full_remote</category>
         
       </item>
     
