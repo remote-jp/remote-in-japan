@@ -5,9 +5,39 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jun 2026 14:22:17 +0900</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 14:22:17 +0900</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 18:07:34 +0900</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 18:07:34 +0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>株式会社プラハ</title>
+        <description>&lt;p&gt;株式会社PrAhaは2022年にアガルートグループとM&amp;amp;Aして以降、アガルートグループのサービス「&lt;a href=&quot;https://www.agaroot.jp/&quot;&gt;アガルートアカデミー&lt;/a&gt;」をはじめとしたシステムの開発をしています。他に中級エンジニアを育てる実践的なオンライン・プログラミング・ブートキャンプ「&lt;a href=&quot;https://praha-challenge.com/&quot;&gt;PrAha Challenge&lt;/a&gt;」の運営を行なっています。&lt;br /&gt;事業の拡大スピードに対してエンジニアが不足しているので一緒に働いてくれる方を血眼になって探しています。&lt;br /&gt;&lt;a href=&quot;https://entrance.praha-inc.com/&quot;&gt;Entrance Book&lt;/a&gt;もぜひご覧ください。&lt;br /&gt;■技術スタック&lt;br /&gt;・フロントエンド: TypeScript, React, Next.js, Storybook&lt;br /&gt;・バックエンド: TypeScript, Hono, Laravel&lt;br /&gt;・モバイル: Flutter (Dart)&lt;br /&gt;・DB: MySQL, PostgreSQL&lt;br /&gt;・インフラ: AWS, Cloudflare&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2026 15:47:33 +0900</pubDate>
+        <link>https://remotework.jp/ja/praha-inc_com</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/praha-inc_com</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>PrAha Inc.</title>
+        <description>&lt;p&gt;After our M&amp;amp;A with the Agaroot Group in 2022, PrAha Inc. has been developing systems for the Agaroot Group including &lt;a href=&quot;https://www.agaroot.jp/&quot;&gt;“Agaroot Academy”&lt;/a&gt;. We also operate &lt;a href=&quot;https://praha-challenge.com/&quot;&gt;“PrAha Challenge”&lt;/a&gt;, a hands-on online programming bootcamp for intermediate-level engineers.&lt;br /&gt;Our business is growing faster than we can hire, so we are desperately searching for people to work with us.&lt;br /&gt;See our&lt;a href=&quot;https://entrance.praha-inc.com/&quot;&gt;Entrance Book&lt;/a&gt; for more details.&lt;br /&gt;■Tech Stack&lt;br /&gt;・Frontend: TypeScript, React, Next.js, Storybook&lt;br /&gt;・Backend: TypeScript, Hono, Laravel&lt;br /&gt;・Mobile: Flutter (Dart)&lt;br /&gt;・DB: MySQL, PostgreSQL&lt;br /&gt;・Infrastructure: AWS, Cloudflare&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2026 15:47:33 +0900</pubDate>
+        <link>https://remotework.jp/en/praha-inc_com</link>
+        <guid isPermaLink="true">https://remotework.jp/en/praha-inc_com</guid>
+        
+        
+        <category>en</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>株式会社グレフ</title>
@@ -120,32 +150,6 @@
         <category>ja</category>
         
         <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>千株式会社</title>
-        <description>&lt;p&gt;「もっと、子どもに笑顔を。ずっと、託される存在へ。」をスローガンに掲げ、保育・教育領域に特化した総合保育テックサービス『はいチーズ！』を展開しています。&lt;br /&gt;&lt;br /&gt;インターネット写真販売「はいチーズ！フォト」、保育業務ICT「はいチーズ！システム」、給食食育サービス「はいチーズ！ベジ」など、累計保護者ユーザー数380万人以上、導入団体数20,000超の業界トップシェアを誇ります。&lt;br /&gt;&lt;br /&gt;PHP / Laravel / TypeScript / React / Vue.js / Golang / Kotlin / AWS / Docker / PostgreSQL / MySQL / Snowflake などを使用し、リモートワーク・ハイブリッド勤務を導入、年間休日120日以上でワークライフバランスを重視した働き方が可能です。&lt;br /&gt;&lt;a href=&quot;https://sencorp.co.jp/recruit-career&quot;&gt;採用情報&lt;/a&gt; / &lt;a href=&quot;https://sencorp.co.jp/recruit-career/development/&quot;&gt;エンジニア採用&lt;/a&gt; / &lt;a href=&quot;https://www.wantedly.com/companies/sencorp/stories&quot;&gt;Wantedly&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Nov 2025 13:38:25 +0900</pubDate>
-        <link>https://remotework.jp/ja/sencorp_co_jp</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/sencorp_co_jp</guid>
-        
-        
-        <category>ja</category>
-        
-      </item>
-    
-      <item>
-        <title>SEN CORPORATION</title>
-        <description>&lt;p&gt;With the slogan “Bringing more smiles to children and becoming a trusted partner forever,” we operate comprehensive childcare tech services under the “HaiCheese!” brand, specializing in the childcare and education sector.&lt;br /&gt;&lt;br /&gt;Our services include internet photo sales “HaiCheese! Photo,” childcare ICT system “HaiCheese! System,” and school lunch service “HaiCheese! Vege,” serving over 3.8 million parent users and adopted by more than 20,000 facilities with industry-leading market share.&lt;br /&gt;&lt;br /&gt;We use PHP / Laravel / TypeScript / React / Vue.js / Golang / Kotlin / AWS / Docker / PostgreSQL / MySQL / Snowflake and offer remote work and hybrid work options with over 120 annual holidays, supporting work-life balance.&lt;br /&gt;&lt;a href=&quot;https://sencorp.co.jp/recruit-career&quot;&gt;Recruitment Info&lt;/a&gt; / &lt;a href=&quot;https://sencorp.co.jp/recruit-career/development/&quot;&gt;Engineer Recruitment&lt;/a&gt; / &lt;a href=&quot;https://www.wantedly.com/companies/sencorp/stories&quot;&gt;Wantedly&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Nov 2025 13:38:25 +0900</pubDate>
-        <link>https://remotework.jp/en/sencorp_co_jp</link>
-        <guid isPermaLink="true">https://remotework.jp/en/sencorp_co_jp</guid>
-        
-        
-        <category>en</category>
         
       </item>
     

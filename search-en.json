@@ -2,6 +2,14 @@
   
   
     {
+      "title"       : "PrAha Inc.",
+      "description" : "After our M&amp;amp;A with the Agaroot Group in 2022, PrAha Inc. has been developing systems for the Agaroot Group including “Agaroot Academy”. We also operate “PrAha Challenge”, a hands-on online programming bootcamp for intermediate-level engineers. Our business is growing faster than we can hire, so we are desperately searching for people to work with us. See ourEntrance Book for more details. ■Tech Stack ・Frontend: TypeScript, React, Next.js, Storybook ・Backend: TypeScript, Hono, Laravel ・Mobile: Flutter (Dart) ・DB: MySQL, PostgreSQL ・Infrastructure: AWS, Cloudflare",
+      "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
+      "url"         : "/en/praha-inc_com"
+    } ,
+  
+    {
       "title"       : "AEON Smart Technology Co., Ltd.",
       "description" : "AEON Smart Technology Co., Ltd. focuses on developing the All-in-One App “iAEON”, which serves as a common touchpoint across the entire Aeon Group. It aims to enhance the user experience in all services provided by the Aeon Group. The company provides flexible working arrangements, including a telecommuting system, enabling employees to effectively utilize remote work while maintaining a hybrid working style.",
       "categories"  : "en",
@@ -527,14 +535,6 @@
       "categories"  : "en",
       "full_remote" : "",
       "url"         : "/en/xincere_jp"
-    } ,
-  
-    {
-      "title"       : "PrAha Inc.",
-      "description" : "We design and develop softwares for new businesses, and organize a programming bootcamp “Praha Challenge” that trains intermediate level engineers. We place great value in making an ideal environment for engineers who love to code. For example, study cost (such as event participation, purchasing books) is fully paid by the company, and weekly study sessions are hosted internally",
-      "categories"  : "en and full_remote",
-      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
-      "url"         : "/en/praha-inc_com"
     } ,
   
     {
