@@ -2,6 +2,14 @@
   
   
     {
+      "title"       : "Nulab Inc.",
+      "description" : "Our products are powerful, web-based collaboration tools that improve teamwork. Backlog | Plan. Manage. Track. Cacoo | Create. Collaborate. Nulab Pass | Secure. Simple. Scalable. All products are available in English, and we have users from all over the world. You can work remotely from wherever in Japan you live. We are looking forward to hearing from you. Please check the contact page and send us a message using the “Nulab” subject button, and tell us why you want to work at Nulab Japan!",
+      "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
+      "url"         : "/en/nulab_com"
+    } ,
+  
+    {
       "title"       : "PrAha Inc.",
       "description" : "After our M&amp;amp;A with the Agaroot Group in 2022, PrAha Inc. has been developing systems for the Agaroot Group including “Agaroot Academy”. We also operate “PrAha Challenge”, a hands-on online programming bootcamp for intermediate-level engineers. Our business is growing faster than we can hire, so we are desperately searching for people to work with us. See ourEntrance Book for more details. ■Tech Stack ・Frontend: TypeScript, React, Next.js, Storybook ・Backend: TypeScript, Hono, Laravel ・Mobile: Flutter (Dart) ・DB: MySQL, PostgreSQL ・Infrastructure: AWS, Cloudflare",
       "categories"  : "en and full_remote",
@@ -367,14 +375,6 @@
       "categories"  : "en and full_remote",
       "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
       "url"         : "/en/timee_co_jp"
-    } ,
-  
-    {
-      "title"       : "Nulab Inc.",
-      "description" : "Our products are powerful, web-based collaboration tools that improve teamwork. Backlog | Plan. Manage. Track. Cacoo | Create. Collaborate. Typetalk | Chat. Connect. Share. Nulab Pass | Secure. Simple. Scalable. All products are available in English, and we have users from all over the world. You can work remotely from wherever in Japan you live. We are looking forward to hearing from you. Please check the contact page and send us a message using the “Nulab” subject button, and tell us why you want to work at Nulab Japan!",
-      "categories"  : "en and full_remote",
-      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
-      "url"         : "/en/nulab_com"
     } ,
   
     {

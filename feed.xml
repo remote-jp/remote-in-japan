@@ -5,9 +5,24 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jun 2026 18:07:34 +0900</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 18:07:34 +0900</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 16:32:21 +0900</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:32:21 +0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>Nulab Inc.</title>
+        <description>&lt;p&gt;Our products are powerful, web-based collaboration tools that improve teamwork.&lt;br /&gt;&lt;a href=&quot;https://backlog.com/&quot;&gt;Backlog&lt;/a&gt; | Plan. Manage. Track.&lt;br /&gt;&lt;a href=&quot;https://cacoo.com/&quot;&gt;Cacoo&lt;/a&gt; | Create. Collaborate.&lt;br /&gt;&lt;a href=&quot;https://nulab.com/nulabpass/&quot;&gt;Nulab Pass&lt;/a&gt; | Secure. Simple. Scalable.&lt;br /&gt;All products are available in English, and we have users from all over the world. You can work remotely from wherever in Japan you live. We are looking forward to hearing from you. Please check &lt;a href=&quot;https://nulab.com/contact/&quot;&gt;the contact page&lt;/a&gt; and send us a message using the “Nulab” subject button, and tell us why you want to work at Nulab Japan!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jul 2026 10:43:03 +0900</pubDate>
+        <link>https://remotework.jp/en/nulab_com</link>
+        <guid isPermaLink="true">https://remotework.jp/en/nulab_com</guid>
+        
+        
+        <category>en</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>株式会社プラハ</title>
@@ -130,21 +145,6 @@
         <pubDate>Wed, 25 Mar 2026 17:49:49 +0900</pubDate>
         <link>https://remotework.jp/ja/mobalab_net</link>
         <guid isPermaLink="true">https://remotework.jp/ja/mobalab_net</guid>
-        
-        
-        <category>ja</category>
-        
-        <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>株式会社kickflow</title>
-        <description>&lt;p&gt;kickflowは、「エンタープライズ企業の課題と向き合い、未来を切り拓く」をミッションに、エンタープライズ向けクラウド稟議・ワークフロー SaaS「kickflow」を展開しています。&lt;br /&gt;さまざまなライフステージの社員が活躍できるように、フルリモート、フルフレックスで柔軟な働き方が可能です。&lt;br /&gt;&lt;br /&gt;■技術スタック&lt;br /&gt;バックエンド: Ruby on Rails, RSpec, Rubocop, Sidekiq&lt;br /&gt;フロントエンド: HTML, CSS, TypeScript, Vue.js, Nuxt.js, Vitest, ESLint&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://careers.kickflow.co.jp/&quot;&gt;採用情報はこちら&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 14 Jan 2026 10:21:57 +0900</pubDate>
-        <link>https://remotework.jp/ja/kickflow_com</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/kickflow_com</guid>
         
         
         <category>ja</category>
