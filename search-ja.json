@@ -2,6 +2,14 @@
   
   
     {
+      "title"       : "株式会社ヌーラボ",
+      "description" : "「”このチームで一緒に仕事できてよかった”を世界中に生み出していく。」をブランドメッセージとし、コラボレーションツールの「Backlog」「Cacoo」とセキュリティオプションの「Nulab Pass」を開発、運営している会社です。2020年2月以降テレワークで業務を進めているため、全国どこからでも応募可能です。テレワークで働ける環境をより活かせるように、フレックスタイム制度やリゾートワーク制度なども取り入れています。",
+      "categories"  : "ja and full_remote",
+      "full_remote" : "<code><small><small>(フルリモート👌)</small></small></code>",
+      "url"         : "/ja/nulab_com"
+    } ,
+  
+    {
       "title"       : "株式会社プラハ",
       "description" : "株式会社PrAhaは2022年にアガルートグループとM&amp;amp;Aして以降、アガルートグループのサービス「アガルートアカデミー」をはじめとしたシステムの開発をしています。他に中級エンジニアを育てる実践的なオンライン・プログラミング・ブートキャンプ「PrAha Challenge」の運営を行なっています。 事業の拡大スピードに対してエンジニアが不足しているので一緒に働いてくれる方を血眼になって探しています。 Entrance Bookもぜひご覧ください。 ■技術スタック ・フロントエンド: TypeScript, React, Next.js, Storybook ・バックエンド: TypeScript, Hono, Laravel ・モバイル: Flutter (Dart) ・DB: MySQL, PostgreSQL ・インフラ: AWS, Cloudflare",
       "categories"  : "ja and full_remote",
@@ -663,14 +671,6 @@
       "categories"  : "ja and full_remote",
       "full_remote" : "<code><small><small>(フルリモート👌)</small></small></code>",
       "url"         : "/ja/timee_co_jp"
-    } ,
-  
-    {
-      "title"       : "株式会社ヌーラボ",
-      "description" : "「”このチームで一緒に仕事できてよかった”を世界中に生み出していく。」をブランドメッセージとし、コラボレーションツールの「Backlog」「Cacoo」「Typetalk」とセキュリティオプションの「Nulab Pass」を開発、運営している会社です。2020年2月以降テレワークで業務を進めているため、全国どこからでも応募可能です。テレワークで働ける環境をより活かせるように、フレックスタイム制度やリゾートワーク制度なども取り入れています。",
-      "categories"  : "ja and full_remote",
-      "full_remote" : "<code><small><small>(フルリモート👌)</small></small></code>",
-      "url"         : "/ja/nulab_com"
     } ,
   
     {

@@ -5,9 +5,24 @@
     <description>Tech companies in Japan that hire remote workers.</description>
     <link>https://remotework.jp</link>
     <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Jul 2026 16:32:21 +0900</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 16:32:21 +0900</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 16:50:37 +0900</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:50:37 +0900</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>株式会社ヌーラボ</title>
+        <description>&lt;p&gt;「”このチームで一緒に仕事できてよかった”を世界中に生み出していく。」をブランドメッセージとし、コラボレーションツールの「&lt;a href=&quot;https://backlog.com/ja/&quot;&gt;Backlog&lt;/a&gt;」「&lt;a href=&quot;https://cacoo.com/ja/&quot;&gt;Cacoo&lt;/a&gt;」とセキュリティオプションの「&lt;a href=&quot;https://nulab.com/ja/nulabpass/&quot;&gt;Nulab Pass&lt;/a&gt;」を開発、運営している会社です。2020年2月以降テレワークで業務を進めているため、全国どこからでも&lt;a href=&quot;https://nulab.com/ja/about/careers/&quot;&gt;応募可能&lt;/a&gt;です。テレワークで働ける環境をより活かせるように、フレックスタイム制度や&lt;a href=&quot;https://www.itmedia.co.jp/business/articles/1909/30/news004.html&quot;&gt;リゾートワーク制度&lt;/a&gt;なども取り入れています。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jul 2026 18:32:07 +0900</pubDate>
+        <link>https://remotework.jp/ja/nulab_com</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/nulab_com</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
     
       <item>
         <title>Nulab Inc.</title>
@@ -133,21 +148,6 @@
         
         
         <category>en</category>
-        
-        <category>full_remote</category>
-        
-      </item>
-    
-      <item>
-        <title>株式会社もばらぶ</title>
-        <description>&lt;p&gt;以下の製品開発&lt;ul&gt;&lt;li&gt;MCP サーバーの設定、実行環境を一元管理する &lt;a href=&quot;https://mobalab.asia/products/mhaas/&quot;&gt;MHaaS（仮）&lt;/a&gt;&lt;/li&gt;&lt;li&gt;WordPress で RAG を使用したチャットボットが簡単に構築出来るプラグイン &lt;a href=&quot;https://services.mobalab.net/wp-rag/&quot;&gt;WP RAG&lt;/a&gt; 及び &lt;a href=&quot;https://wordpress.org/plugins/rag-chat-ab/&quot;&gt;RAG Chat for Amazon Bedrock&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;及び、受託開発、&lt;a href=&quot;https://services.mobalab.net/system-handover/&quot;&gt;開発プロジェクトの引き継ぎ&lt;/a&gt;。社員全員がフルリモートワーク。&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Mar 2026 17:49:49 +0900</pubDate>
-        <link>https://remotework.jp/ja/mobalab_net</link>
-        <guid isPermaLink="true">https://remotework.jp/ja/mobalab_net</guid>
-        
-        
-        <category>ja</category>
         
         <category>full_remote</category>
         
