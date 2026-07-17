@@ -2,6 +2,14 @@
   
   
     {
+      "title"       : "Leaner Technologies Inc.",
+      "description" : "Leaner Technologies is a startup that develops and provides a cloud service called “Leaner” designed for procurement divisions. Our mission is to raise the corporate value of all Japanese companies by digitalizing the corporate purchasing process. Engineers and designers work fully remotely from all over Japan! Engineer Recruitment Info",
+      "categories"  : "en",
+      "full_remote" : "",
+      "url"         : "/en/leaner_co_jp"
+    } ,
+  
+    {
       "title"       : "Nulab Inc.",
       "description" : "Our products are powerful, web-based collaboration tools that improve teamwork. Backlog | Plan. Manage. Track. Cacoo | Create. Collaborate. Nulab Pass | Secure. Simple. Scalable. All products are available in English, and we have users from all over the world. You can work remotely from wherever in Japan you live. We are looking forward to hearing from you. Please check the contact page and send us a message using the “Nulab” subject button, and tell us why you want to work at Nulab Japan!",
       "categories"  : "en and full_remote",
