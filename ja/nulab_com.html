@@ -208,32 +208,49 @@
      });
 
      // Company Search
-     const placeholders = ['Ruby', 'Python', 'PHP', 'iOS', 'Android', 'TypeScript', 'React', 'Vue', 'AWS', 'Django', 'Rails'];
+     // 検索フィールドは各言語のトップページにしか置かれていないため、無いページでは何もしない
+     const searchInput   = document.getElementById('search-input');
+     const searchResults = document.getElementById('search-results');
+     if (searchInput && searchResults) {
+       setRandomPlaceholder();
 
-     // Durstenfeld Shuffle Algorithm
-     // https://ja.wikipedia.org/wiki/フィッシャー–イェーツのシャッフル
-     for (i=placeholders.length; 1<i ; i--) {
-       j = Math.floor(Math.random() * i);
-       [placeholders[j], placeholders[i-1]] = [placeholders[i-1], placeholders[j]];
+       // JSON を先に読み込んでから初期化することで、?q= 付きで開いた時に即座に検索できる
+       fetch("/search-ja.json")
+         .then((response) => {
+           if (!response.ok) throw new Error('HTTP ' + response.status);
+           return response.json();
+         })
+         .then((json)  => setupSearch(json))
+         .catch((error) => console.warn('検索データを読み込めませんでした:', error));
      }
 
-     let placeholder_text = "検索例: ";
-     placeholder_text    += placeholders[0] + ", " + placeholders[1] + ", " + placeholders[2];
-     document.getElementById("search-input").placeholder = placeholder_text;
+     function setRandomPlaceholder() {
+       const placeholders = ['Ruby', 'Python', 'PHP', 'iOS', 'Android', 'TypeScript', 'React', 'Vue', 'AWS', 'Django', 'Rails'];
 
-     const searchTarget = "/search-ja.json";
-     const sjs = SimpleJekyllSearch({
-       searchInput:          document.getElementById('search-input'),
-       resultsContainer:     document.getElementById('search-results'),
-       json:                 searchTarget,
-       limit:                50,
+       // Durstenfeld Shuffle Algorithm
+       // https://ja.wikipedia.org/wiki/フィッシャー–イェーツのシャッフル
+       for (let i = placeholders.length; 1 < i; i--) {
+         const j = Math.floor(Math.random() * i);
+         [placeholders[j], placeholders[i-1]] = [placeholders[i-1], placeholders[j]];
+       }
 
-       searchResultTemplate: '<li class="search-result-item"><a href="{url}">{title}</a> <small><a href="{url}" class="description-link">{description} {full_remote}</a></small></li>',
-       noResultsText:        '&nbsp;&nbsp; 検索結果が見つかりませんでした。',
-       loadingText:          '検索中...',
+       let placeholder_text = "検索例: ";
+       placeholder_text    += placeholders[0] + ", " + placeholders[1] + ", " + placeholders[2];
+       searchInput.placeholder = placeholder_text;
+     }
 
-       // descriptionを100文字にtruncate. 100文字以下ならundefinedを返す（何も変えない）
-       templateMiddleware: function(prop, value, template) {
+     function setupSearch(json) {
+       const sjs = SimpleJekyllSearch({
+         searchInput:          searchInput,
+         resultsContainer:     searchResults,
+         json:                 json,
+         limit:                50,
+
+         searchResultTemplate: '<li class="search-result-item"><a href="{url}">{title}</a> <small><a href="{url}" class="description-link">{description} {full_remote}</a></small></li>',
+         noResultsText:        '&nbsp;&nbsp; 検索結果が見つかりませんでした。',
+
+         // descriptionを100文字にtruncate. 100文字以下ならundefinedを返す（何も変えない）
+         templateMiddleware: function(prop, value, template) {
 	 const query = document.getElementById('search-input').value.trim();
 
 	 // description にヒットしたら前後１００文字を表示
@@ -241,7 +258,7 @@
 	   if (query) {
 	     const regex       = new RegExp(escapeRegExp(query), 'i'); // case-insensitive
 	     const matchResult = regex.exec(value); // ← これでマッチと位置取得
-	     
+
 	     if (matchResult) {
                const matchIndex    = matchResult.index;
                const matchLength   = matchResult[0].length;
@@ -249,7 +266,7 @@
 
                let start = Math.max(0, matchIndex - Math.floor(desiredLength / 2));
                let end   = start + desiredLength;
-               
+
                // もし end が本文超えちゃうなら調整
                if (end > value.length) {
 		 end   = value.length;
@@ -282,10 +299,39 @@
 	 if (prop === 'full_remote' && typeof value === 'string') {
 	   return value.replace(new RegExp(escapeRegExp(query), 'gi'), '<mark>$&</mark>');
 	 }
-	 
+
 	 return value;
+         }
+       });
+
+       // ?q=Ruby のような URL で「検索した状態」をそのまま共有できるようにする
+       const query = new URLSearchParams(window.location.search).get('q');
+       if (query) {
+         searchInput.value = query;
+         sjs.search(query);
        }
-     });
+
+       // 入力に追随して URL を書き換え、いつでもその時点の検索結果を共有できるようにする。
+       // replaceState は短時間に繰り返し呼ぶと SecurityError を投げるブラウザがあるため、
+       // 入力が落ち着いてからまとめて書き換える
+       let urlUpdateTimer;
+       searchInput.addEventListener('input', () => {
+         clearTimeout(urlUpdateTimer);
+         urlUpdateTimer = setTimeout(() => updateQueryParam(searchInput.value), 300);
+       });
+     }
+
+     // 履歴を増やさずに ?q= だけを差し替える（空になったらパラメータごと消す）。
+     // 検索されるのは入力そのままの値なので、URL にも trim せずに入れて結果を一致させる
+     function updateQueryParam(query) {
+       const url = new URL(window.location.href);
+       if (query.trim()) {
+         url.searchParams.set('q', query);
+       } else {
+         url.searchParams.delete('q');
+       }
+       history.replaceState(null, '', url.toString());
+     }
 
      // 正規表現エスケープ用の関数
      function escapeRegExp(string) {
