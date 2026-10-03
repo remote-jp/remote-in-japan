@@ -2,6 +2,14 @@
   
   
     {
+      "title"       : "CLAVES Inc.",
+      "description" : "Based on the essential approach of “thinking from the goal,” our core strength lies in contract development, leveraging our solid design and technical capabilities to build customer infrastructure that supports the foundation of businesses, such as membership management and authentication systems, point management systems, and large-scale member service sites.In recent years, we have utilized this accumulated expertise to develop our own products, such as “P2A,” a payroll and accounting data integration solution, handling a wide range of developments for online services and their surrounding areas. - Full remote work is available regardless of your place of residence, and about half of our employees live in regional areas. - Technologies used: Kotlin / Spring Boot / TypeScript / Hono / React / Next.js / Rust / AWS, etc. Careers (Japanese) / Tech Blog (Japanese) / note (Japanese)",
+      "categories"  : "en and full_remote",
+      "full_remote" : "<code><small><small>(Fully remote👌)</small></small></code>",
+      "url"         : "/en/3-shake_com"
+    } ,
+  
+    {
       "title"       : "Leaner Technologies Inc.",
       "description" : "Leaner Technologies is a startup that develops and provides a cloud service called “Leaner” designed for procurement divisions. Our mission is to raise the corporate value of all Japanese companies by digitalizing the corporate purchasing process. Our main tech stack includes Ruby / Rails / JavaScript / TypeScript / React / Next.js / Storybook / MySQL / AWS. Engineers and designers work fully remotely from all over Japan! If you’d like to learn more about our team members and how we work, check out Leaner’s engineering page!",
       "categories"  : "en",
