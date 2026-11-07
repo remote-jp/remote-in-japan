@@ -69,12 +69,12 @@ jobs:
       run: |
         COMMIT_MESSAGE=$(git show -s --format=%s HEAD)
         PR_NUMBER=$(echo "$COMMIT_MESSAGE" | sed -nE 's/^Merge pull request #([0-9]+).*/\1/p')
-        
+
         if [ -n "$PR_NUMBER" ]; then
           echo "PR_NUMBER=#$PR_NUMBER" >> $GITHUB_ENV; else
           echo "PR_NUMBER="            >> $GITHUB_ENV
         fi
-    
+
     - name: 🤖 Generate page(s) by README
       env:
         TZ: 'Asia/Tokyo'
@@ -98,9 +98,23 @@ jobs:
         cd ./docs
         JEKYLL_ENV=production bundle exec jekyll build
 
-    - name: 🚀 Deploy to gh-pages branch
-      if:   github.ref == 'refs/heads/main' && job.status == 'success'
-      uses: peaceiris/actions-gh-pages@v4
+    # 公式の Pages の action で配る。以前は第三者の peaceiris/actions-gh-pages に書き込みのトークンを渡し、
+    # gh-pages ブランチへ push していた。ここではビルドした _site を成果物として上げ、下の pages ジョブが配る
+    - name: 📦 Upload site for GitHub Pages
+      uses: actions/upload-pages-artifact@v5.0.0
       with:
-        personal_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir:    ./docs/_site
+        path: ./docs/_site
+
+  pages:
+    name: 🚀 Deploy to GitHub Pages
+    needs: deploy
+    runs-on: ubuntu-latest
+    permissions:
+      pages:    write  # Pages に配る
+      id-token: write  # 配布元がこの workflow であることを確かめる
+    environment:
+      name: github-pages
+      url:  ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - id:   deployment
+      uses: actions/deploy-pages@v5.0.1
