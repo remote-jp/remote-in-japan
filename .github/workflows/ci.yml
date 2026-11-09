@@ -17,13 +17,13 @@ jobs:
     steps:
 
     - name: ☑️ Checkout code
-      uses: actions/checkout@v7
+      uses: actions/checkout@v7.0.1
       # Need all commits to track info
       with:
         fetch-depth: 0
 
     - name: 💎 Setup Ruby
-      uses: ruby/setup-ruby@v1
+      uses: ruby/setup-ruby@v1.338.0
       with:
         bundler-cache: true
         working-directory: ./docs
@@ -50,12 +50,12 @@ jobs:
     steps:
 
     - name: ☑️ Checkout code
-      uses: actions/checkout@v7
+      uses: actions/checkout@v7.0.1
       with:
         fetch-depth: 0
 
     - name: 💎 Setup Ruby
-      uses: ruby/setup-ruby@v1
+      uses: ruby/setup-ruby@v1.338.0
       with:
         bundler-cache: true
         working-directory: ./docs
