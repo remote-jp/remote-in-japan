@@ -1,0 +1,25 @@
+# .github/workflows/actions.lock が workflow とずれている時や、固定したコミットが確かめられない時に落とす
+# 元: https://github.com/github/gh-actions-lock/blob/main/.github/workflows/verify-lockfile.yml
+
+name: verify-lockfile
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - run: gh extension install github/gh-actions-lock --pin v0.4.0
+      - run: gh actions-lock --verify

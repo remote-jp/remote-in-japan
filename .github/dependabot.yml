@@ -1,0 +1,12 @@
+# lockfile（.github/workflows/actions.lock）で固定した action を、Dependabot が lockfile ごと上げる
+# cooldown: 公開から 7 日経った版だけを提案する（乗っ取られた版を、取り下げられる前に入れない）
+version: 2
+updates:
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "20:00"
+  cooldown:
+    default-days: 7
+  open-pull-requests-limit: 10
