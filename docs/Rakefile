@@ -45,6 +45,12 @@ task test: [:build] do
   }
 
   HTMLProofer.check_directory('_site/', options).run
+
+  # 本文の無いファイル（所有権の確認用など）が sitemap.xml に載ると、Search Console がソフト 404 と報告する
+  locs = File.read('_site/sitemap.xml').scan(%r{<loc>(.*?)</loc>}).flatten
+  abort 'sitemap.xml has no top page' unless locs.include?('https://remotework.jp/')
+  non_pages = locs.grep(%r{/google\h+\.html\z})
+  abort "Non-content files in sitemap.xml: #{non_pages.join(', ')}" if non_pages.any?
 end
 
 # Enable 'build' to flush cache files via 'clean'
