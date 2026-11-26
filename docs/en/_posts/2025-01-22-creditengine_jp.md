@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/creditengine_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/376bf5d4e7d118c5b1d25107bc6c74cfe2c58db5
+update_url: https://github.com/remote-jp/remote-in-japan/pull/341
 date:       2025-01-22 14:53:44 +0900
 link:       https://creditengine.jp/en
 domain:     creditengine.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/fenrir-inc_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/5bf4a0d17ae322f8f3b3c657632321a1919274ea
+update_url: https://github.com/remote-jp/remote-in-japan/pull/347
 date:       2025-02-18 09:52:25 +0900
 link:       https://www.fenrir-inc.com/jp/
 domain:     fenrir-inc.com

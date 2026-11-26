@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/cloudnative_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/89e1f1688806345c25495d0c14f36990fae50fd9
+update_url: https://github.com/remote-jp/remote-in-japan/pull/396
 date:       2026-11-21 04:32:19 +0900
 link:       https://cloudnative.co.jp/
 domain:     cloudnative.co.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/chatwork_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cd941cda19893e105e655e37410ce88d64107212
+update_url: https://github.com/remote-jp/remote-in-japan/pull/107
 date:       2020-02-21 16:12:34 +0900
 link:       https://go.chatwork.com/
 domain:     chatwork.com

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/aqutras_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/305d98aa0152bd17377cc1e939ffed895d5a4caa
+update_url: https://github.com/remote-jp/remote-in-japan/pull/52
 date:       2017-06-28 20:15:37 +0900
 link:       https://www.aqutras.com/
 domain:     aqutras.com

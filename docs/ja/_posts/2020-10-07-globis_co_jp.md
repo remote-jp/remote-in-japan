@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/globis_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/27ed5185ad150ae8b028940244bfb74d7651ff7e
+update_url: https://github.com/remote-jp/remote-in-japan/pull/152
 date:       2020-10-07 09:25:52 +0900
 link:       https://www.globis.co.jp/
 domain:     globis.co.jp

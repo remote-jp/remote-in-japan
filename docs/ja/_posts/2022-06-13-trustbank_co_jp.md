@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/trustbank_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/fc884bac2b82f7c4d95dbb7a3980552b627fe260
+update_url: https://github.com/remote-jp/remote-in-japan/pull/249
 date:       2022-06-13 15:28:13 +0900
 link:       https://www.trustbank.co.jp
 domain:     trustbank.co.jp

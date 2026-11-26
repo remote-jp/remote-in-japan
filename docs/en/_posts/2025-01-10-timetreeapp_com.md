@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/timetreeapp_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/8b269f832e25904c76cf0c388b50b92cbd68fde7
+update_url: https://github.com/remote-jp/remote-in-japan/pull/320
 date:       2025-01-10 18:04:40 +0900
 link:       https://timetreeapp.com/intl/en/corporate
 domain:     timetreeapp.com

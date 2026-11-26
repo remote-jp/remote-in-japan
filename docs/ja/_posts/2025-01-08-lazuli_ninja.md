@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/lazuli_ninja
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/3f4f83f7f00c9e380a2810fa3481b266ae6bf121
+update_url: https://github.com/remote-jp/remote-in-japan/pull/308
 date:       2025-01-08 16:33:16 +0900
 link:       https://lazuli.ninja/
 domain:     lazuli.ninja

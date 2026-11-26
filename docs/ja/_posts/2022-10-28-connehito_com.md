@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/connehito_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1a6d7b06adae5d421e84674f7035f7f22564bbbe
+update_url: https://github.com/remote-jp/remote-in-japan/pull/261
 date:       2022-10-28 11:35:32 +0900
 link:       https://connehito.com/
 domain:     connehito.com

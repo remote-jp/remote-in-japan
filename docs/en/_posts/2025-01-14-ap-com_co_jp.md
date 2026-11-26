@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/ap-com_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/fe59305728fe46ca4067990695ad57c09ba8c59a
+update_url: https://github.com/remote-jp/remote-in-japan/pull/329
 date:       2025-01-14 12:40:17 +0900
 link:       https://www.ap-com.co.jp/en/
 domain:     ap-com.co.jp

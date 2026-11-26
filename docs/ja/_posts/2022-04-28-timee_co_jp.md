@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/timee_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b7cb8697433eb8616d0fe6f366b40c99521e04a2
+update_url: https://github.com/remote-jp/remote-in-japan/pull/244
 date:       2022-04-28 12:20:41 +0900
 link:       https://timee.co.jp/
 domain:     timee.co.jp

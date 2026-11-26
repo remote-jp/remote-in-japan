@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/shaperon-inc_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cec575a0a0ecd9cb7a6ce82e49da57d9617b3310
+update_url: https://github.com/remote-jp/remote-in-japan/pull/362
 date:       2025-11-04 14:46:35 +0900
 link:       https://shaperon-inc.com/
 domain:     shaperon-inc.com

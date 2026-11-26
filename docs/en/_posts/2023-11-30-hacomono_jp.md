@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/hacomono_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/13c6a0ad49c7bd4a39120c84eea4d1bd080dfc6b
+update_url: https://github.com/remote-jp/remote-in-japan/pull/282
 date:       2023-11-30 14:55:43 +0900
 link:       https://recruit.hacomono.jp/
 domain:     hacomono.jp

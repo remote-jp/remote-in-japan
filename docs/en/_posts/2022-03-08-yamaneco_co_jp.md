@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/yamaneco_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/789854e7be2d86c2bf745bddd3dd6555beb9df10
+update_url: https://github.com/remote-jp/remote-in-japan/pull/241
 date:       2022-03-08 17:58:40 +0900
 link:       https://www.yamaneco.co.jp/
 domain:     yamaneco.co.jp

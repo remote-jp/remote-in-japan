@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/findy_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/9b00d144a482b473059245a370232824e1a41a4b
+update_url: https://github.com/remote-jp/remote-in-japan/pull/275
 date:       2023-07-19 10:27:29 +0900
 link:       https://findy.co.jp/
 domain:     findy.co.jp

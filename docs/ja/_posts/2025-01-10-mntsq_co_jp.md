@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/mntsq_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/76391354f52a87f50e48d9083cfb5b0641ae4057
+update_url: https://github.com/remote-jp/remote-in-japan/pull/319
 date:       2025-01-10 17:40:23 +0900
 link:       https://www.mntsq.co.jp/
 domain:     mntsq.co.jp

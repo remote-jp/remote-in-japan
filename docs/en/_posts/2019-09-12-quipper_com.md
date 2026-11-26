@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/quipper_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/d3bb8e010722496dba47e61c50055f71b8bc5e48
+update_url: https://github.com/remote-jp/remote-in-japan/pull/81
 date:       2019-09-12 11:34:58 +0900
 link:       https://www.quipper.com
 domain:     quipper.com

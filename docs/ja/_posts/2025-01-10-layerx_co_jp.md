@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/layerx_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/377017959289228275a7000a68b36da91de0321a
+update_url: https://github.com/remote-jp/remote-in-japan/pull/315
 date:       2025-01-10 15:01:23 +0900
 link:       https://layerx.co.jp/
 domain:     layerx.co.jp

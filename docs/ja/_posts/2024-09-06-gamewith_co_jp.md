@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/gamewith_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/68a511dd08061fac8a0a9cfdbac130bff787ee2b
+update_url: https://github.com/remote-jp/remote-in-japan/pull/297
 date:       2024-09-06 19:11:52 +0900
 link:       https://gamewith.co.jp/
 domain:     gamewith.co.jp

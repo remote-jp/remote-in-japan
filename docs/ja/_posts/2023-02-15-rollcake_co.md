@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/rollcake_co
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/f31ef56eb10522531dd30598945c47d8c4a75896
+update_url: https://github.com/remote-jp/remote-in-japan/pull/266
 date:       2023-02-15 12:27:39 +0900
 link:       https://rollcake.co/
 domain:     rollcake.co

@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/kraken_tech
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/f129c8109c823b8bd25381503d3d537a1caeacaf
+update_url: https://github.com/remote-jp/remote-in-japan/pull/247
 date:       2022-05-22 23:18:33 +0900
 link:       https://kraken.tech/
 domain:     kraken.tech

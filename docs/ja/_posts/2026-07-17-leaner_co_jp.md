@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/leaner_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/71242d78d2eedeffa0ec4a8dba20007730200222
+update_url: https://github.com/remote-jp/remote-in-japan/pull/380
 date:       2026-07-17 13:50:43 +0900
 link:       https://leaner.co.jp/
 domain:     leaner.co.jp

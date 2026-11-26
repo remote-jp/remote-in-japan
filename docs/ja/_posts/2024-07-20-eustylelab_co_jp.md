@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/eustylelab_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/947004e023b70a9e466fee708d560457c1e51364
+update_url: https://github.com/remote-jp/remote-in-japan/pull/291
 date:       2024-07-20 21:28:45 +0900
 link:       https://eustylelab.co.jp/
 domain:     eustylelab.co.jp

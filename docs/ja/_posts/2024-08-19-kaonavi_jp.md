@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/kaonavi_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/9b024e5a496c3b4259485c25e278b518f8cfcf0a
+update_url: https://github.com/remote-jp/remote-in-japan/pull/295
 date:       2024-08-19 17:03:09 +0900
 link:       https://corp.kaonavi.jp/
 domain:     kaonavi.jp

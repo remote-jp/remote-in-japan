@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/ahunrupar_co
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/5a38221dffcae729e60468a985bb4f2828c23c08
+update_url: https://github.com/remote-jp/remote-in-japan/pull/29
 date:       2015-09-09 11:46:37 +0900
 link:       http://www.ahunrupar.co/
 domain:     ahunrupar.co

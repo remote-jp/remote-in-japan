@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/fuller-inc_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b500dd93cf3afa2f928a410fa12fe17d6456e2fe
+update_url: https://github.com/remote-jp/remote-in-japan/pull/171
 date:       2020-10-29 11:15:51 +0900
 link:       https://fuller-inc.com
 domain:     fuller-inc.com

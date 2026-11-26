@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/spinetta_tech
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/123e5fc59e35f30097401faf1d2a0eef915dcb59
+update_url: https://github.com/remote-jp/remote-in-japan/pull/78
 date:       2019-07-24 16:03:29 +0900
 link:       https://spinetta.tech
 domain:     spinetta.tech

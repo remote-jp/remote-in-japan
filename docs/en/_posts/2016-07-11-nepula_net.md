@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/nepula_net
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/08904c2262df25da00271ffe43093ed861e6d679
+update_url: https://github.com/remote-jp/remote-in-japan/pull/45
 date:       2016-07-11 18:05:46 +0900
 link:       https://www.nepula.net/
 domain:     nepula.net

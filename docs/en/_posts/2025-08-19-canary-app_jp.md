@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/canary-app_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dcde60a2371c4805ba1b35f461c99c32c3f34a66
+update_url: https://github.com/remote-jp/remote-in-japan/pull/360
 date:       2025-08-19 13:34:16 +0900
 link:       https://corp.canary-app.jp/
 domain:     canary-app.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/boostdraft_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/f0c15304c604e7c9763c467756e25a4e8fbd0455
+update_url: https://github.com/remote-jp/remote-in-japan/pull/337
 date:       2025-01-16 18:57:16 +0900
 link:       https://boostdraft.com/
 domain:     boostdraft.com

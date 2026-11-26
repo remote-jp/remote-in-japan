@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/sonicgarden_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1c12b4b2c55617d978a857740293795c4e7580ad
+update_url: https://github.com/remote-jp/remote-in-japan/pull/36
 date:       2015-11-11 22:46:21 +0900
 link:       https://www.sonicgarden.jp/
 domain:     sonicgarden.jp

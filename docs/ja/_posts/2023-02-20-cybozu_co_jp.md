@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/cybozu_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/e1cc2ffbcd4db49c66e472587ca02dc35cea6966
+update_url: https://github.com/remote-jp/remote-in-japan/pull/267
 date:       2023-02-20 09:32:31 +0900
 link:       https://cybozu.co.jp/
 domain:     cybozu.co.jp

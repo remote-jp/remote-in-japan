@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/ruffnote_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/32992291dfd50e8e7598bc3c7269ae005109d3de
+update_url: https://github.com/remote-jp/remote-in-japan/pull/38
 date:       2015-12-09 12:05:28 +0900
 link:       https://co.ruffnote.com/
 domain:     ruffnote.com

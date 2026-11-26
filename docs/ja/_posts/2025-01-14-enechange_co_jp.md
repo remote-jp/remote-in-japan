@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/enechange_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/247663346bf5de43f883ef57018ff10b172f5700
+update_url: https://github.com/remote-jp/remote-in-japan/pull/330
 date:       2025-01-14 18:01:30 +0900
 link:       https://enechange.co.jp/
 domain:     enechange.co.jp

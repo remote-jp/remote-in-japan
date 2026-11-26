@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/enito_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cc708979d611726729730286db8f5bcb53a1aad8
+update_url: https://github.com/remote-jp/remote-in-japan/pull/304
 date:       2025-01-07 17:58:09 +0900
 link:       https://enito.co.jp/
 domain:     enito.co.jp

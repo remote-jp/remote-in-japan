@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/bebit_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/f92df8c6700ff249a17c8c833d9ee7a63286fc02
+update_url: https://github.com/remote-jp/remote-in-japan/pull/240
 date:       2022-02-27 23:01:38 +0900
 link:       https://www.bebit.co.jp/
 domain:     bebit.co.jp

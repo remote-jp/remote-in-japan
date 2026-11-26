@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/tsukulink_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/c19d3cab59915b86ed3b2c5f2eca5733153f9ddd
+update_url: https://github.com/remote-jp/remote-in-japan/pull/288
 date:       2024-07-08 15:49:22 +0900
 link:       https://tsukulink.co.jp/
 domain:     tsukulink.co.jp

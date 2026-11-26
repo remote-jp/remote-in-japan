@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/spacely_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/ca771745e089ae0938863b64c5210b2e39bb39c9
+update_url: https://github.com/remote-jp/remote-in-japan/pull/335
 date:       2025-01-16 12:08:36 +0900
 link:       https://corp.spacely.co.jp/recruit/
 domain:     spacely.co.jp

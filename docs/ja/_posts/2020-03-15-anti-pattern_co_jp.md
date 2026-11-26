@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/anti-pattern_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/bcfb0960b832a08b6ddc516153480cb257adbbcd
+update_url: https://github.com/remote-jp/remote-in-japan/pull/121
 date:       2020-03-15 13:46:22 +0900
 link:       https://anti-pattern.co.jp/
 domain:     anti-pattern.co.jp

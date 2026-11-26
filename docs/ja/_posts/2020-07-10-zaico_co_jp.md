@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/zaico_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cd2d79341eb81b1c24280808ca5d071d430a4729
+update_url: https://github.com/remote-jp/remote-in-japan/pull/135
 date:       2020-07-10 11:39:47 +0900
 link:       https://www.zaico.co.jp/
 domain:     zaico.co.jp

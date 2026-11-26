@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/mobalab_net
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/09eed4c30d0348ec41403db70fe45d15ddc29150
+update_url: https://github.com/remote-jp/remote-in-japan/pull/368
 date:       2026-03-25 17:49:49 +0900
 link:       https://mobalab.net/
 domain:     mobalab.net

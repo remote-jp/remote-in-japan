@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/kaizenplatform_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/844c15c30459960ca8226844089b4f19f517d1fd
+update_url: https://github.com/remote-jp/remote-in-japan/pull/154
 date:       2020-10-08 14:42:06 +0900
 link:       https://kaizenplatform.com/
 domain:     kaizenplatform.com

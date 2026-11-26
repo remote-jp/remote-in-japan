@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/arent_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/78bf8d0e79376d08b6a1cda76f9e5a1d4ea7f066
+update_url: https://github.com/remote-jp/remote-in-japan/pull/397
 date:       2026-11-26 12:42:17 +0900
 link:       https://arent.co.jp/
 domain:     arent.co.jp

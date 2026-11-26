@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/creationline_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/11156207a72ea4ebc9cbead93fd96cb4ddb44b70
+update_url: https://github.com/remote-jp/remote-in-japan/pull/196
 date:       2021-04-26 14:56:28 +0900
 link:       https://www.creationline.com/
 domain:     creationline.com

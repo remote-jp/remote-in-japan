@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/yumenosora_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/c15c109088050eabec522eaca426aad8f6af17b2
+update_url: https://github.com/remote-jp/remote-in-japan/pull/189
 date:       2021-03-11 00:27:37 +0900
 link:       https://yumenosora.co.jp/tora-lab/
 domain:     yumenosora.co.jp

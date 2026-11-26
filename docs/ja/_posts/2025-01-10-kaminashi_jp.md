@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/kaminashi_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cfda5b9ebc88bd65645ed76a844bdcd7687bc0dd
+update_url: https://github.com/remote-jp/remote-in-japan/pull/317
 date:       2025-01-10 17:05:59 +0900
 link:       https://corp.kaminashi.jp/
 domain:     kaminashi.jp

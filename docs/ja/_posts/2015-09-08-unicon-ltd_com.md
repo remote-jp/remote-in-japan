@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/unicon-ltd_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dfad790716145551bee212bd326fb1803714a2cd
+update_url: https://github.com/remote-jp/remote-in-japan/pull/25
 date:       2015-09-08 18:35:31 +0900
 link:       http://www.unicon-ltd.com/
 domain:     unicon-ltd.com

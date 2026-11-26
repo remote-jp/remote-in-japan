@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/raccoon_ne_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/c642b19fcf2bb44e04bf3e9c83c4f7ac3271c0bf
+update_url: https://github.com/remote-jp/remote-in-japan/pull/324
 date:       2025-01-11 20:13:53 +0900
 link:       https://www.raccoon.ne.jp/
 domain:     raccoon.ne.jp

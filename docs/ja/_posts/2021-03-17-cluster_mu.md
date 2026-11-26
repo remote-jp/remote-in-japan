@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/cluster_mu
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/ec5fa9390aadd798c6023553e5c8671da9f777fb
+update_url: https://github.com/remote-jp/remote-in-japan/pull/190
 date:       2021-03-17 21:16:33 +0900
 link:       https://corp.cluster.mu/
 domain:     cluster.mu

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/hoobby_net
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/724b6aaa25177eb1c05beb01d6b70e7cccf3c6d6
+update_url: https://github.com/remote-jp/remote-in-japan/pull/312
 date:       2025-01-09 12:27:29 +0900
 link:       https://corp.hoobby.net/
 domain:     hoobby.net

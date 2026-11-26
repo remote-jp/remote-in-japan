@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/greff_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/6c8b3525fa0fb8da716569bb5001ab83ab759a1a
+update_url: https://github.com/remote-jp/remote-in-japan/pull/373
 date:       2026-06-05 19:03:22 +0900
 link:       https://www.greff.co.jp/
 domain:     greff.co.jp

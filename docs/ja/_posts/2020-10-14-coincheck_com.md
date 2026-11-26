@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/coincheck_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dae0e2d018778b24338acc5c8cfa9adb6d7ca09c
+update_url: https://github.com/remote-jp/remote-in-japan/pull/161
 date:       2020-10-14 16:57:36 +0900
 link:       https://corporate.coincheck.com/recruit/
 domain:     coincheck.com

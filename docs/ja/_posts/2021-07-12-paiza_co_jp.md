@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/paiza_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/10eebb5f9c625af1bb7038e9bd84fb44e9cdf214
+update_url: https://github.com/remote-jp/remote-in-japan/pull/216
 date:       2021-07-12 22:41:38 +0900
 link:       https://www.paiza.co.jp/
 domain:     paiza.co.jp

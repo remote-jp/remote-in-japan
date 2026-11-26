@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/acompany_tech
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/8f25d001baa0d95daa8c2cbce022cfcf2b47da47
+update_url: https://github.com/remote-jp/remote-in-japan/pull/344
 date:       2025-01-29 15:53:08 +0900
 link:       https://acompany.tech/
 domain:     acompany.tech

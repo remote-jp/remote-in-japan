@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/circleci_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/6dca5fb20de72e2bf0e88ed0923fd71fb0afd722
+update_url: https://github.com/remote-jp/remote-in-japan/pull/60
 date:       2018-10-04 09:37:14 +0900
 link:       https://circleci.com/
 domain:     circleci.com

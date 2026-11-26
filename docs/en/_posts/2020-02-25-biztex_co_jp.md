@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/biztex_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/552fed65743f6edf9574520d6999d6621260f5a5
+update_url: https://github.com/remote-jp/remote-in-japan/pull/112
 date:       2020-02-25 14:51:11 +0900
 link:       https://www.biztex.co.jp/
 domain:     biztex.co.jp

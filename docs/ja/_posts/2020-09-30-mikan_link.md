@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/mikan_link
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/76d6c5de17dfbf5ee1cfe22e3ed2b28479c64527
+update_url: https://github.com/remote-jp/remote-in-japan/commit/76d6c5de17dfbf5ee1cfe22e3ed2b28479c64527
 date:       2020-09-30 19:56:18 +0900
 link:       https://mikan.link/
 domain:     mikan.link

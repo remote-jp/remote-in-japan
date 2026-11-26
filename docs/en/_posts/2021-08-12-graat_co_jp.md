@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/graat_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/f2d09e53cbe7d2972b1f0641add567f0171b911f
+update_url: https://github.com/remote-jp/remote-in-japan/pull/220
 date:       2021-08-12 16:50:03 +0900
 link:       https://www.graat.co.jp/
 domain:     graat.co.jp

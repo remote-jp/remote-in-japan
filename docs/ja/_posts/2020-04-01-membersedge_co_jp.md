@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/membersedge_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/3d17f58b82331142de661f6d73b507875fd71a40
+update_url: https://github.com/remote-jp/remote-in-japan/pull/126
 date:       2020-04-01 10:31:01 +0900
 link:       https://www.membersedge.co.jp/
 domain:     membersedge.co.jp

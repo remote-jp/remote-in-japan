@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/mobilefactory_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dcf52c8e50637942d39455750a8078a74afb3e1e
+update_url: https://github.com/remote-jp/remote-in-japan/pull/179
 date:       2020-12-09 14:34:46 +0900
 link:       https://en.mobilefactory.jp/
 domain:     mobilefactory.jp

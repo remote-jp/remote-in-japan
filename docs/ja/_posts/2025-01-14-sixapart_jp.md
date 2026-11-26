@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/sixapart_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/a2edc41ee8cad36722586e1d473ccc17d446a42c
+update_url: https://github.com/remote-jp/remote-in-japan/pull/325
 date:       2025-01-14 09:49:47 +0900
 link:       https://www.sixapart.jp
 domain:     sixapart.jp

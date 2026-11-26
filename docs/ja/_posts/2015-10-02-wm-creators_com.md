@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/wm-creators_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/e19644f026f3b89518395c20dd6d8f10edd87113
+update_url: https://github.com/remote-jp/remote-in-japan/pull/34
 date:       2015-10-02 04:03:18 +0900
 link:       https://wm-creators.com/
 domain:     wm-creators.com

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/paypay_ne_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/da331c7b8a907413399ec9b04eb5c79a22da0851
+update_url: https://github.com/remote-jp/remote-in-japan/pull/172
 date:       2020-11-04 17:43:44 +0900
 link:       https://about.paypay.ne.jp
 domain:     paypay.ne.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/ubiregi_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/ab08644f799e23a07e5d5dfb5da51f845827659d
+update_url: https://github.com/remote-jp/remote-in-japan/pull/17
 date:       2015-09-07 17:34:23 +0900
 link:       https://ubiregi.com/
 domain:     ubiregi.com

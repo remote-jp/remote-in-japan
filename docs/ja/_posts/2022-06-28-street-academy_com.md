@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/street-academy_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/ebf50bde91c365892457923d5c152267587f2fe4
+update_url: https://github.com/remote-jp/remote-in-japan/pull/251
 date:       2022-06-28 18:13:05 +0900
 link:       https://corp.street-academy.com/
 domain:     street-academy.com

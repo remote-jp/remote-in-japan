@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/yasslab_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/291a70a86317c68ce42ba4331b0642a2168b61ea
+update_url: https://github.com/remote-jp/remote-in-japan/commit/291a70a86317c68ce42ba4331b0642a2168b61ea
 date:       2025-04-25 22:31:48 +0900
 link:       https://yasslab.jp/ja/
 domain:     yasslab.jp

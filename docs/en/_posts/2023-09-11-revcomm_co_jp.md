@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/revcomm_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/f6f3b70df504985894a1bc42c5e5a352dd830cfb
+update_url: https://github.com/remote-jp/remote-in-japan/pull/277
 date:       2023-09-11 15:55:31 +0900
 link:       https://www.revcomm.co.jp/
 domain:     revcomm.co.jp

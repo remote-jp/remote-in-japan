@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/smarthr_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/bc8370324cb02dcd9e3fc2f6fad66b1b6541edce
+update_url: https://github.com/remote-jp/remote-in-japan/pull/149
 date:       2020-09-17 12:14:35 +0900
 link:       https://hello-world.smarthr.co.jp/
 domain:     smarthr.co.jp

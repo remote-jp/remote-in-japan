@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/yumemi_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/49fde160a65e1e9cccea0d6c43e1d8ce06f2fa84
+update_url: https://github.com/remote-jp/remote-in-japan/pull/155
 date:       2020-10-26 18:33:37 +0900
 link:       https://www.yumemi.co.jp/
 domain:     yumemi.co.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/portion_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/86f3f4460513f0db4085efd8a6589c73b2f7183d
+update_url: https://github.com/remote-jp/remote-in-japan/pull/281
 date:       2023-10-17 16:15:24 +0900
 link:       https://www.portion.co.jp/
 domain:     portion.co.jp

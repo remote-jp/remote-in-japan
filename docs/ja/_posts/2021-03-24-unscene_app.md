@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/unscene_app
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/4e3dab585175c0c1073979dc41ff5b5356d1c5cf
+update_url: https://github.com/remote-jp/remote-in-japan/pull/193
 date:       2021-03-24 15:34:58 +0900
 link:       https://unscene.app
 domain:     unscene.app

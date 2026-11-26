@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/nohana_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/c09dcab6fb956d29308b1226608014dde246ebaf
+update_url: https://github.com/remote-jp/remote-in-japan/pull/98
 date:       2020-02-17 14:45:20 +0900
 link:       https://nohana.co.jp
 domain:     nohana.co.jp

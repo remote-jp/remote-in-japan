@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/uzumaki-inc_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/4dc19030f295a8a10521440622d9342f393c527e
+update_url: https://github.com/remote-jp/remote-in-japan/pull/245
 date:       2022-05-12 18:38:52 +0900
 link:       https://uzumaki-inc.jp
 domain:     uzumaki-inc.jp

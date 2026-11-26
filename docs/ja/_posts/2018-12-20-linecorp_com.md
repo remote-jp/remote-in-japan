@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/linecorp_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/604ec14d65cbca081ebd6aa5f432a0528727cf16
+update_url: https://github.com/remote-jp/remote-in-japan/pull/65
 date:       2018-12-20 23:17:31 +0900
 link:       https://linecorp.com/ja/
 domain:     linecorp.com

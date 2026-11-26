@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/xincere_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dc46f93530ae01ccaa41528fdaa12a70a997562e
+update_url: https://github.com/remote-jp/remote-in-japan/pull/199
 date:       2021-04-28 09:30:30 +0900
 link:       https://corp.xincere.jp/
 domain:     xincere.jp

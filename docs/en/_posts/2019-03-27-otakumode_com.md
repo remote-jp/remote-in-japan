@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/otakumode_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/4db12e3f94c83b93653e3f331c5aa97aef7ed595
+update_url: https://github.com/remote-jp/remote-in-japan/pull/72
 date:       2019-03-27 18:02:01 +0900
 link:       https://corporate.otakumode.com/
 domain:     otakumode.com

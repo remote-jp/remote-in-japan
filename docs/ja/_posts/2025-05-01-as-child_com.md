@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/as-child_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/657188ecfc81d5812d97d60a86a5d9a3906c7f79
+update_url: https://github.com/remote-jp/remote-in-japan/pull/355
 date:       2025-05-01 14:08:06 +0900
 link:       https://www.as-child.com/
 domain:     as-child.com

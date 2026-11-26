@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/quo-digital_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/fabb407e8e2120698c1b97e88aa96341d1783cd4
+update_url: https://github.com/remote-jp/remote-in-japan/pull/299
 date:       2024-09-26 08:28:08 +0900
 link:       https://quo-digital.jp/
 domain:     quo-digital.jp

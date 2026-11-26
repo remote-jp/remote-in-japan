@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/sencorp_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/095fb0e3f56e5ad560c9baea6a6f3b9ddf43b745
+update_url: https://github.com/remote-jp/remote-in-japan/pull/364
 date:       2025-11-21 13:38:25 +0900
 link:       https://sencorp.co.jp/
 domain:     sencorp.co.jp

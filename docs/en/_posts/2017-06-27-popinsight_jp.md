@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/popinsight_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/88225de1232b84bad8993b2decff2ebbef803354
+update_url: https://github.com/remote-jp/remote-in-japan/pull/51
 date:       2017-06-27 18:14:37 +0900
 link:       https://popinsight.jp/
 domain:     popinsight.jp

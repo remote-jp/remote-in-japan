@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/cloud-ace_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/715ea3c66d95412cde39f96216ec533f58972dbc
+update_url: https://github.com/remote-jp/remote-in-japan/pull/209
 date:       2021-05-16 11:56:15 +0900
 link:       https://www.cloud-ace.com/
 domain:     cloud-ace.com

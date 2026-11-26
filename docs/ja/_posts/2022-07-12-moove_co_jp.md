@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/moove_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/062e67f6a735c03abcc4819bbd3fe98031dced7b
+update_url: https://github.com/remote-jp/remote-in-japan/pull/253
 date:       2022-07-12 13:20:23 +0900
 link:       https://moove.co.jp/
 domain:     moove.co.jp

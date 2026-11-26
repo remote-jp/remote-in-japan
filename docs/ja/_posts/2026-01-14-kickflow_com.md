@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/kickflow_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/a3db41b5ec8f585c07cd0804ef6661acf1675463
+update_url: https://github.com/remote-jp/remote-in-japan/pull/365
 date:       2026-01-14 10:21:57 +0900
 link:       https://kickflow.com/
 domain:     kickflow.com

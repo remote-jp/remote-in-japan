@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/uzabase_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/ffaa20e1f464e75422b6dbf7c404de55b151abe4
+update_url: https://github.com/remote-jp/remote-in-japan/pull/174
 date:       2020-11-04 18:34:53 +0900
 link:       https://www.uzabase.com/
 domain:     uzabase.com

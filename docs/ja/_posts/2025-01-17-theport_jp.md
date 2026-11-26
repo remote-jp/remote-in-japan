@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/theport_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/6e3653c749b3ecef38dec06c0fbcaf6fbfc6c6e9
+update_url: https://github.com/remote-jp/remote-in-japan/pull/339
 date:       2025-01-17 15:53:10 +0900
 link:       https://www.theport.jp/
 domain:     theport.jp

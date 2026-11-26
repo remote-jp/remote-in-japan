@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/asobica_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/742ad0db2c77e4c0e60b6955816a363a12ec1447
+update_url: https://github.com/remote-jp/remote-in-japan/pull/333
 date:       2025-01-16 02:50:41 +0900
 link:       https://asobica.co.jp/
 domain:     asobica.co.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/qubena_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/2e87c90eb750762bdc97f847d4fdb677ce909ae7
+update_url: https://github.com/remote-jp/remote-in-japan/pull/326
 date:       2025-01-14 12:08:27 +0900
 link:       https://qubena.com/
 domain:     qubena.com

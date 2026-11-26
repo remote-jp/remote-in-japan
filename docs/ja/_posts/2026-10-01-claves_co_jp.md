@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/claves_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/e5fa1f3fd515399e13c8b43312209d72b651634d
+update_url: https://github.com/remote-jp/remote-in-japan/pull/382
 date:       2026-10-01 19:40:11 +0900
 link:       https://www.claves.co.jp/
 domain:     claves.co.jp

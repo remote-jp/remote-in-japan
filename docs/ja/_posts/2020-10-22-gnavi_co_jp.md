@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/gnavi_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b768f81d852d3e855e7a3efb34de8aaf40c68bbd
+update_url: https://github.com/remote-jp/remote-in-japan/pull/166
 date:       2020-10-22 14:11:35 +0900
 link:       https://corporate.gnavi.co.jp/recruit/
 domain:     gnavi.co.jp

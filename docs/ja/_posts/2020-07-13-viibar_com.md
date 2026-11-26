@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/viibar_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/d1a8fff22044dc017cb1e9358490778bc76795e1
+update_url: https://github.com/remote-jp/remote-in-japan/pull/137
 date:       2020-07-13 11:43:33 +0900
 link:       https://viibar.com/
 domain:     viibar.com

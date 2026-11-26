@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/flect_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/2b01815a41126462bd036edc41832676bb7db671
+update_url: https://github.com/remote-jp/remote-in-japan/pull/200
 date:       2021-04-28 17:25:15 +0900
 link:       https://www.flect.co.jp//
 domain:     flect.co.jp

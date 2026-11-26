@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/wamazing_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/d9b39b4e26a8528099daf7933a92f95cb5fc31e8
+update_url: https://github.com/remote-jp/remote-in-japan/pull/234
 date:       2021-11-12 14:25:59 +0900
 link:       https://corp.wamazing.com/
 domain:     wamazing.com

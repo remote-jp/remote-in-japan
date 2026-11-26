@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/autify_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/3ee66b4f52f5e67fb88a45002bfc1247b1f27c7b
+update_url: https://github.com/remote-jp/remote-in-japan/pull/191
 date:       2021-03-22 23:55:00 +0900
 link:       https://autify.com/ja
 domain:     autify.com

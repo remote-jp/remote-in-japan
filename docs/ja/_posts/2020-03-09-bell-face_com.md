@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/bell-face_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/6fa833e2a6907514806f3d0aeeb6ae3aae45ff53
+update_url: https://github.com/remote-jp/remote-in-japan/pull/122
 date:       2020-03-09 00:59:44 +0900
 link:       https://corp.bell-face.com/
 domain:     bell-face.com

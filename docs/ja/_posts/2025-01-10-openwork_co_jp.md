@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/openwork_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/8a24c52c7b8c873d6f9850a4c198d649bc047cb6
+update_url: https://github.com/remote-jp/remote-in-japan/pull/321
 date:       2025-01-10 18:57:19 +0900
 link:       https://www.openwork.co.jp/
 domain:     openwork.co.jp

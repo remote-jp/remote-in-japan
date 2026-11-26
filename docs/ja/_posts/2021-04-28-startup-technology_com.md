@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/startup-technology_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/0497426ad21d57856ad3724ccb8de49d0e82816f
+update_url: https://github.com/remote-jp/remote-in-japan/pull/201
 date:       2021-04-28 17:53:27 +0900
 link:       https://startup-technology.com
 domain:     startup-technology.com

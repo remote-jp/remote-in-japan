@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/moneyforward_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/8def343c71912a9e79ca31e369ae99bb8ce50b31
+update_url: https://github.com/remote-jp/remote-in-japan/pull/156
 date:       2020-10-08 15:39:32 +0900
 link:       https://corp.moneyforward.com/recruit/
 domain:     moneyforward.com

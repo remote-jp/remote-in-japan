@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/beproud_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/e66b1354afa4de58052a22e3248bc52582a43ec4
+update_url: https://github.com/remote-jp/remote-in-japan/pull/22
 date:       2015-09-08 13:22:28 +0900
 link:       https://www.beproud.jp/
 domain:     beproud.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/tam-bourine_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/67ffc6d9757da7ad6f66e4ae3ad49d065fd00a07
+update_url: https://github.com/remote-jp/remote-in-japan/pull/208
 date:       2021-05-14 16:16:16 +0900
 link:       https://www.tam-bourine.co.jp/
 domain:     tam-bourine.co.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/rainforestqa_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/af80dfd2b8dbc7b597848ed553fe045923c09e3e
+update_url: https://github.com/remote-jp/remote-in-japan/pull/68
 date:       2019-01-28 11:46:28 +0900
 link:       https://rainforestqa.com/
 domain:     rainforestqa.com

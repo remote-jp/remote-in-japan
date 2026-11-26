@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/studist_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1a7d97f682a610f743a233153718fa495eea3897
+update_url: https://github.com/remote-jp/remote-in-japan/pull/334
 date:       2025-01-10 18:28:20 +0900
 link:       https://studist.jp/
 domain:     studist.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/corp-sansan_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b8c055640e71ae87e8e4fcb69774970f683d0594
+update_url: https://github.com/remote-jp/remote-in-japan/commit/b8c055640e71ae87e8e4fcb69774970f683d0594
 date:       2015-09-07 16:30:06 +0900
 link:       https://jp.corp-sansan.com/
 domain:     corp-sansan.com

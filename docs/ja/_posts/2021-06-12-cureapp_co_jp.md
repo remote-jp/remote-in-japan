@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/cureapp_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/137c578acdf04d240015e580aecc6ed25d93a1ff
+update_url: https://github.com/remote-jp/remote-in-japan/pull/212
 date:       2021-06-12 12:26:06 +0900
 link:       https://cureapp.co.jp/
 domain:     cureapp.co.jp

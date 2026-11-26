@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/bitcoinbank_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/3d1d81d505d0f6a3a7be0bfa78829ec963d070ec
+update_url: https://github.com/remote-jp/remote-in-japan/pull/167
 date:       2020-10-26 18:21:49 +0900
 link:       https://bitcoinbank.co.jp/en
 domain:     bitcoinbank.co.jp

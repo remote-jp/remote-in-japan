@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/photoruction_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/3372162413530adff597f81109ea6121be030cc2
+update_url: https://github.com/remote-jp/remote-in-japan/pull/226
 date:       2021-09-21 00:13:15 +0900
 link:       https://corporate.photoruction.com/
 domain:     photoruction.com

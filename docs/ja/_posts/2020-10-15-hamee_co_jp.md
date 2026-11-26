@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/hamee_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/4e4e7c84b3ba4ab576f84396d0b9251595e3b01c
+update_url: https://github.com/remote-jp/remote-in-japan/pull/162
 date:       2020-10-15 18:44:50 +0900
 link:       https://recruit.hamee.co.jp/about
 domain:     hamee.co.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/takeyuweb_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/857acb6c95e0c77f8e93f2eefad36af139bdbdb5
+update_url: https://github.com/remote-jp/remote-in-japan/pull/70
 date:       2019-02-07 22:17:27 +0900
 link:       https://takeyuweb.co.jp
 domain:     takeyuweb.co.jp

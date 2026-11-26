@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/pepabo_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/c8cb09abbe833e71f5629d8b614a8e5897ce0545
+update_url: https://github.com/remote-jp/remote-in-japan/pull/250
 date:       2022-06-19 11:59:56 +0900
 link:       https://pepabo.com/
 domain:     pepabo.com

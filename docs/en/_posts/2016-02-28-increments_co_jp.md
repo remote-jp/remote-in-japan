@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/increments_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/b69dfeba9256bf20978bc929423c5c439b808250
+update_url: https://github.com/remote-jp/remote-in-japan/pull/41
 date:       2016-02-28 20:19:13 +0900
 link:       https://increments.co.jp/
 domain:     increments.co.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/fundbook_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/00fb55935ae3b97ff4be05da0fab76f443cc73b8
+update_url: https://github.com/remote-jp/remote-in-japan/pull/128
 date:       2020-04-20 14:10:20 +0900
 link:       https://fundbook.co.jp
 domain:     fundbook.co.jp

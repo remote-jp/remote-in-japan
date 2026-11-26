@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/yahoo_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/87c6d4a4c34c548f0b5e6de6a4737bd67ef36e47
+update_url: https://github.com/remote-jp/remote-in-japan/pull/169
 date:       2020-10-28 09:53:15 +0900
 link:       https://about.yahoo.co.jp/hr/
 domain:     yahoo.co.jp

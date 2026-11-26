@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/somewrite_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/e0b6bf7086877ca219bab94e5e4fa86851570085
+update_url: https://github.com/remote-jp/remote-in-japan/pull/19
 date:       2015-09-08 00:24:00 +0900
 link:       https://somewrite.com/
 domain:     somewrite.com

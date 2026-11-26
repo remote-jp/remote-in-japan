@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/grooves_com_my
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/9ee7f7b0faa72fba44f47003d8f648dfe1ed9d84
+update_url: https://github.com/remote-jp/remote-in-japan/pull/77
 date:       2019-05-10 16:46:52 +0900
 link:       https://grooves.com.my/
 domain:     grooves.com.my

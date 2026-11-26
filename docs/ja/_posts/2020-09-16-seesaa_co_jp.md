@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/seesaa_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cdf6f15cccaa32f875c421f78696132462c80f48
+update_url: https://github.com/remote-jp/remote-in-japan/pull/146
 date:       2020-09-16 11:47:38 +0900
 link:       https://www.seesaa.co.jp/
 domain:     seesaa.co.jp

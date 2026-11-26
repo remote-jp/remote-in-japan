@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/nikkei_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/135171439d5050f1634b37c906e971b79d1e9742
+update_url: https://github.com/remote-jp/remote-in-japan/pull/255
 date:       2022-09-01 15:01:36 +0900
 link:       https://www.nikkei.co.jp/nikkeiinfo/
 domain:     nikkei.co.jp

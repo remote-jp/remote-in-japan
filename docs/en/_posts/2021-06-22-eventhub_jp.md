@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/eventhub_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/2f1135bdaead02eb0ef9a974da9236f1847dc024
+update_url: https://github.com/remote-jp/remote-in-japan/pull/214
 date:       2021-06-22 11:33:28 +0900
 link:       https://eventhub.jp/
 domain:     eventhub.jp

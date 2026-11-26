@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/ticketjam_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/3661d6fa53d323e39c686da15bd0ccc73919ca7a
+update_url: https://github.com/remote-jp/remote-in-japan/pull/280
 date:       2023-10-17 11:03:24 +0900
 link:       https://ticketjam.jp/
 domain:     ticketjam.jp

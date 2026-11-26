@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/classmethod_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/f34e0f86a9b08dd70ef8a6912f92f6ca7f99691d
+update_url: https://github.com/remote-jp/remote-in-japan/pull/259
 date:       2022-10-14 13:09:40 +0900
 link:       https://classmethod.jp/
 domain:     classmethod.jp

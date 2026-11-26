@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/socialdog_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/4c6d62e2551c3bae42c5d9ea4903677eeae2dbd6
+update_url: https://github.com/remote-jp/remote-in-japan/pull/310
 date:       2025-01-08 19:38:53 +0900
 link:       https://socialdog.jp/
 domain:     socialdog.jp

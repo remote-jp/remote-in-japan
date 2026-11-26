@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/pxgrid_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/d27c0d06c44e6691170db792964889125937e19a
+update_url: https://github.com/remote-jp/remote-in-japan/pull/48
 date:       2016-08-22 15:10:02 +0900
 link:       https://www.pxgrid.com
 domain:     pxgrid.com

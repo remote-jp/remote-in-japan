@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/doctormate_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/df8e08298cef6ea531c0dd60f593247018cf5f7a
+update_url: https://github.com/remote-jp/remote-in-japan/pull/284
 date:       2024-04-09 08:56:44 +0900
 link:       https://doctormate.co.jp/
 domain:     doctormate.co.jp

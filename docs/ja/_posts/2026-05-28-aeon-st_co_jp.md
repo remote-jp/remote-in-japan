@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/aeon-st_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/077c283f706167a7388a2eccde19a37287c655e9
+update_url: https://github.com/remote-jp/remote-in-japan/pull/371
 date:       2026-05-28 13:41:43 +0900
 link:       https://www.aeon-st.co.jp/
 domain:     aeon-st.co.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/mazrica_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/3f776e11b07a11b1e04bb727a3d2db0d79f526ea
+update_url: https://github.com/remote-jp/remote-in-japan/pull/97
 date:       2020-02-11 17:21:56 +0900
 link:       https://mazrica.com
 domain:     mazrica.com

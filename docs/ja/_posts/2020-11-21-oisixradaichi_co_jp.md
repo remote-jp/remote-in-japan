@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/oisixradaichi_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/097a94690f3a35bd28cd9c6b9312a39ba5f558f5
+update_url: https://github.com/remote-jp/remote-in-japan/pull/177
 date:       2020-11-21 09:38:36 +0900
 link:       https://www.oisixradaichi.co.jp/
 domain:     oisixradaichi.co.jp

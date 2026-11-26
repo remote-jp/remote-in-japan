@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/vivid-garden_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/6de161fccc93898795fef7e6ad70fd2be9f801a8
+update_url: https://github.com/remote-jp/remote-in-japan/pull/159
 date:       2020-10-12 18:46:25 +0900
 link:       https://vivid-garden.co.jp/
 domain:     vivid-garden.co.jp

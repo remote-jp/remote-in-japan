@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/beatbop_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/e0f0507d280ed5ff35cb8ad4bc13aec13baf8f95
+update_url: https://github.com/remote-jp/remote-in-japan/pull/357
 date:       2025-06-10 15:08:59 +0900
 link:       https://beatbop.jp/
 domain:     beatbop.jp

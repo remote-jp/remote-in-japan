@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/forcas_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/d22eb5ee330db61aac7f51e963803e8d7a17d4c2
+update_url: https://github.com/remote-jp/remote-in-japan/pull/175
 date:       2020-11-04 20:09:52 +0900
 link:       https://www.forcas.com/
 domain:     forcas.com

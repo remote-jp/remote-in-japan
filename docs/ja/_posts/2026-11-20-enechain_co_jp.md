@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/enechain_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/125d3365d18b1f69f450798841997b10fb544611
+update_url: https://github.com/remote-jp/remote-in-japan/pull/394
 date:       2026-11-20 16:17:42 +0900
 link:       https://enechain.co.jp/
 domain:     enechain.co.jp

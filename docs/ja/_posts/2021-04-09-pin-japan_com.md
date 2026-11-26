@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/pin-japan_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/3773cce1c23907cfb8db1051584cc2cf6a5f86e6
+update_url: https://github.com/remote-jp/remote-in-japan/pull/194
 date:       2021-04-09 10:09:04 +0900
 link:       https://www.pin-japan.com/
 domain:     pin-japan.com

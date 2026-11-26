@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/spacemarket_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/4f75a2f0509af89ef1a117b00e092ec5b59ea0c0
+update_url: https://github.com/remote-jp/remote-in-japan/pull/309
 date:       2025-01-08 19:43:41 +0900
 link:       https://spacemarket.co.jp/
 domain:     spacemarket.co.jp

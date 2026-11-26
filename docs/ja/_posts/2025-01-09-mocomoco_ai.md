@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/mocomoco_ai
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/e0c883582748a36c1f48f8580f96181be212df4c
+update_url: https://github.com/remote-jp/remote-in-japan/pull/311
 date:       2025-01-09 00:56:01 +0900
 link:       https://mocomoco.ai/
 domain:     mocomoco.ai

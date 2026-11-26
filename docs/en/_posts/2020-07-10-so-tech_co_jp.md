@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/so-tech_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/1b61a5ee8a52e4603f84873821cae9c2899ff89c
+update_url: https://github.com/remote-jp/remote-in-japan/pull/136
 date:       2020-07-10 11:47:09 +0900
 link:       https://www.so-tech.co.jp/
 domain:     so-tech.co.jp

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/sharefull_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/ded3f3ef2d93aa7304dba7080f5e519f08491462
+update_url: https://github.com/remote-jp/remote-in-japan/pull/131
 date:       2020-06-04 18:37:55 +0900
 link:       https://sharefull.com/about/
 domain:     sharefull.com

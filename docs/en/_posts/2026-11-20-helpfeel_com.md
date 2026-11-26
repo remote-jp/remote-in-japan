@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/helpfeel_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/201006f895fbca4c1710fa73ab0a68720ebd8144
+update_url: https://github.com/remote-jp/remote-in-japan/pull/395
 date:       2026-11-20 23:50:30 +0900
 link:       https://corp.helpfeel.com/ja/home
 domain:     helpfeel.com

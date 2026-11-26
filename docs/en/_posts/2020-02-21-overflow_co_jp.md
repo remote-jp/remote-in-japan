@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/overflow_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/cc80cf9c91902f5cb3856fbc44cf32fa43744cef
+update_url: https://github.com/remote-jp/remote-in-japan/pull/108
 date:       2020-02-21 20:09:50 +0900
 link:       https://overflow.co.jp/
 domain:     overflow.co.jp

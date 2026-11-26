@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/pubtex_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/eef47b9ebf8fa1ad63e2e008d78029bfb5e0df16
+update_url: https://github.com/remote-jp/remote-in-japan/pull/313
 date:       2025-01-09 14:16:12 +0900
 link:       https://www.pubtex.com/
 domain:     pubtex.com

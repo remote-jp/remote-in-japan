@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/source_paris
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/fb1c78426201315dca37105d49ebd40b2ac82ae4
+update_url: https://github.com/remote-jp/remote-in-japan/pull/76
 date:       2019-04-24 10:28:56 +0900
 link:       https://source.paris/ja/
 domain:     source.paris

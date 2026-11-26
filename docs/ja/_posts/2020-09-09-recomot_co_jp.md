@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/recomot_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/897aba039308536672948e1975fa58759f96e576
+update_url: https://github.com/remote-jp/remote-in-japan/pull/143
 date:       2020-09-09 09:41:42 +0900
 link:       https://recomot.co.jp
 domain:     recomot.co.jp

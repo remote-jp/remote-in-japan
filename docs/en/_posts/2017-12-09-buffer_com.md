@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/buffer_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/8ecfde301b483456b5f383e5f707f12abd4d6136
+update_url: https://github.com/remote-jp/remote-in-japan/pull/54
 date:       2017-12-09 16:57:46 +0900
 link:       https://buffer.com/
 domain:     buffer.com

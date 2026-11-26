@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/unext_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/8dd15c6541c5da207838c2c8922ad8f8be004737
+update_url: https://github.com/remote-jp/remote-in-japan/pull/316
 date:       2025-01-10 15:56:05 +0900
 link:       https://www.unext.co.jp/
 domain:     unext.co.jp

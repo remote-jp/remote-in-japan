@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/quartetcom_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/6139247c5b5513d58e883ec7cd8338818fdf39c6
+update_url: https://github.com/remote-jp/remote-in-japan/pull/67
 date:       2019-01-21 16:37:10 +0900
 link:       https://quartetcom.co.jp/
 domain:     quartetcom.co.jp

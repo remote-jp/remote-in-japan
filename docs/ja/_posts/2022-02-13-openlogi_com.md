@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/openlogi_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/06863471a9a7beedc2e8f982bfcd27c059b71cdc
+update_url: https://github.com/remote-jp/remote-in-japan/pull/238
 date:       2022-02-13 16:23:46 +0900
 link:       https://corp.openlogi.com
 domain:     openlogi.com

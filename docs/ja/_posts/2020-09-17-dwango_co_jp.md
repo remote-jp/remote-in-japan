@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/dwango_co_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/d114aadf380d2d91ee81f6cc78c13341df90df0d
+update_url: https://github.com/remote-jp/remote-in-japan/pull/148
 date:       2020-09-17 08:20:53 +0900
 link:       https://dwango.co.jp/
 domain:     dwango.co.jp

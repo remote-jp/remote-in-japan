@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/sider_review
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/ab8b2f6abdda2eb65a95794a0fc220f7e2815628
+update_url: https://github.com/remote-jp/remote-in-japan/pull/75
 date:       2019-04-23 16:25:20 +0900
 link:       https://sider.review/about
 domain:     sider.review

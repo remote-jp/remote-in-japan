@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/medmain_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/fd234b5a64df2da6c5f2352abacff15f55e6d397
+update_url: https://github.com/remote-jp/remote-in-japan/pull/127
 date:       2020-04-06 22:11:43 +0900
 link:       https://medmain.com/aboutus
 domain:     medmain.com

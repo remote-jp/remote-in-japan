@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/mercari_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/dd9512f429b520c5d8510f5f844695a160d166dd
+update_url: https://github.com/remote-jp/remote-in-japan/pull/142
 date:       2020-07-31 20:27:25 +0900
 link:       https://about.mercari.com/en/about/about-us/
 domain:     mercari.com

@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/pecopla_net
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/8e2f7ae99feea09bc2bb92c4b583686b8795014b
+update_url: https://github.com/remote-jp/remote-in-japan/pull/163
 date:       2020-10-15 18:51:53 +0900
 link:       https://pecopla.net/
 domain:     pecopla.net

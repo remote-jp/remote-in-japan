@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/bringout_biz
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/592e8ab87c44d06f31cf3724b8f40f76c12075bf
+update_url: https://github.com/remote-jp/remote-in-japan/pull/302
 date:       2024-12-15 11:52:22 +0900
 link:       https://www.bringout.biz/
 domain:     bringout.biz

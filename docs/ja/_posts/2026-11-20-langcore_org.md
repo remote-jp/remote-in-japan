@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/langcore_org
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/88a768c1e0da4510a68dee38cf9f992267313e5b
+update_url: https://github.com/remote-jp/remote-in-japan/pull/392
 date:       2026-11-20 11:43:16 +0900
 link:       https://corp.langcore.org/
 domain:     langcore.org

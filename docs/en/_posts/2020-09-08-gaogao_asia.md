@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/gaogao_asia
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/eb2b7e256fa66cde2b4cfe2453ceebfd3ef591e9
+update_url: https://github.com/remote-jp/remote-in-japan/pull/144
 date:       2020-09-08 21:58:21 +0900
 link:       https://en.gaogao.asia/
 domain:     gaogao.asia

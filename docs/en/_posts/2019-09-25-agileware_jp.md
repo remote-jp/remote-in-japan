@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/agileware_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/3253ffc395978db9bbea3254a2f96c403b1f54c2
+update_url: https://github.com/remote-jp/remote-in-japan/pull/84
 date:       2019-09-25 16:18:17 +0900
 link:       https://agileware.jp/
 domain:     agileware.jp

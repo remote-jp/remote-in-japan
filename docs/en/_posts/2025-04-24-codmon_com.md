@@ -2,7 +2,7 @@
 layout: post
 lang: en
 permalink: /en/codmon_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/a677552cf5e7e98fd844332a4beb757f873a6dda
+update_url: https://github.com/remote-jp/remote-in-japan/pull/353
 date:       2025-04-24 09:48:47 +0900
 link:       https://www.codmon.com/
 domain:     codmon.com

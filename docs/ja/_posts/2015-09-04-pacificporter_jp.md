@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/pacificporter_jp
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/16247f2598ef1959b193705b0a3f7c358f13922e
+update_url: https://github.com/remote-jp/remote-in-japan/pull/2
 date:       2015-09-04 15:08:56 +0900
 link:       https://pacificporter.jp/
 domain:     pacificporter.jp

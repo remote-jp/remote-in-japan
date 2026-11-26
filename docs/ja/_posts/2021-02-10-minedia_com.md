@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 permalink: /ja/minedia_com
-commit_url: https://github.com/remote-jp/remote-in-japan/commit/eb389b65cb336b568c5121370aa0437b119e8978
+update_url: https://github.com/remote-jp/remote-in-japan/pull/184
 date:       2021-02-10 13:49:16 +0900
 link:       https://corporate.minedia.com/
 domain:     minedia.com
