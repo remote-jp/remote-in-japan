@@ -24,6 +24,21 @@ readme = IO.readlines(readme_path)
 Dir.glob("./#{lang}/_posts/*.md").each { |filename| File.delete(filename) }
 
 git = Git.open(`git rev-parse --show-toplevel`.chomp!)
+
+# Map each commit to the pull request that brought it into the current branch,
+# so that the updated date can link to the pull request (with its description
+# and review) instead of a diff of a long table row.
+#   - Merge commit: commits in `M^1..M^2` of "Merge pull request #N"
+#   - Squash merge: commit subject ending with "(#N)"
+# Commits found by neither (e.g. rebase merges) fall back to the commit URL.
+pull_numbers = {}
+`git log --first-parent --merges --format='%H %s' HEAD`.each_line do |line|
+  merge_id, subject = line.split(' ', 2)
+  number = subject[/\AMerge pull request #(\d+)/, 1] or next
+  `git rev-list #{merge_id}^1..#{merge_id}^2`.split.each { |id| pull_numbers[id] = number }
+end
+repository_url = 'https://github.com/remote-jp/remote-in-japan'
+
 start_parsing_flag = false
 readme.each.with_index(1) do |line, index|
   # Operate start-of and end-of parsing table of lines in README.
@@ -41,7 +56,8 @@ readme.each.with_index(1) do |line, index|
   latest_commit_id  = `git blame #{readme_path} -L #{index},+1 --porcelain --ignore-revs-file=docs/ignore_revs.txt`.strip.lines[0].split.first
   latest_commit_at  = git.gcommit(latest_commit_id).author_date.strftime('%Y-%m-%d %H:%M:%S %z')
   latest_commit_day = git.gcommit(latest_commit_id).author_date.strftime('%Y-%m-%d')
-  latest_commit_url = 'https://github.com/remote-jp/remote-in-japan/commit/' + latest_commit_id
+  pull_number       = pull_numbers[latest_commit_id] || git.gcommit(latest_commit_id).message.lines.first.strip[/\(#(\d+)\)\z/, 1]
+  update_url        = pull_number ? "#{repository_url}/pull/#{pull_number}" : "#{repository_url}/commit/#{latest_commit_id}"
 
   # Fetch company name and its link from 1st cell
   name_and_link = Kramdown::Document.new(cells[1]).root.children[0].children[0]
@@ -85,7 +101,7 @@ readme.each.with_index(1) do |line, index|
     layout: post
     lang: #{lang}
     permalink: /#{lang}/#{id}
-    commit_url: #{latest_commit_url}
+    update_url: #{update_url}
     date:       #{latest_commit_at}
     link:       #{link}
     domain:     #{domain}
